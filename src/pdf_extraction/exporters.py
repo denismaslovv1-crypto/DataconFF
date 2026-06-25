@@ -6,6 +6,7 @@ from pathlib import Path
 from typing import Iterable
 
 from pdf_extraction.models import ParsedPdfDocument, RawChemicalRecord
+from pdf_extraction.structure_quality import is_generic_structure
 
 
 RECORD_COLUMNS = [
@@ -26,6 +27,8 @@ RECORD_COLUMNS = [
     "crop_image_path",
     "bbox_points",
     "bbox_pixels",
+    "is_generic_structure",
+    "generic_structure_reason",
     "structure_resolution_status",
     "needs_structure_image_mapping",
     "molecule_name",
@@ -123,6 +126,8 @@ def _record_row(record: RawChemicalRecord) -> dict[str, object]:
         "crop_image_path": record.crop_image_path,
         "bbox_points": _bbox_value(record.bbox_points),
         "bbox_pixels": _bbox_value(record.bbox_pixels),
+        "is_generic_structure": record.is_generic_structure,
+        "generic_structure_reason": record.generic_structure_reason,
         "structure_resolution_status": "resolved" if _has_structure_identifier(record) else "unresolved_label",
         "needs_structure_image_mapping": bool(record.compound_label and not _has_structure_identifier(record)),
         "molecule_name": record.molecule_name,
@@ -143,6 +148,8 @@ def _record_row(record: RawChemicalRecord) -> dict[str, object]:
 
 
 def _has_structure_identifier(record: RawChemicalRecord) -> bool:
+    if record.is_generic_structure or is_generic_structure(record.SMILES or record.canonical_SMILES, None):
+        return False
     return any(
         [
             record.formula,

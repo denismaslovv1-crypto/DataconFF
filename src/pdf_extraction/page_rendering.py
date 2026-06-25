@@ -73,6 +73,9 @@ def render_pdf_pages(
     except ImportError as exc:
         raise RuntimeError("PyMuPDF is required: pip install pymupdf") from exc
 
+    if hasattr(fitz, "TOOLS"):
+        fitz.TOOLS.mupdf_display_errors(False)
+
     output_dir.mkdir(parents=True, exist_ok=True)
     rendered: list[PageRenderInfo] = []
     requested_pages = set(pages or [])
@@ -113,6 +116,9 @@ def crop_pdf_region(
         import fitz
     except ImportError as exc:
         raise RuntimeError("PyMuPDF is required: pip install pymupdf") from exc
+
+    if hasattr(fitz, "TOOLS"):
+        fitz.TOOLS.mupdf_display_errors(False)
 
     if page_number < 1:
         raise ValueError("page_number is 1-based and must be >= 1")

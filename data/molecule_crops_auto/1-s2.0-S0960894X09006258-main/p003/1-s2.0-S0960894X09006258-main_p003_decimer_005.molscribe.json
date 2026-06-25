@@ -1,0 +1,110 @@
+{
+  "smiles": "<invalid>",
+  "canonical_SMILES": null,
+  "isomeric_SMILES": null,
+  "smiles_valid": false,
+  "molfile": "",
+  "confidence": 0.350740069149403,
+  "atoms": [
+    {
+      "atom_symbol": "c",
+      "x": 1.0,
+      "y": 0.0,
+      "confidence": 0.7116159200668335
+    },
+    {
+      "atom_symbol": "c",
+      "x": 0.6692913385826772,
+      "y": 0.25196850393700787,
+      "confidence": 0.825217068195343
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.6692913385826772,
+      "y": 0.7480314960629921,
+      "confidence": 0.4863285720348358
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.33070866141732286,
+      "y": 1.0,
+      "confidence": 0.8792843222618103
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.0,
+      "y": 0.7480314960629921,
+      "confidence": 0.9034543633460999
+    },
+    {
+      "atom_symbol": "N",
+      "x": 0.0,
+      "y": 0.25196850393700787,
+      "confidence": 0.9124603271484375
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.33070866141732286,
+      "y": 0.0,
+      "confidence": 0.9000272750854492
+    }
+  ],
+  "bonds": [
+    {
+      "bond_type": "aromatic",
+      "endpoint_atoms": [
+        0,
+        1
+      ],
+      "confidence": 0.9998833239078522
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        1,
+        2
+      ],
+      "confidence": 0.9995977580547333
+    },
+    {
+      "bond_type": "double",
+      "endpoint_atoms": [
+        1,
+        6
+      ],
+      "confidence": 0.4091186225414276
+    },
+    {
+      "bond_type": "double",
+      "endpoint_atoms": [
+        2,
+        3
+      ],
+      "confidence": 0.9999998211860657
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        3,
+        4
+      ],
+      "confidence": 0.9999992251396179
+    },
+    {
+      "bond_type": "double",
+      "endpoint_atoms": [
+        4,
+        5
+      ],
+      "confidence": 0.9999969005584717
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        5,
+        6
+      ],
+      "confidence": 0.9999996423721313
+    }
+  ]
+}

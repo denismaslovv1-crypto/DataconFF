@@ -28,6 +28,9 @@ PDF input
   -> page-level text extraction
   -> table extraction
   -> image/figure extraction
+  -> structure depiction segmentation
+  -> structure recognition
+  -> figure text/OCR property extraction
   -> OCR fallback when needed
   -> raw chemical record extraction
   -> normalization
@@ -70,9 +73,24 @@ Start local and modular:
 - Text extraction: PyMuPDF or pdfplumber.
 - Table extraction: pdfplumber first; Camelot later when lattice/stream modes are needed.
 - Image extraction: PyMuPDF.
+- Chemical structure segmentation: DECIMER Segmentation as an optional external environment.
+- Structure recognition: MolScribe as an optional external environment.
 - OCR fallback: Tesseract/PaddleOCR as optional module.
 - Article structure: Docling/GROBID as optional advanced module.
 - Chemistry validation: RDKit later, behind a validator interface.
+
+## Generic Structure Rule
+
+Structure depictions containing `R`, `R1`, `R2`, `Ar`, or similar variable substituent labels are scaffolds, not complete molecules. If recognition produces wildcard SMILES with `*`, keep the record but mark it as generic:
+
+```text
+is_generic_structure=True
+validation_status=generic_structure_unresolved
+```
+
+Generic structures must not resolve compound labels. They become candidates for later scaffold/substituent reconstruction only after substituent definitions are extracted from source tables, captions, or surrounding text.
+
+Text printed inside or near figures, such as IC50 values or binding assay results, must be extracted as figure-property records with provenance. It should not be merged into the structure-recognition result.
 
 ## Non-goals For MVP
 
@@ -80,4 +98,3 @@ Start local and modular:
 - No complex multi-agent orchestration.
 - No one-off parser hardcoded for a single PDF.
 - No silent dropping of source references.
-

@@ -166,6 +166,35 @@ External tools:
 - RxnScribe: reaction diagram -> reactants, conditions, products. The repository is not vendored here; only the optional command interface is kept.
 - YOLO/DocLayout-YOLO: figure/molecule crop detection before recognition.
 
+### Structure recognition quality rules
+
+MolScribe can return wildcard SMILES for generic scaffolds with `R`, `R1`, `R2`, `Ar`, or other variable substituent labels. Examples include:
+
+```text
+*C(=O)C(C)C(=O)COC(C)=O
+*C.*C.*C.CC=C(c1cccnc1)N(N=CCNC1CCCC1)c1ccccn1
+```
+
+These are not final molecule structures. They are retained as scaffold/template records, but the parser marks them as:
+
+```text
+is_generic_structure=True
+generic_structure_reason=wildcard_atom_in_smiles
+validation_status=generic_structure_unresolved
+```
+
+Generic scaffold records must not resolve a compound label and must not be treated as final dataset molecules. They can only be converted into final molecules after separate evidence links substituent definitions from tables or text, for example `R1 = ...`, `R2 = ...`, or `Ar = ...`.
+
+Figure text such as binding values is a separate extraction target, not part of structure recognition. Text near a structure should become property records, for example:
+
+```text
+ORL1 binding IC50 = 350 nM
+GTPγS antagonism IC50 = 480 nM
+hERG binding IC50 = 23 nM
+```
+
+The future agent/LLM layer may compare scaffold, substituent tables, figure text, and candidate SMILES, but it must not invent missing substituents without source evidence.
+
 ### Manual PyMuPDF molecule crop workflow
 
 Before adding YOLO, use a manual crop loop to verify that MolScribe works on molecule fragments from real PDFs:
@@ -226,6 +255,18 @@ Then run the automatic parser:
 
 ```powershell
 .\parse_pdf_auto.cmd "data\pdf_raw\article.pdf" 1-3
+```
+
+To process every PDF in `data/pdf_raw` and rebuild the shared CSV files:
+
+```powershell
+.\parse_pdf_auto_all.cmd
+```
+
+To limit all PDFs to selected pages while testing:
+
+```powershell
+.\parse_pdf_auto_all.cmd data\pdf_raw 1-3
 ```
 
 This runs:

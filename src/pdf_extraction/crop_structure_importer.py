@@ -14,6 +14,7 @@ from pdf_extraction.models import (
     SourceProvenance,
     stable_pdf_stem,
 )
+from pdf_extraction.structure_quality import generic_structure_reason
 from pdf_extraction.structure_mapper import apply_structure_mappings, structures_to_records
 
 
@@ -44,6 +45,10 @@ def import_molscribe_crop(
     resolved_figure_id = figure_id or _infer_figure_id(crop_id)
     bbox_points = _bbox_from_mapping(sidecar.get("bbox_points"))
     bbox_pixels = _bbox_from_mapping(sidecar.get("bbox_pixels"))
+    smiles = molscribe.get("smiles")
+    canonical_smiles = molscribe.get("canonical_SMILES") or molscribe.get("canonical_smiles")
+    molfile = molscribe.get("molfile")
+    generic_reason = generic_structure_reason(smiles or canonical_smiles, molfile)
 
     image = ExtractedImageAsset(
         image_id=crop_id,
@@ -66,12 +71,14 @@ def import_molscribe_crop(
         image_id=crop_id,
         compound_label=compound_label,
         bbox=bbox_points,
-        smiles_raw=molscribe.get("smiles"),
-        canonical_SMILES=molscribe.get("canonical_SMILES") or molscribe.get("canonical_smiles"),
+        smiles_raw=smiles,
+        canonical_SMILES=canonical_smiles,
         isomeric_SMILES=molscribe.get("isomeric_SMILES") or molscribe.get("isomeric_smiles"),
-        molfile=molscribe.get("molfile"),
+        molfile=molfile,
         raw_output=json.dumps(molscribe, ensure_ascii=False),
         recognizer="molscribe",
+        is_generic_structure=generic_reason is not None,
+        generic_structure_reason=generic_reason,
         source=SourceProvenance(
             source_file=source_file,
             page=sidecar.get("page"),

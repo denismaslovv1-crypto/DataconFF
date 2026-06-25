@@ -7,6 +7,7 @@ from pydantic import BaseModel, Field
 
 from pdf_extraction.command_tools import CommandToolConfig, maybe_parse_json, render_command, run_command
 from pdf_extraction.models import BoundingBox, ExtractedImageAsset, RecognizedStructure, SourceProvenance
+from pdf_extraction.structure_quality import generic_structure_reason
 from pdf_extraction.structure_recognizer import StructureRecognitionConfig
 
 
@@ -152,6 +153,7 @@ class ExternalStructureRecognizer:
         confidence: float = 0.5,
         raw_output: str | None = None,
     ) -> RecognizedStructure:
+        reason = generic_structure_reason(smiles_raw or canonical_SMILES, molfile)
         return RecognizedStructure(
             structure_id=f"{image.image_id}_{tool_name}_{index}",
             image_id=image.image_id,
@@ -164,6 +166,8 @@ class ExternalStructureRecognizer:
             reaction_smiles=reaction_smiles,
             raw_output=raw_output,
             recognizer=tool_name,
+            is_generic_structure=reason is not None,
+            generic_structure_reason=reason,
             source=SourceProvenance(
                 source_file=image.source.source_file,
                 page=image.source.page,

@@ -1,0 +1,1390 @@
+{
+  "smiles": "C[CH]C(C)C(O)[CH]1(C)[CH]C([CH]2(C)C(C)[CH]3(C)[CH]45(C)[CH]67(C)[CH]489(C(C)C)C4%10(C)(C)[CH]%11%12(C)[CH]%13(C)[CH]%14%15(C)C%11%16%17(C)(O)C(C)(O)C35%12648(O)[CH]%1034(C)[CH]%13%165(C)[CH]%14368%10%11C[CH]2%1575463(C%17(C)C)([CH]82C(C)C(OO)C(C)C(C)[CH]2(C)[CH]%1032C(C)C(C)C(C)C(OO)C2C)C9%11(C)(C)C(C)OC)C1",
+  "canonical_SMILES": null,
+  "isomeric_SMILES": null,
+  "smiles_valid": false,
+  "molfile": "\n     RDKit          2D\n\n 83110  0  0  0  0  0  0  0  0999 V2000\n   -5.3023   -1.7331    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.2416   -0.6724    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.7927   -1.0607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.5840   -2.5461    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.1843    0.3756    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.0823   -1.4585    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.4821    1.2990    0.0000 C   0  0  0  0  0  7  0  0  0  0  0  0\n   -1.0332    0.9108    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.2607    2.1966    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.0100   -0.1861    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.4821    2.7990    0.0000 C   0  0  0  0  0  9  0  0  0  0  0  0\n   -1.9804    2.1795    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.4596    2.5020    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.4524    3.6135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.0160    1.8397    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.2944    3.7482    0.0000 C   0  0  0  0  0  7  0  0  0  0  0  0\n   -2.4936    5.2349    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.8077    3.9474    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    0.8660    0.0000    0.0000 C   0  0  0  0  0  6  0  0  0  0  0  0\n    1.9267    1.0607    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.4330    0.7500    0.0000 C   0  0  0  0  0 12  0  0  0  0  0  0\n   -1.7321    0.0000    0.0000 C   0  0  0  0  0  6  0  0  0  0  0  0\n   -2.4821    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.3163    2.2429    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.9821    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.7321    2.5981    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.7321    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -6.2321   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.9821   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.7321   -2.5981    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.3187   -4.0400    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.4821   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.8960   -2.6798    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.0913    2.2106    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.3692    1.8689    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.5936    3.5450    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.7811    3.5490    0.0000 C   0  0  0  0  0  7  0  0  0  0  0  0\n   -5.0801    4.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.7811    2.0490    0.0000 C   0  0  0  0  0  6  0  0  0  0  0  0\n   -3.9639    0.5602    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.9790    1.1463    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.7811    3.5490    0.0000 C   0  0  0  0  0  6  0  0  0  0  0  0\n   -3.3929    4.9979    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.5819    2.0623    0.0000 C   0  0  0  0  0  5  0  0  0  0  0  0\n   -8.1854    0.3754    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.2954    3.7555    0.0000 C   0  0  0  0  0  7  0  0  0  0  0  0\n   -1.6555    8.5886    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.4330   -0.7500    0.0000 C   0  0  0  0  0  9  0  0  0  0  0  0\n    0.8660    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.8660    0.0000    0.0000 C   0  0  0  0  0  5  0  0  0  0  0  0\n    2.3149   -0.3882    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.3756    0.6724    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.7031   -1.8371    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.1520   -2.2253    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    4.5403   -3.6742    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    1.6425   -2.8978    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.0307   -4.3467    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.1936   -2.5095    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.8671   -3.5702    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.1946   -1.0607    0.0000 C   0  0  0  0  0  5  0  0  0  0  0  0\n   -1.1385   -2.2265    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.1830    2.0490    0.0000 C   0  0  0  0  0  6  0  0  0  0  0  0\n   -0.1224    3.1097    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.7811    2.0490    0.0000 C   0  0  0  0  0  6  0  0  0  0  0  0\n   -5.1619    1.4630    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.4821    1.2990    0.0000 C   0  0  0  0  0  5  0  0  0  0  0  0\n   -1.4400    0.2201    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.9426    0.0776    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.3771   -0.3608    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.4937   -0.3107    0.0000 C   0  0  0  0  0  5  0  0  0  0  0  0\n   -0.8128   -1.6472    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.1276   -1.6701    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.5371   -2.1832    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.6146   -3.0797    0.0000 C   0  0  0  0  0  3  0  0  0  0  0  0\n   -3.0241   -3.5927    0.0000 C   0  0  0  0  0  5  0  0  0  0  0  0\n   -2.5111   -5.0022    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.4336   -4.1057    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.5827   -3.1415    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.6941   -5.5829    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -6.1037   -6.0960    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.5451   -6.5471    0.0000 C   0  0  0  0  0  3  0  0  0  0  0  0\n   -3.8055   -8.0243    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  6\n  2  3  1  6\n  3  4  1  1\n  3  5  1  1\n  5  6  1  6\n  5  7  1  6\n  5  8  1  6\n  5 22  1  6\n  5 49  1  6\n  8  9  1  1\n  8 12  1  6\n  8 40  1  6\n  8 63  1  1\n  8 65  1  6\n  9 10  1  1\n  9 11  1  1\n 12 13  1  1\n 12 14  1  1\n 12 38  1  1\n 12 40  1  1\n 12 43  1  1\n 12 63  1  1\n 12 65  1  1\n 12 67  1  1\n 14 15  1  6\n 14 16  1  1\n 14 17  1  6\n 17 18  1  1\n 17 19  1  1\n 17 20  1  6\n 17 35  1  1\n 17 43  1  6\n 17 47  1  6\n 20 21  1  1\n 20 22  1  6\n 20 45  1  1\n 20 49  1  1\n 22 23  1  1\n 22 35  1  1\n 22 38  1  1\n 22 47  1  1\n 22 49  1  1\n 22 50  1  1\n 22 51  1  1\n 22 63  1  1\n 22 71  1  1\n 23 24  1  6\n 23 33  1  6\n 23 49  1  6\n 23 61  1  6\n 24 25  1  1\n 24 26  1  6\n 26 27  1  1\n 26 28  1  6\n 28 29  1  1\n 28 30  1  1\n 30 31  1  1\n 30 33  1  1\n 31 32  1  6\n 33 34  1  1\n 35 36  1  1\n 35 37  1  1\n 38 39  1  1\n 38 40  1  6\n 38 47  1  6\n 38 49  1  6\n 40 41  1  1\n 40 42  1  1\n 40 43  1  1\n 43 44  1  6\n 43 45  1  1\n 45 46  1  1\n 45 47  1  6\n 47 48  1  1\n 47 49  1  6\n 49 50  1  1\n 49 51  1  1\n 51 52  1  6\n 51 61  1  6\n 52 53  1  1\n 52 54  1  6\n 54 55  1  1\n 54 57  1  6\n 55 56  1  6\n 57 58  1  1\n 57 59  1  1\n 59 60  1  1\n 59 61  1  6\n 61 62  1  1\n 63 64  1  1\n 63 65  1  6\n 65 66  1  1\n 65 67  1  1\n 67 68  1  6\n 67 69  1  1\n 69 70  1  1\n 69 71  1  6\n 71 72  1  1\n 71 73  1  1\n 73 74  1  1\n 73 75  1  1\n 74 76  1  6\n 75 76  1  6\n 76 77  1  1\n 76 78  1  6\n 78 79  1  1\n 78 80  1  6\n 80 81  1  1\n 80 82  1  1\n 82 83  1  1\nM  END\n",
+  "confidence": 1.3070773034504086e-23,
+  "atoms": [
+    {
+      "atom_symbol": "C",
+      "x": 0.6299212598425197,
+      "y": 1.0,
+      "confidence": 0.7790278792381287
+    },
+    {
+      "atom_symbol": "O",
+      "x": 0.6771653543307087,
+      "y": 0.8818897637795275,
+      "confidence": 0.8105791807174683
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.5511811023622047,
+      "y": 0.6929133858267716,
+      "confidence": 0.5512568354606628
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.4330708661417323,
+      "y": 0.7401574803149606,
+      "confidence": 0.8102172017097473
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.6141732283464567,
+      "y": 0.5905511811023622,
+      "confidence": 0.6122990250587463
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.5511811023622047,
+      "y": 0.6929133858267716,
+      "confidence": 0.641424298286438
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.5669291338582677,
+      "y": 0.5748031496062992,
+      "confidence": 0.7343428134918213
+    },
+    {
+      "atom_symbol": "[C@@H]",
+      "x": 0.7952755905511811,
+      "y": 0.5433070866141733,
+      "confidence": 0.6703461354837625
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.8818897637795275,
+      "y": 0.7007874015748031,
+      "confidence": 0.61285400390625
+    },
+    {
+      "atom_symbol": "C",
+      "x": 1.0,
+      "y": 0.6771653543307087,
+      "confidence": 0.8335135579109192
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.8740157480314961,
+      "y": 0.8503937007874016,
+      "confidence": 0.6081984639167786
+    },
+    {
+      "atom_symbol": "[C@@]",
+      "x": 0.8110236220472441,
+      "y": 0.33858267716535434,
+      "confidence": 0.7533282859536259
+    },
+    {
+      "atom_symbol": "O",
+      "x": 0.905511811023622,
+      "y": 0.33858267716535434,
+      "confidence": 0.8176040649414062
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.8346456692913385,
+      "y": 0.14960629921259844,
+      "confidence": 0.5081928968429565
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.8346456692913385,
+      "y": 0.023622047244094488,
+      "confidence": 0.8422892689704895
+    },
+    {
+      "atom_symbol": "O",
+      "x": 0.9606299212598425,
+      "y": 0.15748031496062992,
+      "confidence": 0.7163833379745483
+    },
+    {
+      "atom_symbol": "[C@@]",
+      "x": 0.6850393700787402,
+      "y": 0.14960629921259844,
+      "confidence": 0.6599304558315336
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.7165354330708661,
+      "y": 0.2755905511811024,
+      "confidence": 0.7376999855041504
+    },
+    {
+      "atom_symbol": "O",
+      "x": 0.6771653543307087,
+      "y": 0.0,
+      "confidence": 0.7708604335784912
+    },
+    {
+      "atom_symbol": "[C@@H]",
+      "x": 0.5354330708661418,
+      "y": 0.2047244094488189,
+      "confidence": 0.7751788084891004
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.49606299212598426,
+      "y": 0.07874015748031496,
+      "confidence": 0.9023363590240479
+    },
+    {
+      "atom_symbol": "[C@@H]",
+      "x": 0.5275590551181102,
+      "y": 0.3858267716535433,
+      "confidence": 0.7486824458381809
+    },
+    {
+      "atom_symbol": "[C@@H]",
+      "x": 0.3700787401574803,
+      "y": 0.4094488188976378,
+      "confidence": 0.7060010633379408
+    },
+    {
+      "atom_symbol": "[C@H]",
+      "x": 0.2992125984251969,
+      "y": 0.2440944881889764,
+      "confidence": 0.7553712944142754
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.36220472440944884,
+      "y": 0.11811023622047244,
+      "confidence": 0.5550215244293213
+    },
+    {
+      "atom_symbol": "[C@H]",
+      "x": 0.1732283464566929,
+      "y": 0.25984251968503935,
+      "confidence": 0.7803052056609554
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.13385826771653545,
+      "y": 0.14960629921259844,
+      "confidence": 0.9011302590370178
+    },
+    {
+      "atom_symbol": "[C@@H]",
+      "x": 0.10236220472440945,
+      "y": 0.4330708661417323,
+      "confidence": 0.7944313764444718
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.015748031496062992,
+      "y": 0.4330708661417323,
+      "confidence": 0.8955376148223877
+    },
+    {
+      "atom_symbol": "[C@H]",
+      "x": 0.15748031496062992,
+      "y": 0.5984251968503937,
+      "confidence": 0.793900916376471
+    },
+    {
+      "atom_symbol": "O",
+      "x": 0.07874015748031496,
+      "y": 0.7716535433070866,
+      "confidence": 0.6990102529525757
+    },
+    {
+      "atom_symbol": "O",
+      "x": 0.0,
+      "y": 0.7559055118110236,
+      "confidence": 0.6919726729393005
+    },
+    {
+      "atom_symbol": "[C@H]",
+      "x": 0.29133858267716534,
+      "y": 0.5905511811023622,
+      "confidence": 0.7880947536315961
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.33070866141732286,
+      "y": 0.7165354330708661,
+      "confidence": 0.7624421119689941
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.5275590551181102,
+      "y": 0.2125984251968504,
+      "confidence": 0.5173574686050415
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.4409448818897638,
+      "y": 0.23622047244094488,
+      "confidence": 0.8913291692733765
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.49606299212598426,
+      "y": 0.07874015748031496,
+      "confidence": 0.5103225111961365
+    },
+    {
+      "atom_symbol": "[C@@H]",
+      "x": 0.6535433070866141,
+      "y": 0.31496062992125984,
+      "confidence": 0.7444880843755586
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.6535433070866141,
+      "y": 0.4015748031496063,
+      "confidence": 0.5089385509490967
+    },
+    {
+      "atom_symbol": "[C@@]",
+      "x": 0.8110236220472441,
+      "y": 0.33858267716535434,
+      "confidence": 0.6937072341948973
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.905511811023622,
+      "y": 0.33858267716535434,
+      "confidence": 0.5182752013206482
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.8346456692913385,
+      "y": 0.14960629921259844,
+      "confidence": 0.5691136717796326
+    },
+    {
+      "atom_symbol": "[C@H]",
+      "x": 0.8346456692913385,
+      "y": 0.14960629921259844,
+      "confidence": 0.7863347797576455
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.8346456692913385,
+      "y": 0.023622047244094488,
+      "confidence": 0.7417064309120178
+    },
+    {
+      "atom_symbol": "[C@@H]",
+      "x": 0.6850393700787402,
+      "y": 0.14960629921259844,
+      "confidence": 0.7603348171964008
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.7165354330708661,
+      "y": 0.2755905511811024,
+      "confidence": 0.7115383148193359
+    },
+    {
+      "atom_symbol": "[C@H]",
+      "x": 0.5354330708661418,
+      "y": 0.2047244094488189,
+      "confidence": 0.7375459685376867
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.4409448818897638,
+      "y": 0.23622047244094488,
+      "confidence": 0.9061073064804077
+    },
+    {
+      "atom_symbol": "[C@H]",
+      "x": 0.5275590551181102,
+      "y": 0.3858267716535433,
+      "confidence": 0.7936437829061308
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.3700787401574803,
+      "y": 0.4094488188976378,
+      "confidence": 0.6776903867721558
+    },
+    {
+      "atom_symbol": "[C@H]",
+      "x": 0.3700787401574803,
+      "y": 0.4094488188976378,
+      "confidence": 0.7703230957220327
+    },
+    {
+      "atom_symbol": "[C@H]",
+      "x": 0.2992125984251969,
+      "y": 0.5905511811023622,
+      "confidence": 0.7451282323094631
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.33070866141732286,
+      "y": 0.7165354330708661,
+      "confidence": 0.8242391347885132
+    },
+    {
+      "atom_symbol": "[C@H]",
+      "x": 0.14960629921259844,
+      "y": 0.5984251968503937,
+      "confidence": 0.8005953350858641
+    },
+    {
+      "atom_symbol": "O",
+      "x": 0.07874015748031496,
+      "y": 0.7716535433070866,
+      "confidence": 0.504973828792572
+    },
+    {
+      "atom_symbol": "O",
+      "x": 0.0,
+      "y": 0.7559055118110236,
+      "confidence": 0.6189974546432495
+    },
+    {
+      "atom_symbol": "[C@H]",
+      "x": 0.10236220472440945,
+      "y": 0.4330708661417323,
+      "confidence": 0.7932993814955603
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.015748031496062992,
+      "y": 0.4330708661417323,
+      "confidence": 0.9045089483261108
+    },
+    {
+      "atom_symbol": "[C@H]",
+      "x": 0.1732283464566929,
+      "y": 0.25984251968503935,
+      "confidence": 0.7946986245246419
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.13385826771653545,
+      "y": 0.14960629921259844,
+      "confidence": 0.9108838438987732
+    },
+    {
+      "atom_symbol": "[C@H]",
+      "x": 0.30708661417322836,
+      "y": 0.2440944881889764,
+      "confidence": 0.8363856036731193
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.36220472440944884,
+      "y": 0.11811023622047244,
+      "confidence": 0.5202791690826416
+    },
+    {
+      "atom_symbol": "[C@H]",
+      "x": 0.6535433070866141,
+      "y": 0.31496062992125984,
+      "confidence": 0.8037191023605075
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.6535433070866141,
+      "y": 0.4015748031496063,
+      "confidence": 0.5363097190856934
+    },
+    {
+      "atom_symbol": "[C@@H]",
+      "x": 0.8110236220472441,
+      "y": 0.33858267716535434,
+      "confidence": 0.728142196568916
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.905511811023622,
+      "y": 0.33858267716535434,
+      "confidence": 0.4886365532875061
+    },
+    {
+      "atom_symbol": "[C@H]",
+      "x": 0.8346456692913385,
+      "y": 0.14960629921259844,
+      "confidence": 0.7957038720748206
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.8346456692913385,
+      "y": 0.023622047244094488,
+      "confidence": 0.6308048963546753
+    },
+    {
+      "atom_symbol": "[C@H]",
+      "x": 0.6850393700787402,
+      "y": 0.14960629921259844,
+      "confidence": 0.7837060161357006
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.7165354330708661,
+      "y": 0.2755905511811024,
+      "confidence": 0.5957742929458618
+    },
+    {
+      "atom_symbol": "[C@H]",
+      "x": 0.5354330708661418,
+      "y": 0.2047244094488189,
+      "confidence": 0.7424939999145033
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.49606299212598426,
+      "y": 0.07874015748031496,
+      "confidence": 0.928638219833374
+    },
+    {
+      "atom_symbol": "[C@H]",
+      "x": 0.5275590551181102,
+      "y": 0.3858267716535433,
+      "confidence": 0.8160188700504085
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.3700787401574803,
+      "y": 0.4094488188976378,
+      "confidence": 0.6805873513221741
+    },
+    {
+      "atom_symbol": "[C@H]",
+      "x": 0.3779527559055118,
+      "y": 0.4094488188976378,
+      "confidence": 0.8314006301099967
+    },
+    {
+      "atom_symbol": "[C@H]",
+      "x": 0.2992125984251969,
+      "y": 0.5905511811023622,
+      "confidence": 0.7395928357732866
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.33070866141732286,
+      "y": 0.7165354330708661,
+      "confidence": 0.8602882623672485
+    },
+    {
+      "atom_symbol": "[C@H]",
+      "x": 0.15748031496062992,
+      "y": 0.5984251968503937,
+      "confidence": 0.8358842507704392
+    },
+    {
+      "atom_symbol": "O",
+      "x": 0.07874015748031496,
+      "y": 0.7716535433070866,
+      "confidence": 0.5815702676773071
+    },
+    {
+      "atom_symbol": "[C@H]",
+      "x": 0.10236220472440945,
+      "y": 0.4330708661417323,
+      "confidence": 0.8304576571649097
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.015748031496062992,
+      "y": 0.4330708661417323,
+      "confidence": 0.9312083721160889
+    },
+    {
+      "atom_symbol": "[C@H]",
+      "x": 0.1732283464566929,
+      "y": 0.25984251968503935,
+      "confidence": 0.8208478016480065
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.13385826771653545,
+      "y": 0.14960629921259844,
+      "confidence": 0.9394608736038208
+    }
+  ],
+  "bonds": [
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        0,
+        1
+      ],
+      "confidence": 0.5172439068555832
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        1,
+        2
+      ],
+      "confidence": 0.7291504144668579
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        2,
+        3
+      ],
+      "confidence": 0.8777641355991364
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        2,
+        4
+      ],
+      "confidence": 0.6758184432983398
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        4,
+        5
+      ],
+      "confidence": 0.7202484011650085
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        4,
+        6
+      ],
+      "confidence": 0.45096898078918457
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        4,
+        7
+      ],
+      "confidence": 0.853667825460434
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        4,
+        21
+      ],
+      "confidence": 0.9106125831604004
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        4,
+        48
+      ],
+      "confidence": 0.9509617388248444
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        7,
+        8
+      ],
+      "confidence": 0.5766351521015167
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        7,
+        11
+      ],
+      "confidence": 0.7233534157276154
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        7,
+        39
+      ],
+      "confidence": 0.611431747674942
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        7,
+        62
+      ],
+      "confidence": 0.4001043736934662
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        7,
+        64
+      ],
+      "confidence": 0.6182630956172943
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        8,
+        9
+      ],
+      "confidence": 0.9562163650989532
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        8,
+        10
+      ],
+      "confidence": 0.8772841989994049
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        11,
+        12
+      ],
+      "confidence": 0.7771598100662231
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        11,
+        13
+      ],
+      "confidence": 0.7523843944072723
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        11,
+        37
+      ],
+      "confidence": 0.7241216003894806
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        11,
+        39
+      ],
+      "confidence": 0.388903483748436
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        11,
+        42
+      ],
+      "confidence": 0.6656878292560577
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        11,
+        62
+      ],
+      "confidence": 0.7457751929759979
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        11,
+        64
+      ],
+      "confidence": 0.4809679090976715
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        11,
+        66
+      ],
+      "confidence": 0.618145689368248
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        13,
+        14
+      ],
+      "confidence": 0.7439196407794952
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        13,
+        15
+      ],
+      "confidence": 0.8571304082870483
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        13,
+        16
+      ],
+      "confidence": 0.6116184592247009
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        16,
+        17
+      ],
+      "confidence": 0.9762449860572815
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        16,
+        18
+      ],
+      "confidence": 0.9280582666397095
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        16,
+        19
+      ],
+      "confidence": 0.7737617492675781
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        16,
+        34
+      ],
+      "confidence": 0.41979165375232697
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        16,
+        42
+      ],
+      "confidence": 0.433601513504982
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        16,
+        46
+      ],
+      "confidence": 0.5919449329376221
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        19,
+        20
+      ],
+      "confidence": 0.9181302487850189
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        19,
+        21
+      ],
+      "confidence": 0.5009121745824814
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        19,
+        44
+      ],
+      "confidence": 0.44799157977104187
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        19,
+        48
+      ],
+      "confidence": 0.5579182803630829
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        21,
+        22
+      ],
+      "confidence": 0.8825733661651611
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        21,
+        34
+      ],
+      "confidence": 0.7830825746059418
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        21,
+        37
+      ],
+      "confidence": 0.7573274075984955
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        21,
+        46
+      ],
+      "confidence": 0.5625212788581848
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        21,
+        48
+      ],
+      "confidence": 0.5327518135309219
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        21,
+        49
+      ],
+      "confidence": 0.8774789869785309
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        21,
+        50
+      ],
+      "confidence": 0.9047455489635468
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        21,
+        62
+      ],
+      "confidence": 0.49829600751399994
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        21,
+        70
+      ],
+      "confidence": 0.43087270110845566
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        22,
+        23
+      ],
+      "confidence": 0.7602177262306213
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        22,
+        32
+      ],
+      "confidence": 0.7298160195350647
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        22,
+        48
+      ],
+      "confidence": 0.8676647245883942
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        22,
+        60
+      ],
+      "confidence": 0.6302420496940613
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        23,
+        24
+      ],
+      "confidence": 0.8714806735515594
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        23,
+        25
+      ],
+      "confidence": 0.581338107585907
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        25,
+        26
+      ],
+      "confidence": 0.8210302889347076
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        25,
+        27
+      ],
+      "confidence": 0.6589688658714294
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        27,
+        28
+      ],
+      "confidence": 0.9794110655784607
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        27,
+        29
+      ],
+      "confidence": 0.603009045124054
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        29,
+        30
+      ],
+      "confidence": 0.9658394455909729
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        29,
+        32
+      ],
+      "confidence": 0.5743503272533417
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        30,
+        31
+      ],
+      "confidence": 0.8094990849494934
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        32,
+        33
+      ],
+      "confidence": 0.9611856043338776
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        34,
+        35
+      ],
+      "confidence": 0.8505325317382812
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        34,
+        36
+      ],
+      "confidence": 0.7878173291683197
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        37,
+        38
+      ],
+      "confidence": 0.9539872407913208
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        37,
+        39
+      ],
+      "confidence": 0.7188187837600708
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        37,
+        46
+      ],
+      "confidence": 0.4135019779205322
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        37,
+        48
+      ],
+      "confidence": 0.6965710818767548
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        39,
+        40
+      ],
+      "confidence": 0.8966779112815857
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        39,
+        41
+      ],
+      "confidence": 0.8296030163764954
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        39,
+        42
+      ],
+      "confidence": 0.567202240228653
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        42,
+        43
+      ],
+      "confidence": 0.8699280321598053
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        42,
+        44
+      ],
+      "confidence": 0.541705459356308
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        44,
+        45
+      ],
+      "confidence": 0.9841916561126709
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        44,
+        46
+      ],
+      "confidence": 0.7080988883972168
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        46,
+        47
+      ],
+      "confidence": 0.9872487783432007
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        46,
+        48
+      ],
+      "confidence": 0.5114592015743256
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        48,
+        49
+      ],
+      "confidence": 0.9428263306617737
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        48,
+        50
+      ],
+      "confidence": 0.8762072026729584
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        50,
+        51
+      ],
+      "confidence": 0.739008367061615
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        50,
+        60
+      ],
+      "confidence": 0.7885974943637848
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        51,
+        52
+      ],
+      "confidence": 0.959807962179184
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        51,
+        53
+      ],
+      "confidence": 0.6752266883850098
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        53,
+        54
+      ],
+      "confidence": 0.967566192150116
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        53,
+        56
+      ],
+      "confidence": 0.6422136723995209
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        54,
+        55
+      ],
+      "confidence": 0.7932419180870056
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        56,
+        57
+      ],
+      "confidence": 0.9826551675796509
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        56,
+        58
+      ],
+      "confidence": 0.6847567856311798
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        58,
+        59
+      ],
+      "confidence": 0.8137755393981934
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        58,
+        60
+      ],
+      "confidence": 0.5429541766643524
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        60,
+        61
+      ],
+      "confidence": 0.8595322072505951
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        62,
+        63
+      ],
+      "confidence": 0.9543088674545288
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        62,
+        64
+      ],
+      "confidence": 0.6959855258464813
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        64,
+        65
+      ],
+      "confidence": 0.9074481725692749
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        64,
+        66
+      ],
+      "confidence": 0.6077574193477631
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        66,
+        67
+      ],
+      "confidence": 0.8428398668766022
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        66,
+        68
+      ],
+      "confidence": 0.5333512723445892
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        68,
+        69
+      ],
+      "confidence": 0.965073972940445
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        68,
+        70
+      ],
+      "confidence": 0.6657219529151917
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        70,
+        71
+      ],
+      "confidence": 0.8755843937397003
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        70,
+        72
+      ],
+      "confidence": 0.5117633193731308
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        72,
+        73
+      ],
+      "confidence": 0.9186896085739136
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        72,
+        74
+      ],
+      "confidence": 0.8356277048587799
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        73,
+        75
+      ],
+      "confidence": 0.5196023285388947
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        74,
+        75
+      ],
+      "confidence": 0.589955061674118
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        75,
+        76
+      ],
+      "confidence": 0.9177037179470062
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        75,
+        77
+      ],
+      "confidence": 0.617207795381546
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        77,
+        78
+      ],
+      "confidence": 0.9236731231212616
+    },
+    {
+      "bond_type": "dashed wedge",
+      "endpoint_atoms": [
+        77,
+        79
+      ],
+      "confidence": 0.5707356184720993
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        79,
+        80
+      ],
+      "confidence": 0.9280704855918884
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        79,
+        81
+      ],
+      "confidence": 0.5568471997976303
+    },
+    {
+      "bond_type": "solid wedge",
+      "endpoint_atoms": [
+        81,
+        82
+      ],
+      "confidence": 0.718330979347229
+    }
+  ]
+}

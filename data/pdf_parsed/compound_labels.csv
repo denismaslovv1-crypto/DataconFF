@@ -1,4 +1,97 @@
 ﻿source_file,compound_label,molecule_name,record_count,pages,property_names,structure_resolution_status,needs_structure_image_mapping
+1-s2.0-S0223523412000402-main.pdf,auto_p2_001,,1,2,,unresolved_label,True
+1-s2.0-S0223523412000402-main.pdf,auto_p2_002,,1,2,,unresolved_label,True
+1-s2.0-S0223523412000402-main.pdf,auto_p2_003,,1,2,,unresolved_label,True
+1-s2.0-S0223523412000402-main.pdf,auto_p2_008,,1,2,,unresolved_label,True
+1-s2.0-S0223523412000402-main.pdf,auto_p2_009,,1,2,,unresolved_label,True
+1-s2.0-S0960894X08008214-main.pdf,15a,levorphanol,11,3,CLogP; Ki; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_4; table_value_5,unresolved_label,True
+1-s2.0-S0960894X08008214-main.pdf,24,,11,3,CLogP; Ki; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_4; table_value_5,unresolved_label,True
+1-s2.0-S0960894X08008214-main.pdf,3b,butorphanol,11,3,CLogP; Ki; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_4; table_value_5,unresolved_label,True
+1-s2.0-S0960894X08008214-main.pdf,4a,MCL-474,14,3,CLogP; Ki; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_4; table_value_5,unresolved_label,True
+1-s2.0-S0960894X08008214-main.pdf,4b,MCL-488,14,3,CLogP; Ki; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_4; table_value_5,unresolved_label,True
+1-s2.0-S0960894X08008214-main.pdf,4c,MCL-489,20,3,CLogP; Ki; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_4; table_value_5; table_value_6; table_value_7; table_value_8; table_value_9,unresolved_label,True
+1-s2.0-S0960894X08008214-main.pdf,4d,MCL-603,16,3,CLogP; Ki; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_4; table_value_5,unresolved_label,True
+1-s2.0-S0960894X08008214-main.pdf,4e,MCL-601,14,3,CLogP; Ki; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_4; table_value_5,unresolved_label,True
+1-s2.0-S0960894X08008214-main.pdf,4f,MCL-602,19,3,CLogP; Ki; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_4; table_value_5; table_value_6; table_value_7; table_value_8,unresolved_label,True
+1-s2.0-S0960894X08008214-main.pdf,5a,MCL-486,11,3,CLogP; Ki; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_4; table_value_5,unresolved_label,True
+1-s2.0-S0960894X08008214-main.pdf,5b,MCL-485,11,3,CLogP; Ki; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_4; table_value_5,unresolved_label,True
+1-s2.0-S0960894X08008214-main.pdf,5c,MCL-499,11,3,CLogP; Ki; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_4; table_value_5,unresolved_label,True
+1-s2.0-S0960894X08008214-main.pdf,5d,MCL-600,11,3,CLogP; Ki; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_4; table_value_5,unresolved_label,True
+1-s2.0-S0960894X08008214-main.pdf,5e,MCL-604,11,3,CLogP; Ki; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_4; table_value_5,unresolved_label,True
+1-s2.0-S0960894X08008214-main.pdf,5f,MCL-605,11,3,CLogP; Ki; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_4; table_value_5,unresolved_label,True
+1-s2.0-S0960894X08008214-main.pdf,6,,24,3,CLogP; Ki; selectivity; table_value_4; table_value_5; table_value_6; table_value_7,unresolved_label,True
+1-s2.0-S0960894X08008214-main.pdf,auto_p2_003,,1,2,,unresolved_label,True
+1-s2.0-S0960894X08008214-main.pdf,auto_p2_005,,1,2,,unresolved_label,True
+1-s2.0-S0960894X08008214-main.pdf,auto_p2_006,,1,2,,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,1,,2,4,table_value_1,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,14,,10,3; 4,Ki; MOP_Ki; NOP_Ki; table_value_1; table_value_4; table_value_5,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,15,,21,3; 4,EC50; Ki; MOP_Ki; NOP_Ki; pEC50; table_value_1; table_value_3; table_value_4; table_value_5; table_value_6,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,16,,21,3; 4,EC50; Ki; MOP_Ki; NOP_Ki; pEC50; table_value_1; table_value_3; table_value_4; table_value_5; table_value_6,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,17,,19,3; 4,EC50; Ki; MOP_Ki; NOP_Ki; pEC50; table_value_1; table_value_3; table_value_4; table_value_5,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,18,,10,3; 4,Ki; MOP_Ki; NOP_Ki; table_value_1; table_value_4; table_value_5,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,19,,10,3; 4,Ki; MOP_Ki; NOP_Ki; table_value_1; table_value_4; table_value_5,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,20,,5,3,MOP_Ki; NOP_Ki,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,21,,5,3,MOP_Ki; NOP_Ki,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,22,,5,3,MOP_Ki; NOP_Ki,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,23,,5,3,MOP_Ki; NOP_Ki,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,24,,6,3,Ki; MOP_Ki; NOP_Ki,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,25,,5,3,MOP_Ki; NOP_Ki,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,26,,9,3; 4,Ki; MOP_Ki; NOP_Ki; selectivity; table_value_1,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,27,,7,3; 4,MOP_Ki; NOP_Ki; table_value_1,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,28,,8,3; 4,Ki; MOP_Ki; NOP_Ki; table_value_1,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,29,,3,3,MOP_Ki; NOP_Ki,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,3,,22,3,Ki; MOP_Ki; NOP_Ki; table_value_10; table_value_11; table_value_12; table_value_13; table_value_14; table_value_15; table_value_16; table_value_17; table_value_18; table_value_19; table_value_20; table_value_21; table_value_22; table_value_4; table_value_5; table_value_6; table_value_7; table_value_8; table_value_9,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,30,,5,3; 4,MOP_Ki; NOP_Ki; table_value_1,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,31,,5,3; 4,MOP_Ki; NOP_Ki; table_value_1,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,32,,3,3,MOP_Ki; NOP_Ki,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,33,,7,3; 4,MOP_Ki; NOP_Ki; table_value_1,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,34,,7,3; 4,MOP_Ki; NOP_Ki; table_value_1,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,35,,16,3; 4,EC50; MOP_Ki; NOP_Ki; pEC50; table_value_1; table_value_3; table_value_4,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,36,,7,3; 4,MOP_Ki; NOP_Ki; table_value_1,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,37,,16,3; 4,EC50; Ki; MOP_Ki; NOP_Ki; pEC50; table_value_1; table_value_3; table_value_4,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,38,,5,3; 4,MOP_Ki; NOP_Ki; table_value_1,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,39,,5,3; 4,MOP_Ki; NOP_Ki; table_value_1,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,40,,5,3,MOP_Ki; NOP_Ki,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,41,,14,3; 4,EC50; MOP_Ki; NOP_Ki; pEC50; table_value_1; table_value_3; table_value_4,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,42,,5,3; 4,MOP_Ki; NOP_Ki; table_value_1,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,43,,5,3; 4,MOP_Ki; NOP_Ki; table_value_1,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,44,,5,3; 4,MOP_Ki; NOP_Ki; table_value_1,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,45,,3,3,MOP_Ki; NOP_Ki,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,46,,16,3; 4,EC50; Ki; MOP_Ki; NOP_Ki; pEC50; table_value_1; table_value_2; table_value_3; table_value_4,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,47,,5,3; 4,MOP_Ki; NOP_Ki; table_value_1,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,48,,5,3,MOP_Ki; NOP_Ki,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,49,,3,3,MOP_Ki; NOP_Ki,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,50,,3,3,MOP_Ki; NOP_Ki,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,8,,2,2,Ki; selectivity,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,auto_p1_001,,1,1,,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,auto_p2_001,,1,2,,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,auto_p2_002,,1,2,,unresolved_label,True
+1-s2.0-S0960894X09003679-main.pdf,auto_p2_004,,1,2,,resolved,False
+1-s2.0-S0960894X09003679-main.pdf,auto_p2_005,,1,2,,resolved,False
+1-s2.0-S0960894X09003679-main.pdf,auto_p2_006,,1,2,,resolved,False
+1-s2.0-S0960894X09003679-main.pdf,auto_p2_007,,1,2,,unresolved_label,True
+1-s2.0-S0960894X09006222-main.pdf,1,,7,2,CLogP; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_6,unresolved_label,True
+1-s2.0-S0960894X09006222-main.pdf,10,,13,2,CLogP; IC50; Ki; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_3; table_value_4; table_value_5; table_value_6,unresolved_label,True
+1-s2.0-S0960894X09006222-main.pdf,11,,7,2,CLogP; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_6,unresolved_label,True
+1-s2.0-S0960894X09006222-main.pdf,12,,13,2,CLogP; IC50; Ki; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_3; table_value_4; table_value_5; table_value_6,unresolved_label,True
+1-s2.0-S0960894X09006222-main.pdf,13,,13,2,CLogP; IC50; Ki; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_3; table_value_4; table_value_5; table_value_6,unresolved_label,True
+1-s2.0-S0960894X09006222-main.pdf,14,,7,2,CLogP; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_6,unresolved_label,True
+1-s2.0-S0960894X09006222-main.pdf,15,,13,2,CLogP; IC50; Ki; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_3; table_value_4; table_value_5; table_value_6,unresolved_label,True
+1-s2.0-S0960894X09006222-main.pdf,16,,7,2,CLogP; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_6,unresolved_label,True
+1-s2.0-S0960894X09006222-main.pdf,17,,7,2,CLogP; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_6,unresolved_label,True
+1-s2.0-S0960894X09006222-main.pdf,18,,7,2,CLogP; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_6,unresolved_label,True
+1-s2.0-S0960894X09006222-main.pdf,19,,7,2,CLogP; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_6,unresolved_label,True
+1-s2.0-S0960894X09006222-main.pdf,2,,7,2,CLogP; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_6,unresolved_label,True
+1-s2.0-S0960894X09006222-main.pdf,20,,13,2,CLogP; IC50; Ki; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_3; table_value_4; table_value_5; table_value_6,unresolved_label,True
+1-s2.0-S0960894X09006222-main.pdf,21,,7,2,CLogP; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_6,unresolved_label,True
+1-s2.0-S0960894X09006222-main.pdf,22,,7,2,CLogP; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_6,unresolved_label,True
+1-s2.0-S0960894X09006222-main.pdf,3,,7,2,CLogP; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_6,unresolved_label,True
+1-s2.0-S0960894X09006222-main.pdf,4,,7,2,CLogP; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_6,unresolved_label,True
+1-s2.0-S0960894X09006222-main.pdf,5,,7,2,CLogP; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_6,unresolved_label,True
+1-s2.0-S0960894X09006222-main.pdf,6,,7,2,CLogP; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_6,unresolved_label,True
+1-s2.0-S0960894X09006222-main.pdf,7,,7,2,CLogP; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_6,unresolved_label,True
+1-s2.0-S0960894X09006222-main.pdf,8,,13,2,CLogP; IC50; Ki; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_3; table_value_4; table_value_5; table_value_6,unresolved_label,True
+1-s2.0-S0960894X09006222-main.pdf,9,,13,2,CLogP; IC50; Ki; delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_3; table_value_4; table_value_5; table_value_6,unresolved_label,True
 1-s2.0-S0960894X09006258-main.pdf,1,,2,2,ORL1_binding,unresolved_label,True
 1-s2.0-S0960894X09006258-main.pdf,10,,2,2,ORL1_binding,unresolved_label,True
 1-s2.0-S0960894X09006258-main.pdf,11,,2,2,ORL1_binding,unresolved_label,True
@@ -25,3 +118,20 @@
 1-s2.0-S0960894X09006258-main.pdf,7,,2,2,ORL1_binding,unresolved_label,True
 1-s2.0-S0960894X09006258-main.pdf,8,,2,2,ORL1_binding,unresolved_label,True
 1-s2.0-S0960894X09006258-main.pdf,9,,2,2,ORL1_binding,unresolved_label,True
+design-synthesis-and-biological-evaluation-of-6α-and-6β-n-heterocyclic-substituted-naltrexamine-derivatives-as-μ-opioid.pdf,1,,8,6,delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_2; table_value_3; table_value_4; table_value_5,unresolved_label,True
+design-synthesis-and-biological-evaluation-of-6α-and-6β-n-heterocyclic-substituted-naltrexamine-derivatives-as-μ-opioid.pdf,10,,8,6,delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_2; table_value_3; table_value_4; table_value_5,unresolved_label,True
+design-synthesis-and-biological-evaluation-of-6α-and-6β-n-heterocyclic-substituted-naltrexamine-derivatives-as-μ-opioid.pdf,11,,8,6,delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_2; table_value_3; table_value_4; table_value_5,unresolved_label,True
+design-synthesis-and-biological-evaluation-of-6α-and-6β-n-heterocyclic-substituted-naltrexamine-derivatives-as-μ-opioid.pdf,12,,8,6,delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_2; table_value_3; table_value_4; table_value_5,unresolved_label,True
+design-synthesis-and-biological-evaluation-of-6α-and-6β-n-heterocyclic-substituted-naltrexamine-derivatives-as-μ-opioid.pdf,13,,8,6,delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_2; table_value_3; table_value_4; table_value_5,unresolved_label,True
+design-synthesis-and-biological-evaluation-of-6α-and-6β-n-heterocyclic-substituted-naltrexamine-derivatives-as-μ-opioid.pdf,14,,8,6,delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_2; table_value_3; table_value_4; table_value_5,unresolved_label,True
+design-synthesis-and-biological-evaluation-of-6α-and-6β-n-heterocyclic-substituted-naltrexamine-derivatives-as-μ-opioid.pdf,15,,5,6,selectivity; table_value_2; table_value_3; table_value_4; table_value_5,unresolved_label,True
+design-synthesis-and-biological-evaluation-of-6α-and-6β-n-heterocyclic-substituted-naltrexamine-derivatives-as-μ-opioid.pdf,16,,5,6,selectivity; table_value_2; table_value_3; table_value_4; table_value_5,unresolved_label,True
+design-synthesis-and-biological-evaluation-of-6α-and-6β-n-heterocyclic-substituted-naltrexamine-derivatives-as-μ-opioid.pdf,2,,8,6,delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_2; table_value_3; table_value_4; table_value_5,unresolved_label,True
+design-synthesis-and-biological-evaluation-of-6α-and-6β-n-heterocyclic-substituted-naltrexamine-derivatives-as-μ-opioid.pdf,3,,8,6,delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_2; table_value_3; table_value_4; table_value_5,unresolved_label,True
+design-synthesis-and-biological-evaluation-of-6α-and-6β-n-heterocyclic-substituted-naltrexamine-derivatives-as-μ-opioid.pdf,4,,8,6,delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_2; table_value_3; table_value_4; table_value_5,unresolved_label,True
+design-synthesis-and-biological-evaluation-of-6α-and-6β-n-heterocyclic-substituted-naltrexamine-derivatives-as-μ-opioid.pdf,5,,8,6,delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_2; table_value_3; table_value_4; table_value_5,unresolved_label,True
+design-synthesis-and-biological-evaluation-of-6α-and-6β-n-heterocyclic-substituted-naltrexamine-derivatives-as-μ-opioid.pdf,6,NAP,8,6,delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_2; table_value_3; table_value_4; table_value_5,unresolved_label,True
+design-synthesis-and-biological-evaluation-of-6α-and-6β-n-heterocyclic-substituted-naltrexamine-derivatives-as-μ-opioid.pdf,7,,5,6,selectivity; table_value_2; table_value_3; table_value_4; table_value_5,unresolved_label,True
+design-synthesis-and-biological-evaluation-of-6α-and-6β-n-heterocyclic-substituted-naltrexamine-derivatives-as-μ-opioid.pdf,8,,5,6,selectivity; table_value_2; table_value_3; table_value_4; table_value_5,unresolved_label,True
+design-synthesis-and-biological-evaluation-of-6α-and-6β-n-heterocyclic-substituted-naltrexamine-derivatives-as-μ-opioid.pdf,9,NAQ,8,6,delta_Ki; kappa_Ki; mu_Ki; selectivity; table_value_2; table_value_3; table_value_4; table_value_5,unresolved_label,True
+further-studies-at-neuropeptide-s-position-5-discovery-of-novel-neuropeptide-s-receptor-antagonists.pdf,A549,,4,3,Ki; selectivity; table_value_3; table_value_4,unresolved_label,True

@@ -58,6 +58,8 @@ class RecognizedStructure(BaseModel):
     reaction_smiles: str | None = None
     raw_output: str | None = None
     recognizer: str
+    is_generic_structure: bool = False
+    generic_structure_reason: str | None = None
     source: SourceProvenance
     confidence: float = Field(ge=0.0, le=1.0)
 
@@ -114,6 +116,8 @@ class RawChemicalRecord(BaseModel):
     crop_image_path: str | None = None
     bbox_points: BoundingBox | None = None
     bbox_pixels: BoundingBox | None = None
+    is_generic_structure: bool = False
+    generic_structure_reason: str | None = None
     property_name: str | None = None
     property_value: str | None = None
     unit: str | None = None

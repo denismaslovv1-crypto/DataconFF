@@ -1,0 +1,74 @@
+{
+  "smiles": "*C(=O)CC",
+  "canonical_SMILES": "*C(=O)CC",
+  "isomeric_SMILES": "*C(=O)CC",
+  "smiles_valid": true,
+  "molfile": "\n     RDKit          2D\n\n  5  4  0  0  0  0  0  0  0  0999 V2000\n    7.8435   -4.5906    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.8435   -7.4252    0.0000 R   0  0  0  0  0  0  0  0  0  0  0  0\n    5.5071   -3.3307    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.9191   -4.5906    0.0000 R   0  0  0  0  0  0  0  0  0  0  0  0\n    5.5071   -0.5748    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  1  3  1  0\n  3  4  1  0\n  3  5  2  0\nA    2\nMe\nA    4\nAr7\nM  END\n",
+  "confidence": 0.8140410086135145,
+  "atoms": [
+    {
+      "atom_symbol": "C",
+      "x": 0.7401574803149606,
+      "y": 0.5590551181102362,
+      "confidence": 0.777671217918396
+    },
+    {
+      "atom_symbol": "[Me]",
+      "x": 0.7401574803149606,
+      "y": 0.84251968503937,
+      "confidence": 0.9107057218308866
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.5196850393700787,
+      "y": 0.4330708661417323,
+      "confidence": 0.9060292840003967
+    },
+    {
+      "atom_symbol": "[Ar7]",
+      "x": 0.18110236220472442,
+      "y": 0.5590551181102362,
+      "confidence": 0.8944852763482481
+    },
+    {
+      "atom_symbol": "O",
+      "x": 0.5196850393700787,
+      "y": 0.15748031496062992,
+      "confidence": 0.9080702066421509
+    }
+  ],
+  "bonds": [
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        0,
+        1
+      ],
+      "confidence": 1.0
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        0,
+        2
+      ],
+      "confidence": 1.0
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        2,
+        3
+      ],
+      "confidence": 1.0
+    },
+    {
+      "bond_type": "double",
+      "endpoint_atoms": [
+        2,
+        4
+      ],
+      "confidence": 0.9999998807907104
+    }
+  ]
+}

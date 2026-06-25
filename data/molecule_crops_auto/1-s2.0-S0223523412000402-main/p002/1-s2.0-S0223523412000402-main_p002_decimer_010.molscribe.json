@@ -1,0 +1,544 @@
+{
+  "smiles": "COC1=CC=CC2(=C1)C1345C6CC78C9CC62%10%11%12CC726%13(C9)C79C82%14C1%106C73%1112CN9%14%1313(C)C4%12C523",
+  "canonical_SMILES": null,
+  "isomeric_SMILES": null,
+  "smiles_valid": false,
+  "molfile": "\n     RDKit          2D\n\n 26 47  0  0  0  0  0  0  0  0999 V2000\n    3.0000    0.0000    0.0000 R   0  0  0  0  0  0  0  0  0  0  0  0\n    1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.7500   -1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.5000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.7500    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.1989    1.6873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.8107    3.1362    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.2595    3.5244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.8713    2.0755    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.4224    2.4637    0.0000 R   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.3202    2.4637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.6887    1.1031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.4876    1.2867    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.7494    2.7637    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.2554    2.8971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.0265    1.2990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.3618    2.7479    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.0242    0.3093    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -4.5183    0.1759    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -5.3809    1.4031    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.9320    1.0148    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.7500    4.1968    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.2595    3.5244    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.4224    1.6873    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  2  0\n  2  7  1  0\n  3  4  1  0\n  4  5  2  0\n  5  6  1  0\n  6  7  2  0\n  6  8  1  0\n  6 19  1  0\n  8  9  1  0\n  8 14  1  0\n  8 17  1  0\n  8 18  1  0\n  8 20  1  0\n  8 24  1  0\n  9 10  1  0\n  9 11  1  0\n  9 19  1  0\n  9 24  1  0\n  9 25  1  0\n  9 26  1  0\n 10 11  1  0\n 11 12  1  0\n 11 13  1  0\n 11 18  1  0\n 11 23  1  0\n 11 25  1  0\n 11 26  1  0\n 13 14  1  0\n 13 15  1  0\n 13 22  1  0\n 13 23  1  0\n 13 24  1  0\n 13 25  1  0\n 15 16  1  0\n 16 17  1  0\n 16 22  1  0\n 18 19  1  0\n 18 26  1  0\n 19 20  1  0\n 19 24  1  0\n 19 26  1  0\n 20 21  1  0\n 21 22  1  0\n 22 23  1  0\n 23 24  1  0\n 23 25  1  0\nA    1\nMeO\nA   12\nMe\nM  END\n",
+  "confidence": 0.0010408462986263916,
+  "atoms": [
+    {
+      "atom_symbol": "[MeO]",
+      "x": 0.14960629921259844,
+      "y": 0.7874015748031497,
+      "confidence": 0.8144234061333929
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.2440944881889764,
+      "y": 0.7874015748031497,
+      "confidence": 0.9067652821540833
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.2992125984251969,
+      "y": 0.952755905511811,
+      "confidence": 0.9128875136375427
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.4015748031496063,
+      "y": 0.952755905511811,
+      "confidence": 0.9075568914413452
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.44881889763779526,
+      "y": 0.7874015748031497,
+      "confidence": 0.9098905920982361
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.4015748031496063,
+      "y": 0.6220472440944882,
+      "confidence": 0.9047343134880066
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.2992125984251969,
+      "y": 0.6220472440944882,
+      "confidence": 0.9044985175132751
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.44881889763779526,
+      "y": 0.4566929133858268,
+      "confidence": 0.9008243680000305
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.5354330708661418,
+      "y": 0.5511811023622047,
+      "confidence": 0.9071953892707825
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.6220472440944882,
+      "y": 0.4566929133858268,
+      "confidence": 0.8348593711853027
+    },
+    {
+      "atom_symbol": "N",
+      "x": 0.6299212598425197,
+      "y": 0.25984251968503935,
+      "confidence": 0.43940016627311707
+    },
+    {
+      "atom_symbol": "[Me]",
+      "x": 0.7165354330708661,
+      "y": 0.16535433070866143,
+      "confidence": 0.919201960183039
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.5354330708661418,
+      "y": 0.16535433070866143,
+      "confidence": 0.8821686506271362
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.44881889763779526,
+      "y": 0.25196850393700787,
+      "confidence": 0.9074038863182068
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.44881889763779526,
+      "y": 0.07874015748031496,
+      "confidence": 0.905647873878479
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.36220472440944884,
+      "y": 0.1732283464566929,
+      "confidence": 0.9048115015029907
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.36220472440944884,
+      "y": 0.36220472440944884,
+      "confidence": 0.9026957154273987
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.5354330708661418,
+      "y": 0.5511811023622047,
+      "confidence": 0.8490678071975708
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.44881889763779526,
+      "y": 0.4566929133858268,
+      "confidence": 0.85527503490448
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.36220472440944884,
+      "y": 0.36220472440944884,
+      "confidence": 0.7586631178855896
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.36220472440944884,
+      "y": 0.1732283464566929,
+      "confidence": 0.8730063438415527
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.44881889763779526,
+      "y": 0.07874015748031496,
+      "confidence": 0.9030237197875977
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.5354330708661418,
+      "y": 0.16535433070866143,
+      "confidence": 0.663162112236023
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.44881889763779526,
+      "y": 0.25984251968503935,
+      "confidence": 0.8706827759742737
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.6299212598425197,
+      "y": 0.11811023622047244,
+      "confidence": 0.5358256697654724
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.6299212598425197,
+      "y": 0.4566929133858268,
+      "confidence": 0.7913604974746704
+    }
+  ],
+  "bonds": [
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        0,
+        1
+      ],
+      "confidence": 0.9999989867210388
+    },
+    {
+      "bond_type": "double",
+      "endpoint_atoms": [
+        1,
+        2
+      ],
+      "confidence": 0.9999997615814209
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        1,
+        6
+      ],
+      "confidence": 0.9999719858169556
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        2,
+        3
+      ],
+      "confidence": 1.0
+    },
+    {
+      "bond_type": "double",
+      "endpoint_atoms": [
+        3,
+        4
+      ],
+      "confidence": 1.0
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        4,
+        5
+      ],
+      "confidence": 0.9991416037082672
+    },
+    {
+      "bond_type": "double",
+      "endpoint_atoms": [
+        5,
+        6
+      ],
+      "confidence": 0.9999995231628418
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        5,
+        7
+      ],
+      "confidence": 0.9999987483024597
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        5,
+        18
+      ],
+      "confidence": 0.988558828830719
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        7,
+        8
+      ],
+      "confidence": 0.9999999403953552
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        7,
+        13
+      ],
+      "confidence": 0.9998304545879364
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        7,
+        16
+      ],
+      "confidence": 0.999959409236908
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        7,
+        17
+      ],
+      "confidence": 0.9999485611915588
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        7,
+        19
+      ],
+      "confidence": 0.9994558095932007
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        7,
+        23
+      ],
+      "confidence": 0.9998341500759125
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        8,
+        9
+      ],
+      "confidence": 0.9999971389770508
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        8,
+        10
+      ],
+      "confidence": 0.5904008746147156
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        8,
+        18
+      ],
+      "confidence": 0.999975860118866
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        8,
+        23
+      ],
+      "confidence": 0.630983829498291
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        8,
+        24
+      ],
+      "confidence": 0.6669929623603821
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        8,
+        25
+      ],
+      "confidence": 0.999462902545929
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        9,
+        10
+      ],
+      "confidence": 0.9999990463256836
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        10,
+        11
+      ],
+      "confidence": 0.9999988675117493
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        10,
+        12
+      ],
+      "confidence": 0.9999985098838806
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        10,
+        17
+      ],
+      "confidence": 0.9997975826263428
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        10,
+        22
+      ],
+      "confidence": 0.9153417646884918
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        10,
+        24
+      ],
+      "confidence": 0.5659270584583282
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        10,
+        25
+      ],
+      "confidence": 0.5459786206483841
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        12,
+        13
+      ],
+      "confidence": 0.9999997019767761
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        12,
+        14
+      ],
+      "confidence": 0.9999912977218628
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        12,
+        21
+      ],
+      "confidence": 0.9975594580173492
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        12,
+        22
+      ],
+      "confidence": 0.6329914778470993
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        12,
+        23
+      ],
+      "confidence": 0.9900855422019958
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        12,
+        24
+      ],
+      "confidence": 0.671787291765213
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        14,
+        15
+      ],
+      "confidence": 0.9999991655349731
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        15,
+        16
+      ],
+      "confidence": 0.9999937415122986
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        15,
+        21
+      ],
+      "confidence": 0.9756409525871277
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        17,
+        18
+      ],
+      "confidence": 0.9999973177909851
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        17,
+        25
+      ],
+      "confidence": 0.9993120431900024
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        18,
+        19
+      ],
+      "confidence": 0.9999821186065674
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        18,
+        23
+      ],
+      "confidence": 0.7250030338764191
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        18,
+        25
+      ],
+      "confidence": 0.7673719227313995
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        19,
+        20
+      ],
+      "confidence": 0.9999831318855286
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        20,
+        21
+      ],
+      "confidence": 0.9999994039535522
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        21,
+        22
+      ],
+      "confidence": 0.9999966621398926
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        22,
+        23
+      ],
+      "confidence": 0.9999994039535522
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        22,
+        24
+      ],
+      "confidence": 0.9998964667320251
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "smiles": "Cc1cccnc1",
+  "canonical_SMILES": "Cc1cccnc1",
+  "isomeric_SMILES": "Cc1cccnc1",
+  "smiles_valid": true,
+  "molfile": "\n     RDKit          2D\n\n  7  7  0  0  0  0  0  0  0  0999 V2000\n   13.1915    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.8289   -1.5197    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.3625    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000   -1.5197    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    0.0000   -6.4803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.3625   -9.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.8289   -6.4803    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  2  0\n  2  7  1  0\n  3  4  1  0\n  4  5  2  0\n  5  6  1  0\n  6  7  2  0\nM  END\n",
+  "confidence": 0.8948239287749767,
+  "atoms": [
+    {
+      "atom_symbol": "C",
+      "x": 1.0,
+      "y": 0.0,
+      "confidence": 0.6514644622802734
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.6692913385826772,
+      "y": 0.25196850393700787,
+      "confidence": 0.8042912483215332
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.33070866141732286,
+      "y": 0.0,
+      "confidence": 0.9100744128227234
+    },
+    {
+      "atom_symbol": "N",
+      "x": 0.0,
+      "y": 0.25196850393700787,
+      "confidence": 0.9191832542419434
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.0,
+      "y": 0.7480314960629921,
+      "confidence": 0.9087872505187988
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.33070866141732286,
+      "y": 1.0,
+      "confidence": 0.9002898931503296
+    },
+    {
+      "atom_symbol": "C",
+      "x": 0.6692913385826772,
+      "y": 0.7480314960629921,
+      "confidence": 0.9093393087387085
+    }
+  ],
+  "bonds": [
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        0,
+        1
+      ],
+      "confidence": 0.9895802438259125
+    },
+    {
+      "bond_type": "double",
+      "endpoint_atoms": [
+        1,
+        2
+      ],
+      "confidence": 0.9999997019767761
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        1,
+        6
+      ],
+      "confidence": 0.9999738931655884
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        2,
+        3
+      ],
+      "confidence": 0.9999999403953552
+    },
+    {
+      "bond_type": "double",
+      "endpoint_atoms": [
+        3,
+        4
+      ],
+      "confidence": 0.9999998807907104
+    },
+    {
+      "bond_type": "single",
+      "endpoint_atoms": [
+        4,
+        5
+      ],
+      "confidence": 0.9999996423721313
+    },
+    {
+      "bond_type": "double",
+      "endpoint_atoms": [
+        5,
+        6
+      ],
+      "confidence": 1.0
+    }
+  ]
+}

@@ -3,11 +3,16 @@ from __future__ import annotations
 from dataclasses import replace
 
 from pdf_extraction.models import RawChemicalRecord, RecognizedStructure, SourceProvenance
+from pdf_extraction.structure_quality import generic_structure_reason
 
 
 def structures_to_records(source_file: str, structures: list[RecognizedStructure]) -> list[RawChemicalRecord]:
     records: list[RawChemicalRecord] = []
     for structure in structures:
+        reason = structure.generic_structure_reason or generic_structure_reason(
+            structure.smiles_raw or structure.canonical_SMILES,
+            structure.molfile,
+        )
         value = structure.smiles_raw or structure.molfile or structure.reaction_smiles or structure.raw_output or ""
         records.append(
             RawChemicalRecord(
@@ -19,6 +24,8 @@ def structures_to_records(source_file: str, structures: list[RecognizedStructure
                 SMILES=structure.smiles_raw,
                 canonical_SMILES=structure.canonical_SMILES,
                 isomeric_SMILES=structure.isomeric_SMILES,
+                is_generic_structure=bool(reason),
+                generic_structure_reason=reason,
                 raw_value=value,
                 source=SourceProvenance(
                     source_file=source_file,
@@ -28,7 +35,7 @@ def structures_to_records(source_file: str, structures: list[RecognizedStructure
                     confidence=structure.confidence,
                 ),
                 confidence=structure.confidence,
-                validation_status="raw_unvalidated",
+                validation_status="generic_structure_unresolved" if reason else "raw_unvalidated",
             )
         )
     return records
@@ -47,6 +54,8 @@ def apply_structure_mappings(
 
     by_label: dict[str, RecognizedStructure] = {}
     for structure in structures:
+        if structure.is_generic_structure or generic_structure_reason(structure.smiles_raw or structure.canonical_SMILES, structure.molfile):
+            continue
         if structure.compound_label and structure.compound_label not in by_label:
             by_label[structure.compound_label] = structure
 

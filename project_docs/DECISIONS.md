@@ -43,3 +43,24 @@ Reason:
 - Lexical retrieval should work across all collections.
 - Vector retrieval is optional and can be enabled per collection, starting with `methodology_notes` and later extending to `molecule_facts`.
 - The project should spend complexity budget on the PDF extraction workflow first, not on multiple RAG implementations.
+
+## 2026-06-25: Wildcard Structure Recognition Is Generic, Not Resolved
+
+Decision: MolScribe outputs containing wildcard atoms such as `*`, or structures derived from labels such as `R`, `R1`, `R2`, and `Ar`, must be stored as generic scaffold/template records rather than final molecule records.
+
+Reason:
+
+- Scientific figures often show scaffolds with variable substituents.
+- MolScribe may convert these labels to wildcard SMILES, for example `*C(=O)...`.
+- A wildcard SMILES is useful evidence, but it is not a complete molecule identity.
+- Generic structures must not mark a compound label as resolved and must not be mapped onto property records as final structures.
+- Final molecules can only be built after source-backed substituent definitions are extracted from tables, captions, or surrounding text.
+
+Implementation:
+
+- Set `is_generic_structure=True`.
+- Preserve `generic_structure_reason`, for example `wildcard_atom_in_smiles`.
+- Use `validation_status=generic_structure_unresolved`.
+- Keep the raw crop and MolScribe output for later scaffold/substituent reconstruction.
+
+Figure text such as binding values or IC50 measurements is a separate extraction target. It should be represented as property records with figure provenance, not mixed into structure recognition.

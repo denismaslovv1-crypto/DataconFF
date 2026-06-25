@@ -1,0 +1,26 @@
+{
+  "detections": [
+    {
+      "image_id": "1-s2.0-S0960894X08008214-main_p003_decimer_001",
+      "image_path": "data\\molecule_crops_auto\\1-s2.0-S0960894X08008214-main\\p003\\1-s2.0-S0960894X08008214-main_p003_decimer_001.png",
+      "sidecar_path": "data\\molecule_crops_auto\\1-s2.0-S0960894X08008214-main\\p003\\1-s2.0-S0960894X08008214-main_p003_decimer_001.png.json",
+      "source_file": "1-s2.0-S0960894X08008214-main.pdf",
+      "page": 3,
+      "class_name": "chemical_structure",
+      "confidence": 1.0,
+      "width": 174,
+      "height": 132
+    },
+    {
+      "image_id": "1-s2.0-S0960894X08008214-main_p003_decimer_002",
+      "image_path": "data\\molecule_crops_auto\\1-s2.0-S0960894X08008214-main\\p003\\1-s2.0-S0960894X08008214-main_p003_decimer_002.png",
+      "sidecar_path": "data\\molecule_crops_auto\\1-s2.0-S0960894X08008214-main\\p003\\1-s2.0-S0960894X08008214-main_p003_decimer_002.png.json",
+      "source_file": "1-s2.0-S0960894X08008214-main.pdf",
+      "page": 3,
+      "class_name": "chemical_structure",
+      "confidence": 1.0,
+      "width": 163,
+      "height": 114
+    }
+  ]
+}

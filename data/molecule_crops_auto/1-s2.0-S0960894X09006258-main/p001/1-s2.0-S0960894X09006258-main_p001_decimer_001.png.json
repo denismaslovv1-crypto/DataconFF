@@ -1,0 +1,10 @@
+{
+  "source_file": "1-s2.0-S0960894X09006258-main.pdf",
+  "page": 1,
+  "crop_id": "1-s2.0-S0960894X09006258-main_p001_decimer_001",
+  "image_path": "data\\molecule_crops_auto\\1-s2.0-S0960894X09006258-main\\p001\\1-s2.0-S0960894X09006258-main_p001_decimer_001.png",
+  "image_width": 200,
+  "image_height": 177,
+  "extraction_method": "decimer_segmentation",
+  "confidence": 1.0
+}

@@ -32,6 +32,22 @@ class PdfExporterTest(unittest.TestCase):
             self.assertEqual(rows[0]["record_count"], "2")
             self.assertEqual(rows[0]["needs_structure_image_mapping"], "True")
 
+    def test_wildcard_smiles_is_not_resolved_structure(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_dir:
+            output_path = Path(temp_dir) / "records.csv"
+            record = self._record()
+            record.SMILES = "*C(=O)C"
+            record.is_generic_structure = True
+            record.generic_structure_reason = "wildcard_atom_in_smiles"
+            write_records_csv([record], output_path)
+
+            with output_path.open(encoding="utf-8-sig", newline="") as file:
+                row = next(csv.DictReader(file))
+
+            self.assertEqual(row["structure_resolution_status"], "unresolved_label")
+            self.assertEqual(row["is_generic_structure"], "True")
+            self.assertEqual(row["generic_structure_reason"], "wildcard_atom_in_smiles")
+
     def _record(self, property_name: str = "Ki") -> RawChemicalRecord:
         return RawChemicalRecord(
             record_id=f"r_{property_name}",
