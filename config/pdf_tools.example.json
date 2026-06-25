@@ -1,0 +1,73 @@
+{
+  "image_extraction": {
+    "backend": "null",
+    "options": {
+      "save_page_renders": true,
+      "save_embedded_images": true,
+      "min_width": 80,
+      "min_height": 80,
+      "render_zoom": 2.0
+    }
+  },
+  "structure_detection": {
+    "tool": {
+      "name": "yolo",
+      "enabled": false,
+      "command": [
+        "python",
+        "scripts/run_yolo_to_manifest.py",
+        "--image",
+        "{image_path}",
+        "--output-dir",
+        "{output_dir}",
+        "--manifest",
+        "{manifest_path}"
+      ],
+      "output_format": "json_manifest",
+      "timeout_seconds": 300
+    },
+    "manifest_path": "{output_dir}/{image_id}_detections.json",
+    "min_confidence": 0.5
+  },
+  "structure_recognition": {
+    "min_confidence": 0.0,
+    "molecule_tools": [
+      {
+        "name": "molscribe",
+        "enabled": false,
+        "command": [
+          "python",
+          "scripts/run_molscribe_one.py",
+          "--image",
+          "{image_path}"
+        ],
+        "output_format": "json_stdout",
+        "timeout_seconds": 300
+      },
+      {
+        "name": "osra",
+        "enabled": false,
+        "command": [
+          "osra",
+          "{image_path}"
+        ],
+        "output_format": "smiles_lines",
+        "timeout_seconds": 120
+      }
+    ],
+    "reaction_tools": [
+      {
+        "name": "rxnscribe",
+        "enabled": false,
+        "command": [
+          "python",
+          "scripts/run_rxnscribe_one.py",
+          "--image",
+          "{image_path}"
+        ],
+        "output_format": "json_stdout",
+        "timeout_seconds": 300
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+# Local secrets and environment overrides
+.env
+.env.*
+!.env.example
+
+# Local Python environments
+.venv/
+.venv-decimer/
+.venv-molscribe/
+**/.venv/
+
+# Python/cache artifacts
+*.pyc
+__pycache__/
+.pytest_cache/
+*.egg-info/
+src/*.egg-info/
+
+# IDE/local workspace metadata
+.idea/
+
+# Generated RAG indexes. Source notes stay in methodology_notes/.
+rag_index/
+
+# Out-of-scope local artifacts. The project must not implement audio transcription.
+data/ai_transcriber/
