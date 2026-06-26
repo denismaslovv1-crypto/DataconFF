@@ -62,24 +62,22 @@ Always call the interpreter explicitly.
 
 ## Local RAG
 
-Create and activate a project virtual environment before running commands:
+Create the project virtual environment with the documented setup script before running commands:
 
 ```powershell
-py -3.12 -m venv .venv
-.\.venv\Scripts\Activate.ps1
-python -m pip install -e .
+.\.venv\Scripts\python.exe -m pip install -e .
 ```
 
 Build the index:
 
 ```powershell
-python -m rag_core build --root . --index-dir rag_index
+.\.venv\Scripts\python.exe -m rag_core build --root . --index-dir rag_index
 ```
 
 Query the notes:
 
 ```powershell
-python -m rag_core query "PDF table extraction provenance" --index-dir rag_index --top-k 5
+.\.venv\Scripts\python.exe -m rag_core query "PDF table extraction provenance" --index-dir rag_index --top-k 5
 ```
 
 The retriever returns only relevant chunks with collection, source file, heading, line range, and score.
@@ -127,7 +125,7 @@ Use `-Collection molecule_facts` later when factual molecule records become larg
 Parse all PDFs from `data/pdf_raw` into raw JSON and CSV:
 
 ```powershell
-python -m pdf_extraction
+.\.venv\Scripts\python.exe -m pdf_extraction
 ```
 
 Outputs are written to:
@@ -147,7 +145,7 @@ source_file -> page -> section/table/figure -> extraction_method -> confidence
 Optional image/structure stages are configured through JSON:
 
 ```powershell
-python -m pdf_extraction --tool-config config/pdf_tools.example.json
+.\.venv\Scripts\python.exe -m pdf_extraction --tool-config config/pdf_tools.example.json
 ```
 
 The example config is safe by default: YOLO, MolScribe, OSRA, and RxnScribe tools are present but disabled. Enable them only after installing the corresponding local tools/checkpoints.
@@ -281,4 +279,54 @@ Outputs are written under:
 data/pdf_pages/
 data/molecule_crops_auto/
 data/pdf_parsed/
+```
+
+## ChemX Benzimidazoles workflow
+
+The deterministic ChemX workflow reuses the PDF parser, selects evidence around
+MIC/pMIC and target bacteria, preserves raw candidates and provenance, then
+normalizes, validates, and exports the strict benchmark schema:
+
+```text
+compound_id,smiles,target_type,target_relation,target_value,target_units,bacteria
+```
+
+Run it for one PDF (the ground-truth CSV is optional; supply it to calculate
+metrics). The repository includes a locally available ChemX example:
+
+```powershell
+.\.venv\Scripts\python.exe scripts\run_domain.py `
+  --domain benzimidazoles `
+  --pdf data\chemx\benzimidazoles\pdfs\janupally2014.pdf `
+  --ground-truth data\chemx\benzimidazoles\ground_truth.csv `
+  --output-dir outputs\benzimidazoles\janupally
+```
+
+Outputs are written to `outputs/benzimidazoles/`: `predictions.csv` contains
+only the ChemX target columns, while `predictions.json`, `parsed/*.raw.json`,
+and `evidence.json` retain provenance. Evaluate an existing prediction file:
+
+```powershell
+.\.venv\Scripts\python.exe scripts\evaluate_domain.py `
+  --domain benzimidazoles `
+  --predictions outputs\benzimidazoles\janupally\predictions.csv `
+  --output-dir outputs\benzimidazoles\janupally `
+  --ground-truth data\chemx\benzimidazoles\ground_truth.csv
+```
+
+### Current checked result
+
+On `janupally2014.pdf` (DOI `10.1016/j.bmc.2014.09.008`), the deterministic
+table-like text parser exports 82 validated MIC records.  It achieved Macro-F1
+`0.8554` using the 82 ground-truth rows belonging to that article; this is a
+per-article smoke-test result, not a score for the full 1,721-row ChemX split.
+The parser preserves unvalidated raw candidates separately and excludes
+unitless prose matches from the prediction CSV.
+
+The optional review UI uses Streamlit. It deliberately is not installed by this
+repository; install it manually in the repository `.venv` if a UI run is
+needed, then start it with:
+
+```powershell
+.\.venv\Scripts\python.exe -m streamlit run app.py
 ```

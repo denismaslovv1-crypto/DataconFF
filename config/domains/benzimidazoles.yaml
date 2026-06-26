@@ -1,0 +1,134 @@
+domain: benzimidazoles
+track: small_molecules
+primary_goal: "Produce ChemX-compatible predictions for the Benzimidazoles domain."
+
+benchmark:
+  source: ChemX / ai-chem Benzimidazoles
+  baseline_to_beat:
+    approach: single_agent
+    macro_f1: 0.217
+  evaluation_unit: "field-level Precision / Recall / F1 with Macro-F1 across target columns"
+
+output:
+  missing_value: NOT_DETECTED
+  format: csv
+  required_columns:
+    - compound_id
+    - smiles
+    - target_type
+    - target_relation
+    - target_value
+    - target_units
+    - bacteria
+  paths:
+    predictions_csv: outputs/benzimidazoles/predictions.csv
+    predictions_json: outputs/benzimidazoles/predictions.json
+    metrics_json: outputs/benzimidazoles/metrics.json
+    field_metrics_csv: outputs/benzimidazoles/field_metrics.csv
+
+field_priority:
+  high:
+    - compound_id
+    - target_type
+    - target_relation
+    - target_value
+    - target_units
+    - bacteria
+  low:
+    - smiles
+
+field_rules:
+  compound_id:
+    type: string
+    description: "Article-local molecule identifier, e.g. 5a, 11h, Compound 3."
+    extraction_hints:
+      - "Prefer the first column of SAR/MIC tables when it contains compound labels."
+      - "Keep the article notation exactly where possible."
+  smiles:
+    type: string
+    description: "Full source-backed SMILES of the benzimidazole antibiotic."
+    default_when_missing: NOT_DETECTED
+    do_not_invent: true
+    extraction_hints:
+      - "Use only source-backed SMILES, validated external recognizer output, or saved API enrichment."
+      - "Generic scaffolds with R/R1/R2/Ar or wildcard * are not final molecules."
+  target_type:
+    type: string
+    allowed_values:
+      - MIC
+      - pMIC
+  target_relation:
+    type: string
+    allowed_values:
+      - "="
+      - "<"
+      - ">"
+    default: "="
+  target_value:
+    type: number_or_range
+    description: "Numeric MIC/pMIC value without units. Preserve ranges when required by evaluator logic."
+  target_units:
+    type: string
+    aliases:
+      "ug/mL": "µg/mL"
+      "μg/mL": "µg/mL"
+      "mcg/mL": "µg/mL"
+      "microg/mL": "µg/mL"
+      "mg/L": "µg/mL"
+      "mmol/l": "mmol/L"
+    preserve_raw_unit: true
+  bacteria:
+    type: string
+    target_organisms:
+      - Staphylococcus aureus
+      - Escherichia coli
+    aliases:
+      "S. aureus": "Staphylococcus aureus"
+      "Staph. aureus": "Staphylococcus aureus"
+      "Staphylococcus aureus": "Staphylococcus aureus"
+      "E. coli": "Escherichia coli"
+      "Escherichia coli": "Escherichia coli"
+
+extraction_strategy:
+  preferred_order:
+    - table_rules
+    - table_like_text_rules
+    - evidence_chunk_llm
+    - optional_identifier_enrichment
+  evidence_queries:
+    - MIC
+    - pMIC
+    - "S. aureus"
+    - "Staphylococcus aureus"
+    - "E. coli"
+    - "Escherichia coli"
+  llm_policy:
+    use_only_on_evidence_chunks: true
+    output_json_array_only: true
+    reject_records_without_evidence: true
+    retry_once_on_invalid_json: true
+
+validation:
+  require_schema_columns: true
+  allow_not_detected: true
+  reject_unknown_columns: true
+  reject_empty_rows: true
+  require_evidence_for:
+    - compound_id
+    - target_type
+    - target_value
+    - bacteria
+  confidence:
+    accept_when_rules_and_llm_agree: true
+    low_confidence_when_llm_only: true
+
+provenance:
+  keep_for_each_record:
+    - source_file
+    - page
+    - section
+    - table_id
+    - row_id
+    - evidence_text
+    - extraction_method
+    - confidence

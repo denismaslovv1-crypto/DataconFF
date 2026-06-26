@@ -1,0 +1,254 @@
+[
+  {
+    "text": "Bioorganic&MedicinalChemistryxxx(2014)xxx–xxx\nContentslistsavailableatScienceDirect\nBioorganic & Medicinal Chemistry\njournal homepage: www.elsevier.com/locate/bmc\nStructure-guided design and development of novel benzimidazole\nclass of compounds targeting DNA gyraseB enzyme of Staphylococcus\naureus\nRenuka Janupallya, Variam Ullas Jeankumara, Karyakulam Andrews Bobesha, Vijay Sonia,\nParthiban Brindha Devia, Venkat Koushik Pullaa, Priyanka Suryadevaraa,\nKeerthana Sharma Chennubhotlab, Pushkar Kulkarnib,c, Perumal Yogeeswaria, Dharmarajan Srirama,⇑\naDepartmentofPharmacy,BirlaInstituteofTechnolog",
+    "source": {
+      "source_file": "janupally2014.pdf",
+      "page": 1,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "stituteofLifeSciences,UniversityofHyderabadCampus,Gachibowli,Hyderabad500046,India\ncZephaseTherapeutics(AnIncubatedCompanyattheDr.Reddy’sInstituteofLifeSciences),UniversityofHyderabadCampus,Gachibowli,Hyderabad500046,India\na r t i c l e i n f o a b s t r a c t\nArticlehistory: The gyraseB subunit of Staphylococcus aureus DNA gyrase is a well-established and validated target\nReceived7July2014 thoughlessexploredforthedevelopmentofnovelantimicrobialagents.Startingfromtheavailablestruc-\nRevised3September2014 turalinformationinPDB(3TTZ),weidentifiedanovelseriesofbenzimidazoleusedasinhibitorsofDNA\nAccepted5September2014",
+    "source": {
+      "source_file": "janupally2014.pdf",
+      "page": 1,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "eat drugdiscovery.9ItisaheterodimericenzymewithA2B2complex,\nthis gram-positive bacterial infections is due to the formation of theAsubunitaidinbreakageandreunionofthedoublestranded\nbiofilmcompoundedbytheexistenceofmultiplebiofilmmecha- DNA,whiletheBsubunitactthroughATPasefunction,providing\nnisms in S. aureus and high resistant MRSA.4,5 By implementing sufficientamountofenergyfortheDNAsupercoiling.10Notmany\ncertainuniquestrategieslikeidentifyingnoveltherapeuticagents, drugs acting through DNA gyrase are reported till date except\nthatcaninhibittheknowndrugtargetsthroughauniquebinding 6-fluoroquinoloneche",
+    "source": {
+      "source_file": "janupally2014.pdf",
+      "page": 1,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "ilised for virtual\nratherunsuccessfulduetotheirpermeabilityparametersandtheir screening of commercial database (Asinex) containing five lakh\nin vivo antibacterial activity. In the present study, we attempted moleculesusingtheprotocolasdescribedinSection4.1.Initially,\ndevelopment of a novel class of S. aureus DNAgyraseB inhibitors the compounds were retrieved by the three-point e-pharmaco-\nemploying energy-optimized structure based pharmacophore (e- phorefilterusingphasemoduleandthosewithfitvalueabove2\npharmacophore) as a query in database searching. The identified wereregardedaspotentialhitsandwerefurt",
+    "source": {
+      "source_file": "janupally2014.pdf",
+      "page": 2,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "biologically. Among the twelve hits shown in Figure 2 four com- with the crystal ligand, revealed important polar contacts with\npounds (BAS01340688, BAS01355130, BAS04380545, and Asp81, Arg84 and Arg144 similar to that of the crystal ligand of\nBAS3776474) showed IC of less than 20lM against gyraseB S. aureus gyraseB. The docking score of lead 1 was found to be\n50\nand others except one (BAS01340688) showed an IC less than (cid:2)6.58 and a strong non-polar interaction by the benzimidazole\n50\n100lM. All these compounds were also tested for the DNA moiety at the adenine binding position of ATP with Ile51,",
+    "source": {
+      "source_file": "janupally2014.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "ynthesizedcompounds (cid:2)4.89. This reduced activity range can be attributed to the high\nelectronaffinitynatureofchlorine.Thoughthesecompoundswere\nAsreportedearlier,thepurifiedS.aureusgyraseBdonothavea found to possess polar contacts with Arg144, the presence of\nhighly active ATPase activity like Escherichia coli gyraseB.22 As a chlorinecontaininglonepairofelectronswasbelievedtoperturb\nFigure3. Interactionpatternofcrystalligandandleadmolecule1(BAS01355130).\nPleasecitethisarticleinpressas:Janupally,R.;etal.Bioorg.Med.Chem.(2014),http://dx.doi.org/10.1016/j.bmc.2014.09.008",
+    "source": {
+      "source_file": "janupally2014.pdf",
+      "page": 4,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "R.Janupallyetal./Bioorg.Med.Chem.xxx(2014)xxx–xxx 5\nTable1\nBiologicalevaluationofthesynthesizedcompounds\nO\nO OH\nR N O n R 1 R N O R 2\nNH NH\nX N H X N H\nCmpd4-32 Cmpd33-44\nCompd R n X R1 R2 GyraseBassay Supercoilingassay MIC(lM)c MRSAMIC(lM)d BiofilmInhibi. Cytotoxicity\n(IC50)a (IC50)b (IC50)e (%inhibi.)f\n4 H 1 H OH — 6.91±0.43 6.125±0.21 42.33 21.16 47.8 7.2\n5 H 2 H OH — 7.32±0.83 6.125±0.32 20.205 40.41 88.31 2.9\n6 H 3 H OCH3 — 36.31±0.48 25±0.37 148.2 148.2 >100 9.7\n7 H 4 H OH — 5.7±0.16 6.125±0.44 37.05 37.05 81.5 32.06\n8 F 1 H OH — 13.43±1.12 16.31±0.21 79.8 79.8 >100 18.06\n9 F 2 H OH — 17.6±0.87 12.0±0.26 38.19 38.19 82.7 28.72\n10 F 3 H OH — 1.32±0.17 1.13±0.34 4.57 9.15 9.63 7.59\n11 F 3 H OCH3 — 18.6±0.56 10.7±0.11 70.35 32.175 59.33 33.81\n12 F 4 H OH — 15.34±0.32 7.1±0.11 35.17 59.3 >100 29.04\n13 Cl 1 H OH — 26.35±0.23 18.21±0.71 75.8 75.8 >100 25.62\n14 Cl 2 H OH — 11.23±0.85 9.8±0.34 36.36 36.36 53.2 31.66\n15 Cl 3 H OH — 9.85±0.31 9.13±0.11 34.9 69.8 >100 45.52\n16 Cl 3 H OCH3 — 35.63±0.76 22.19±1.56 67.23 134.47 >100 27.93\n17 Cl 4 H OH — 13.06±1.73 8.91±0.35 33.61 33.61 39.2 39.67\n18 NO2 1 H OH — 4.932±0.34 2.23±0.51 9.18 18.33 18.35 26.91\n19 NO2 2 H OH — 17.53±1.41 8.32±0.77 16.96 16.96 27.92 24.57\n20 NO2 3 H OH — 6.832±0.49 6.12±0.18 33.9 44.12 62.31 27.23\n21 NO2 3 H OCH3 — 9.83±1.1 5.3±0.25 32.69 32.69 59.31 35.89\n22 NO2 4 H OH — 9.823±0.61 6.09±0.42 32.6 32.6 44.2 31.74\n23 OCH3 1 H OH — 11.06±0.23 18.36±0.33 38.42 76.84 >100 27.35\n24 OCH3 2 H OH — 13.43±0.85 11.3±0.48 73.67 73.67 >100 26.74\n25 OCH3 3 H OH — 8.93±0.44 5.32±0.17 35.37 35.37 52.2 22.37\n26 OCH3 3 H OCH3 — 21.34±0.34 12.5±0.67 68.04 34.02 63.9 50.48\n27 OCH3 4 H OH — 22.93±1.33 12.5±0.71 68.04 34.08 71.1 29.36\n28 H 1 N OH — 21.8±0.94 8.9±0.38 42.18 42.18 71.9 27.24\n29 H 2 N OH — 9.23±0.88 3.125±0.61 20.14 10.07 29.43 31.14\n30 H 3 N OH — 18.53±1.44 6.98±0.67 38.54 38.54 88.09 33.81\n31 H 3 N OCH3 — 5.23±0.81 6.8±0.1 36.94 36.94 79.32 57.54\n32 H 4 N OH — 2.9±0.4 2.1±0.23 4.61 9.23 15.73 22.72\n33 H — H — O 6.01±0.41 4.81±0.41 38.42 46.88 68.8 40.02\n34 H — H — S 22.8±0.14 12.5±0.82 73.3 37.6 82.1 13.07\n35 F — H — O 6.125±0.23 2.9±0.31 9.102 9.102 19.64 14.47\n36 F — H — S 6.93±0.83 4.8±0.54 34.78 17.32 59.12 20.63\n37 Cl — H — O 15.34±0.88 12.5±0.92 34.74 69.49 71.23 29.67\n38 Cl — H — S 13.83±0.62 12.1±0.95 4.15 4.15 9.72 23.04\n39 NO2 — H — O 8.51±0.54 5.8±0.31 33.75 46.98 83.22 31.29\n40 NO2 — H — S 3.132±0.24 2.1±0.31 8.087 16.98 10.32 25.21\n41 OCH3 — H — O 4.34±0.77 3.062±1.53 17.58 17.58 31.72 23.26\n42 OCH3 — H — S 9.31±0.63 15.98±0.28 67.31 67.31 >100 22.63\n43 H — N — O 6.935±0.25 4.7±0.52 19.15 38.3 82.45 38.71\n44 H — N — S 2.31±0.48 1.7±0.3 4.55 9.12 11.31 31.86\nNovobiocin 0.125±0.24 0.030±0.015 0.25 ND ND ND\nND,indicatesnotdetermined.\na S.aureusgyraseBATPaseactivity.\nb S.aureusDNAgyrasesupercoilingactivity.\nc Invitro(MTCC3160)activity.\nd Invitro(MTCC96)MRSAMICactivity.\ne BiofilminhibitionofMTCC96.\nf At100lMagainstRAW264.7cells.\ntheelectroncloudspanningoverthearomaticring,thereofresult- hydrophobic pocket and an additional polar contact with Asn54\ninginthelossofkeynon-polarinteractionsinthebindingpocket. which explains their activity. Introduction of sulfur in the linker\nAnotherimportantfactorplayingakeyroleinthereducedactivity chain (40) made the compound more active probably due to an\nprofile of these compounds can be the steric hindrance imparted extra polar contact that it maintained with Arg144. Decrease in\nby chlorine.Thebiggersize ofchlorineincomparisontofluorine thelinkerlengthtoonecarbonchainasincompound18(docking\ncan be attributed for the decreased activity of the compounds as score of (cid:2)6.2) oriented the molecule in the vicinity of Arg144\nchlorine blocks the efficient binding of compounds at the active allowingthetwocarbonyloxygentohealthierinteractions.Substi-\nsite. However nitro substitution at 5th position of benzimidazole tutionofmethoxygroupat5thpositionofbenzimidazolenucleus\nnucleus (18–22, 39, 40) resulted in compounds showing good (23–27,41and42)wasfoundtoreducetheactivityprofileagainst\nactivity profile with IC in the range of 3.13–17.53lM. Docking GyrB with IC in the range of 4.34–22.93lM. Presence of\n50 50\nstudiesinthiscaseconferredthatthepresenceofnitrogroupon methoxy group resulted in less active compounds owing to its\nbenzimidazole increased the non-polar interactions at the natureofstearicbulkiness,andwasnotinvolvedinanynon-polar\nPleasecitethisarticleinpressas:Janupally,R.;etal.Bioorg.Med.Chem.(2014),http://dx.doi.org/10.1016/j.bmc.2014.09.008",
+    "source": {
+      "source_file": "janupally2014.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "R.Janupallyetal./Bioorg.Med.Chem.xxx(2014)xxx–xxx 7\nreorientationwasacquiredwithanextrapolarcontactwithGly85 enzymeinhibitionalso displayedsignificant in vitro antibacterial\nalong with Asp81 and Arg144. Compound 32 (docking score of activity against both the MTCC and MRSA strains indicating its\n(cid:2)6.89), the only potent compound with increased linker length potential as bactericidal in vitro, whose MICs were 4.57lM and\n(four carbon chain) was found with its imidazopyridine in the 9.15lM comparable to the reference compound ofloxacin which\nhydrophobic pocket and the terminal carboxyl group interacting showed 4.15lM and 17.29lM in MTCC 3160 strain and MRSA\nwithArg84andArg144.Presenceofterminalmethyl-estermoiety 96 strain respectively. Ciprofloxacin displayed an MIC of\nasincompound31(dockingscoreof(cid:2)6.72)wasalsofoundtohave 9.431lM against MTCC 3160 and 18.8lM against MRSA strain.\nasimilarinteractionprofile. This confirmed the activity profile of the compound 10 with\nInanutshell,itcanbeconcludedthatsubstitutionslikefluoro respect to the reference standards ofloxacin and ciprofloxacin as\nand nitro groups on benzimidazole were favorable in terms of bactericidal.Compounds38and44alsoexhibitedgoodantimicro-\nactivity against S. aureus gyraseB. The linker length played an bialpropertiesinboththestrainshighlightingtheefficacyofthis\nimportant role in the activity as it was found to be involved in chemicalclassofmoleculesininhibitingthemicrobes.Incontrast,\ntheorientationoftheterminalhydrophobicandhydrophilicmoie- fewcompounds5–9,13–17,25–28and43displayedaweakanti-\nties in the active site. Linker length of three carbon atoms was bacterial activity against the above bacterial strains, which could\nfoundtobefavorableinmanyofthecasesandfourcarbonchains be attributed to the permeability issue or efflux pump\nwastoleratedinfewcasesasillustratedabove.Decreaseinlinker transportation.\nlength was not recommended, as these compounds showed a\nmarkedreductioninactivity.Presenceofoxygenandsulfurwere 2.5.InhibitionofbiofilmformationbyS.aureus\nadvantageous with few compounds as they were involved in the\norientationofthecompoundattheactivesiteforinteractions. Biofilmisanextracellularpolysaccharide,producedbystaphy-\nlococcal species that facilitate attachment and matrix formation\n2.3.DNAsupercoilingassay that results in alteration in the phenotype of the organism, with\nrespecttogenetranscriptionandgrowthrate.25Itwasestimated\nSupercoilingoftheDNAoccursinthepresenceofgyraseAand that65%ofallthehumanbacterialinfectionswereduetobiofilm\ngyraseB subunits. Targeting either of the domains may result in formation which may result in prolonged and chronic infections\nlossofsupercoilingactivity.TheDNAsupercoilingassaywasper- leading to death.25,26 While recalcitrance of these biofilm-medi-\nformed using a commercially available Inspiralis kit (Inspiralis atedinfectionshasbeenassociatedwithadverseeffectonpatient\nLimited,Norwich,UK)withapositivecontrol,moxifloxacinhaving health, the increase in the resistance of S. aureus to methicillin\nan IC of 11.2±1.8lM.24 The kit included the assay buffer, resulted in more hysterical condition.27 The extensive resistance\n50\nrelaxedpBR322DNAassubstrate,S.aureusDNAwithA2B2sub- of S. aureus biofilms against the antibacterials can be attributed\nunits. A library of the above forty one synthesized compounds tofailureofantibioticstopenetratethebiofilm,thedifferentmet-\nwhen screened initially at 50lM and 25lM concentrations, we abolicstatesofthecellsinthebiofilmaggregates,andthedifferen-\nfound thirty nine compounds with percentage inhibition >60%. tial expression of genes by the bacteria concerned in the same\nThese compounds were repeated at lower concentrations of biofilmaggregates.28Oneofthenovelapproachofinhibitingpath-\n12.5lM and 6.25lM subsequently, resulting in eleven com- ogen virulence could be by inhibiting the biofilm formation thus\npounds that exhibited >50% relative inhibition profile. These minimizingtheselectionpressureforresistanceasitholdagreat\npotent inhibitory compounds were finally screened at 1.56lM promise as an alternative to traditional antibiotic treatment.29\nand0.75lMandIC valuesarereportedinTable1.Asobserved WefocusedourstudyoninhibitionofS.aureusbiofilmformation\n50\nin the gyraseB assay results, compound 10 was found to be the bythefortyonesynthesisedsmallmoleculeinhibitors.Theestima-\nmostpotentexhibitinganIC valueof1.13±0.34lMasdepicted tion of inhibition of biofilm formation was monitored quantita-\n50\ninFigure6.ThusthegyraseBassayresultswellcorrelatedwiththe tively and qualitatively. Initially, Congo red method was adopted\nsupercoilingactivityprofile. to know the strain’s efficiency in biofilm formation.27 The MRSA\n96 was a strong biofilm producer with >2 OD at 570nm\n2.4.InvitroMICevaluation wavelength.Assayswereperformedina96-wellmicrotiterplate,\nAllthesynthesizedcompounds(4–44) werefurther testedfor\ntheirinvitroantibacterialactivityagainsttwobacterialstrains,S.\naureus MTCC 3160 and MRSA 96 using the protocol as described\ninSection4.3.4.Ofloxacinandciprofloxacinwereincludedasref-\nerence compounds. The results of the antibacterial screening are\npresentedinTable1.Compound10whichdisplayedaverygood\nFigure 6. Inhibitory profile of S. aureus DNA gyrase supercoiling activity by\ncompound10.Arepresentativegelobtainedfromtheanalysisoftheinhibitionof\nDNA gyrase supercoiling activity is shown above. (R) represents relaxed closed\ncircular DNA; (Con) represents the supercoiled relaxed DNA in the presence of Figure7. Dose–responsecurveofcompound10inhibitiononS.aureusMRSA96\ngyraseenzyme.Geldataforassayswithcompound10indifferentconcentrations biofilmformation.Thedataispresentedas%inhibitionmean±standarderrorof\nwithnovobiocinaspositivestandardareshown(inlM). meansfor6samples.PercentinhibitionisrelativetoDMSOcontrol.\nPleasecitethisarticleinpressas:Janupally,R.;etal.Bioorg.Med.Chem.(2014),http://dx.doi.org/10.1016/j.bmc.2014.09.008",
+    "source": {
+      "source_file": "janupally2014.pdf",
+      "page": 7,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "olgroup\nmakingthemrelativelysafe,asignificantbreakthroughwhencom-\nBasedonthepromisingprofileofcompound10,invivoefficacy pared to otherwise cardiotoxic terfenadine and amiodaroneas\nwascarriedoutinmousesepticaemiamodel.BrieflyCD-1female illustratedinFigure9aandb.\nmice (10 per group) were administered S. aureus inoculum of\n3(cid:3)107cfu/mouseviaintraperitonealroute.Micewerethentrea- 2.9.QikPropresults\nted with compound 10 in varying doses of 5, 10, and 25mg/kg\n(iv)attimeofand4hofpostinfection.Vancomycinwasusedas Further,toanalysevariouspharmacokineticpropertiesofthese\na control and dosed at 5mg/kg. Survi",
+    "source": {
+      "source_file": "janupally2014.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "10 was found to protect 60% of animals at was utilized. A preliminary examination of the ADMET results\n5mg/kg,80%and100%protectionat10and25mg/kgrespectively showedthatallthedesiredhitsobeyLipinski’sruleoffiveshowing\nasillustratedinFigure8. theirdrug-likenature.Compoundswithfavourableactivityagainst\nS. aureus DNA gyraseB (10, 44, 41 and32) showed parameters\nFigure9a. Mean(±SEM)oftheheartratesofatriaandventriclesofCompound-10.\nFigure8. Numberofsurvivalsofmice,24hpostinfectionswithS.aureustreated (⁄p<0.05,⁄⁄p<0.01and⁄⁄⁄p<0.001).Statisticalsignificancewasanalyzedcomparing\nwithvaryingdosesofcompound10;stand",
+    "source": {
+      "source_file": "janupally2014.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "eB\nthe ADMET analysis, we can conclude that all the active com- enzymehavenotbeenfruitfulasthereisnosingledrugapproved\npounds showed characteristics of a promising drug candidature clinically till date.7 So in an effort to discover lead molecules\nwhich can be worked for rational drug design against S. aureus againstthisenzyme,wegeneratedastructure-basede-pharmaco-\nDNAgyraseBenzymefrompharmaceuticalpointofview. phore model to identify structurally diverse, small molecule\nFigure10. DSFexperimentforcompound10showinganincreaseinthermalstabilitybetweenthenativeG24protein(blue)andDNAgyraseBprotein–compound10",
+    "source": {
+      "source_file": "janupally2014.pdf",
+      "page": 9,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "10 R.Janupallyetal./Bioorg.Med.Chem.xxx(2014)xxx–xxx\ninhibitors of S. aureus DNA gyraseB enzyme based on the crystal outonanautomaticFlashEA1112Series,CHNAnalyzer(Thermo).\nstructure of the enzyme with a co-crystallized inhibitor. Subse- ThepurityofthefinalcompoundswasexaminedbyHPLC(Shima-\nquently,twelveactivecompoundsofvariedstructuralclasseswere dzu,Japan,(onPhenomenexC8(1",
+    "source": {
+      "source_file": "janupally2014.pdf",
+      "page": 10,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "c acid (41). The compound was NdeIandNotIandclonedintoNdeIandNotIsitesofpQE2vector\nprepared according to the general procedure D using 4-(5-meth- underT5promoterwithHistagatN-terminaldomaininourlabo-\noxy-1H-benzo[d]imidazol-2-yl)aniline 3e (0.1g, 0.42mmol), tri- ratory. Similarly, the gene encoding S. aureus DNA gyraseB was\nethylamine (0.11g, 1.05mmol), 2,20-oxydiacetic acid (0.056g, amplified from S. aureus RN4220 genomic DNA by using the for-\n0.42mmol) and propylphosponic anhydride solution (0.332g, ward primer 50CACCCATATGGTGACTGCATTGTCAGA 30 and a\n1.05mmol)toafford41(0.208g,70%yield)asbuffcoloureds",
+    "source": {
+      "source_file": "janupally2014.pdf",
+      "page": 15,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "to the general procedure D using 4-(5-meth- underT5promoterwithHistagatN-terminaldomaininourlabo-\noxy-1H-benzo[d]imidazol-2-yl)aniline 3e (0.1g, 0.42mmol), tri- ratory. Similarly, the gene encoding S. aureus DNA gyraseB was\nethylamine (0.11g, 1.05mmol), 2,20-oxydiacetic acid (0.056g, amplified from S. aureus RN4220 genomic DNA by using the for-\n0.42mmol) and propylphosponic anhydride solution (0.332g, ward primer 50CACCCATATGGTGACTGCATTGTCAGA 30 and a\n1.05mmol)toafford41(0.208g,70%yield)asbuffcolouredsolid. reverse primer 50 AGCTAAGCTTTTAGAAGTCTAAGTTTGCAT 30\nMp—234–236(cid:3)C.1HNMR(DMSO-d ):d 4.26(s,4",
+    "source": {
+      "source_file": "janupally2014.pdf",
+      "page": 15,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "356.3 (M+H)+. ticated by sequencing using a sequencer. Final clones were con-\nAnal.CalcdforC H N O :C,60.84;H,4.82;N,11.83.Found:C, firmed by sequencing in a sequencer. Further, for expression of\n18 17 3 5\n60.87;H,4.79;N,11.85. these clones, they were transformed into BL21-codon plus (DE3)\ncells of E. coli. Transformants were grown in Luria Bertani (LB)\n4.2.11.10. 2-((2-((4-(5-Methoxy-1H-benzo[d]imidazol-2-yl)phe- broth(Himedia)at37(cid:3)Cwithshaking(rpm140),inthepresence\nnyl)amino)-2-oxoethyl)thio)aceticacid(42). Thecompound ofampicillin(100lg/mL)(Sigma)untilthestartingopticaldensity\nwas prepared a",
+    "source": {
+      "source_file": "janupally2014.pdf",
+      "page": 15,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "3\n56.16;H,4.09;N,16.38.\n4.3.2.Invitroscreeningofthecompoundsforinhibitoryactivity\n4.3.Biologicalactivity anddeterminationofIC valuesthroughATPaseassay\n50\nThe proteins were expressed as described in Section 4.3.1. As\n4.3.1.E.coliDNAgyraseAandS.aureusDNAgyraseBcloning, reported earlier, the purified S. aureus gyraseB does not have a\nproteinexpressionandpurification highlyactiveATPaseactivitylikeE.coligyraseB.22HencegyraseB\nWhile the vectors were from Qiagen, the primers from assaywasperformedwithrecombinantproteinsofE.coligyraseA\nSigma–Aldrich and all the enzymes unless otherwise mentioned and S. aureus",
+    "source": {
+      "source_file": "janupally2014.pdf",
+      "page": 15,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "S. aureus gyraseB does not have a\nproteinexpressionandpurification highlyactiveATPaseactivitylikeE.coligyraseB.22HencegyraseB\nWhile the vectors were from Qiagen, the primers from assaywasperformedwithrecombinantproteinsofE.coligyraseA\nSigma–Aldrich and all the enzymes unless otherwise mentioned and S. aureus gyraseB.19,23 As per the reports, the reaction is\nPleasecitethisarticleinpressas:Janupally,R.;etal.Bioorg.Med.Chem.(2014),http://dx.doi.org/10.1016/j.bmc.2014.09.008",
+    "source": {
+      "source_file": "janupally2014.pdf",
+      "page": 15,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "16 R.Janupallyetal./Bioorg.Med.Chem.xxx(2014)xxx–xxx\nactivatedtoabout620foldwithincorporationofsmallmolecular 4.3.5.Inhibitionsofbiofilmformation\nweight DNA, in the assay as it is reported to stimulate the pro- Biofilm assay was carried out in 96-well tissue culture plate\ntein.23 Initially, equimolar quantities of about 0.5lM each of (TCP) method as described by Christensen et al.42 Detection of\nE. coli gyraseA and S. aureus gyraseB wereincubatedfor a period thebiofilmformationbytheMRSA96strainwasdoneasreported\nof 45min with salmon sperm DNA (Sigma) in 50mM Tris (pH earlierbytheCongoredagarmedia(CRA)43method.Thoughcer-\n7.5), 75mM ammonium acetate buffer for the reconstitution of taindisadvantagesareassociatedwiththismethod,yetitwasfol-\nthehybridtopoisomerasesat4(cid:3)C.Latertheassaywasperformed lowed due to its simple, economic and efficient process.43 The\nina96-wellmicrotiterplateasmentionedearlier.37Theassaybuf- screening was done using specially prepared solid medium that\nferincludes50mMTris(pH7.5),75mMammoniumacetate,5%w/ is brain heart infusion broth (BHI) (Himedia) supplemented with\nvglycerol,0.5mMEDTA,6mMmagnesiumchloride,0.001%Triton 5%sucrose.Congoredstainwaspreparedasconcentratedsolution\nX-100, 1mM dithiothreitol, DNA of 2lg/mL ((cid:4)3lM base pairs), and autoclaved at 121(cid:3)C for 15 min, added when the agar had\n250lMATP,2.2nMofE.coligyraseAandS.aureusgyraseB.Reac- cooledto55(cid:3)C.43Thestrainwasinoculatedontotheplatespre-\ntionswereperformedwithvariousdrugconcentrationrangesfor pared,incubatedfor 36h at 37(cid:3)C aerobically.The observation of\nthe calculation of IC , witha negative moxifloxacin and positive theblackcolonieshasconfirmedthebiofilmproducingnatureof\n50\nnovobiocincontrolasstandards.Thereactionwasallowedtopro- theMRSAstrain.Subsequently,theassaywasperformedina96-\nceedfor60minandwasquenchedby additionof20lLofmala- well flat bottom tissue culture plate in tryticase soy broth with\nchite green reagent (POMG-25H, Bioassay systems, USA) 1%glucose(TSB)(Himedia).\nsubsequentlyabsorbancewasreadat650nmafter20minincuba-\ntion. Triton X-100 acts as a surfactant to prevent aggregation of 4.3.5.1. Quantitative assay of the biofilm formed on 96-well\nmoleculesduringtheassay. microtiterplates. Isolatesfromagarplatewereinoculatedin\nTSBmediaandincubatedfor18hat37(cid:3)Cwith120rpm.Laterthe\n4.3.3.DeterminationofS.aureusDNAgyrasesupercoiling\nculturewasdiluted1in100withfreshTSBmediumand200lLof\nactivity38with(IC )determination it was aliquoted into each of the wells along with the test com-\n50\nSupercoiling assay was performed using the commercially\npoundsatdifferentconcentrationsof100–1.56lM,whilethecon-\navailable kit (DNA gyrase supercoiling assay kit: SAS4001) from trol was incubated with DMSO solvent, though the DMSO usage\nInspiralis Pvt. limited, Norwich, UK. The assay was performed in was limited to 4% during the assay. The plates were incubated\n1.5mL eppendorf tubes at room temperature. 1U of S. aureus for24hat37(cid:3)Cinstationaryphasewiththelidclosed.Thecon-\nDNA gyrase was incubated with 0.5lg of relaxed pBR 322 DNA tents of each well was gently removed by tapping the plates\nin30lLreactionvolumeat37(cid:3)Cfor30minwith40mMHEPES. inverted,theplateswerewashedthricewith0.2mLofphosphate\nKOH (pH 7.6), 10mM magnesium acetate, 10mM DTT, 2mM buffersaline(PBS)atpH7.2toremovetheunattached,deadand\nATP, 500mM potassium glutamate, 0.05mg/mL albumin (BSA). free floating planktonic bacteria.The biofilmformedby adherent\nStandard compound novobiocin was the positive control and 4% sessile S. aureus MRSA 96 was fixed with sodium acetate (2%)\nDMSO was considered as negative control. Subsequently, each and stained with (0.1%w/v) crystal violet. As the crystal violet\nreaction was stopped by the addition of 30lL of Stop dye [40% stainsthedeadandlivecells,itislimitedtocertainuse,butinthis\nsucrose, 100mM Tris–HCl (pH 7.5), 1mM EDTA and 0.5mg/mL assay the wells were washed thrice so the chance of unattached\nbromophenol blue],39 briefly centrifuged for 45s and was run in dead cells staining is almostneglected.43 Excessstain was rinsed\n1%agarosegelin1XTAEbuffer(40mMTrisacetate,2mMEDTA). off by thorough washing with water and plates were dried in a\nFurthermore, concentration of the range of compounds that hot air oven. The plates were photographed. For the quantitative\ninhibits 50% of supercoiling activity (IC ) was determined using estimation,absorbancewasreadat570nmbyPerkinElmerVictor\n50\ndensitometry and NIH image through Bio-Rad GelDoc image X3platereader.Theopticaldensity(OD)valuesreflectedanindex\nviewer. oftheS.aureusbacteria adheringtosurfaceand formingbiofilm.\nThe experiment was performed in triplicates, the background\nabsorbancewascompensatedbyreadingtheODfromsterilemed-\n4.3.4.Antimicrobialactivitymeasurements\nium,fixativeused,autoabsorbanceanddyewhichwereaveraged\nThe Staphylococcus aureus bacterial culture (MTCC 3160) was\nand subtracted from all test values, and this mean OD was also\nobtained from Microbial Type Culture Collection and Gene Bank,\nsubtracted from the control well too. The control well OD was\nChandigarh, India while the MRSA 96 strain was obtained from\n0.28whichindicatedthattheMRSA96strainwasastrongbiofilm\nSir Ronald Ross Institute of Tropical and Communicable Diseases\nproducer.Ingeneral,ODvaluesabove0.2areconsideredasstrong\n(Nallakunta, India). Minimum inhibitory concentrations for the\nbiofilmproducers.44Theinhibitionpercentageofthetestedcom-\ntest compounds were determined by agar dilution method40\npoundswascalculatedbytheformula.\naccording to Clinical and Laboratory Standards Institute guide-\nlines.41 The antibacterial activity study for forty one compounds %Inhibition¼controlreading(cid:2)blankreading=controlreading\nwas performed at the Department of Pharmacy, Birla Institute of\n(cid:5) 100:\nTechnologyandScience,Hyderabadonboththestrainsseparately.\nFresh overnight colonies from Mueller–Hinton agar (Hi-Media)\nFurther,thedrycrystalvioletstainedplatesweretreatedwith\nmediumweresuspendedtoaturbidityofapproximately106col-\n200lLof33%glacialaceticacid,givenabriefshakeinorbitalsha-\nony forming units (cfu)/mL. Stock solutionsof tested compounds\nkerandtheplateswerereadat570nminaPerkinElmerVictorX3\nand standards (ciprofloxacin and ofloxacin) were prepared in\n96-wellplatereader.TheODgivesustheapproximatecountofthe\n0.9%saline.Acontrolwassetforthecomparisonofthetestcom-\ncellsinvolvedinthebiofilmformation.\npounds.Atotalof1mL ofthebacterialsuspensionwas addedto\nplatescontaining19mLofthemedia,sothetestrangewasabout\n4.3.6.Mammaliancytotoxicitystudies\n10 doubling dilutions from 100lM to 0.1lM. The plates were\nA diploid human embryonic kidney cell line (HEK-293) from\nincubatedat35(cid:3)Cinambientairforabout16(cid:2)20h.Theminimum\nATCCwas usedto assessthecytotoxicityofallthe fortyonetest\ninhibitoryconcentration(MIC)forthecompoundswasconsidered compounds as described before.45 Briefly, HEK-293 cells were\nto be the lowest drug concentration that prevented the visible\nseededat5000cellsperwellina96-wellmicrotiterplate(NEST).\ngrowthofthebacteriaontheagarplates.\nAfter24hincubation,thecellswerewashedwithPBSand2-fold\nPleasecitethisarticleinpressas:Janupally,R.;etal.Bioorg.Med.Chem.(2014),http://dx.doi.org/10.1016/j.bmc.2014.09.008",
+    "source": {
+      "source_file": "janupally2014.pdf",
+      "page": 16,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  }
+]

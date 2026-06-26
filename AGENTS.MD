@@ -1,153 +1,345 @@
 # AGENTS.md
 
-## Project purpose
+## Project mission
 
-This project is a RAG-assisted system for chemical data extraction, dataset preparation, and future molecule selection workflows.
+This repository is for the DataCon/ChemX final task: automated chemical information extraction from scientific literature.
 
-The system should not be treated as a simple chatbot over notes. RAG must be used as an engineering memory layer that retrieves only relevant fragments from project documentation, methodology notes, code examples, and chemical datasets.
-
-## Current project structure
+The project is not a generic PDF chatbot and not a note-taking RAG demo. The required result is a reproducible extraction workflow:
 
 ```text
-project_docs/        # project architecture, roadmap, decisions, status
-methodology_notes/   # Markdown notes about tools, methods, chemical data, RAG, extraction
-molecule_facts/      # extracted chemical facts, datasets, normalized records
-code_examples/       # draft and reusable parsers/extraction examples
+scientific PDF
+  -> parsed text / tables / images
+  -> evidence-backed raw records
+  -> normalized records
+  -> validated ChemX-compatible CSV/JSON
+  -> Precision / Recall / F1 / Macro-F1 evaluation
+  -> minimal web UI for PDF upload and extracted table review
 ```
 
-Current known code example:
+## Current benchmark target
+
+Primary domain:
 
 ```text
-code_examples/Datacon_web_extraction/
+Benzimidazoles
 ```
 
-This contains a draft web parser for NIST Chemistry WebBook and PubChem.
+Reason: it is a small-molecule ChemX domain with a low single-agent baseline and a table-heavy structure suitable for the existing PDF extraction MVP.
 
-Future examples may include PDF parsers, table extraction, graph extraction, image/OCR extraction, and molecule validation.
-
-## Important constraint
-
-Do not implement audio transcription in this project.
-
-The project already has ready Markdown notes. Use existing `.md` files as RAG sources.
-
-## Nearest goal
-
-Build a universal PDF parser for chemical data extraction.
-
-The parser must work as a reusable pipeline for different scientific PDFs, not as a hardcoded solution for one file.
-
-It should support or prepare interfaces for:
+Fallback domains, only after the primary path is working:
 
 ```text
-- text extraction
-- table extraction
-- image extraction
-- chart/graph extraction
-- OCR fallback
-- chemical entity/property extraction
-- normalization
-- validation
-- source provenance
+Complexes
+Co-crystals
 ```
 
-Every extracted value should preserve its source:
+Do not attempt to solve all ChemX domains before one domain works end-to-end.
+
+## Main success criterion
+
+Produce benchmark-compatible predictions for at least one ChemX domain and exceed the published single-agent Macro-F1 for that domain.
+
+For Benzimidazoles, the benchmark CSV schema must contain exactly the expected target columns:
 
 ```text
-source file → page → section/table/figure → extraction method → confidence
+compound_id
+smiles
+target_type
+target_relation
+target_value
+target_units
+bacteria
 ```
 
-## Long-term goal
-
-Build a multi-agent system for:
+Prioritize these fields in this order:
 
 ```text
-- chemical data collection
-- PDF/web/API extraction
-- dataset cleaning
-- molecule/property normalization
-- molecule selection by target properties
-- validation of results
-- final dataset export
+1. compound_id
+2. target_type
+3. target_relation
+4. target_value
+5. target_units
+6. bacteria
+7. smiles
 ```
 
-Do not start with a complicated multi-agent system. First build:
+Treat `smiles` as low priority unless it is source-backed. Never invent SMILES.
+
+## Required project documents
+
+Before major implementation work, read or query the relevant parts of:
 
 ```text
-RAG core → PDF extraction MVP → chemical record extraction → dataset validation → agents
+README.md
+AGENTS.md
+Datacon_preparation.md or project_docs/DATACON_PREPARATION.md
+project_docs/DATACON_FINAL_TASK_BRIEF.md
+project_docs/DATACON_EXECUTION_CHECKLIST.md
+project_docs/DECISIONS.md
+project_docs/RAG_DESIGN.md
+project_docs/PDF_EXTRACTION_PLAN.md
 ```
+
+Use RAG for targeted retrieval from project documentation and methodology notes. Do not load entire long notes into context.
+
+## Repository-local Python policy
+
+Use only the repository-local interpreter:
+
+```powershell
+.\.venv\Scripts\python.exe
+```
+
+Do not use:
+
+```text
+python
+python3
+py
+system Python
+Codex runtime
+interpreters outside the repository
+```
+
+If the repository-local interpreter is missing, stop and report:
+
+```text
+- current working directory
+- checked interpreter paths
+- command that could not be run
+- what the user should create or install
+```
+
+Do not silently install heavy dependencies. Ask before adding tools such as Docling, Marker, RDKit, Chroma, Qdrant, MolScribe, DECIMER, OSRA, YOLO, or OCR stacks unless they are already part of the project environment.
+
+## Existing architecture to preserve
+
+Reuse the current project structure:
+
+```text
+project_docs/        architecture, roadmap, decisions, benchmark task docs
+methodology_notes/   notes about chemical data, PDF extraction, RAG, validation
+molecule_facts/      factual molecule and dataset records
+code_examples/       reusable extraction examples and parser drafts
+src/rag_core/        local RAG indexing and retrieval layer
+src/pdf_extraction/  PDF parser MVP and optional structure-recognition interfaces
+rag_index/           generated local RAG/Chroma indexes
+tests/               unit tests
+```
+
+Do not rewrite the project from scratch. Prefer small, testable additions.
 
 ## RAG rules
 
-Use separate logical knowledge collections:
+RAG is an engineering memory and retrieval support layer, not the main extraction engine.
+
+Use RAG for:
 
 ```text
-methodology_notes  # how to solve tasks
-project_docs       # current architecture and decisions
-code_examples      # reusable code patterns
-molecule_facts     # factual chemical data and datasets
+- project rules
+- architecture decisions
+- ChemX task details
+- methodology notes
+- prompt and parser examples
 ```
 
-Before implementing a task:
-
-1. Check `project_docs/` for architecture and current decisions.
-2. Check `methodology_notes/` for relevant methods/tools.
-3. Check `code_examples/` for similar existing code.
-4. Check `molecule_facts/` only when factual molecule or dataset data is needed.
-
-Do not load entire notes into context. Retrieve only relevant chunks.
-
-## PDF parser design rules
-
-The PDF parser should be modular.
-
-Preferred future structure:
+Do not use RAG as:
 
 ```text
-src/pdf_extraction/
-  pipeline.py
-  models.py
-  text_extractor.py
-  table_extractor.py
-  image_extractor.py
-  ocr_extractor.py
-  chemistry_extractor.py
-  normalizer.py
-  validator.py
-  exporters.py
+PDF -> vector DB -> ask the LLM to extract the whole benchmark dataset
 ```
 
-Do not hardcode PDF-specific page numbers, column names, molecule names, or table layouts in the core pipeline.
-
-PDF-specific behavior should be handled through configuration or separate extractor modules.
-
-## Data model rules
-
-Use Pydantic models for structured extracted data.
-
-Raw extraction, normalization, and validation must be separate stages.
-
-Do not overwrite raw extracted data.
-
-Chemical records should support optional fields such as:
+Scientific articles should be processed through the extraction pipeline:
 
 ```text
-molecule_name
-formula
-molecular_weight
-SMILES
-canonical_SMILES
-isomeric_SMILES
-InChI
-InChIKey
-CAS
-property_name
-property_value
-unit
-source
-confidence
-validation_status
+PDF -> parser -> text/tables/images -> evidence chunks -> extractor -> validator -> CSV
 ```
+
+## Workflow architecture
+
+Do not build a free autonomous agent swarm.
+
+Use a deterministic workflow or state machine with narrow stages:
+
+```text
+Ingest
+  -> Parse
+  -> Evidence extraction
+  -> Domain extraction
+  -> Normalize
+  -> Validate
+  -> Export
+  -> Evaluate
+  -> Web UI
+```
+
+Agents or LLM calls may be used inside individual stages, but the orchestrator must remain observable and reproducible.
+
+Recommended state object:
+
+```text
+pdf_path
+parsed_document
+evidence_chunks
+raw_records
+normalized_records
+validation_errors
+prediction_csv
+metrics
+```
+
+## Data integrity rules
+
+Raw extraction, normalization, validation, and export are separate stages.
+
+Never overwrite raw extracted data with normalized values.
+
+Every extracted value should preserve provenance when possible:
+
+```text
+source file -> page -> section/table/figure -> row -> extraction method -> confidence
+```
+
+If evidence is missing, use:
+
+```text
+NOT_DETECTED
+```
+
+Do not hide missing values as empty strings unless the ChemX evaluator explicitly requires that format.
+
+## LLM rules
+
+LLMs may help with:
+
+```text
+- planning
+- interpreting table/caption context
+- extracting JSON from evidence chunks
+- resolving ambiguous local context
+- preparing review packages
+```
+
+LLMs must not be treated as ground truth for:
+
+```text
+- numeric values
+- units
+- SMILES
+- InChI / InChIKey
+- DOI / source metadata
+- provenance
+```
+
+Any LLM-produced record must be validated against schema and evidence.
+
+LLM output for extraction must be JSON only. Reject or repair invalid JSON in a controlled way, then validate with Pydantic.
+
+## Chemistry-specific rules
+
+Do not invent chemical structures.
+
+SMILES with wildcard `*`, R/R1/R2/Ar fragments, generic scaffolds, or unresolved substituent tables are not final molecule identities.
+
+Mark unresolved generic structures explicitly and do not link them to a compound as an identified molecule unless substituents are source-backed.
+
+Prefer source-backed identifiers from:
+
+```text
+- article text
+- tables
+- figures/captions
+- supplementary materials
+- saved external API response
+- validated external recognizer output
+```
+
+## Benzimidazoles extraction rules
+
+For the primary domain, extract every MIC or pMIC mention for benzimidazole antibiotics.
+
+Each measurement should become a separate record.
+
+Do not deduplicate during raw extraction. If the same measurement appears in different contexts, keep separate raw records and let validation/export decide.
+
+Expected fields:
+
+```text
+compound_id      article-local compound identifier, e.g. 5a or Compound 3
+smiles           full source-backed SMILES or NOT_DETECTED
+target_type      MIC or pMIC
+target_relation  =, <, or >; default to = only when the source shows no relation
+target_value     numeric value or source-preserved range if evaluator supports it
+target_units     units exactly or normalized to benchmark-compatible form
+bacteria         organism name as reported or normalized alias
+```
+
+Useful aliases:
+
+```text
+S. aureus -> Staphylococcus aureus
+E. coli -> Escherichia coli
+```
+
+## Evaluation rules
+
+Evaluation is mandatory, not optional.
+
+Save outputs under a stable path such as:
+
+```text
+outputs/benzimidazoles/predictions.csv
+outputs/benzimidazoles/predictions.json
+outputs/benzimidazoles/metrics.json
+outputs/benzimidazoles/field_metrics.csv
+```
+
+Always inspect both:
+
+```text
+- Macro-F1
+- field-level F1
+```
+
+A change is not successful just because the extraction looks plausible. It is successful only when metrics improve or the workflow becomes more reproducible without losing quality.
+
+## Stable positive result rule
+
+A task shows a stable positive result only when:
+
+```text
+- the workflow runs end-to-end from input PDF/data to benchmark-compatible CSV
+- evaluation is reproducible from committed code/config
+- tests pass or known failures are documented
+- Macro-F1 exceeds the relevant single-agent baseline, or a clearly documented field-level improvement is achieved without lowering the current Macro-F1
+```
+
+When this happens, update:
+
+```text
+project_docs/DATACON_EXECUTION_CHECKLIST.md
+README.md
+reports/final_metrics.md or the current metrics report
+```
+
+## Web UI scope
+
+A minimal UI is enough.
+
+Use Streamlit or Gradio unless the repository already has another UI stack.
+
+Required UI features:
+
+```text
+- upload/select PDF
+- choose domain
+- run extraction
+- display extracted table
+- show validation status and evidence when available
+- download CSV/JSON
+```
+
+Do not spend time on complex styling before extraction and metrics work.
 
 ## Code style
 
@@ -159,11 +351,11 @@ Prefer:
 - pathlib
 - type hints
 - Pydantic
-- modular functions/classes
+- small modules
 - explicit errors
 - logging
 - CLI scripts
-- tests for parsers and validators
+- tests
 ```
 
 Avoid:
@@ -171,53 +363,76 @@ Avoid:
 ```text
 - monolithic scripts
 - hardcoded absolute paths
-- hardcoded logic for one PDF
-- mixing extraction, normalization, and validation
-- silently dropping source information
+- hidden global state
+- hardcoded page numbers or one-PDF logic in core modules
+- mixing extraction, normalization, validation, and export
+- silently dropping provenance
 ```
 
-## Implementation priority
+## Suggested new modules
 
-Current priority:
+When implementing the ChemX workflow, prefer additions like:
 
 ```text
-1. Build RAG over existing Markdown notes and project docs.
-2. Build universal PDF parser MVP.
-3. Save raw extraction results with provenance.
-4. Add chemical record extraction.
-5. Add normalization and validation.
-6. Add multi-agent workflow later.
+src/datacon_workflow/
+  state.py
+  orchestrator.py
+  domains/
+    benzimidazoles.py
+  extraction/
+    evidence_builder.py
+    rule_extractor.py
+    llm_extractor.py
+  normalization/
+    units.py
+    bacteria.py
+  validation/
+    schema_validator.py
+  export/
+    chemx_csv.py
+  evaluation/
+    chemx_eval.py
+
+scripts/
+  run_domain.py
+  evaluate_domain.py
+
+app.py
 ```
 
-## Definition of done for nearest task
+Adjust names to the existing repository style when needed.
 
-The nearest task is done when the project has:
+## Testing
+
+Run tests after meaningful changes:
+
+```powershell
+.\.venv\Scripts\python.exe -m pytest
+```
+
+Add focused tests for:
 
 ```text
-- CLI command for parsing a PDF
-- page-level text extraction
-- table extraction interface or implementation
-- structured JSON output
-- Pydantic models for extracted records
-- source provenance for extracted items
-- basic tests or fixtures
-- documentation explaining how to run the parser
+- domain schema
+- CSV column order
+- relation parsing
+- unit normalization
+- bacteria alias normalization
+- NOT_DETECTED handling
+- exporter output
 ```
 
-## Core rule
+## Definition of done for the current phase
 
-First make one real workflow useful:
+The current phase is done when the repository has:
 
 ```text
-Given a scientific PDF, extract chemical data into structured raw records with source references.
+- documented ChemX task brief
+- maintained execution checklist
+- domain config/schema for Benzimidazoles
+- deterministic extraction/evaluation command
+- ChemX-compatible prediction CSV
+- metrics report with Macro-F1 and field-level F1
+- minimal web UI
+- README commands using .\.venv\Scripts\python.exe
 ```
-
-Then expand it into a RAG-assisted chemical dataset preparation and molecule selection system.
-
-
-# Structure
-AGENTS.md                         # short constant rules
-project_docs/RAG_DESIGN.md        # detalization of RAG
-project_docs/PDF_EXTRACTION_PLAN.md # PDF-parser pipleline
-project_docs/ROADMAP.md           # Project stages
-project_docs/DECISIONS.md        
