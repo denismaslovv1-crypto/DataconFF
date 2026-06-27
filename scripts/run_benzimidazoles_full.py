@@ -34,7 +34,15 @@ def main() -> int:
     parser.add_argument("--pdf-dir", type=Path, required=True)
     parser.add_argument("--ground-truth", type=Path, required=True)
     parser.add_argument("--output-dir", type=Path, required=True)
-    parser.add_argument("--llm-mode", choices=["auto", "never"], default="auto")
+    parser.add_argument(
+        "--llm-mode",
+        choices=["never", "auto"],
+        default="never",
+        help=(
+            "LLM fallback mode. 'never' is the final public rules-only mode; "
+            "'auto' is an experimental fallback and was not used for final reported metrics."
+        ),
+    )
     parser.add_argument("--evidence-batch-size", type=int, default=5)
     parser.add_argument("--max-evidence-chunks", type=int, default=80)
     parser.add_argument("--max-concurrent-batches", type=int, default=1)

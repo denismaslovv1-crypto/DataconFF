@@ -333,8 +333,6 @@ def full_run_command(pdf_dir: Path, ground_truth_csv: Path, output_dir: Path) ->
         str(ground_truth_csv),
         "--output-dir",
         str(output_dir),
-        "--llm-mode",
-        "never",
     ]
 
 
@@ -348,8 +346,6 @@ def display_full_run_command(pdf_dir: Path, ground_truth_csv: Path, output_dir: 
         display_path(ground_truth_csv),
         "--output-dir",
         display_path(output_dir),
-        "--llm-mode",
-        "never",
     ]
     return " ".join(f'"{part}"' if " " in part else part for part in parts)
 
@@ -592,7 +588,7 @@ def render_full_dataset(st: Any) -> None:
     command = full_run_command(pdf_dir, ground_truth, output_dir)
     with st.expander("Developer details"):
         st.code(display_full_run_command(pdf_dir, ground_truth, output_dir), language="powershell")
-    confirm = st.checkbox("I understand this will run the full 30-PDF rules-only workflow.", key="confirm_full_run")
+    confirm = st.checkbox("I understand this will run the full 31-PDF rules-only workflow.", key="confirm_full_run")
     if not st.button("Run Full Dataset", type="primary", disabled=not confirm, key="run_full"):
         last = st.session_state.get("last_full_run")
         if isinstance(last, dict):

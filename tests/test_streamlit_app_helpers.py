@@ -119,11 +119,11 @@ def test_full_run_command_is_rules_only_repo_python(tmp_path: Path) -> None:
     command = full_run_command(tmp_path / "pdfs", tmp_path / "ground_truth.csv", tmp_path / "out")
 
     assert command[0].endswith(".venv\\Scripts\\python.exe")
-    assert command[-2:] == ["--llm-mode", "never"]
+    assert "--llm-mode" not in command
     assert display_full_run_command(Path("pdfs"), Path("ground_truth.csv"), Path("outputs/benzimidazoles_full")) == (
         ".\\.venv\\Scripts\\python.exe scripts/run_benzimidazoles_full.py "
         "--pdf-dir pdfs --ground-truth ground_truth.csv "
-        "--output-dir outputs/benzimidazoles_full --llm-mode never"
+        "--output-dir outputs/benzimidazoles_full"
     )
 
 

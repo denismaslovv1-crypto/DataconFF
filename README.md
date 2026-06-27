@@ -80,17 +80,19 @@ Run the reproducible full Benzimidazoles rules-only workflow:
 .\.venv\Scripts\python.exe scripts\run_benzimidazoles_full.py `
   --pdf-dir data\chemx\benzimidazoles\pdfs `
   --ground-truth data\chemx\benzimidazoles\ground_truth.csv `
-  --output-dir outputs\benzimidazoles_full `
-  --llm-mode never
+  --output-dir outputs\benzimidazoles_full
 ```
 
 The command writes per-article artifacts and merged outputs under the selected
-output directory.
+output directory. The default mode is rules-only; internal LLM fallback hooks
+remain available for experiments but are not used by this public command or by
+the reported metrics.
 
 Important output files:
 
 ```text
 predictions.csv              ChemX-compatible merged prediction rows
+review_records.csv/.json     review-only source/evidence context sidecars
 metrics.json                 aggregate local evaluation metrics
 field_metrics.csv            field-level precision, recall, and F1
 article_summary.csv          per-PDF status, prediction counts, and metrics
@@ -109,10 +111,11 @@ The final UI has three review modes:
 
 - `Saved Full-Run Results`: load an existing output directory and inspect
   aggregate metrics, article summaries, field metrics, zero-row/low-row PDFs,
-  predictions, and downloads.
+  predictions, evidence/review context, duplicate diagnostics, and downloads.
 - `Run Single Article`: select or upload one PDF, run the rules-only
   Benzimidazoles workflow with corrected PDF-stem evaluation, and inspect
-  predictions, validation errors, field metrics, evidence, and provenance.
+  predictions, validation errors, field metrics, evidence, and review
+  provenance.
 - `Run Full Dataset`: run the documented full rules-only command after explicit
   confirmation, then load the resulting output directory in the saved-results
   view.
@@ -123,6 +126,8 @@ The final UI has three review modes:
 - The final public run is rules-only; no LLM calls are used.
 - SMILES remain unresolved and are exported as `NOT_DETECTED`.
 - Full image/structure recognition is not used.
+- LLM-based SMILES or structure extraction may be future work, but it was not
+  included in the final evaluated run.
 - The local evaluator is approximate and should be interpreted as a local
   reproducibility metric.
 - Recall remains limited, and performance is uneven across PDFs.

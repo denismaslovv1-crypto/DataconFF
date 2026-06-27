@@ -50,6 +50,12 @@ Final export deduplication is evidence-aware: records with the same ChemX
 values are merged only when they come from the same `evidence_id`. Repeated
 mentions from distinct evidence contexts are preserved.
 
+`datacon_workflow.review_records` writes review-only sidecars
+(`review_records.csv` and `review_records.json`) that link ChemX rows to
+article/source context, page, evidence text, extractor, confidence, detected
+compound mentions, and duplicate status. These fields are not added to the
+benchmark-compatible `predictions.csv`.
+
 `datacon_workflow.evaluation` computes local field-level precision, recall, F1,
 and Macro-F1. Per-article reporting should scope ground truth by PDF stem and
 uses metric-only canonicalization for harmless serialization differences such
@@ -58,7 +64,8 @@ as `5` versus `5.0` and common bacteria aliases.
 `app.py` provides the final Streamlit review UI. It is organized around:
 
 - saved full-run results, including aggregate metrics, article summary,
-  field metrics, zero-row/low-row highlights, predictions, and downloads;
+  field metrics, zero-row/low-row highlights, predictions, evidence/review
+  context, duplicate diagnostics, and downloads;
 - rules-only single-article runs with corrected PDF-stem evaluation and
   evidence/provenance review;
 - explicit-confirmation full-dataset runs of the documented rules-only command.
@@ -71,8 +78,7 @@ The full public result is produced by:
 .\.venv\Scripts\python.exe scripts\run_benzimidazoles_full.py `
   --pdf-dir data\chemx\benzimidazoles\pdfs `
   --ground-truth data\chemx\benzimidazoles\ground_truth.csv `
-  --output-dir outputs\benzimidazoles_full `
-  --llm-mode never
+  --output-dir outputs\benzimidazoles_full
 ```
 
 Final saved aggregate result:
@@ -102,3 +108,5 @@ The repository contains internal development code and notes for RAG support,
 LLM fallback, optional agentic sidecars, MolScribe, DECIMER, YOLO, and related
 structure-recognition experiments. These are not required for the final
 rules-only Benzimidazoles result and are not part of the public claim.
+LLM-based SMILES or structure extraction remains possible future work, but it
+was not included in the final evaluated run.

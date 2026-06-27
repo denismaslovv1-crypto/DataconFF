@@ -54,6 +54,10 @@ improvements:
 - Final export deduplication is evidence-aware: records with the same ChemX
   values are merged only when they come from the same `evidence_id`. Repeated
   mentions from distinct evidence contexts are preserved.
+- Review sidecars (`review_records.csv` and `review_records.json`) now link
+  prediction rows to source context, page, evidence id, extractor, confidence,
+  detected compound mentions, and duplicate status without changing the ChemX
+  CSV schema.
 
 These changes reduced zero-row failures, recovered `jhet.3467.pdf` to 22
 source-backed prediction rows in final artifacts, and recovered
@@ -88,6 +92,8 @@ or rewrite raw extracted evidence.
 - The final public run is rules-only and uses no LLM calls.
 - SMILES are unresolved, so the `smiles` field remains at F1 `0.0000`.
 - Full image/structure recognition was not used.
+- LLM-based SMILES or structure extraction may be future work, but it was not
+  included in the final evaluated run.
 - Recall remains limited and results are uneven across PDFs.
 
 ## Streamlit Review UI
@@ -96,8 +102,10 @@ The final Streamlit UI is a commission-facing review surface, not a chatbot.
 It has three modes:
 
 - saved full-run results: aggregate metrics, article summary, field metrics,
-  zero-row/low-row highlights, prediction preview, and downloads;
+  zero-row/low-row highlights, prediction preview, Evidence / Review source
+  context, duplicate diagnostics, and downloads;
 - single article run: rules-only extraction, corrected PDF-stem evaluation,
-  predictions, validation errors, field metrics, evidence, and provenance;
+  predictions, validation errors, field metrics, evidence, and review
+  provenance;
 - full dataset run: explicit-confirmation wrapper around
-  `scripts/run_benzimidazoles_full.py --llm-mode never`.
+  the default rules-only `scripts/run_benzimidazoles_full.py` command.
