@@ -1,0 +1,391 @@
+{
+  "source_file": "jccs.202000418J.pdf",
+  "page_count": 11,
+  "metadata": {
+    "Creator": "Arbortext Advanced Print Publisher 9.1.520/W Unicode",
+    "ModDate": "D:20210514193631-07'00'",
+    "CreationDate": "D:20210209172541+05'30'",
+    "Producer": "Acrobat Distiller 11.0 (Windows); modified using iText 4.2.0 by 1T3XT",
+    "Subject": "Journal of the Chinese Chemical Society 0.0:null-null",
+    "WPS-PROCLEVEL": "3",
+    "WPS-JOURNALDOI": "10.1002/(ISSN)2192-6549",
+    "Title": "Synthesis and in vivo evaluation of novel benzimidazole‐sulfonamide hybrids and Lucilia cuprina maggots' excretion/secretion topical gels for wound healing",
+    "WPS-ARTICLEDOI": "10.1002/jccs.202000418"
+  },
+  "text_blocks": [
+    {
+      "text": "Received:23September2020 Revised:20January2021 Accepted:21January2021\nDOI:10.1002/jccs.202000418\nARTICLE\nSynthesis and in vivo evaluation of novel\nLucilia cuprina\nbenzimidazole-sulfonamide hybrids and\nmaggots' excretion/secretion topical gels for wound healing\nAsmaa M. Sayed1 | Nashwa M. Saleh1 | Mohamed S. A. El-Gaby2 |\nMohammad R. K. Abdel-Samad3,4 | Fatma A. Taher1,4\n1DepartmentofChemistry,Facultyof\nAbstract\nScience,Al-AzharUniversity(Girls),\nCairo,Egypt\nAnovelseriesofbenzimidazole-sulfonamidehybrids(6a–g)wasdesigned,syn-\n2DepartmentofChemistry,Facultyof thesized, and their structures were characterized by 1H NMR and 13C NMR\nScience,Al-AzharUniversityatAssiut,\nspectral data. Further, all compounds were evaluated for their antibacterial\nAssiut,Egypt\neffects. The synthesized benzimidazole-sulfonamide hybrid (6d) showed the\n3DepartmentofZoologyandEntomology,\nFacultyofScience,Al-AzharUniversity, highest antibacterial activity against Staphylococcus aureus, Staphylococcus\nCairo,Egypt epidermis, Escherichia coli, and Klebsiella pneumonia. Different gel formula-\n4Al-AzharTechnologyIncubator(ATI),\ntionsfor6dwerepreparedandphysicallyinvestigated.Afterinvivoevaluation\nAl-AzharUniversity,Cairo,Egypt\nfor wound healing, the 6d gel formulation delayed the wound healing in ani-\nCorrespondence mal model. But interestingly, a combination of 6d and Lucilia cuprina mag-\nMohamedS.A.El-Gaby,Departmentof\ngots' excretion/secretion showed remarkable enhancement in wound healing\nChemistry,FacultyofScience,Al-Azhar\ncompared with 6d only. This combination opens up promising prospects for\nUniversityatAssiut,Assiut71524,Egypt.\nEmail:m_elgaby@azhar.edu.eg woundhealingformulations.\nMohammadR.K.Abdel-Samad,\nKEYWORDS\nDepartmentofZoologyandEntomology,\nantibacterial,benzimidazole,excretion/secretion,gelformulations,Luciliacuprina,sulfonamide,\nFacultyofScience,Al-AzharUniversity,\nwoundhealing\nCairo,Egypt.\nEmail:mrk1323@azhar.edu.eg\nFatmaA.Taher,Departmentof\nChemistry,FacultyofScience,Al-Azhar\nUniversity(Girls),11754Cairo,Egypt.\nEmail:fatmataher@azhar.edu.eg\n1 | INTRODUCTION In addition, there are well-known natural products con-\ntaining benzimidazole moieties that have various physio-\nSynthesisandevaluationofhybridmoleculesasavariety logical, pharmacological, and toxic properties.[7,8]\nforpharmacologicalagentsandeffectivedrugshasgradu- Inrecent years, several drugs have been developed\nally escalated.[1,2] Benzimidazole derivatives are a build- fromimidazole derivatives. For example, Albendazole\ning block of many bioactive compounds, which have (Antiprotozoal); Lerisetron (Antihistaminic), Nocodazole\nbeen considered an important class of pharmacologically (Anticancer); Adibenden (Phosphodiesterase inhibitor);\nactive analogs in pharmaceutical and medicinal Veliparib (Anticancer); Maribavir (Antiviral), Figure 1.[9]\nchemistry.[3–6] Heterocycles having benzimidazole rings Sulfonamidesarewidelyusedasantimicrobial,[10,11]anti-\narealsoofconsiderableinterestbecauseoftheirsynthetic inflammatory,[12] anti-obesity,[13] diuretic,[14] hypoglyce-\nutilityassyntheticreagentsinmulticomponentreactions. mic,[15] antithyroid,[16] anticancer,[17,18] and antiviral\nJChinChemSoc.2021;1–11. http://www.jccs.wiley-vch.de ©2021TheChemicalSocietyLocatedinTaipei&Wiley-VCHGmbH 1",
+      "source": {
+        "source_file": "jccs.202000418J.pdf",
+        "page": 1,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "2 SAYEDETAL.\nFIGURE 1 Somemarketed\ndrugscontainingbenzimidazole\nnucleus\nSCHEME 1 Synthesisof\n2-cyanomethylbenzimidazole3\nagents as well as anti-neuropathic pain.[19] Some sulfon- 2 | RESULTS AND DISCUSSION\namide derivatives are also well recognized as ulcerative\ncolitis,[20] rheumatoid arthritis,[21] and male erectile dys- 2.1 | Chemistry\nfunction as the phosphodiesterase-5 inhibitor sildena-\nfil.[22] Pathogenic organisms such as bacteria can easily The starting 2-cyanomethylbenzimidazole (3) was obtained\npenetrate the body through the wounds, which become in high yield from the trans mono cyanoacetylation of o-\ncontaminated and delayed in the healing. So, developing phenylenediamine using 1-cyanoacetyl-3,5-dimethyl\nthe wound healing agents especially from natural pyrazole (1) as the acetylating agent followed by thermal\nsources is a critical issue. As a part of our on-going fusion of N-(2-aminophenyl)-2-cyanoacetamide (2)\nresearch in systematic investigation of synthesizing accordingtoapublishedprocedure[27](Scheme1).\nsome novel bioactive compounds based on A series of N-(4-sulfamoylphenyl)-1H-benzo[d]imidaz-\nliteratures,[23–26]herewedesignedbenzimidazolelinked ole-2-carbo hydrazonoyl cyanide derivatives (6a–g) were\nsulfonamide hybrid molecules and extracted Lucilia obtainedviatreatmentof2-cyanomethylbenzimidazole(3)\ncuprina maggots' excretion/secretion with the aim of with diazonium salt of sulfonamide derivatives (1a–f) at\ndeveloping a new class of antimicrobial agents to be room temperature in ethanol in presence of sodium ace-\nusedintopicalwoundhealing. tate, according to the steps depicted in (Schemes 2–4).",
+      "source": {
+        "source_file": "jccs.202000418J.pdf",
+        "page": 2,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "SAYEDETAL. 3\nSCHEME 2 Couplingreactionof\ndiazoniumelectrophilewith\n2-cyanomethylbenzimidazole\nSCHEME 3 Generationofdiazoniumsalts\nDiazotizationwascarriedoutinethanolinthepresenceof signal at δ 14.71ppm assigned to the NH proton of benz-\nsodiumacetateandnitrosylchlorideat0–5(cid:1)C,(Scheme2). imidazole moiety in addition to the presence of aromatic\nBased on their analytical and spectral results, the struc- protons at δ 7.61–7.92ppm. In addition, in the 1H NMR\ntures of the synthesized compounds (6a–g) have been spectrum of compound 6c we observed two singlet signals\nidentified rather than the tautomeric form (5). The infra- at δ 5.29, 5.31ppm assigned to the thiazole protons and\nredspectraofcompounds(6a–g)showedabsorptionbands showeddownfieldsignalatδ14.68ppmassignedtotheNH\ncharacteristic for N N at 1,518–1,624cm −1 range and proton of benzimidazole moiety and a multiplet at δ 7.26–\nC N at 2,214–2,233cm −1 range functional groups. The 7.68ppm assigned to the aromatic and NH protons.\nrepresentative 1HNMR spectrum of compound (6a) Thecoupling reactions involved that initially generate\n(DMSO-d ) revealed the lack of singlet characteristic for strong N2+electrophiles from different amines then finally\n6\nmethine proton and exhibited a sharp singlet signal at δ react and coupled at methylene group to produce\n5.40ppm referring to the amino proton, a broad singletat N-(4-substituted sulfamoyl phenyl)-1H-benzo[d] imidazole-\nδ 7.35ppm due to the NH protons and showed downfield 2-carbohydrazonoylcyanidederivatives(6a–g)(Scheme2).",
+      "source": {
+        "source_file": "jccs.202000418J.pdf",
+        "page": 3,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "4 SAYEDETAL.\n2.2 | Solvatochromic study of because of increase polarity of the synthesized compounds\nbenzimidazole-sulfonamide hybrids system,generallyintheexcitedstate.\nThesolventeffectsofthenovelbenzimidazoles-sulfonamide\nhybrid were studied on UV–Visible spectrophotometer at 2.3 | Antibacterial activity\nroom temperature. The absorption spectra of the (6a–g)\ncompounds were reported at 10\n−5\nM in dimethyl formam- The novel synthesized series of N-(4-sulfamoylphenyl)-\nide (DMF) and chloroform (CF) and represented in 1H-benzo[d]imidazole-2-carbo hydrazonoyl cyanide\nFigure2.Allsynthesizedcompoundsshowedbathochromic derivatives (6a–g) were examined for their antibacterial\nshiftinDMFascomparedtoCF.Thesebathochromicshifts activityagainstStaphylococcusaureusandStaphylococcus\ncanbeattributedtotheinteractionofHatomofaminopro- epidermidis (as Gram positive bacteria) and Escherichia\nton of synthesized compounds with polar aprotic solvent coli and Klebsiella pneumonia (as Gram negative bacte-\nria). The tested derivatives were showed varying\nantibacterial activities as showing in Table 1. Compound\n(6d) showed the highest effect against all tested bacteria\namong the other compounds. This might be due to the\npyrimidinyl group that is a highly efficient\npharmacophore. We can conclude that introduction of\npyrimidinyl group into N-(4-substituted sulfamoyl phe-\nnyl)-1H-benzo[d]imidazole-2-carbo hydrazonoyl cyanide\nmay enhance the antibacterial activity. This possibility\nwas confirmed by displaying compound (6g) high\nantibacterial activity against S. epidermidis, which has\n4-methyl 2-pyrimidinyl group. In the same time, com-\npound (6b) showed high activity against E. coli, which\nhas a NH CH NH group. The other compounds did\n2\nnot show any activities against tested bacteria. In addi-\ntion,compound(6d)wasstudiedforminimuminhibitory\nconcentration (MIC), where it showed 312.5, 156.25,\n625, and 1,250μg/ml forS. aureus, S.epidermidis,E. coli,\nand K. pneumonia, respectively. In previous work,[28] the\nSCHEME 4 Formationmechanismofbenzimidazole- MIC of compound 6d against S. aureus (ATCC-6538-P)\nsulfonamidehybrids was 75μg/ml, which is lower than our results in this\nFIGURE 2 UV–VisspectraofnovelsynthesizedseriesofN-(4-sulfamoylphenyl)-1H-benzo[d]imidazole-2-carbohydrazonoylcyanide\nderivatives(6a–g)inCF(a)andDMF(b)",
+      "source": {
+        "source_file": "jccs.202000418J.pdf",
+        "page": 4,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "SAYEDETAL. 5\nTABLE 1 Antibacterialactivitiesofnovelsynthesizedsulfonamidederivatives\nGrampositivebacteria Gramnegativebacteria\nSample S.aureus(RCMB S.epidermidis E.coli(RCMB K.pneumoniae\ncode 10010) (RCMB009-2) 010052) (RCMB003-1)\n6a — — — —\n6b — — 9.07±0.21 —\n6c — — — —\n6d 11.97±0.15 13.03±0.06 13.93±0.4 10.1±0.36\n6e — — — —\n6f — — — —\n6g — 13.63±0.35 — —\nTABLE 2 Physicalpropertiesofgelformulations\nSpreadability(gcms\n−1)\nGelformulationcode pH Weight(g) S(gcms −1) Viscosity(Poise) Surfacetension(dyne/cm2) Skinirritation\nBlank1 8.31 20 4.4 662 691.1 0\n8.1\nBlank2 5.2 — — 1,880 463.3\nBlank3 6.6 20 0.975 1,733 400.3\n30 3.84\n50 14.9\n100 154.8\nBlank4 7.2 50 16.14 1,678 462.4\nBlank5 6.4 — — 1,360 570.4\nBlank6 5.94 50 15.3 1,970 635.8\nBlank7 5.3 50 2.59 2,323 524.5\n6dgel 7.2 50 17.12 1,085 368.9\nESgel 7.3 50 16.39 1,111 386.5\n6d-ESgel 7.2 50 17.88 1,053 402.4\nwork. The difference comes from the difference of the examined. Then, the blank gels were comparatively eval-\nstrains.Fromtheobtainedresults,thesulfonamidederiv- uated for various characterization parameters, including\native (6d) showed highest activity with Gram +ve bacte- pH,viscosity,skin irritation, surface tension, and spread-\nriamorethanGram−vebacteria.[24-27,29] ability. According to Table 2, pH values of the blank and\ngel formulations were in the close range of normal pH\n(5–7),which isconsideredacceptabletoavoidskinirrita-\n2.4 | Physical characterization of gel tionuponapplication.Spreadabilityistheexpansionarea\nformulation ofthegelformulationtospreadforaspecificapplication.\nSpreadability for the blank gels was evaluated using dif-\nA set of blank gels were successfully prepared using dif- ferent weights tied to upper slide (20, 30, 50, and 100g),\nferent concentrations of carbopol (CRB) (0.5, 1, 1.5, and the calculated results are represented in Table 2. The\n2% wt/wt) as gelling agent. To adjust a neutral pH in most suitable weight was 50g with spreadability equals\norder to avoid a skin irritation, different concentrations 14.9gcms\n−1,thevaluesofspreadabilityindicatethatthe\nof triethanolamine (TEA) (1, 1.5, and 2% wt/wt) were gel is easily spreadable by small amount of shear. The",
+      "source": {
+        "source_file": "jccs.202000418J.pdf",
+        "page": 5,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "6 SAYEDETAL.\nFIGURE 3 Woundhealing\nactivityofnovelsulfonamide\nderivativegel.(a–e)theinitial\nwoundofcontrol(a),−ve\ncontrol(b),6d(c),ES(d),and\n6d-ES(e)groups.Thewound\ncontractionafter11daysfor\ncontrol(f),andaftertreatment\nwithblankgel(g),6dgel(h),\n6d-ESgel(i),andESgel(j)\nviscosity of all gels was in the range of 662.5 to 2,323 wound healing[34-36] by boost the fibroblast cells migra-\nP. As can be seen in Table 2, the concentration of poly-\ntionandtissuesformation.[37–40]\nmer increases, the viscosity of the formulation conse-\nquently increases. In addition, the prepared gels were\nfound to be homogeneous (no clog appearance) and did 3 | EXPERIMENTAL\nnot develop any irritation upon application to the skin\nfor6hr.Actually,thebestsamplewasno.#4with1.5ml 3.1 | Chemicals and instruments\nTEA, pH≈7 at 1% CRB in the presence of solvent. In\naddition, the increase the CRB concentration, the All chemicals used in this study were of analytical reagent\nincrease the gel's viscosity. While the increase the TEA gradeandofhighestpurityavailable.Organicsolventswere\nconcentration,thedecreasethegel'sviscosity.Allgelfor- purchased from British Drug House. Melting points ((cid:1)C,\nmulations have identical physical properties as shown in uncorrected) were determined in the open capillaries on a\nTable2. Gallenkemp melting point apparatus (Sanyo Gallenkemp,\nSouthborough, United Kingdom). IR spectra (KBr disks)\nwere measured on an FTIR plus 460 or Pye Unicam SP-\n2.5 | Wound healing activity 1000 spectrophotometer (Pye Unicam, Cambridge, United\nKingdom). NMR spectra (DMSO-d ) were recorded on a\n6\nAs seen in Figure 3, the wound healing activity of novel Bruker spectrophotometer (400MHz for 1H NMR and\nsulfonamide derivative (6d) in a gel formulation was 100MHz for 13C NMR). Using DMSO-d as a solvent and\n6\nobserved in rats (excision wound, 25mm in diameter) tetraethylsilane as internal standard chemicalshifts are\nover time. The wound contraction % increased gradually. expressed as δ ppm. Perkin Elmerlambda 35 spectropho-\nAfter 11days, the contraction % achieved 90.88±1.16, tometer was used to deliver the UV–Visible spectra.\n89.99±1.50, and 73.71±3.38% for control, −ve control, Cyanoacetyl-3,5-dimethyl-pyrazole 1, N-(2-aminophenyl)-\nand treated groups, respectively. The delay of the wound 2-cyanoacetamide 2, and 2-cyano- methyl benzimidazole\nhealingprocesswithsulfonamidederivatetreatmentmay 3werepreparedaccordingtotheliterature.[27]\nbeduetotheexudationoftissuefluids,[30]whichleadsto\nincrease the time of wound healing process.[31,32] Sulfon-\namide derivatives can be used for reducing the wound 3.2 | General synthesis procedures\ninfection.[33]\nBy combination with other compounds that have 3.2.1 | Synthesis of 1-cyanoacetyl-\nwound healing activities such as chitosan and excretion/ 3,5-dimethylpyrazole (1)\nsecretion (ES) of medicinal maggots, the sulfonamide\nderivativesmayshowsynergisticantibacterialandwound An equimolar amount of 2-cyanoacetohydrazide\nhealing activities.[29] Sulfonamide derivative (6d) was (10mmol) was treated with acetyl acetone (10mmol) in\ninvestigated with ES of L. cuprina maggots for wound the presence of HCl (catalytic amount) in water (15ml).\nhealingactivity.Itshowedanincreaseinthewoundcon- The mixture was stirred at room temperature for 2 hr.\ntraction of 83.01±1.12%, while the ES only showed The white precipitate was filtered off, washed with cold\n95.33±2.24%. ES of L. cuprina maggots increases the water,andsubsequentlydriedinoven(yield91%).",
+      "source": {
+        "source_file": "jccs.202000418J.pdf",
+        "page": 6,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "SAYEDETAL. 7\n3.2.2 | Synthesis of N-(2-aminophenyl)- NH , D O exchangeable), 7.36 (s, 2H, NH, D O exchange-\n2 2 2\n2-cyanoacetamide (2) able),7.35–7.95(m,10H,Ar-H+2NH),14.68(s,1H,NHSO ,\n2\nD O, exchangeable); 13C NMR (DMSO-d , ppm) δ: 102.15,\n2 6\nFinely powdered o-phenylenediamine (10mmol) was 106.26, 110.28, 114.69, 115.26 (CN), 116.73, 124.58, 125.77,\nsuspended in toluene (20ml). 1-Cyanoacetyl-3,- 127.75, 128.23, 133.86, 139.48, 144.58 (C N), 144.95 (C N\n5-dimethylpyrazole 1 (10mmol) was added with stirring. imidazole), 145.38 (C N), 158.06 (NH C NH ). Calcd; for\n2\nThereaction mixturewas stirredatrefluxfor15min.The C H N O S (382.40): %C: 50.25; %H: 3.69; %N: 29.30; %S:\n16 14 8 2\nprecipitatedproductwasfilteredoffandwaspurified. 8.38.Found;%C:50.10;%H:3.60;%N:29.40;%S:8.30.\n3.2.3 | Synthesis of 3.2.7 | N-(4-(N-(thiazol-2-yl)sulfamoyl)\n2-cyanomethylbenzimidazole (3) phenyl)-1H-benzo[d]imidazole-2-carbo-\nhydrazonoyl cyanide (6c)\nN-(2-aminophenyl)-2-cyanoacetamide (2) 10 (mmol) was\nfused above its melting point in an oil-bath for (cid:3)15min. Yellow crystals (85%), m.p. 270(cid:1)C; IR (KBr) cm −1: υ\nmax\nThe solid product remained was triturated with metha- 3,417,3,244,3,186(NH),2,218(C N),1,600(N N),1,323,\nnol. The solid product obtained was filtered and crystal- 1,145 (SO ); 1HNMR (DMSO-d , ppm) δ: 5.29, 5.31 (s, 2H,\n2 6\nlizedfromethanol(yield96%). thiazole-H), 7.26–7.86 (m, 9H, Ar-H+NH), 12.76 (s, 1H,\nNH benzimidazole, D O, exchangeable); 14.68 (s, 1H,\n2\nNHSO ,D O,exchangeable);13CNMR(DMSO-d ,ppm)δ:\n2 2 6\n3.2.4 | N-(4-substituted sulfamoyl 104.60, 106.46, 108.65, 110.71, 115.37 (CN), 116.29, 124.59,\nphenyl)-1H-benzo[d]imidazole-2-carbo-\n124.74 (C -thiazole), 124.97, 127.75, 128.26, 136.24, 137.55\n3\nhydrazonoylcyanide derivatives (6a–g) (C -thiazole), 137.61, 144.87 (C N), 145.66 (C N imidaz-\n2\nole), 146.33 (C NH), 169.15 (C -thiazole). Calcd; for\n5\n4-Aminobenzenesulfonamide derivatives (4a–g) (10mmol) C H N O S (423.47):%C:51.05;%H:3.09;%N:23.15;%S:\n18 13 7 2 2\nwere suspended in water (50ml). HCl (10 ml, 36.5%) was 15.14.Found;%C:51.00;%H:3.10;%N:23.20;%S:15.10.\naddedtothissolutionbystirring.Themixturewasgradually\nheated up to 70(cid:1)C till a clear solution was obtained. The\nsolution was cooled to 0–5(cid:1)C in an ice bath. A sodium 3.2.8 | N-(4-(N-(pyrimidin-2-yl)\nnitrite solution (0.5 g in 5 ml H O) was then added over a\nsulfamoyl)phenyl)-1H-benzo[d]imidazole-\n2\nperiod of 5 min with stirring. 2-cyanomethylbenzimidazole 2-carbohydrazonoyl cyanide (6d)\n3 (10mmol) was dissolved ethanol in the presence of\nsodium acetate and kept at 0–5(cid:1)C. Subsequently, the diazo- Yellow crystals (90%), m.p. 302(cid:1)C [Lit31.mp 300(cid:1)C]; IR\nnium salt solution was added with the occasional slow stir- (KBr) cm −1: υ 3,417, 3,240, 3,190 (NH), 2,222\nmax\nring to the 2-cyanomethylbenzimidazole solution for (C N),1,581 (N N), 1,342, 1,157 (SO ); 1HNMR (DMSO-\n2\n10–15min. The formed precipitate was filtered, dried, and d , ppm) δ: 7.01 (s, 1H, pyrimidine-H), 7.35–7.98 (m, 9H,\n6\nrecrystallizedfrompropersolventtogivethepureproduct6. Ar-H+NH), 8.48–8.52 (m, 3H, 2CH-pyrimidine-H+NH\nbenzimidazole),14.69(s,1H,NHSO ,D O,exchangeable);\n2 2\n13C NMR (DMSO-d , ppm) δ: 102.90, 106.89, 110.22,\n6\n3.2.5 | N-(4-sulfamoylphenyl)-1H-benzo 114.77, 115.12 (CN), 116.25, 116. 58 (C -pyrimidine),\n3\n[d]imidazole-2-carbohydrazonoyl\n124.60, 125.69, 129.62, 129.98, 134.06, 135.16, 135.79\ncyanide (6a) (C N), 145.25 (C N imidazole), 145.94 (C NH), 157.33\n(C , C -pyrimidine), 158.82 (C -pyrimidine). Calcd; for\n2 4 6\nYellowcrystals(84%),m.p.291(cid:1)C[Lit31.mp290(cid:1)C]. C H N O S(418.44):%C:54.54,%H:3.37;%N:26.78;%S:\n19 14 8 2\n7.66.Found;%C:54.50;%H:3.30;%N:26.70;%S:7.50.\n3.2.6 | N-(4-(N-carbamimidoylsulfamoyl)\nphenyl)-1H-benzo[d]imidazole-2-carbo- 3.2.9 | N-(4-(N-acetylsulfamoyl)phenyl)-\nhydrazonoyl cyanide (6b) 1H-benzo[d]imidazole-2-carbohydra-zonoyl\ncyanide (6e)\nYellow crystals (89%), m.p. 250(cid:1)C; IR (KBr) cm −1: υ\nmax\n3,421,3,221 (NH), 2,222 (C N), 1,681 (C N), 1,624 (N N), Yellow crystals (85%), m.p. 230(cid:1)C; IR (KBr) cm −1: υ\nmax\n1,365,1,134(SO );1HNMR(DMSO-d ,ppm)δ:5.47(s,1H, 3,321,3,275 (NH), 2,214 (C N), 1,716 (C O), 1,597\n2 6",
+      "source": {
+        "source_file": "jccs.202000418J.pdf",
+        "page": 7,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "8 SAYEDETAL.\n(N N), 1,327, 1,153 (SO ); 1HNMR (DMSO-d , ppm) δ: 3.3 | Antibacterial activity\n2 6\n1.94 (s, 3H, CH ), 5.24 (s, 1H, NH amide, D O exchange-\n3 2\nable), 7.34–7.97 (m, 8H, Ar-H), 12.05 (1s, 1H, NH benz- The antibacterial activities of novel sulfonamide deriva-\nimidazole, D O exchangeable), 14.71 (1s, 1H, NHSO , tives (6a–g) were tested against S. aureus (RCMB\n2 2\nD O exchangeable); 13C NMR (DMSO-d , ppm) δ 23.67 010010), S. epidermidis (RCMB 009–2), E. coli (RCMB\n2 6\n(CH ),105.86,107.22,110.58,115.27,115.32(CN),116.04, 010052), and K. pneumonia (003-1) using Hole-plate dif-\n3\n124.73, 129.74, 130.20, 133.81, 133.96, 136.63, 144.65 fusion method. All bacterial stains were provided form\n(C N), 146.32 (C N imidazole), 146.93 (C NH), 169.42 Regional Center for Mycology and Biotechnology\n(C O). Calcd; for C H N O S (382.40): %C: 53.40; %H: (RCMB), Al-Azhar University, Cairo, Egypt.[41] 6mm\n17 14 6 3\n3.69; %N: 21.98; %S: 8.38. Found; %C: 53.50; %H: 3.69; % holes were made in Mueller-Hinton agar plate, which\nN:21.90;%S:8.20. waspreviouslyseededwithtestedbacteria(108CFU/ml).\n100μl of the tested compound (5 mg dissolved in ml\ndimethylsulfoxide [DMSO]) was filled in the hole, and\n3.2.10 | N-(4-(N-(5-methylisoxazol-3-yl) after that, the plates were incubated for 24hr at 37(cid:1)C.\nsulfamoyl)phenyl)-1H-benzo[d]-imidazole-\nAfterincubation,theinhibition zones weremeasured in\n2-carbohydrazonoyl cyanide (6f) mm.DMSOwasembeddedineachexperimentasaneg-\native control. The experiment was performed in tripli-\nYellow crystals (86%), m.p. 220(cid:1)C; IR (KBr) cm −1: υ cate. For determining the MIC of active compounds,\nmax\n3,213, 3,163, (NH), 2,233 (C N), 1,612 (N N), 1,334, each active compound was further investigated using\n1,165 (SO ); 1HNMR (DMSO-d , ppm) δ: 2.3 (s, 3H, pervious method against the selected bacteria (twofold\n2 6\nCH ), 6.16 (s, 1H, isoxazole-H), 7.37–7.96 (m, 9H, Ar-H serial dilutions of each active compound were tested).\n3\n+NH), 11.41 (s, 1H, NH benzimidazole, D O exchange- The lowest concentration, which inhibiting the growth\n2\nable);, 14.70 (s, 1H, NHSO , D O exchangeable); 13C of bacteria after the incubation period was determined\n2 2\nNMR (DMSO-d , ppm) δ: 12.49 (CH ), 104.52, 107.14, astheMIC.\n6 3\n110.37, 115.03, 115.63 (CN), 116.62, 124.71, 125.25,\n128.91, 129.39, 134.32, 135.37, 144.65 (C N), 145.82\n(C N imidazole), 145.89 (C NH), 146.48 (C4-iso- 3.4 | Gel formulation design\nxazole), 157.97 (C -isoxazole), 170.85 (C -isoxazole).\n3 5\nCalcd; for C H N O S(421.44): %C: 54.15; %H: 3.59; % The novel sulfonamide derivative (6d) was dissolved in\n19 15 7 3\nN: 23.27; %S: 7.61. Found; %C: 54.10; %H: 3.60; %N: an appropriate amount of DMSO, then propylene glycol\n23.20;%S:7.60. was added, and the solution was stirred for 10 min. The\nsolution was stirred with the aqueous dispersion of CRB.\nTEAwasaddedtoneutralize theCRB solution.The final\n3.2.11 | N-(4-(N-(4-methylpyrimidin-2-yl) weight of the gel was adjusted to 100g with distilled\nsulfamoyl)phenyl)-1H-benzo[d]imidazole-\nwater.Thedifferentsampleswerepreparedaccordingthe\n2-carbo-hydrazonoyl cyanide (6g) followingrecipe(Table3).\nYellow crystals (80%), m.p. 281(cid:1)C [Lit31.mp 280(cid:1)C]; IR\n(KBr) cm −1: υ 3,390, 3,228 (NH), 2,225 (C N),1,597 3.5 | Gel characterization\nmax\n(N N), 1,369, 1,157 (SO ); 1HNMR (DMSO-d , ppm) δ:\n2 6\n2.33 (s, 3H, CH ), 6.04 (s, 1H, NH, D O exchangeable), 3.5.1 | Physical appearance and\n3 2\n6.92 (s, 1H, pyrimidine-H), 7.31–7.94 (m, 9H, Ar-H homogeneity\n+NH benzimidazole), 8.32, 8.34 (2s, 2H, pyrimidine-\nH),14.67 (1H, s, NHSO , D O, exchangeable); 13C NMR The physical appearance and homogeneity of the pre-\n2 2\n(DMSO-d , ppm) δ 23.69 (CH ), 102.88, 106.72, 110.14, paredgelsweretestedbyvisualobservations.\n6 3\n(2)114.76, 115.17 (CN), 116.27 (C -pyrimidine), 124.66,\n3\n125.79, (2)129.87, (2)134.06,136.03 (C N), 145.35 (C N\nimidazole), 145.72 (C NH), 156.82 (C -pyrimidine), 3.5.2 | pH\n4\n157.78 (C -pyrimidine), 168.95 (C -pyrimidine). Calcd;\n2 6\nfor C H N O S (432.46): %C: 55.55; %H: 3.73; %N: Since the gel's pH must be ideally near to normal pH of\n20 16 8 2\n25.91; %S: 7.41. Found; %C: 55.40; %H: 3.70; %N: 25.80; the skin to avoid any irritation, pH measurement of the\n%S:7.40. gel was carried out by dipping the glass electrode",
+      "source": {
+        "source_file": "jccs.202000418J.pdf",
+        "page": 8,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "SAYEDETAL. 9\nTABLE 3 Recipeofgel\nGelformulationcode Carbopol(g) Triethanolamine(ml) Solvent(ml)\nformulations\nBlank1 0.5 1.5 —\nBlank2 1 1 —\nBlank3 1 1.5 —\nBlank4 1 1.5 2\nBlank5 1 2 —\nBlank6 1.5 1.5 —\nBlank7 2 1.5 —\n6dgel 1 1.5 2\nESgel 1 1.5 2\n6d-ESgel 1 1.5 2\ncompletelyintothegelsystemtocovertheelectrode.The 3.5.5 | Skin irritation\nresultsarethemeanofthreereadings.\nA total of 100mg gel was applied on an area of 2 cm for\n6 hr, on the interior surface of upper arm and covered\n3.5.3 | Viscosity with cotton bandage. After 6 hr, the examination for the\npresenceoflesionorirritationwasdoneandreadingsare\nViscosity of the gel was determined using Brookfield vis- madeaccordingtothescalegivenbyDraize[43];Noirrita-\ncometer(DV2TViscometer,spindleno.27).Allmeasure- tion:0;Slightirritation:1;Irritation:2.\nments were done in triplicate at room temperature at a\nspeedof0.1rpm.\n3.6 | Collection of ES\n3.5.4 | Spreadability Excretion/Secretion was collected from L. cuprina mag-\ngots that obtained from maintained culture at Medical\nSpreadability was determined using an apparatus Entomology laboratory at Animal House, Faculty of Sci-\nsuggested by Mutimer,[42] which was suitably modified ence, Al-Azhar University. Briefly, the maggots were\nin the laboratory and used for the study. It consists of a washed, sterilized, and then incubated with phosphate\nwoodenblockprovidedbyapulleyatoneend.Aground buffered saline for 6 hr at 25(cid:1)C. ES was centrifuged,\nglass slide was fixed on this block. About 1 g of gel filtrated,andstoredat−20(cid:1)C.[44]\nunderstudywasplacedonthisslide.Anotherslidewith\none end tied to weight of 50g was placed on the top of\nthe gel, such that the gel was sandwiched between the 3.7 | Wound healing activity\ntwo slides in an area occupied by a distance of 7.5 cm\nalongtheslides.Aweightof500gwasplacedonthetop The wound healing activity of the novel sulfonamide\nof the two slides for 5 min to expel air and to compress derivatives (6d) was assessed in male Wister rats\nthe sample to a uniform thickness. The weight was (200–250g), the rats were obtained from the Animal\nremoved,andtheexcessofthegelwasscrappedofffrom House, Faculty of Science, Al-Azhar University. The rats\nthe edges. The upper slide was then subjected to a pull were adapted in cages for 2weeks with provided food\nof the 50g weight and the time taken by it to separate andwater.ByKetamine50mg/kg,theratswereanesthe-\ncompletely from the fixed slide was recorded. The gel tized,andthenshavedtheskin.Acircleexcision(25mm\nspread ability was evaluated through the following in diameter) was made on the dorsal skin of rats. Ran-\nequation: domly, the rats were divided into five groups; Control,\nS = ML/Twhere, S = spreadability. M = weight (g) negative control, three treated groups (6d, ES, and 6d-\ntied to upper slide. L = length (cm) of glass slide. ES), and three rats in each group. The negative control,\nT=time(s)takenbytheslidetoseparate. 6d, ES, and 6d-ES groups were applied with blank gel",
+      "source": {
+        "source_file": "jccs.202000418J.pdf",
+        "page": 9,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "10 SAYEDETAL.\nand the sulfonamide derivative (6d) gel, ES gel, and 6d- [10] M.S.A.El-Gaby,M.F.Hussein,M.I.Hassan,A.M.Ali,Y.A.\nES combined gel formulations, respectively. The wound M. M. Elshaier, A. S. Gebril, F. A. Faraghally, Mediterr.\nwasimagined,anditsareawasmeasuredbyImageJsoft-\nJ.Chem.2018,7,370.\n[11] M.S.El-Gaby,M.I.Hassan,M.F.Hussein,A.M.Ali,M.M.\nware. The wound contraction was calculated using\nElaasser,F.A.Faraghally,Mediterr.J.Chem.2018,7,346.\nEquation(1).[29]\n[12] S.M.Monti,C.T.Supuran,G.DeSimone,ExpertOpin.Ther.\nPat.2013,23,737.\nA −A\nWoundcontractionð%Þ= 0 t ×100 ð1Þ [13] A.Scozzafava,C.T.Supuran,F.Carta,ExpertOpin.Ther.Pat.\nA 0 2013,23,725.\n[14] F.Carta,C.T.Supuran,ExpertOpin.Ther.Pat.2013,23,681.\nwhere A and A are the wound area at initial time and [15] A.E.Boyd,Diabetes1988,37,847.\n0 t\n[16] T.H.Maren,Annu.Rev.Pharmacol.Toxicol.1976,16,309.\ntimet,respectively.\n[17] M. S. El-Gaby, M. M. Ghorab, Z. H. Ismail, S. M. Abdel-\nGawad,H.M.Aly,Med.Chem.Res.2018,27,72.\n[18] M. M. Ghorab, M. S. A. El-Gaby, M. S. Alsaid, Y. A. M. M.\n4 | CONCLUSIONS\nElshaier, A. M. Soliman, F. F. El-Senduny, F. A. Badria,\nA.Y.A.Sherif,AnticancerAgentsMed.Chem.2017,17,1411.\nA series of N-(4-substituted sulfamoylphenyl)-1H-benzo [19] F. Carta, L. D. C. Mannelli, M. Pinard, C. Ghelardini, A.\n[d]imidazole-2-carbohydrazonoyl-cyanide derivatives Scozzafava, R. McKenna, C. T. Supuran, Bioorg. Med. Chem.\n(6a–g) were synthesized in good yields by coupling of 2015,23,1828.\ndiazotized 4-aminobenzenesulfonamides (4a–e) with [20] J.M.Beale,J.Block,R.Hill,OrganicMedicinalandPharma-\nceutical Chemistry, Lippincott Williams & Wilkins, Philadel-\n2-cyanomethylbenzimidazole (3) in the presence of\nphia2010.\nsodium acetate. These derivatives (6a–g) were tested\n[21] J. Levin, J. Chen, M. Du, F. Nelson, L. Killar, S. Skala, A.\nagainst some strains of bacteria, and the 6d derivative Sung,G.Jin,R.Cowling,D.Barone,Bioorg.Med.Chem.Lett.\nshowedthebestantibacterialactivity.Invivo,thewound 2002,12,1199.\nhealing activity of 6d was investigated in a gel form. The [22] D.-K.Kim,J.Y.Lee,N.Lee,J.-S.Kim,S.Lee,J.-Y.Choi,J.-H.\nsulfonamide derivative delayed the wound contraction, Ryu, N.-H. Kim, G.-J. Im, W.-S. Choi, Bioorg. Med. Chem.\nwhile its activity was enhanced by combination with ES\n2001,9,3013.\n[23] R.M.Okasha,M.Alsehli,S.Ihmaid,S.S.Althagfan,M.S.El-\nofL.cuprinamaggots.Thewoundhealingactivityofsul-\nGaby, H. E. Ahmed, T. H. Afifi, Bioorg. Chem. 2019, 92,\nfonamides needs further investigation with different con-\n103262.\ncentrations of ES and other similar compounds to\n[24] M. M. Ghorab, M. S. Alsaid, M. S. El-Gaby, M. M. Elaasser,\nenhance the activity of sulfonamides in topical Y.M.Nissan,Chem.Cent.J.2017,11,1.\napplications. [25] M.M.Ghorab,M.S.Alsaid,M.S.El-Gaby,N.A.Safwat,M.M.\nElaasser,A.M.Soliman,Eur.J.Med.Chem.2016,124,299.\nORCID [26] Y. A. Ammar, M. M. Aly, A. A. G. Al-Sehemi, M. A. Salem,\nM.S.El-Gaby,J.Chin.Chem.Soc.2009,56,1064.\nMohamedS.A.El-Gaby https://orcid.org/0000-0002-\n[27] Y.A.Ammar,S.Y.Abbas,S.A.Fouad,M.A.Salem,M.S.El-\n4902-5546\ngaby,J.Iran.Chem.Soc.2019,16,639.\nMohammadR.K.Abdel-Samad https://orcid.org/0000-\n[28] H. A. Hammad, A. Z. Sayed, A. B. A. El-Adasy, J. Indian\n0003-4847-7986\nChem.Soc.2006,83,241.\nFatmaA.Taher https://orcid.org/0000-0003-1654-3184 [29] M. Ganesh, A. S. Aziz, U. Ubaidulla, P. Hemalatha, A.\nSaravanakumar,R.Ravikumar,M.M.Peng,E.Y.Choi,H.T.\nREFERENCES Jang,J.Ind.Eng.Chem.2016,39,127.\n[30] P.H.Long,JAMA1943,121,303.\n[1] M.Singh,M.Kaur,N.Chadha,O.Silakari,Mol.Divers.2016,\n[31] E.M.BICK,JAMA1942,118,511.\n20,271.\n[32] J.G.BELLOWS,Arch.Ophthalmol.1943,30,65.\n[2] S.Mishra,P.Singh,Eur.J.Med.Chem.2016,124,500.\n[33] D.E.Dial,Am.J.Nurs.1942,42,141.\n[3] Y.Bansal,O.Silakari,Bioorg.Med.Chem.2012,20,6208.\n[34] M. I. Hassan, K. M. Hammad, M. A. Fouda, M. R. Kamel,\n[4] B. Narasimhan,D.Sharma,P.Kumar,Med.Chem. Res.2012,\nJ.Egypt.Soc.Parasitol.2014,44,125.\n21,269.\n[35] R.A.Sherman,Evid.BasedComplement.Alternat.Med.2014,\n[5] M. Gaba, S. Singh, C. Mohan, Eur. J. Med. Chem. 2014,\n2014,1.\n76,494.\n[36] Y. Nigam, C. Morgan, J. Eur. Acad.Dermatol. Venereol. 2016,\n[6] N.Shrivastava,M.J.Naim,M.J.Alam,F.Nawaz,S.Ahmed,\n30,776.\nO.Alam,Arch.Pharm.2017,350,e201700040.\n[37] A.J.Horobin,K.M.Shakesheff,D.I.Pritchard,WoundRepair\n[7] S.I.Alaqeel,J.SaudiChem.Soc.2017,21,229.\nRegen.2005,13,422.\n[8] S. Tahlan, S. Kumar, B. Narasimhan, BMC Chem. 2019,\n[38] A. J. Horobin, K. M. Shakesheff, D. I. Pritchard, J. Invest.\n13,101.\nDermatol.2006,126,1410.\n[9] C.T.Supuran,ExpertOpin.DrugDiscovery2017,12,61.",
+      "source": {
+        "source_file": "jccs.202000418J.pdf",
+        "page": 10,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "SAYEDETAL. 11\n[39] A. G. Smith, R. A. Powis, D. I. Pritchard, S. T. Britland, Bio-\ntechnol.Prog.2006,22,1690. Howtocitethisarticle:SayedAM,SalehNM,\n[40] F.Akbas,A.Ozaydin,E.Polat,I.Onaran,Rec.Nat.Prod.2020, El-GabyMSA,Abdel-SamadMRK,TaherFA.\n14,340.\nSynthesisandinvivoevaluationofnovel\n[41] H. S. Ibrahim, W. M. Eldehna, H. A. Abdel-Aziz, M. M.\nbenzimidazole-sulfonamidehybridsandLucilia\nElaasser,M.M.Abdel-Aziz,Eur.J.Med.Chem.2014,85,480.\ncuprinamaggots'excretion/secretiontopicalgels\n[42] M. N. Mutimer, C. Riffikin, J. A. Hill, E. Marry, C. N. G.\nforwoundhealing.JChinChemSoc.2021;1–11.\nGlickman,J.Pharm.Sci.1956,45,212.\n[43] J. H. Draize, G. Woodard, H. O. Calvery, J. Pharmacol. Exp. https://doi.org/10.1002/jccs.202000418\nTher.1944,82,377.\n[44] M.R.Abdel-Samad,Heliyon2019,5,e02791.",
+      "source": {
+        "source_file": "jccs.202000418J.pdf",
+        "page": 11,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    }
+  ],
+  "tables": [
+    {
+      "table_id": "p5_t1",
+      "rows": [
+        [
+          "Sample\ncode",
+          "Grampositivebacteria",
+          "Gramnegativebacteria",
+          ""
+        ],
+        [
+          "",
+          "S.aureus(RCMB S.epidermidis E.coli(RCMB K\n10010) (RCMB009-2) 010052) (",
+          "",
+          ".pneumoniae\nRCMB003-1)"
+        ]
+      ],
+      "source": {
+        "source_file": "jccs.202000418J.pdf",
+        "page": 5,
+        "section": null,
+        "table_id": "p5_t1",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p5_t2",
+      "rows": [
+        [
+          "6b — — 9.07±0.21 —",
+          ""
+        ]
+      ],
+      "source": {
+        "source_file": "jccs.202000418J.pdf",
+        "page": 5,
+        "section": null,
+        "table_id": "p5_t2",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p5_t3",
+      "rows": [
+        [
+          "6d 11.97±0.15 13.03±0.06 13.93±0.4 1",
+          "0.1±0.36"
+        ]
+      ],
+      "source": {
+        "source_file": "jccs.202000418J.pdf",
+        "page": 5,
+        "section": null,
+        "table_id": "p5_t3",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p5_t4",
+      "rows": [
+        [
+          "6f — — — —",
+          ""
+        ]
+      ],
+      "source": {
+        "source_file": "jccs.202000418J.pdf",
+        "page": 5,
+        "section": null,
+        "table_id": "p5_t4",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p5_t5",
+      "rows": [
+        [
+          "Gelformulationcode pH",
+          "−1)\nSpreadability(gcms",
+          "Viscosity(Poise) Surfacetension(dyne/cm2) Skinirritation"
+        ],
+        [
+          "",
+          "−1)\nWeight(g) S(gcms",
+          ""
+        ]
+      ],
+      "source": {
+        "source_file": "jccs.202000418J.pdf",
+        "page": 5,
+        "section": null,
+        "table_id": "p5_t5",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p9_t1",
+      "rows": [
+        [
+          "Gelformulationcode Carbopol(g)",
+          "Triethanolamine(ml)",
+          "Solvent(ml)"
+        ]
+      ],
+      "source": {
+        "source_file": "jccs.202000418J.pdf",
+        "page": 9,
+        "section": null,
+        "table_id": "p9_t1",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p9_t2",
+      "rows": [
+        [
+          "Blank2 1",
+          "1",
+          "—"
+        ]
+      ],
+      "source": {
+        "source_file": "jccs.202000418J.pdf",
+        "page": 9,
+        "section": null,
+        "table_id": "p9_t2",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p9_t3",
+      "rows": [
+        [
+          "Blank4 1",
+          "1.5",
+          "2"
+        ]
+      ],
+      "source": {
+        "source_file": "jccs.202000418J.pdf",
+        "page": 9,
+        "section": null,
+        "table_id": "p9_t3",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p9_t4",
+      "rows": [
+        [
+          "Blank6 1.5",
+          "1.5",
+          "—"
+        ]
+      ],
+      "source": {
+        "source_file": "jccs.202000418J.pdf",
+        "page": 9,
+        "section": null,
+        "table_id": "p9_t4",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p9_t5",
+      "rows": [
+        [
+          "6dgel 1",
+          "1.5",
+          "2"
+        ]
+      ],
+      "source": {
+        "source_file": "jccs.202000418J.pdf",
+        "page": 9,
+        "section": null,
+        "table_id": "p9_t5",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p9_t6",
+      "rows": [
+        [
+          "6d-ESgel 1",
+          "1.5",
+          "2"
+        ]
+      ],
+      "source": {
+        "source_file": "jccs.202000418J.pdf",
+        "page": 9,
+        "section": null,
+        "table_id": "p9_t6",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    }
+  ]
+}

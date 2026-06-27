@@ -1,0 +1,418 @@
+{
+  "source_file": "j.ejmech.2015.03.024.pdf",
+  "page_count": 8,
+  "metadata": {
+    "CreationDate": "D:20141029103608+05'00'",
+    "Author": "noushad",
+    "Creator": "Acrobat 9.0.0",
+    "Producer": "Acrobat Distiller 8.1.0 (Windows)",
+    "ModDate": "D:20141029104250+05'00'",
+    "Title": "untitled"
+  },
+  "text_blocks": [
+    {
+      "text": "Send Orders for Reprints to reprints@benthamscience.net\n38 Letters in Drug Design & Discovery,2015, 12, 38-45\nDesign, Synthesis and Biological Evaluation of Benzimidazole-pyridine-\nPiperidine Hybrids as a New Class of Potent Antimicrobial Agents\nKothapally. Beulahb, Akula Ravi Kumara, Boddupally Peda Venkat Lingaiaha, Pamulaparthy\nShanthan Raoa,*, Banda Narsaiaha,Aaramadaka Sunil Kumar Reddyb and Upadhyayula Surya\nNarayana Murtyc\naFluoroorganic Division, CSIR-Indian Institute of Chemical Technology, Tarnaka, Hyderabad- 500007, India\nbDepartment of Pharmaceutical Chemistry, Bharat Institute of Technology (Pharmacy), Mangalpally, Hyderabad-\n501510, India\ncBiology Division (Bioinformatics), CSIR-Indian Institute of Chemical Technology, Tarnaka, Hyderabad- 500007, India\nAbstract: A series of novel benzimidazole-pyridine-piperidine hybrids was synthesized in good yields and characterized\nby spectral and elemental analyses. The compounds 4a-h and 5a-c were evaluated for their in vitro antibacterial activity\nagainst gram-positive organisms viz., Bacillus subtilis, Staphylococcus aureus, Staphylococcus epidermidis, gram-\nnegative organisms viz., Escherichia coli, Pseudomonas aeruginosa, Klebsiella pneumonia and also against fungal strains\nlike Candida albicans, Saccharomyces cervisiae of yeasts, Aspergillus flavus, Aspergillus niger according to the CLSI\nStandard Protocol. Compound 5ashowed promising activity against all tested organism excluding Bacillus subtilis when\ncompared to standard drugs.\nKeywords: 2-substituted benzimidazole, antibacterial activity, antifungal activity, ethyl-piperidine-4-carboxylic acid, hybrid\nmolecules,pyridine.\n1. INTRODUCTION considered privileged scaffolds in drug discovery with a\nwide array of biological activities. The pyridine nucleus is\nThe treatment of infectious diseases remains an important\nprevalent in numerous natural products and is extremely im-\nissue because of the combination of factors including emerg-\nportant in the chemistry of biological systems. Pyridine de-\ning newer infectious diseases and increasing number of\nrivatives have been used as bactericides [32], fungicides\nmulti-drug resist antimicrobial pathogens. This problem is\n[33], and anticancer agents [34-37]. Moreover, Piperidine\nparticularly pronounced for the Gram-positive bacteria [1-4].\nand its analogues, an important pharmacophore of many\nDespite a large number of antibiotics and chemotherapeutics\ndrug molecules, are reported to act as antibacterials [38],\navailable for medical use, the emerging resistance to old and\nantitubercular agents [39] and AChE inhibitors [40].\nnew antibiotics has created a substantial need for new class\nof antimicrobial agents. A potential approach to overcome In view of the above mentioned findings, and as a con-\nthe problem of antibiotic resistance is to design innovative tinuation of our effort to identify new candidates that may be\nagents with different modes of action so that no cross resis- of value in designing new, potent, selective, and less toxic\ntance with present drugs can occur [5]. biologically active molecules [41-45], we report herein the\nsynthesis and antimicrobial evaluation of some novel struc-\nBenzimidazoles are a familiar group of heterocyclic\ntural hybrids incorporating the benzimidazole, pyridine and\ncompounds possessing a wide variety of biological activity.\npiperidine ring systems. This combination was suggested to\nBenzimidazole and its derivatives are reported to be physio-\ninvestigate the influence of such hybridization and structure\nlogically and pharmacologically active and find applications\nvariation on the anticipated biological activities, hoping to\nin the treatment of several diseases like epilepsy, diabetes,\nadd some synergistic biological significance to the target\nantifertility [6, 7]. It is an important pharmacophore and\nmolecules. The target compounds were rationalized so as to\nprivileged structure in medicinal chemistry [8, 9] encom-\ncomprise some pharmacophores that are believed to be re-\npassing a diverse range of biological activities including an-\nsponsible for the biological activity of some relevant che-\ntibacterial [10], anti-inflammatory, analgesic [11, 12], anti-\nmotherapeutic agents. The substitution pattern of the ben-\nhistamine [13], antiulcerative [14], antioxidant [15], antipro-\nzimidazole and pyridine rings was carefully selected in order\nliferative [16, 17], antiallergic [18, 19], antitumor [20, 21],\nto confer different electronic environment to the molecules.\nantikinase [22, 23], anticancer [24-28], cytotoxic [29], and\nanti-HIV activities [30, 31].On the other hand, Pyridines are\n2. RESULTS AND DISCUSSION\n*Address correspondence to this author at the Fluoroorganic Division, 2.1. Chemistry\nCSIR-Indian Institute of Chemical Technology, Tarnaka, Hyderabad-\n500007, India.Tel: +91-40-27193171; Fax: +91-40-2719 3185; The general route for the synthesis of the target benzimi-\nE-mail: shanthanpp1954@gmail.com dazole-pyridine-piperidine hybrids is depicted in Scheme (1).\n1875-628X/15 $58.00+.00 ©2015 Bentham Science Publishers",
+      "source": {
+        "source_file": "j.ejmech.2015.03.024.pdf",
+        "page": 1,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Design, Synthesis and Biological Evaluation Letters in Drug Design & Discovery, 2015, Vol. 12, No. 1 39\nF 3 C CN CF 3 CF3\nO piperidine CN 50% H2SO4(aq)\n+\nR O H 2 N O E re tO fl H ux R N H O 150-155 oC R N H O\nR = Ph, CH 1a R = Ph 2a R = Ph\n3\n1b R = CH 3 2b R = CH3\nPOCl/PCl\n3 5\n110-115oC\nCF3 HN\nN\nHN R1\nCF3\nR N N\nN\nHN R\n1\nNaHCO3/DMF R N Cl\nreflux\n4a-h 3a R = Ph\n3b R = CH3\n4a R = C 6 H 5 & R 1 = H 4e R = C 6 H 5 & R 1 = CO-C 6 H 5\n4b R = C6H5 & R1 = Cl 4f R=CH\n3\n& R\n1\n= H\n4c R = C 6 H 5 & R 1 = F 4g R=CH 3 & R 1 = CO-C 6 H 5\n4d R = C6H5 & R1 = CH3 4h R=CH\n3\n& R\n1\n= Cl\nScheme (1). Synthesis of benzimidazole-pyridine-piperidine hybrid molecules 4a- h.\nCF\n3\nCF\n3\nR - X\n2\nKCO/acetone N N\nN N 2 3 N\nN reflux\nN\nHN\nR\n2\n5a-c\n4a\n5a R = CH\n2 3\n5b R = CH\n2 2 5\n5c R = CN\n2\nScheme (2). Synthesis of hybrid molecules 5a-c from 4a.\nThe synthetic methodology was designed to start with the re- yl)-1H-benzo[d] imidazoles 4a-h in excellent yields and the\naction of cyano acetamide and 4,4,4-trifluoro-1-meth- schematic diagram is depicted in (Scheme 1).\nyl/phenylbutane-1,3-dione in presence of base at 75-80 °C that\nThe compound 4a was reacted with aklylhalide in\nafforded 2-oxo-6-methyl/phenyl-4-(trifluoromethyl)-1,2-dihy-\nK CO /acetone under refluxing conditions furnished 1-\ndropyridine-3-carbonitrile 1a-b [46]. The pyridone was fur- 2 3\nsubstituted-2-(1-(6-phenyl-4-(trifluoromethyl) pyridin-2-yl)\nther hydrolyzed and decarboxylated to give 6-methyl/phenyl-\npiperidin-4-yl)-1H-benzo[d] imidazole 5a-c (Scheme 2). The\n4-(trifluoromethyl) pyridin-2(1H)-one 2a-b [47] in excellent\nreaction was initially conducted in dry DMF solvent at re-\nyields. The pyridones 2a-b when reacted with freshly dis-\nfluxing temperature that furnished the products 5a-c in 40 %\ntilled POCl in the presence of PCl furnished 2-chloro-6-\n3 5 yield. The product yield was improved to 72-83 % by chang-\nmethyl/phenyl-4-(trifluoromethyl) pyridine 3a-b. The conden-\ning the solvent to acetone.\nsation of 2-chloro-6-methyl/phenyl-4-(trifluoro-methyl) pyri-\ndine with various 2-(piperidin-4-yl)-1H-benzo[d] imidazoles The structure of compound 5b was established by syn-\n[48] in presence of NaHCO /DMF furnished 2-(1-(6- thesizing an independent route starting from 1-chloro-2-\n3\nmethyl/phenyl-4-(trifluoromethyl) pyridin-2-yl) piperidin-4- nitrobenzene reacting with n-propyl amine at 110-115 oC",
+      "source": {
+        "source_file": "j.ejmech.2015.03.024.pdf",
+        "page": 2,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "40 Letters in Drug Design & Discovery,2015, Vol. 12, No. 1 Beulah et al.\nH H\nCl N N\nn-propyl amine\nPd/C / EtOH\nNO 2 110-115 oC NO 2 NH 2 -NH 2 / reflux NH 2\n6 7\nethyl\nCF\npiperidine-4 3\n-carboxylate\nN NH\n3a\n4N HCl, 72 h\nN N N\nN\nNaHCO/DMF\n3\nreflux\nN\n8 5b\nScheme (3). Synthesis of 2-(1-(6-Phenyl-4-(trifluoromethyl) pyridin-2-yl) piperidin-4-yl)-1-propyl-1H-benzo[d] imidazole 5b.\nTable 1. In vitro antibacterial activity of hybrid molecules 4a-h, 5a-c.\nMIC ((cid:2)g/mL)\nCompound B.subtilis S.aureus S.epidermidis E.coli P.aeroginosa K.pneumoniae\n4a >150 >150 >150 >150 >150 >150\n4b >150 >150 >150 >150 >150 >150\n4c >150 >150 >150 >150 >150 >150\n4d >150 >150 >150 >150 >150 >150\n4e >150 >150 >150 >150 >150 >150\n4f >150 >150 75 >150 >150 >150\n4g >150 >150 75 >150 >150 >150\n4h 150 >150 75 75 75 >150\n5a 150 9.375 4.68 9.375 4.68 37.5\n5b >150 >150 >150 >150 >150 >150\n5c >150 >150 >150 >150 >150 >150\nPenicillin 1.562 1.562 3.125 12.5 12.5 6.25\nNorfloxacin 9.375 1.17 1.17 18.75 1.17 9.375\nDMSO-negativecontrolshowednoactivity.\ncondition affording 2-nitro-N-propylaniline 6. The later was All the final compounds were well characterized with spec-\ntreated with metal catalyzed reduction using Pd/C in the tral and elemental analysis.\npresence of hydrazine hydrate resulting in N1-propyl-\nbenzene-1, 2-diamine 7. Compound 7 was reacted with\n2.2. Evaluation of Biological Activity\nethyl-piperidine-4-carboxylic acid [48] furnishing 2-(piperi-\ndin-4-yl)-1-propyl-1H-benzo[d]imidazole 8. Compound 8\n2.2.1. In Vitro Antibacterial Activity\nwas further reacted with 2-chloro-6-phenyl-4-(trifluoro-\nmethyl) pyridine affording 2-(1-(6-phenyl-4-(trifluoro- The title hybrid molecules 4a-h and 5a-c were tested\nmethyl) pyridin-2-yl) piperidin-4-yl)-1-propyl-1H-benzo[d] against bacterial organism such as Gram-positive organisms\nimidazole 5b (Scheme 3). The structure of alkylated com- Bacillus subtilis (MTCC 441), Staphylococcus aureus\npound 5b was found to be identical with the compound ob- (MTCC 96), Staphylococcus epidermidis, Gram-negative\ntained by unambiguous route (Scheme 3) in all respects organisms viz Escherichia coli (MTCC 443), Pseudomonas\nwhich was further confirmed by super imposable IR spectra. aeruginosa (MTCC 741), Klebsiella pneumonia (MTCC",
+      "source": {
+        "source_file": "j.ejmech.2015.03.024.pdf",
+        "page": 3,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Design, Synthesis and Biological Evaluation Letters in Drug Design & Discovery, 2015, Vol. 12, No. 1 41\nTable-2. In viro antifungal activity of 1-Ethyl-2- (1- (6-phenyl-4- (trifluoromethyl) pyridine-2- yl) piperidin-4-yl) -1H-benzo[d]\nimidazole 5a.\nZone of Inhibition in mm\nCompound C. albicans S. cervisiae A. niger A. flavus\n100(cid:3)g 150(cid:3)g 100(cid:3)g 150(cid:3)g 100(cid:3)g 150(cid:3)g 100(cid:3)g 150(cid:3)g\n7 10 7 10 - - - -\n5a\nAmphotericin(50 (cid:3)g) 23.5 22 24 25\nNegative control; DMSO showed no activity; well or cup method; the concentrations are expressed in mg/mL and inhibitory zone diameters are expressed in mm.\n618) and also against fungal strains like Candida albicans t (triplet), quart (quartet), m (multiplet) and br (broad), re-\n(MTCC 227), Saccharomyces cervisiae (MTCC36) of yeasts, spectively. All the reactions were monitored by thin layer\nAspergillus flavus (MTCC 277), Aspergillus niger (MTCC chromatography (TLC) on pre-coated silica gel 60 F\n254\n282) was done according to CLSI Standard Protocol [49] and (mesh); spots were visualized with UV light. Merck silica\nthe results were tabulated in Table 1, 2. Compound 5a gel (60-120 mesh) was used for column chromatography\nshowed excellent activity against all tested organism exclud- CHN analysis was recorded on a vario EL analyzer.\ning Bacillus subtilis (MTCC 441). In gram-negative organ-\nisms, it is more active against Escherichia coli (MTCC 443) 3.2. Chemistry\nstrain MIC value 9.375 with comparison to norfloxacin\nwhich is a broad range microbial agent and also penicillin. It Synthesis of 2-(1-(6-methyl/phenyl-4-(trifluoromethyl)\nis also active against gram-positive organisms with Pyridin-2-yl) Piperidin-4-yl)-1H-benzo[d] imidazoles (4a-\ncomparison to penicillin especially Staphylococcus h).\nepidermidis with MIC value 4.68. Compounds 4f-h showed\nmoderate activity against bacterial organisms. The optimum General Procedure\nalkyl group on benzimidazole NH is found to be as ethyl\nmoiety and did not show any interesting activity either by A mixture of 2-chloro-6-phenyl/methyl-4-(trifluoro-\nincreasing the number of carbons or by replacement of nitrile methyl) pyridine 3 (1 mmol) and 6-substituted-2-(piperidin-\ngroups. The standard samples are considered as resistant to 4-yl)-1H-benzo[d] imidazole (1.2 mmol) was charged and\nEscherichia coli (MTCC 443), however compound 5a added NaHCO 3 (3.8 mmol), and DMF (5 mL) were added.\nshowed enhanced activity than standard samples. The reaction mixture was heated for 18 h at 120-125 oC in\nN atmosphere. Progress of the reaction was monitored by\n2\nTLC. The reaction mixture was cooled and poured onto\n2.2.2. In Vitro Antifungal Activity\ncrushed ice. That obtained solid was filtered, washed with\nThe in vitro antifungal activities of hybrid molecules 4a- water, hot 4N HCl and followed by water. The obtained\ncrude product was purified at the column chromatography\nh and 5a-c were evaluated against four fungi includ-\nover silica gel using the solvent system 4:6 ethyl acetate:\ning Candida albicans Y0109, Candida albicans SC5314,\nhexane as eluent to give the title compounds (4a-h).\nSaccharomyces cervisiae, Aspergillus niger, Aspergillus\nflavus. The positive control, Amphotericin, was obtained\nfrom their respective manufacturers. Compound 5a showed 2-(1-(6-Phenyl-4-(trifluoromethyl) Pyridin-2-yl) Piperidin-\nmoderate activity against fungal organism like Candida 4-yl)-1H-benzo[d] imidazole (4a)\nalbicans (MTCC 227), Saccharomyces cervisiae (MTCC36). Yield: 76 %. M.P: 202-204 oC, I.R: 3447.15 (-NH),\nRemaining compounds showed poor activity against all 1608.96 (-C=N-), 1392.56 (CF ). 1H NMR (DMSO-d ): (cid:2)\n3 6\nfungal organisms. Compound 5a is identified as a new class\n2.03-2.11 (m, 2H), 2.24 (d, 2H, J = 11.71 Hz), 3.16-3.22 (m,\nof antimicrobial agent against broad range microbial\n3H), 4.60-4.65 (d, 2H, J = 12.84 Hz), 6.84 (s, 1H), 7.17-7.21\norganisms and further biological studies and modification\n(m, 2H, Ar-H), 7.44-7.49 (m, 5H, Ar-H), 7.65 (s, 1H, Ar-H),\nare under progress.\n8.02 (d, 2H, Ar-H, J = 6.61Hz), 11.69 (br., NH). ESI-MS\nm/z: 423 (M++H). Anal. Calcd. for C H F N : C, 68.24; H,\n24 21 3 4\n3. EXPERIMENTAL SECTION 5.01; N, 13.26. Found: C, 68.19; H, 4.96; N, 13.25.\n3.1. Materials & Methods 6-Chloro-2-(1-(6-phenyl-4-(trifluoromethyl) Pyridin-2-yl)\npiperidin-4-yl)-1H-benzo[d] Imidazole (4b)\nMelting points of all the compounds were recorded on\nCasia-Siamia (VMP-AM) melting point apparatus and were Yield: 73.4 %. M.P: >250 oC, I.R: 3436.87 (-NH),\nuncorrected. IR spectra were recorded on a Perkin-Elmer FT- 1614.16 (-C=N-), 1416.48 (CF ). 1H NMR (DMSO-d ): (cid:2)\n3 6\nIR 240-C spectrophotometer using KBr optics. 1H NMR 2.03-2.19 (m, 2H), 2.33-2.44 (m, 2H), 3.69-3.82 (m, 3H),\nspectra were recorded on Bruker AV 300 MHz and INOVA 4.68-4.73 (d, 2H, J = 13.59 Hz), 6.88 (s, 1H, Ar-H), 7.26 (s,\n400 & 500 MHz in DMSO-d using TMS as internal stan- 1H, Ar-H), 7.43-7.50 (m, 3H, Ar-H), 7.57 (m, 2H), 7.72 (d,\n6\ndard. Multiplicity is reported as s (singlet), d (doublet), 1H, Ar-H, J = 8.87 Hz), 8.03 (d, 2H, Ar-H, J = 7.55 Hz),",
+      "source": {
+        "source_file": "j.ejmech.2015.03.024.pdf",
+        "page": 4,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "42 Letters in Drug Design & Discovery,2015, Vol. 12, No. 1 Beulah et al.\n11.25 (br., NH). ESI-MS m/z: 457 (M++H). Anal. Calcd. for J = 13.97 Hz), 6.64 (s, 1H), 6.73 (s, 1H), 7.47-7.52 (m, 2H,\nC H ClF N : C, 63.09; H, 4.41; N, 12.26. Found: C, 63.05; Ar-H), 7.58-7.63 (m, 2H, Ar-H), 7.73-7.80 (m, 3H, Ar-H),\n24 20 3 4\nH, 4.39; N, 12.24. 8.03 (s, 1H, Ar-H), 11.46 (br., NH). ESI-MS m/z: 465\n(M++H). Anal. Calcd. for C H F N O: C, 67.23; H, 4.99;\n26 23 3 4\n6-Fluoro-2-(1-(6-phenyl-4-(trifluoromethyl) Pyridin-2-yl) 12.27; N, 12.06. Found: C, 67.19; H, 4.96; N, 12.04.\npiperidin-4-yl)-1H-benzo[d] Imidazole (4c)\n6-Chloro-2-(1-(6-methyl-4-) pyridin-2-yl) Piperidin-4-yl)-\nYield: 76 %. M.P: >250 oC, I.R: 3443.67 (-NH), 1612.70\n1H-benzo[d] Imidazole (4h)\n(-C=N-), 1397.37 (C-F). 1H NMR (DMSO-d ): (cid:2) 2.07-2.09\n6\n(m, 2H), 2.36-2.39 (d, 2H, J = 11.09 Hz), 3.19-3.25 (m, 2H), Yield: 62 %. M.P:197-198 oC, I.R: 3441.75 (-NH),\n3.73-3.79 (m, 1H), 4.70-4.73 (d, 2H, J = 13.16 Hz), 6.88 (s, 1612.99 (-C=N-), 1401.31 (CF ). 1H NMR (DMSO-d ): (cid:2)\n3 6\n1H), 6.99 (d, 1H, J = 8.09 Hz), 7.22-7.28 (m, 3H, Ar-H), 1.96-2.04 (m, 2H), 2.19-2.24 (m, 2H), 2.45 (s, 3H, Ar-CH ),\n3\n7.31-7.35 (t, 1H, Ar-H, J = 8.09 Hz), 7.75 (t, 1H, Ar-H, J = 3.05-3.11 (m, 2H), 3.22-3.28 (m, 1H), 4.49-4.53 (d, 2H, J =\n8.09 Hz), 8.02-8.04 (m, 3H, Ar-H), 11.61 (br., NH). ESI-MS 13.55 Hz), 6.64 (s, 1H), 6.67 (s, 1H), 7.16-7.19 (m, 1H, Ar-\nm/z: 441 (M++H). Anal. Calcd. for C H F N :C, 65.45; H, H), 7.47-7.49 (m, 1H, Ar-H), 7.53-7.55 (m, 1H, Ar-H), 11.23\n24 20 4 4\n4.58; N, 12.72. Found: C, 65.43; H, 4.56; N, 12.68. (br., NH). ESI-MS m/z: 395 (M++H, 100%). Anal. Calcd. for\nC H ClF N : C, 57.80; H, 4.60; N, 14.18. Found: C, 57.7;\n19 18 3 4\n6-Methyl-2-(1-(6-phenyl-4-(trifluoromethyl pyridin-2-yl) H, 4.55; N, 14.15.\npiperidin-4-yl)-1H-benzo[d] Imidazole (4d)\nSynthesis of N-alkylated 2-(1-(6-phenyl-4-(trifluoromethyl)\nYield: 65 %. M.P: >250 oC, I.R: 3438.53 (-NH), 1612.43\npyridin-2-yl) piperidin-4-yl)-1H-benzo[d] Imidazoles (5a-c)\n(-C=N-), 1396.46 (CF ). 1H NMR (DMSO-d ): (cid:2) 2.00-2.11\n3 6\n(m, 2H), 2.27-2.31 (m, 2H), 2.47 (m, 3H, Ar-CH ), 3.15-3.24\n3 General Procedure:\n(m, 2H), 3.48-3.56 (m, 1H), 4.64-4.68 (d, 2H, J = 12.84 Hz),\n6.85 (s, 1H, Ar-H), 7.12-7.15 (d, 1H, Ar-H, J = 8.50 Hz), A mixture of 2-(1- (6-Phenyl-4-(trifluoromethyl) pyridin-\n7.23 (s, 1H, Ar-H), 7.42-7.50 (m, 5H, Ar-H), 8.02-8.04 (d, 2-yl) piperidin-4-yl)-1H-benzo[d] imidazole (4a) (0.355\n2H, Ar-H, J = 6.80 Hz), 11.32 (br., NH). ESI-MS m/z: 437 mmol), activated K CO (1.78 mmol), alkyl bromide (3\n2 3\n(M++H). Anal. Calcd. for C 25 H 23 F 3 N 4 : C, 68.79; H, 5.31; N, equiv.) and acetone (3 mL) was refluxed in N 2 atmosphere\n12.84. Found: C, 68.74; H, 5.29; N, 12.81. for 18-24 h. Reaction progress was monitored by TLC.\nAcetone was evaporated from the reaction mixture and DM\nPhenyl (2-(1-(6-phenyl-4-(trifluoromethyl) Pyridin-2-yl) water was added to the residue. The solid obtained was\npiperidin-4-yl)-3H-benzo[d] Imidazol-5-yl) Methanone (4e) filtered, washed with water and dried at a temperature of 60\n°C. Crude product obtained was purified at the column\nYield: 70 %. M.P: >250 oC, I.R: 3359.15 (-NH), 1612.81\nchromatography over silica gel at 4:6 ethyl acetate: hexane\n(-C=N-), 1396.45 (CF ). 1H NMR (DMSO-d ): (cid:2) 2.11-2.16\n3 6 as eluent.\n(m, 2H), 2.39-2.43 (m, 3H), 3.74-3.86 (m, 2H), 4.71-4.75 (d,\n2H, J = 13.40 Hz), 6.89 (s, 1H, Ar-H), 7.27 (s, 1H, Ar-H),\n1-Ethyl-2- (1- (6-phenyl-4- (trifluoromethyl) Pyridine-2-yl)\n7.46-7.55 (m, 5H, Ar-H), 7.76-7.78 (d, 3H, Ar-H, J = 7.17\npiperidin-4-yl) -1H-benzo[d] Imidazole (5a)\nHz), 7.89-7.90 (m, 2H, Ar-H), 8.03-8.05 (m, 2H, Ar-H), 8.17\n(s, 1H, Ar-H), 11.12 (br., NH). ESI-MS m/z: 527(M++H). Yield: 77 %. M.P: 136-138 oC, I.R: 1611.35 (-C=N-),\nAnal. Calcd. for C H F N O: C, 70.71; H, 4.79; N, 10.64. 1393.35 (CF ). 1H NMR (DMSO-d ): (cid:2) 1.50-1.55 (t, 3H, N-\n31 25 3 4 3 6\nFound: C, 70.67; H, 4.75; N, 10.61. CH -CH , J = 6.99 Hz), 2.09-2.30 (m, 4H), 3.14-3.27 (m,\n2 3\n3H), 4.30-4.38 (q, 2H, N-CH -CH , J = 6.99 Hz), 4.69-4.73\n2 3\n2-(1-(6-Methyl-4-(trifluoromethyl) Pyridin-2-yl) Piperidin- (d, 2H, J = 13.60 Hz), 6.84 (s, 1H, Ar-H), 7.24 (s, 1H, Ar-\n4-yl)-1H-benzo[d] Imidazole (4f) H), 7.30-7.33 (m, 2H, Ar-H), 7.40-7.48 (m, 5H, Ar-H), 8.02\n(d, 2H, Ar-H, J = 6.98 Hz). ESI-MS m/z: 451 (M++H). Anal.\nYield: 62 %. M.P: 185-187 oC, I.R: 3446.59 (-NH),\nCalcd. for C H F N : C, 69.32; H, 5.59; N, 12.44. Found:\n1612.70 (-C=N-), 1397.37 (CF ). 1H NMR (DMSO-d ): (cid:2) 26 25 3 4\n3 6 C, 69.28; H, 5.54; N, 12.39.\n1.25-1.31 (m, 2H), 1.97-2.07 (m, 3H), 2.17-2.22 (m, 2H),\n2.41 (s, 3H, Ar-CH ), 4.45-4.48 (d, 2H, J = 13.22 Hz), 6.65-\n3 2-(1-(6-Phenyl-4-(trifluoromethyl) Pyridin-2-yl) piperidin-\n6.72 (m, 2H, Ar-H), 7.40-7.44 (m, 2H, Ar-H), 7.56-7.64 (m,\n4-yl)-1-propyl-1H-benzo[d] Imidazole (5b)\n2H), 11.54 (br., NH). ESI-MS m/z: 361(M++H). Anal. Calcd.\nfor C 19 H 19 F 3 N 4 : C, 63.32; H, 5.31; N, 15.55. Found: C, Yield: 75 %. M.P: 150-152 oC, I.R: 1612.61 (-C=N-),\n63.29; H, 5.28; N, 15.50. 1396.91 (CF ). 1H NMR (DMSO-d ): (cid:2) 1.01-1.06 (t, 3H, N-\n3 6\nCH -CH -CH , J = 7.55 Hz, 7.18 Hz), 1.87-1.94 (m, 2H, N-\n2 2 3\n(2-(1-(6-Methyl-4-(trifluoromethyl) Pyridin-2-yl) Piperidin- CH -CH -CH , J = 7.55 Hz, 7.18 Hz ), 2.05-2.23 (m, 5H),\n2 2 3\n4-yl)-3H-benzo[d] Imidazol-5-yl), phenyl-methanone (4g) 3.18-3.25 (m, 2H), 4.17-4.22 (m, 2H, N-CH -CH -CH , J =\n2 2 3\nYield: 59 %. M.P: 192-194 oC, I.R: 3372.12 (-NH), 7.55 Hz, 7.18 Hz), 4.67-4.72 (d, 2H, J = 13.21 Hz), 6.85 (s,\n1612.79 (-C=N-), 1402.27 (CF ). 1H NMR (DMSO-d ): (cid:2) 1H, Ar-H), 7.18-7.24 (m, 1H, Ar-H), 7.36-7.48 (m, 5H, Ar-\n3 6\n1.97-2.10 (m, 2H), 2.20-2.23 (m, 2H), 2.44 (s, 3H, CH ), H), 7.57 (s, 1H, Ar-H), 7.69 (d, 1H, Ar-H, J = 7.74 Hz), 8.02\n3\n3.07-3.18 (m, 2H), 3.33-3.40 (m, 1H), 4.51-4.59 (d, 2H, (d, 2H, Ar-H, J = 6.61 Hz). ESI-MS m/z:465 (M++H). Anal.",
+      "source": {
+        "source_file": "j.ejmech.2015.03.024.pdf",
+        "page": 5,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Design, Synthesis and Biological Evaluation Letters in Drug Design & Discovery, 2015, Vol. 12, No. 1 43\nCalcd. for C H F N : C, 69.81; H, 5.86; N, 12.06. Found: plates were incubated at 27 °C for 48 h. Inhibition zones\n27 27 3 4\nC, 69.78; H, 5.82; N, 12.02. were measured, the diameter was calculated in millimeter\nand the corresponding results were in Table 2.\n2-(2-(1-(6-Phenyl-4-(trifluoromethyl) Pyridin-2-yl) Piperi-\ndin-4-yl)-1H-benzo[d] imidazol-1-yl) Acetonitrile (5c) 4. CONCLUSION\nYield: 83 %. M.P: 174-176 oC, I.R: 1610.87 (-C=N-), In conclusion, we have discovered that a number of ben-\n1396.06 (CF 3 ). 1H NMR (DMSO-d 6 ): (cid:2) 2.18-2.27 (m, 4H), zimidazole-pyridine-piperidine hybrids displayed moderate\n3.23-3.37 (m, 2H), 3.49-3.62 (m, 1H), 4.71-4.80 (d, 2H, J = activity against various fungal organisms as well as bacterial\n11.51 Hz), 5.59 (s, 2H, N-CH 2 -CN), 6.97 (s, 1H, Ar-H), organisms. One promising compound 5a exhibited broad\n7.27-7.30 (m, 2H, Ar-H), 7.41-7.49 (m, 3H, Ar-H), 7.57-7.61 spectrum antifungal activity including antibacterial activity\n(m, 1H, Ar-H), 7.65-7.69 (m, 1H, Ar-H), 8.08-8.10 (m, 2H, in vitro and was more potent than the standard drugs.\nAr-H). ESI-MS m/z: 462 (M++H). Anal. Calcd. for\nC H F N :C, 67.67; H, 4.81; F, 12.35; N, 15.18. Found: C,\n26 22 3 5 CONFLICT OF INTEREST\n67.63; H, 4.77; N, 15.14.\nThe authors confirm that this article content has no con-\n2-(Piperidin-4-yl)-1-propyl-1H-benzo[d]imidazole (8) flict of interest.\nYield: 72%. Gummy, I.R: 1608.96 (-C=N-), 1392.56. 1H\nACKNOWLEDGEMENTS\nNMR (DMSO-d ): (cid:2) 0.94-1.05 (m, 4H), 1.65-1.75 (m, 1H),\n6\n1.83-2.10 (m, 4H), 3.01-3.09 (m, 2H), 3.28-3.32 (d, 2H, J = We are thankful to the CSIR for financial assistance\n12.84 Hz), 4.04-4.12 (m, 2H), 6.69 (d, 1H, Ar-H, J = 9.01 through XII five year plan project: DISTF (code: CSC-\nHz), 7.20-7.35 (m, 2H, Ar-H), 7.67-76 (d, 1H, Ar-H, J = 0204). One of the authors (A. RAVI KUMAR) also thankful\n8.56 Hz). ESI-MS m/z: 244 (M++H). Anal. Calcd. for to Council of Scientific and Industrial Research (CSIR), In-\nC 15 H 21 N 3 : C, 74.03; H, 8.70; N, 17.27; Found: C, 74.69; H, dia for the financial assistance in the form of senior research\n8.67; N, 17.24. fellowship and contingency grant.\n3.3. In vitro Antimicrobial Assay\nREFERENCES\nAntibacterial Activity: Procedure [1] Tenover, F. C., L. C. McDonald. Vancomycin-resistant staphylo-\ncocci and enterococci: epidemiology and control. Curr. Opin. In-\nMinimum inhibitory concentration (MIC) assay of hybrid fect. Dis., 2005, 18, 300-305.\nmolecules 4a-h and 5a-c was done according to CLSI Stan- [2] Pfeltz, R. F.; Wilkinson, B. J. The escalating challenge of vanco-\nmycin resistance in Staphylococcus aureus. Curr. Drug Targets-\ndard Protocol by the micro dilution method in liquid medium\nInfect. Disord., 2004, 4, 273–294.\ndistributed in 96-well plates. In each test a microbial culture [3] Roberts, M. C. Distribution of macrolide, lincosamide, strepto-\ncontrol and a sterility control (negative) were performed. The gramin, ketolide and oxazolidinone (MLSKO) resistance genes in\nplates were incubated for 24 hours at 37 °C. The lowest con- gram-negative bacteria. Curr. Drug Targets Infect. Disord., 2004,\n4, 207-215.\ncentration which inhibited the growth of test organism was\n[4] Muroi, H.; Nihei, K-I.; Tsujimoto, K.; Kubo, I. Synergistic effects\nconsidered as MIC ((cid:4)g/mL) value for the tested compound.\nof anacardic acids and methicillin against methicillin resistant\nNorfloxacin and Penicillin were used as standard drugs. The Staphylococcus aureus. Bioorg. Med. Chem., 2004, 12, 583–587.\nminimum inhibitory concentration (MIC) values are pre- [5] Khan, M. W.; Alam, M. J.; Rashid, M. A.; Chowdhury, R. A new\nstructural alternative in benzo[b]furans for antimicrobial activity.\nsented in the Table 1.\nBioorg. Med. Chem., 2005, 13, 4796-4805.\n[6] Orjales, A.; Mosquera, R.; Labeaga, L.; Rodes, R. New 2-\nAntifungal Activity: Procedure Piperazinylbenzimidazole Derivatives as 5-HT3 Antagonists. Syn-\nthesis and Pharmacological Evaluation. J. Med. Chem., 1997, 40,\nIn vitro antifungal activity of hybrid molecules 4a-h and 586-593.\n5a-c was studied against the fungal strains. The Potato Dex- [7] Grimmett, M. R., Katritzky, A. R., Rees, C. W., Scriven, E. F. V.\ntrose Agar (PDA) medium was suspended in distilled water Comprehensive Heterocyclic Chemistry II; Eds.; Pergamon Press:\nOxford, 1996, 3, 77–220.\n(39 g in 1000 mL) and heated to boiling until it dissolved\n[8] Khalafi-Nezhad, A.; Soltani Rad, M. N.; Mohabatkar, H.; Asrari,\ncompletely, the medium and Petri dishes were autoclaved at Z.; Hemmateenejad, B. Design, synthesis, antibacterial and QSAR\npressure of 15 lb/inc2 for 20 min. Agar well bioassay was studies of benzimidazole and imidazole chloroaryloxyalkyl deriva-\nemployed for testing antifungal activity. The medium was tives. Bioorg. Med. Chem., 2005, 13, 1931-1938.\npoured into sterile Petri dishes under aseptic conditions in a [9] Evans, B. E.; Rittle, K. E.; Bock, M. G.; Dipardo, R. M.; Freid-\ninger, R. M.; Whitter, W. L.; Lundell, G. F.; Veber, D. F.; Ander-\nlaminar air flow chamber. When the medium in the plates\nson, P. S.; Chang, R. S. L.; Lotti, V. J.; Cerino, D. J; Chen, T. B.;\nsolidified, 0.5 mL of (week old) culture of test organism was Kling, P. J.; Kunkel, K. A.; Springer, J. P.; Hirshfield, J. Methods\ninoculated and uniformly spread over the agar surface with a for drug discovery: development of potent, selective, orally effec-\nsterile L-shaped rod. Different concentrations of solutions tive cholecystokinin antagonists. J. Med. Chem., 1988, 31, 2235–\n2246.\nwere prepared by dissolving the compound in DMSO. After\n[10] Bell, C. A.; Dykstra, C. C.; Naiman, N. A.; Cory, M.; Fairley, T.\ninoculation, wells were scooped out with 6 mm sterile cork\nA.; Tidwell, R. R. Structure-activity studies of dicationically substi-\nborer and the lids of the dishes were replaced. To each wel, tuted bis-benzimidazoles against Giardia lamblia: correlation of\ndifferent concentrations (100 (cid:4)g/mL and 150 (cid:4)g/mL) of test antigiardial activity with DNA binding affinity and giardial topoi-\nsomerase II inhibition. Antimicrob. Agents Chemother., 1993, 37,\nsolutions were added. Controls were maintained. The\n2668.",
+      "source": {
+        "source_file": "j.ejmech.2015.03.024.pdf",
+        "page": 6,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "44 Letters in Drug Design & Discovery,2015, Vol. 12, No. 1 Beulah et al.\n[11] Richter, J. E. Long-term management of gastroesophageal reflux enzyme poly (ADP-ribose) polymerase. J. Med. Chem.,2000,43,\ndisease and its complications. Am. J. Gastroenterol. 1997, 92(4 4084-4097.\nsuppl), 30s-34s. [29] Horton, D. A.; Bourne, G. T.; Smythe, M. L. The combinatorial\n[12] Sondhi, S. M.; Rajvanshi, S.; Johar, M.; Bharti, N.; Azam, A.; synthesis of bicyclic privileged structures or privileged substruc-\nSingh, A. K. Anti-inflammatory, analgesic and antiamoebic activity tures. Chem. Rev.,2003,103, 893-930.\nevaluation of pyrimido[1,6-a]benzimidazole derivatives synthe- [30] Evans, T. M.; Gardiner, J. M.; Mahmood, N.; Smis, M. Structure-\nsized by the reaction of keto isothiocyanates with mono and dia- activity relationships of anti-HIV-1 N-alkoxy- and N-allyloxy-\nmines. Eur. J. Med. Chem.,2002,37, 835. benzimidazoles. Bioorg. Med. Chem. Lett., 1997,7, 409-412.\n[13] Grassmann, S.; Sadek, B.; Ligneau, X.; Elz, S.; Ganellin, C. R.; [31] Novelli, F.; Tasso, B.; Sparatore, F.; Sparatore, A. Chem. Abstr.\nArrang, J. M.; Schwartz, J. C.; Stark, H.; Schunack, W. Progress in 1998, 128, 238983.\nthe proxifan class: heterocyclic congeners as novel potent and se- [32] Malicorne, G.; Bompart, J.; Giral, L.; Despaux, E. Synthesis and\nlective histamine H(3)-receptor antagonists. Eur. J. Pharm. Sci., antibacterial activity of 4,7-dihydro-4-ethyl-7-oxothieno(3,2-\n2002,15, 367. b)pyridine-6-carboxylic acids. Eur. J. Med. Chem.,1991,26, 3-11.\n[14] Labanauskas, L. K.; Brukstus, A. B.; Gaidelis, P. G.; Buchinskaite, [33] Hargreaves, S. L.; Pilkington, B. L.; Russell, S. E.; Worthington, P.\nV. A.; Udrenaite, E. B.; Dauksas, V. K. J. Pharm. Chem.,2000,34, A. The synthesis of substituted pyridyl pyrimidine fungicides using\n353. palladium-catalyzed cross-coupling reactions. Tetrahedron Lett.,\n[15] Can-Eke, B.; Puskullu, M. O.; Buyukbingol, E.; Iscan, M. A study 2000,41, 1653-1656.\non the antioxidant capacities of some benzimidazoles in rat tissues. [34] Al-Said, M. S.; Bashandy, M. S.; Al-Qasoumi, S. I.; Ghorab, M. M.\nChem. Biol. Interact.,1998,113, 65. Anti-breast cancer activity of some novel 1,2-dihydropyridine,\n[16] Klimesova, V.; Koci, J.; Pour, M.; Stachel, J.; Waisser, K.; Kaus- thiophene and thiazole derivatives. Eur. J. Med. Chem.,2011,46,\ntova, J. Synthesis and preliminary evaluation of benzimidazole de- 137-141.\nrivatives as antimicrobial agents. Eur. J. Med. Chem., 2002, 37, [35] Banik, B. K.; Becker, F. F. Novel 6,12-disubstituted chrysene as\n409. potent anticancer agent: synthesis, in vitro and in vivo study. Eur.\n[17] Garuti, L.; Roberti, M.; Malagoli, M.; Rossi, T.; Castelli, M. Syn- J. Med. Chem., 2010,45, 4687-4691.\nthesis and Antiproliferative Activity of Some Thiazolylbenzimida- [36] Zhao, H.; Shi, L.; Cao, J. Q.; Li, W.; Wen, X.; Zhao, Y. Q. A new\nzole-4,7-diones. Bioorg. Med. Chem. Lett.,2000,10, 2193. triterpene saponin from Panax japonicus C. A. Meyer var major\n[18] Da Settimo, A.; Da Settimo, F.; Marini, A. M.; Primofiore, G.; (Burk.) C. Y. Wu et K. M. Feng. Chin. Chem. Lett., 2010, 21,\nSalerno, S.; Viola, G.; Da Via, L.; Magno, S. M. Synthesis, DNA 1216-1218.\nbinding and in vitro antiproliferative activity of purinoquinazoline, [37] Bondock, S.; Khalifa, W.; Fadda, A. A. Synthesis and antimicrobial\npyridopyrimidopurine and pyridopyrimidobenzimidazole deriva- evaluation of some new thiazole, thiazolidinone and thiazoline de-\ntives as potential antitumor agents. Eur. J. Med. Chem., 1998,33, rivatives starting from 1-chloro-3,4-dihydronaphthalene-2-\n685. carboxaldehyde. Eur. J. Med. Chem.,2007,42, 948-954.\n[19] Beaulieu, C.; Wang, Z.; Denis, D.; Greig, G.; Lamontagne, S.; [38] Weis, R.; Schweiger, K.; Faist, J.; Rajkovic, E.; Kungl, A. J.; Wal-\nO’Neill, G.; Slipetz, D.; Wang, J. Benzimidazoles as new potent ter, M. F.; Schunack, F. W.; Seebacher, W. Antimycobacterial and\nand selective DP antagonists for the treatment of allergic rhinitis. H1-antihistaminic activity of 2-substituted piperidine derivatives.\nBioorg. Med. Chem. Lett.,2004,14, 3195. Bioorg. Med. Chem.,2008,16, 10326-10331.\n[20] Nakano, H.; Inoue, T.; Kawasaki, N.; Miyataka, H.; Matsumoto, [39] Aridoss, G.; Amirthaganesan, S.; Ashok Kumar, N.; Kim, J. T.;\nH.; Taguchi, T.; Inagaki, N.; Nagai, H.; Satoh, T. Synthesis and Lim, K. T.; Kabilan, S.; Jeong, Y. T. A facile synthesis, antibacte-\nbiological activities of novel antiallergic agents with 5- rial, and antitubercular studies of some piperidin-4-one and tetra-\nlipoxygenase inhibiting action. Bioorg. Med. Chem.,2000,8, 373. hydropyridine derivatives. Bioorg. Med. Chem. Lett., 2008, 18,\n[21] White, A. W.; Curtin, N. J.; Eastman, B. W.; Golding, B. T.; 6542.\nHostomsky, Z.; Kyle, S.; Li, J.; Maegley, K. A.; Skalitzky, D. J.; [40] Sheng, R.; Xu, Y.; Hu, C.; Zhang, J.; Lin, X.; Li, J.; Yang, B.; He,\nWebber, S. E.; Yu, X.-H.; Griffin, R. J. Potentiation of cytotoxic Q.; Hu, Y. Design, synthesis and AChE inhibitory activity of inda-\ndrug activity in human tumour cell lines, by amine-substituted 2- none and aurone derivatives. Eur. J. Med. Chem.,2009,44, 7-17.\narylbenzimidazole-4-carboxamide PARP-1 inhibitors. Bioorg. [41] Lingaiah, B. P. V.; Yakaiah, T.; Kumar, A. R.; Sathaiah, G.; Shek-\nMed. Chem. Lett., 2004,14, 2433. har, A. C.; Raju, K.; Rao, P.S.; Narsaiah, B.; Kumar, K. P.; Murthy,\n[22] Lukevics, E.; Arsenyan, P.; Shestakova, I.; Domracheva, I.; U. S. N. Synthesis of novel optically pure (cid:2)-amino acid functional-\nNesterova, A.; Pudova, O. Synthesis and antitumour activity of ised-7-trifluoromethyl substituted quinolone derivatives and their\ntrimethyl silyl propyl substituted benzimidazoles. Eur. J. Med. antibacterial activity. Med. Chem. Res.,2013,22, 186-194.\nChem.,2001,36, 507-515. [42] Reddy, G. V.; Ravi Kanth, S.; Maitraie, D.; Narsaiah, B.; Rao, P.\n[23] Sondhi, S. M.; Singh, N.; Lahoti, A. M.; Bajaj, K.; Kumar, A.; S.; Hara Kishore, K.; Murthy, U.S.N.; Ravi, B.; Kumar, B. A.; Par-\nLozech, O.; Meijer, L. Synthesis of acridinyl-thiazolino derivatives thasarathy, T. Design, synthesis, structure–activity relationship and\nand their evaluation for anti-inflammatory, analgesic and kinase in- antibacterial activity series of novel imidazo fused quinolone car-\nhibition activities. Bioorg. Med. Chem.,2005,13, 4291. boxamides. Eur. J. Med. Chem.,2009,44, 1570-1578.\n[24] Sondhi, S. M.; Singh, N.; Kumar, A.; Lozech, O.; Meijer, L. Syn- [43] Kumar, A. R.; Sathaiah, G.; Shekhar, A. C.; Raju, K.; Rao, P. S.;\nthesis, anti-inflammatory, analgesic and kinase (CDK-1, CDK-5 Narsaiah, B.; Raju, Y. K.; Murthy, U. S. N.; Srimai, V.; Ramesh,\nand GSK-3) inhibition activity evaluation of benzimida- M.; Parthasarathy, T. Synthesis of 6-fluoro-7-cyclic amino substi-\nzole/benzoxazole derivatives and some Schiff's bases. Bioorg. Med. tuted dicarboxylic acid quinolones and their antibacterial activity.\nChem.,2006,14, 3758-3765. J. Heterocyclic. Chem., in press, DOI 10.1002/jhet.1889.\n[25] Demirayak, S.; Abu Mohsen, U.; Caqri Karaburun, A. Synthesis [44] Kumar, A. R.; Sathaiah, G.; Shekhar, A. C.; Raju, K.; Rao, P. S.;\nand anticancer and anti-HIV testing of some pyrazino[1,2- Narsaiah, B.; Raju, Y. K.; Murthy, U. S. N. Synthesis of Novel N-\na]benzimidazole derivatives. Eur. J. Med. Chem., 2002, 37, 255- alkyl triazole substituted fluoroquinolones and their antimicrobial\n260. activity. J. Heterocyclic. Chem., in press, DOI 10.1002/jhet.2034.\n[26] Huang, S. T.; Hsei, I. J.; Chen, C. Synthesis and anticancer evalua- [45] Shekhar, A. C.; Rao, P. S.; Narsaiah, B.; Devi, A.; Sijwali, A. P. S.\ntion of bis(benzimidazoles), bis (benzoxazoles) and benzothiazoles. Emergence of pyrido quinoxalines as new family of antimalarial\nBioorg. Med. Chem.,2006,14, 6106. agents. Eur. J. Med. Chem., 2014, doi: 10.1016/j.ejmech.20-14.0-\n[27] Kumar, C. C.; Malkowski, M.; Yin, Z.; Tanghetti, E.; Yaremko, B.; 3.010\nNechuta, T.; Varner, J.; Liu, M.; Smith, E. M.; Neustadt, B.; Presta, [46] Narsaiah, B.; Shiva, P. A.; Venkataratnam, R. V. An improved\nM.; Armstrong, L. Inhibition of Angiogenesis and Tumor Growth synthetic route to trifluoromethyl-6-substituted-2(1H)-pyridones.\nby SCH221153, a Dual (cid:2)(cid:3) and (cid:2)(cid:3)5 Integrin Receptor Antago- OPPI. Briefs.,1993,25, 116-117.\nv 3 v\nnist. Cancer Res.,2001,61, 2232. [47] Pitman-Dunn, S. P. Fluorinated nitrogen heterocycles via cycliza-\n[28] White, A. W.; Almassy, R.; Calvert, A. H.; Curtin, N. J.; Griffin, R. tion. III. 3-trifluoromethyl-1-(4-trifluoromethyl-2-pyridyl)-pyrazo-\nJ.; Hostomsky, Z.; Maegly, K.; Newell, D. R.; Srivinivasan, S.; les from fluorinated 1, 3-diketones and 4-trifluoromethyl-2-\nGolding, B. T. Resistance-modifying agents. 9. Synthesis and bio- hydrazinopyridines.J. Heterocyclic. Chem.,1969,6, 223-228.\nlogical properties of benzimidazole inhibitors of the DNA repair",
+      "source": {
+        "source_file": "j.ejmech.2015.03.024.pdf",
+        "page": 7,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Design, Synthesis and Biological Evaluation Letters in Drug Design & Discovery, 2015, Vol. 12, No. 1 45\n[48] Wahlgren, C. G.; Addison, A. W. Synthesis of some benzimida- [49] NCCLS, Methods for Dilution Antimicrobial susceptibility tests for\nzole-, pyridine- and imidazole-derived chelating agents. J. Hetero- bacteria, which grows aerobically, 5th ed, Approved Standard M7-\ncyclic. Chem.,1989,26, 541–543. A5, NCCLS, Villanova, PA, 2000.\nReceived: March 20, 2014 Revised: May 08, 2014 Accepted: July 25, 2014",
+      "source": {
+        "source_file": "j.ejmech.2015.03.024.pdf",
+        "page": 8,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    }
+  ],
+  "tables": [
+    {
+      "table_id": "p3_t1",
+      "rows": [
+        [
+          "MIC ((cid:2)g/mL)",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Compound",
+          "B.subtilis",
+          "S.aureus",
+          "S.epidermidis",
+          "E.coli",
+          "P.aeroginosa",
+          "K.pneumoniae"
+        ],
+        [
+          "4a",
+          ">150",
+          ">150",
+          ">150",
+          ">150",
+          ">150",
+          ">150"
+        ],
+        [
+          "4b",
+          ">150",
+          ">150",
+          ">150",
+          ">150",
+          ">150",
+          ">150"
+        ],
+        [
+          "4c",
+          ">150",
+          ">150",
+          ">150",
+          ">150",
+          ">150",
+          ">150"
+        ],
+        [
+          "4d",
+          ">150",
+          ">150",
+          ">150",
+          ">150",
+          ">150",
+          ">150"
+        ],
+        [
+          "4e",
+          ">150",
+          ">150",
+          ">150",
+          ">150",
+          ">150",
+          ">150"
+        ],
+        [
+          "4f",
+          ">150",
+          ">150",
+          "75",
+          ">150",
+          ">150",
+          ">150"
+        ],
+        [
+          "4g",
+          ">150",
+          ">150",
+          "75",
+          ">150",
+          ">150",
+          ">150"
+        ],
+        [
+          "4h",
+          "150",
+          ">150",
+          "75",
+          "75",
+          "75",
+          ">150"
+        ],
+        [
+          "5a",
+          "150",
+          "9.375",
+          "4.68",
+          "9.375",
+          "4.68",
+          "37.5"
+        ],
+        [
+          "5b",
+          ">150",
+          ">150",
+          ">150",
+          ">150",
+          ">150",
+          ">150"
+        ],
+        [
+          "5c",
+          ">150",
+          ">150",
+          ">150",
+          ">150",
+          ">150",
+          ">150"
+        ],
+        [
+          "Penicillin",
+          "1.562",
+          "1.562",
+          "3.125",
+          "12.5",
+          "12.5",
+          "6.25"
+        ],
+        [
+          "Norfloxacin",
+          "9.375",
+          "1.17",
+          "1.17",
+          "18.75",
+          "1.17",
+          "9.375"
+        ]
+      ],
+      "source": {
+        "source_file": "j.ejmech.2015.03.024.pdf",
+        "page": 3,
+        "section": null,
+        "table_id": "p3_t1",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p4_t1",
+      "rows": [
+        [
+          "Zone of Inhibition in mm",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Compound",
+          "C. albicans",
+          "",
+          "S. cervisiae",
+          "",
+          "A. niger",
+          "",
+          "A. flavus",
+          ""
+        ],
+        [
+          "",
+          "100(cid:3)g\n7",
+          "150(cid:3)g\n10",
+          "100(cid:3)g\n7",
+          "150(cid:3)g\n10",
+          "100(cid:3)g\n-",
+          "150(cid:3)g\n-",
+          "100(cid:3)g\n-",
+          "150(cid:3)g\n-"
+        ],
+        [
+          "5a",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Amphotericin(50 (cid:3)g)",
+          "23.5",
+          "",
+          "22",
+          "",
+          "24",
+          "",
+          "25",
+          ""
+        ]
+      ],
+      "source": {
+        "source_file": "j.ejmech.2015.03.024.pdf",
+        "page": 4,
+        "section": null,
+        "table_id": "p4_t1",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p4_t2",
+      "rows": [
+        [
+          "",
+          "were evaluated against four fungi includ-",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "ing Candida albicans Y0109,",
+          "",
+          "Candida",
+          "albicans SC5314,",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Aspergillus"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ", was obtained",
+          ""
+        ]
+      ],
+      "source": {
+        "source_file": "j.ejmech.2015.03.024.pdf",
+        "page": 4,
+        "section": null,
+        "table_id": "p4_t2",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p7_t1",
+      "rows": [
+        [
+          "Shekhar, A. C.; Rao, P. S.; Narsaiah, B.; Devi, A.; Sijwali, A. P. S.",
+          ""
+        ],
+        [
+          "Emergence of pyrido quinoxalines as new family of antimalarial",
+          ""
+        ],
+        [
+          "agents.",
+          "doi: 10.1016/j.ejmech.20-14.0-"
+        ],
+        [
+          "3.010",
+          ""
+        ]
+      ],
+      "source": {
+        "source_file": "j.ejmech.2015.03.024.pdf",
+        "page": 7,
+        "section": null,
+        "table_id": "p7_t1",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    }
+  ]
+}

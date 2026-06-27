@@ -1,0 +1,4 @@
+Confidence: low; LLM ran: False; status=skipped
+Rule records: 15; LLM records: 0
+Predictions: outputs\benzimidazoles_full_dedup_fix\2023.12.si5a.0471\predictions.csv
+Macro-F1: 0.1867

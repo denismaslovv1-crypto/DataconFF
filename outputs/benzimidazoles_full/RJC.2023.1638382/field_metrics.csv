@@ -1,0 +1,8 @@
+field,precision,recall,f1,true_positive
+compound_id,0.0,0.0,0.0,0
+smiles,0.0,0.0,0.0,0
+target_type,0.4,1.0,0.5714285714285715,10
+target_relation,0.4,1.0,0.5714285714285715,10
+target_value,0.28,0.7,0.4,7
+target_units,0.4,1.0,0.5714285714285715,10
+bacteria,0.28,0.7,0.4,7

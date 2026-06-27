@@ -1,0 +1,122 @@
+[
+  {
+    "compound_id": "3",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "0.125",
+    "target_units": "um",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "j.bmc.2015.08.029.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "thiazolo[3,2-a]benzimidazolones the highest inhibition effect showed 2-(4-fluorobenzylidene)-7-\n(phenylcarbonyl)[1,3]thiazolo[3,2-a]benzimidazol-3(2H)-one 17 90.76% (IC = 53.70 g/mL). In\n50\norder to estimate the capability of the studied benzimidazoles to act as radical scavengers the structure\nof the most active derivative within the both subseries was optimized at B3LYP/6-311++G** level and\nthe respective bond dissociation enthalpies were calculated. The appropriate models for the HAT and\nSET-mechanism of the antioxidant activity were proposed.\nThe antibacterial activity of the compounds was evaluated against two Gram-positive\nbacteria (Bacillus subtilis ATCC 6633 and Staphylococcus aureus ATCC 6538) and three Gram-\nnegative bacteria (Escherichia coli ATCC 8739, Pseudomonas aeruginosa ATCC 9027 and\nSalmonella abony NCTC 6017). 1,3-Diphenylpropyl-5-methyl-1,3-dihydro-2H-benzimidazol-2-\nimine 14 exhibited significant activity against B. subtilis, S. aureus, S. abony and E. coli (with MIC\nvalues of 0.125, 0.016, 0.50 and 0.50 mg/mL, respectively). The group of thiazolobenzimidazolones\ndid not reveal antibacterial activity against the tested strains.\nKeywords: 2-imino-benzimidazoles; 1,3-thiazolo[3,2-a]benzimidazolones, lipid peroxidation\ninhibition, antibacterial activity, DFT calculations\n1. Introduction\nBenzimidazole heterocycle system is an important pharmacophore and privileged structure in\nthe medicinal chemistry. Its derivatives and particularly 2-aminobenzimidazoles exert various\nbiological activities such as antioxidant,1 antimicrobial,2 anthelmintic,3 anticancer,4 anti-\nhypertensives,5 antiviral,6 and antifungal.7 The benzimidazole ring system exists in the structure of\nmany antiparasitic, anthelmintic, antifungal, antiviral and antitumor drugs. Some of them as\nalbendazole, omeprazole, lansoprazole, bendamustine etc. have found widespread application in\nmedicinal practice. Therefore the synthesis of new benzimidazoles and the study of their biological\nproperties are of pharmacological interest.\n2",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "0.125",
+    "target_units": "um",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "j.bmc.2015.08.029.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "thiazolo[3,2-a]benzimidazolones the highest inhibition effect showed 2-(4-fluorobenzylidene)-7-\n(phenylcarbonyl)[1,3]thiazolo[3,2-a]benzimidazol-3(2H)-one 17 90.76% (IC = 53.70 g/mL). In\n50\norder to estimate the capability of the studied benzimidazoles to act as radical scavengers the structure\nof the most active derivative within the both subseries was optimized at B3LYP/6-311++G** level and\nthe respective bond dissociation enthalpies were calculated. The appropriate models for the HAT and\nSET-mechanism of the antioxidant activity were proposed.\nThe antibacterial activity of the compounds was evaluated against two Gram-positive\nbacteria (Bacillus subtilis ATCC 6633 and Staphylococcus aureus ATCC 6538) and three Gram-\nnegative bacteria (Escherichia coli ATCC 8739, Pseudomonas aeruginosa ATCC 9027 and\nSalmonella abony NCTC 6017). 1,3-Diphenylpropyl-5-methyl-1,3-dihydro-2H-benzimidazol-2-\nimine 14 exhibited significant activity against B. subtilis, S. aureus, S. abony and E. coli (with MIC\nvalues of 0.125, 0.016, 0.50 and 0.50 mg/mL, respectively). The group of thiazolobenzimidazolones\ndid not reveal antibacterial activity against the tested strains.\nKeywords: 2-imino-benzimidazoles; 1,3-thiazolo[3,2-a]benzimidazolones, lipid peroxidation\ninhibition, antibacterial activity, DFT calculations\n1. Introduction\nBenzimidazole heterocycle system is an important pharmacophore and privileged structure in\nthe medicinal chemistry. Its derivatives and particularly 2-aminobenzimidazoles exert various\nbiological activities such as antioxidant,1 antimicrobial,2 anthelmintic,3 anticancer,4 anti-\nhypertensives,5 antiviral,6 and antifungal.7 The benzimidazole ring system exists in the structure of\nmany antiparasitic, anthelmintic, antifungal, antiviral and antitumor drugs. Some of them as\nalbendazole, omeprazole, lansoprazole, bendamustine etc. have found widespread application in\nmedicinal practice. Therefore the synthesis of new benzimidazoles and the study of their biological\nproperties are of pharmacological interest.\n2",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "0.125",
+    "target_units": "um",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "j.bmc.2015.08.029.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "thiazolo[3,2-a]benzimidazolones the highest inhibition effect showed 2-(4-fluorobenzylidene)-7-\n(phenylcarbonyl)[1,3]thiazolo[3,2-a]benzimidazol-3(2H)-one 17 90.76% (IC = 53.70 g/mL). In\n50\norder to estimate the capability of the studied benzimidazoles to act as radical scavengers the structure\nof the most active derivative within the both subseries was optimized at B3LYP/6-311++G** level and\nthe respective bond dissociation enthalpies were calculated. The appropriate models for the HAT and\nSET-mechanism of the antioxidant activity were proposed.\nThe antibacterial activity of the compounds was evaluated against two Gram-positive\nbacteria (Bacillus subtilis ATCC 6633 and Staphylococcus aureus ATCC 6538) and three Gram-\nnegative bacteria (Escherichia coli ATCC 8739, Pseudomonas aeruginosa ATCC 9027 and\nSalmonella abony NCTC 6017). 1,3-Diphenylpropyl-5-methyl-1,3-dihydro-2H-benzimidazol-2-\nimine 14 exhibited significant activity against B. subtilis, S. aureus, S. abony and E. coli (with MIC\nvalues of 0.125, 0.016, 0.50 and 0.50 mg/mL, respectively). The group of thiazolobenzimidazolones\ndid not reveal antibacterial activity against the tested strains.\nKeywords: 2-imino-benzimidazoles; 1,3-thiazolo[3,2-a]benzimidazolones, lipid peroxidation\ninhibition, antibacterial activity, DFT calculations\n1. Introduction\nBenzimidazole heterocycle system is an important pharmacophore and privileged structure in\nthe medicinal chemistry. Its derivatives and particularly 2-aminobenzimidazoles exert various\nbiological activities such as antioxidant,1 antimicrobial,2 anthelmintic,3 anticancer,4 anti-\nhypertensives,5 antiviral,6 and antifungal.7 The benzimidazole ring system exists in the structure of\nmany antiparasitic, anthelmintic, antifungal, antiviral and antitumor drugs. Some of them as\nalbendazole, omeprazole, lansoprazole, bendamustine etc. have found widespread application in\nmedicinal practice. Therefore the synthesis of new benzimidazoles and the study of their biological\nproperties are of pharmacological interest.\n2",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "0.125",
+    "target_units": "um",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "j.bmc.2015.08.029.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "thiazolo[3,2-a]benzimidazolones the highest inhibition effect showed 2-(4-fluorobenzylidene)-7-\n(phenylcarbonyl)[1,3]thiazolo[3,2-a]benzimidazol-3(2H)-one 17 90.76% (IC = 53.70 g/mL). In\n50\norder to estimate the capability of the studied benzimidazoles to act as radical scavengers the structure\nof the most active derivative within the both subseries was optimized at B3LYP/6-311++G** level and\nthe respective bond dissociation enthalpies were calculated. The appropriate models for the HAT and\nSET-mechanism of the antioxidant activity were proposed.\nThe antibacterial activity of the compounds was evaluated against two Gram-positive\nbacteria (Bacillus subtilis ATCC 6633 and Staphylococcus aureus ATCC 6538) and three Gram-\nnegative bacteria (Escherichia coli ATCC 8739, Pseudomonas aeruginosa ATCC 9027 and\nSalmonella abony NCTC 6017). 1,3-Diphenylpropyl-5-methyl-1,3-dihydro-2H-benzimidazol-2-\nimine 14 exhibited significant activity against B. subtilis, S. aureus, S. abony and E. coli (with MIC\nvalues of 0.125, 0.016, 0.50 and 0.50 mg/mL, respectively). The group of thiazolobenzimidazolones\ndid not reveal antibacterial activity against the tested strains.\nKeywords: 2-imino-benzimidazoles; 1,3-thiazolo[3,2-a]benzimidazolones, lipid peroxidation\ninhibition, antibacterial activity, DFT calculations\n1. Introduction\nBenzimidazole heterocycle system is an important pharmacophore and privileged structure in\nthe medicinal chemistry. Its derivatives and particularly 2-aminobenzimidazoles exert various\nbiological activities such as antioxidant,1 antimicrobial,2 anthelmintic,3 anticancer,4 anti-\nhypertensives,5 antiviral,6 and antifungal.7 The benzimidazole ring system exists in the structure of\nmany antiparasitic, anthelmintic, antifungal, antiviral and antitumor drugs. Some of them as\nalbendazole, omeprazole, lansoprazole, bendamustine etc. have found widespread application in\nmedicinal practice. Therefore the synthesis of new benzimidazoles and the study of their biological\nproperties are of pharmacological interest.\n2",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "40",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "0.016-0.50",
+    "target_units": "um",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "j.bmc.2015.08.029.pdf",
+      "page": 20,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "expected to have good intestinal absorption and most of them – also good blood-brain barrier\npenetration.\nOn the other hand, all compounds containing N-alkyl substituents show higher\nconformational flexibility manifested through their greater number of rotatable bonds. The number\nof rotatable bonds is an important factor for the efficient binding to receptors and channels as well as\nfor the oral bioavailability.40 Molecules with more than 10 rotatable bonds tend to show poor oral\nbioavailability. All studied compounds, satisfy this criterion and compounds 17-20 have low\nconformational flexibility with less than 5 rotatable bonds. The benzimidazole moiety itself has no\nrotatable bonds and could be regarded as a rigid linker.\nHydrogen bonding capacity of the drug candidates is also described by the number of H-bond\ndonors and acceptors. The compounds in the series show 3 to 8 H-bond acceptors, but none (17-20)\nor one (10-14) H-bond donor. Molecular volumes of the compounds in the series are less than 400\nÅ3. Summarizing the physico-chemical properties of studied benzimidazoles, we could conclude that\nthey obey the \"Rule of five\" and meet all criteria for good solubility and permeability.\n3. Conclusion\nTwo groups of benzimidazole derivatives were synthesized by use of 2-\nmercaptobenzimidazoles as precursors in order to estimate their antioxidant and antibacterial\nproperties. The results obtained by the screening showed that derivatives of 2-iminobenzimidazoles\n10 and 14 possessed strong activity against B. subtilis, S. aureus, S. abony and E. coli whereat their\nMIC were in the range 0.016 - 0.50 mg/mL. The thiazolo[3,2-a]benzimidazolones demonstrated\n50\nhigher activity than the 1,3-disubstituted-benzimidazol-2-imines The 2-substituted\nthiazolobenzimidazoles 17 and 19 revealed very strong lipid peroxidation inhibition effects with IC\n50\nvalues of 53.70 g/mL and 74.11 g/mL, respectively. SAR analysis was performed and some\nelectronic properties of the compounds were established using B3LYP/6-311++G** calculations. On\nthe basis of calculated bond dissociation enthalpies, it was suggested that iminobenzimidazoles 10-\n19",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "40",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "0.016-0.50",
+    "target_units": "um",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "j.bmc.2015.08.029.pdf",
+      "page": 20,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "expected to have good intestinal absorption and most of them – also good blood-brain barrier\npenetration.\nOn the other hand, all compounds containing N-alkyl substituents show higher\nconformational flexibility manifested through their greater number of rotatable bonds. The number\nof rotatable bonds is an important factor for the efficient binding to receptors and channels as well as\nfor the oral bioavailability.40 Molecules with more than 10 rotatable bonds tend to show poor oral\nbioavailability. All studied compounds, satisfy this criterion and compounds 17-20 have low\nconformational flexibility with less than 5 rotatable bonds. The benzimidazole moiety itself has no\nrotatable bonds and could be regarded as a rigid linker.\nHydrogen bonding capacity of the drug candidates is also described by the number of H-bond\ndonors and acceptors. The compounds in the series show 3 to 8 H-bond acceptors, but none (17-20)\nor one (10-14) H-bond donor. Molecular volumes of the compounds in the series are less than 400\nÅ3. Summarizing the physico-chemical properties of studied benzimidazoles, we could conclude that\nthey obey the \"Rule of five\" and meet all criteria for good solubility and permeability.\n3. Conclusion\nTwo groups of benzimidazole derivatives were synthesized by use of 2-\nmercaptobenzimidazoles as precursors in order to estimate their antioxidant and antibacterial\nproperties. The results obtained by the screening showed that derivatives of 2-iminobenzimidazoles\n10 and 14 possessed strong activity against B. subtilis, S. aureus, S. abony and E. coli whereat their\nMIC were in the range 0.016 - 0.50 mg/mL. The thiazolo[3,2-a]benzimidazolones demonstrated\n50\nhigher activity than the 1,3-disubstituted-benzimidazol-2-imines The 2-substituted\nthiazolobenzimidazoles 17 and 19 revealed very strong lipid peroxidation inhibition effects with IC\n50\nvalues of 53.70 g/mL and 74.11 g/mL, respectively. SAR analysis was performed and some\nelectronic properties of the compounds were established using B3LYP/6-311++G** calculations. On\nthe basis of calculated bond dissociation enthalpies, it was suggested that iminobenzimidazoles 10-\n19",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  }
+]

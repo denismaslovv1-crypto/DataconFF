@@ -1,0 +1,81 @@
+{
+  "input_records": 200,
+  "output_records": 200,
+  "exact_duplicates_merged": 0,
+  "records_with_normalized_fields": 76,
+  "conflict_count": 1,
+  "conflicts": [
+    {
+      "key": {
+        "compound_id": "2",
+        "target_type": "MIC",
+        "bacteria": "E. coli"
+      },
+      "rows": [
+        {
+          "compound_id": "2",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "1024",
+          "target_units": "mm",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "16",
+          "target_units": "mm",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "3",
+          "target_units": "mm",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "32",
+          "target_units": "mm",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "32-64",
+          "target_units": "mm",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "64",
+          "target_units": "mm",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "8-16",
+          "target_units": "mm",
+          "bacteria": "E. coli"
+        }
+      ]
+    }
+  ]
+}

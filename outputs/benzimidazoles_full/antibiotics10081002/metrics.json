@@ -1,0 +1,58 @@
+{
+  "macro_f1": 0.27959183673469384,
+  "field_metrics": [
+    {
+      "field": "compound_id",
+      "precision": 0.027777777777777776,
+      "recall": 0.009615384615384616,
+      "f1": 0.014285714285714287,
+      "true_positive": 1
+    },
+    {
+      "field": "smiles",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "true_positive": 0
+    },
+    {
+      "field": "target_type",
+      "precision": 1.0,
+      "recall": 0.34615384615384615,
+      "f1": 0.5142857142857142,
+      "true_positive": 36
+    },
+    {
+      "field": "target_relation",
+      "precision": 1.0,
+      "recall": 0.34615384615384615,
+      "f1": 0.5142857142857142,
+      "true_positive": 36
+    },
+    {
+      "field": "target_value",
+      "precision": 0.3055555555555556,
+      "recall": 0.10576923076923077,
+      "f1": 0.15714285714285714,
+      "true_positive": 11
+    },
+    {
+      "field": "target_units",
+      "precision": 0.5555555555555556,
+      "recall": 0.19230769230769232,
+      "f1": 0.28571428571428575,
+      "true_positive": 20
+    },
+    {
+      "field": "bacteria",
+      "precision": 0.9166666666666666,
+      "recall": 0.3173076923076923,
+      "f1": 0.47142857142857136,
+      "true_positive": 33
+    }
+  ],
+  "prediction_count": 36,
+  "ground_truth_count": 104,
+  "benchmark_pdf_ids": null,
+  "benchmark_pdf_name": "antibiotics10081002"
+}

@@ -1,0 +1,478 @@
+[
+  {
+    "text": "S. No | Sample\ncode | E. coli\nATCC\n25922 | S. aureus\nATCC\n29213 | K. pneumoniae\nBAA 1705 | A. baumannii\nBAA 1605 | P. aeruginosa\nATCC 27853",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 9,
+      "section": null,
+      "table_id": "p9_t2",
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_tables",
+      "confidence": 0.75
+    },
+    "row_id": "0"
+  },
+  {
+    "text": "S. No | Sample code | S. aureus\nATCC 29213 | CC\n50\n(µg/mL) | Selective index\n(CC /MIC)\n50",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 10,
+      "section": null,
+      "table_id": "p10_t2",
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_tables",
+      "confidence": 0.75
+    },
+    "row_id": "0"
+  },
+  {
+    "text": "Strains | Antibiotics resistant to | Details about the strain | MIC (µg/mL)",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 12,
+      "section": null,
+      "table_id": "p12_t1",
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_tables",
+      "confidence": 0.75
+    },
+    "row_id": "0"
+  },
+  {
+    "text": "MSSA | S. aureus\nATCC\n29213 | None | 8 | 8 | 8 | 4 | 0.125 | 0.0625 | 1 | 1 | 1",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 12,
+      "section": null,
+      "table_id": "p12_t1",
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_tables",
+      "confidence": 0.75
+    },
+    "row_id": "2"
+  },
+  {
+    "text": "Journal Pre-proof\nSynthesis and evaluation of new Quinazoline-benzimidazole hybrids as potent\nanti-microbial agents against multidrug resistant Staphylococcus aureus and\nMycobacterium tuberculosis\nSatyaveni Malasala, Md. Naiyaz Ahmad, Ravikumar Akunuri, Manjulika Shukla,\nGrace Kaul, Arunava Dasgupta, Y.V. Madhavi, Sidharth Chopra, Srinivas Nanduri\nPII: S0223-5234(20)30968-5\nDOI: https://doi.org/10.1016/j.ejmech.2020.112996\nReference: EJMECH 112996\nTo appear in:",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 1,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "er 2020\nAccepted Date: 2 November 2020\nPlease cite this article as: S. Malasala, M.N. Ahmad, R. Akunuri, M. Shukla, G. Kaul, A. Dasgupta, Y.V\nMadhavi, S. Chopra, S. Nanduri, Synthesis and evaluation of new Quinazoline-benzimidazole hybrids\nas potent anti-microbial agents against multidrug resistant Staphylococcus aureus and Mycobacterium\ntuberculosis, European Journal of Medicinal Chemistry, https://doi.org/10.1016/j.ejmech.2020.112996.\nThis is a PDF file of an article that has undergone enhancements after acceptance, such as the addition\nof a cover page and metadata, and formatting for readability, but it is not",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 1,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "Synthesis and evaluation of new Quinazoline-benzimidazole hybrids as\npotent anti-microbial agents against multidrug resistant Staphylococcus\naureus and Mycobacterium tuberculosis\nSatyaveni Malasalaa, Md. Naiyaz Ahmadb, c, Ravikumar Akunuria, Manjulika Shuklab,\nGrace Kaulb, c, Arunava Dasguptab,c, Y.V Madhavia, Sidharth Choprab,c*, Srinivas Nanduria*.\naDepartment of Medicinal Chemistry, National Institute of Pharmaceutical Education and\nResearc",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 2,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "Synthesis and evaluation of new Quinazoline-benzimidazole hybrids as\npotent anti-microbial agents against multidrug resistant Staphylococcus\naureus and Mycobacterium tuberculosis\nSatyaveni Malasalaa, Md. Naiyaz Ahmadb,c, Ravikumar Akunuria, Manjulika Shuklab,\nGrace Kaulb, c, Arunava Dasguptab,c, Y.V Madhavia, Sidharth Choprab,c*, Srinivas Nanduria*.\naDepartment of Medicinal Chemistry, National Institute of Pharmaceutical Education and\nResearch (NIPER), Hyderabad-500 037, Telangana, India\nf\nbDivision of Microbiology, CSIR-Central Drug Research Instituote, Sitapur Road, Sector 10,\nJanakipuram Extension, Lucknow-226031, Utotar Pradesh, India\nr\ncAcSIR, Ghaziabad, Sector 19, Kamla Nehru Nagar, Gphaziabad-201002, Uttar Pradesh, India\n-\nCorresponding author: Dr. Srinivas Nanduri, E-m\ne\nail: nandurisrini92@gmail.com\nr\nCo-corresponding author: Dr. Sidharth Chopra: skchopra007@gmail.com\nP\nAbstract: Owing to the rapid rise in a ntibiotic resistance, infectious diseases have become\nl\nserious threat to public health. Thaere is an urgent need to develop new antimicrobial agents\nn\nwith diverse chemical structures and novel mechanisms of action to overcome the resistance.\nr\nIn recent years, Quinazoline-benzimidazole hybrids have emerged as a new class of\nu\nantimicrobial agentso active against S. aureus and M. tuberculosis. In the current study, we\ndesigned and synJthesized fifteen new Quinazoline-benzimidazole hybrids and evaluated them\nfor their antimicrobial activity against S. aureus ATCC 29213 and M. tuberculosis H37Rv.\nThese studies led to the identification of nine potent antibacterial agents 8a, 8b, 8c, 8d, 8f,\n8g, 8h, 8i and 10c with MICs in the range of 4-64 µg/mL. Further, these selected compounds\nwere found to possess potent antibacterial potential against a panel of drug-resistant clinical\nisolates which include methicillin and vancomycin-resistant S. aureus. The selected\ncompounds were found to be less toxic to Vero cells (CC = 40-≥200 µg/mL) and\n50\ndemonstrated a favourable selectivity index. Based on the encouraging results obtained these\nnew benzimidazol-2-yl quinazoline derivatives have emerged as promising antimicrobial\nagents for the treatment of MDR- S. aureus and Mycobacterial infections.\nKeywords: Quinazoline, Benzimidazole, anti-bacterial agents, MRSA, Tuberculosis,\ncytotoxicity, resistance.",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "1. Introduction\nAlarming rise of difficult to treat multi drug resistant bacterial infections has emerged as one\nof the formidable challenges of 21st century [1-5]. The World Health Organization (WHO)\nhas categorised 12 of the pathogens as high-risk priority II pathogens which require\nimmediate attention [6,7]. In particular, S. aureus is known to cause a wide range of diseases,\nfrom skin infections to serious illnesses like pneumonia, meningitis, bacteraemia and sepsis\n[8-10]. Among the various resistant strains, methicillin resistant (MRSA) and vancomycin\nresistant (VRSA) strains are known to be sources of spread of community infections. Multi\nDrug Resistant Tuberculosis (MDR-TB) caused due to Mycobacterium tuberculosis (Mtb)\nf\nhas emerged as another major life-threatening disease. A numbeor of studies indicated that the\no\nanti-microbial resistance (AMR) has attained frightening levels globally [11-13]. Around\nr\n750,000 deaths are reported annually due to AMR and the toll is likely to rise to 10 million\np\nby 2050 [14]. Hence, search for newer treatments fo-r multi drug resistant microbial infections\ne\nhave been the focus of the scientific community in recent years.\nr\nP\nQuinazoline is a remarkable scaffold of medicinal importance possessing promising\npharmacological activities like antitubercular [16], antibacterial [17], anticonvulsant [18],\nl\na\nanti-HIV, antifungal [19], anti-inflammatory, analgesic [20] and anticancer [21] activities.\nn\nBouley et al. [22] reported 4(3H)-quinazolinones as orally bioavailable antibacterial agents I.\nr\nOur group also reportedu 3-phenylquinazolin-4(3H)-ones and related derivatives II [23] and 2-\no\nphenylquinazoline derivatives III as potent anti-MDR-S. aureus agents and as anti-\nJ\nmycobacterial agents [24]. Benzimidazole scaffold has attracted wide attention as an\ninteresting heterocyclic in medicinal chemistry owing to its presence as a core scaffold in a\nnumber of drugs such as albendazole, mebendazole, candesartan, astemizole etc. [25].\nSeveral compounds possessing benzimidazole as a core are reported to possess diverse\ntherapeutic properties such as antibacterial, antiulcer, antiviral, antihypertensive, anticancer,\nantifungal, anti-inflammatory and anticoagulant properties [26]. Dokla et al. [27] reported\n1,2-disubstituted benzimidazole scaffold IV to possess potent antibacterial activity against E.\ncoli. Mustafa et al. [28] reported the benzimidazole-acrylonitrile hybrids V as anti-\nmycobacterial agents. p-aminobenzoic acid (PABA) serves as a bioactive linker because of\nits occurrence in many human pathogens. p-Aminosalicylic acid VI [29], a derivative of\nPABA is used to treat active drug resistant tuberculosis together with other anti-tubercular\nmedications.",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 4,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "Br\nO\nO\nNH Cl\nO O OH\nHN\nN OH N OH\nN\nN N\nN\nI II CN III\nMIC:0.03 g/mLS.aureus MIC:0.03 g/mLS.aureus MIC:4 g/mLM.tuberculosis\nMIC:64 g/mLM.tuberculosis\nf\no\nO OH\no\nN N CN OH\nr\nN O N pN N\nHN S H\n- NH 2\nIV O eV\nVI\nMIC:2 g/mLE.coli\nMIC:0.78 r g/mLM.tuberculosis p-aminosalicylicacid\nP Secondlineanti-tbdrug\nFigure 1. Rleported anti-bacterial agents.\na\nBased on the key role being pnlayed by quinazoline, benzimidazole and p-aminobenzoic acid\nmoieties in a number of antir-microbial agents, we designed and synthesized a number of new\nu\nquinazoline-benzimidazole hybrids with p-aminobenzoic acid as linker.\no\nJ\nR2\nN\nN\nH\nHN\nN\nN\nR1\nFigure 2. Designed quinazolines-benzimidazole hybrids.",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "f\no\nScheme 2. Synthesis of 4-((2-phenylquinazolin-4-yl)amino)-N-(2-(aryl)-1H-benzoimidazol-\no\n6-yl)benzamide derivatives.\nr\n2.2 In vitro antibacterial activity p\n-\ne\n2.2.1 Antibiotic susceptibility testing against E. coli, S. aureus, K. pneuminiae, A. baumannii,\nr\nand P. aeruginosa pathogen panel.\nP\nThe newly synthesized benzimidazol-l2-yl quinazoline derivatives were subjected to antibiotic\na\nsusceptibility testing against E. coli, S. aureus, K. pneuminiae, A. baumannii, and P.\nn\naeruginosa pathogen panel. The mini",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 7,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "f\no\nScheme 2. Synthesis of 4-((2-phenylquinazolin-4-yl)amino)-N-(2-(aryl)-1H-benzoimidazol-\no\n6-yl)benzamide derivatives.\nr\n2.2 In vitro antibacterial activity p\n-\ne\n2.2.1 Antibiotic susceptibility testing against E. coli, S. aureus, K. pneuminiae, A. baumannii,\nr\nand P. aeruginosa pathogen panel.\nP\nThe newly synthesized benzimidazol-l2-yl quinazoline derivatives were subjected to antibiotic\na\nsusceptibility testing against E. coli, S. aureus, K. pneuminiae, A. baumannii, and P.\nn\naeruginosa pathogen panel. The minimum inhibit",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 7,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "In vitro antibacterial activity p\n-\ne\n2.2.1 Antibiotic susceptibility testing against E. coli, S. aureus, K. pneuminiae, A. baumannii,\nr\nand P. aeruginosa pathogen panel.\nP\nThe newly synthesized benzimidazol-l2-yl quinazoline derivatives were subjected to antibiotic\na\nsusceptibility testing against E. coli, S. aureus, K. pneuminiae, A. baumannii, and P.\nn\naeruginosa pathogen panel. The minimum inhibitory concentrations (MICs) against gram\nr\nu\npositive and gram-negative bacterial strains viz., E. coli, S. aureus, K. pneuminiae, A.\no\nbaumannii, and P. aeruginosa pathogen panel were determined by using",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 7,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "antibacterial activity p\n-\ne\n2.2.1 Antibiotic susceptibility testing against E. coli, S. aureus, K. pneuminiae, A. baumannii,\nr\nand P. aeruginosa pathogen panel.\nP\nThe newly synthesized benzimidazol-l2-yl quinazoline derivatives were subjected to antibiotic\na\nsusceptibility testing against E. coli, S. aureus, K. pneuminiae, A. baumannii, and P.\nn\naeruginosa pathogen panel. The minimum inhibitory concentrations (MICs) against gram\nr\nu\npositive and gram-negative bacterial strains viz., E. coli, S. aureus, K. pneuminiae, A.\no\nbaumannii, and P. aeruginosa pathogen panel were determined by using broth micro",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 7,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "zimidazol-l2-yl quinazoline derivatives were subjected to antibiotic\na\nsusceptibility testing against E. coli, S. aureus, K. pneuminiae, A. baumannii, and P.\nn\naeruginosa pathogen panel. The minimum inhibitory concentrations (MICs) against gram\nr\nu\npositive and gram-negative bacterial strains viz., E. coli, S. aureus, K. pneuminiae, A.\no\nbaumannii, and P. aeruginosa pathogen panel were determined by using broth microdilution\nJ\nassay. In addition, the synthesized compounds were also evaluated against M. tuberculosis\n(ATCC 27294), M. abscessus (ATCC 19977), M. fortuitum (ATCC 6841) and M. chelonae\n(ATC",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 7,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "-l2-yl quinazoline derivatives were subjected to antibiotic\na\nsusceptibility testing against E. coli, S. aureus, K. pneuminiae, A. baumannii, and P.\nn\naeruginosa pathogen panel. The minimum inhibitory concentrations (MICs) against gram\nr\nu\npositive and gram-negative bacterial strains viz., E. coli, S. aureus, K. pneuminiae, A.\no\nbaumannii, and P. aeruginosa pathogen panel were determined by using broth microdilution\nJ\nassay. In addition, the synthesized compounds were also evaluated against M. tuberculosis\n(ATCC 27294), M. abscessus (ATCC 19977), M. fortuitum (ATCC 6841) and M. chelonae\n(ATCC 35752). T",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 7,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "The antimicrobial screening results suggested that the synthesized compounds exhibited\nselective inhibitory activity against S. aureus. Compounds 8d, 8h and 8i exhibited equipotent\ninhibitory activity with MIC of 4 µg/mL. Compounds 8b and 8c have shown anti-bacterial\ninhibition with MIC of 8 µg/mL. Compounds 8g, 10a, 10b and 11 have exhibited moderate\ninhibition with MIC of 16-64 µg/mL. The remaining compounds are found to be inactive\nagainst E. coli, K. pneuminiae, A. baumannii, and P. aeruginosa pathogens. With phenyl\ngroup at C-2 position, the substitutions on benzimidazole were altered such as 4-nitro 8a, 4-\nchloro 8b, unsubstituted 8c, 4-fluoro 8d and 4-bromo 8e. While, the compound 8a did not\nshow any inhibitory activity against S. aureus, the compounds 8b, 8c and 8d exhibited good\nf\ninhibitory activity against S. aureus with MIC 8, 8 and 4 µg/moL respectively. Further, with\n3,4-dimethoxyphenyl at C-2 position compounds 8f witho 4-nitro and 8g with 4-chloro\nr\nsubstitutions on benzimidazole were synthesized. While the compound 8g inhibited S. aureus\np\nwith MIC value 16 µg/mL, the compound 8f did not show any inhibitory activity. With 4-\n-\ne\nchlorophenyl at C-2 position, compounds 8h, 8i and 8j were synthesized. While, the\nr\ncompounds 8h and 8i were found to possess potent inhibitory activity against S. aureus with\nP\nMIC: 4 µg/mL, the compound 8j was found to be inactive. Next, we focused our attention on\nl\nthe modification of the carboxyl amoiety at para position of the C-4 phenyl by modifying to\nvarious amides by coupling wnith substituted benzimidazoloamines as shown in Scheme 2.\nr\nThus, the compounds 10a, 10b, 10c and 10d were synthesized. The synthesized compounds\nu\nwere found to exhibit moderate inhibition against S. aureus with MIC values of 32->64\no\nµg/mL. CompoJund 11 was synthesized by direct substitution of 2-trifluoromethyl\nbenzimidazolo-5-amine at C-4. The compound 11 was found to be inactive.\nThe synthesized compounds were tested for their anti-mycobacterial potential with four\ndifferent mycobacterial strains. The inhibitory screening results are tabulated in Table 2.\nCompounds 8a-e showed moderate inhibitory activity against Mtb (MIC = 8–>64 µg/mL).\nThe compound 8a exhibited inhibitory activity against M. tuberculosis with MIC value of 8\nµg/mL. The compound 8b showed moderate activity against M. tuberculosis, M. fortuitum\nand M. chelonae. The compounds 8c and 8d did not show any inhibitory activity against M.\ntuberculosis. Interestingly, compound 8f exhibited good inhibitory activity against M.\ntuberculosis (H37Rv) with MIC value of 8 µg/mL. The compound 8f also showed good\ninhibition against M. fortuitum (ATCC 6841) with the MIC value of 4 µg/mL and M.\nchelonae (ATCC 35752) with the MIC value of 8 µg/mL. Compound 8g exhibited moderate\nactivity against M. tuberculosis with MIC value of 32 µg/mL. Compound 10c exhibited good",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "inhibition activity with MIC 16 µg/mL against M. tuberculosis. The compounds 10a and 10d\nwere found to be moderately active and compound 11 showed moderate inhibition with the\nMIC 64 µg/mL.\nTable 1. MIC values (µg/mL) of the tested compounds against gram positive and gram\nnegative pathogen panel.\nS. No Sample E. coli S. aureus\nK. pneumoniae A. baumannii P. aeruginosa\ncode ATCC ATCC\nBAA 1705 BAA 1605 ATCC 27853\n25922 29213\n1 8a >64 >64 >64 >64 >64\n2 8b >64 8 >64 >64 >64\n3 8c >64 8 >64 >64 >64\nf\n4 8d >64 4 >64 >64 >64\no\n5 8e >64 >64 >64 >64 >64\n6 8f >64 >64 >64 o>64 >64\n7 8g >64 16 >64 >64 >64\nr\n8 8h >64 4 >64 >64 >64\np\n9 8i >64 4 >64 >64 >64\n10 8j >64 >64 ->64 >64 >64\n11 10a >64 32 e>64 >64 >64\n12 10b >64 64 >64 >64 >64\nr\n13 10c >64 >64 P>64 >64 >64\n14 10d >64 >64 >64 >64 >64\n15 11 >64 6 4 >64 >64 >64\n16 Levofloxacin 0.125 0l.015 64 8 0.5\na\nTable 2. MIC values (µg/mL)n of the tested compounds against Mtb and other mycobacterium\nspecies. r\nu\nMtb H37Rv M. abscessus M. fortuitum M. chelonae\nS.No Sampole code\nATCC 27294 ATCC 19977 ATCC 6841 ATCC 35752\n1 8a 8 >64 >64 >64\nJ\n2 8b 32 >64 32 32\n3 8c >64 >64 >64 >64\n4 8d >64 >64 >64 32\n5 8e NT NT NT NT\n6 8f 8 >64 4 8\n7 8g 32 >64 >64 >64\n8 8h NT NT NT NT\n9 8i NT NT NT NT\n10 8j NT NT NT NT\n11 10a 64 >64 >64 >64\n12 10b >64 >64 >64 >64\n13 10c 16 >64 >64 >64\n14 10d 64 >64 >64 >64\n15 11 64 >64 >64 >64\n16 Isoniazid 0.03 NT NT NT\n17 Rifampicin 0.06 NT NT NT\n18 Streptomycin 1 NT NT NT\n19 Ethambutol 1 NT NT NT\n20 Levofloxacin NT 1 0.03 0.03\n*NT=not tested",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 9,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "The Structure-Activity Relationships derived are explained in Figure 3.\nf\no\no\nr\np\n-\ne\nFigure 3. Structure-Activity Relationship of nrew quinazoline-benzimidazole hybrids.\nP\n2.2.2 Cytotoxicity against Vero cells:\nl\na\nThe selected compounds were further subjected to cytotoxicity assay against Vero cells\nn\n(African green monkey kidney cell line, ATCC CCL-81) using MTT assay. The CC (50%\nr 50\nu\ncytotoxic concentration) was defined as the reduction of cell viability to 50% by compound.\no\nDoxorubicin and Levofloxacin were used as a reference standard and each experiment was\nJ\nperformed in triplicate. The cytotoxicity data demonstrates that 8a, 8b, 8c, 8d, 8f, 8g, 8h, 8i\nand 10c were nontoxic to Vero cells (CC = 40->100 µg/mL) and displayed favourable\n50\nselectivity index. The results are tabulated in Tables 3.\nTable 3. Cytotoxicity profile against Vero cells and Selectivity Index (SI).\nS. aureus CC Selective index\nS. No Sample code 50\nATCC 29213 (µg/mL) (CC /MIC)\n50\n1. 8a 8 100 12.5\n2. 8b 8 100 12.5\n3. 8c 8 80 10\n4. 8d 4 40 10\n5. 8f 8 100 12.5\n6. 8g 16 >100 >6.25\n7. 8h 4 50 12.5\n8. 8i 4 50 12.5\n9. 10c 16 >100 >6.25",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 10,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "2.2.3 Determination of MIC against MDR-S. aureus including VRSA\nTo further determine their potential against multiple strains of MDR S. aureus, 8b, 8c, 8h and\n8i were tested against various well defined and characterized clinical isolates of MSSA,\nMRSA and VRSA as per standard CLSI guidelines. The results are summarised in Table 4.\nThe compounds 8b, 8c, 8h and 8i were found to be active against various resistant strains.\nFrom the close examination of the results, it can be inferred that 8b, 8c, 8h and 8i displayed\npotent antibacterial activity with MIC 4–16 µg/mL against a number of clinical strains of\nMSSA, MRSA and VRSA. The obtained results suggest that compounds 8b, 8c, 8h and 8i\nare less resistant to all the MRSA and VRSA isolates with MIC 4–16 µg/mL in comparison\nf\no\nwith Methicillin. Levofloxacin and Meropenam. The compounds 8b, 8c, 8h and 8i were also\no\nfound to be active against VRSA clinical isolates with MIC 4–16 µg/mL.\nr\np\nTable 4. MIC of a compound 8b, 8c, 8h and 8i against MRSA and VRSA strains.\n-\ne\nr\nP\nl\na\nn\nr\nu\no\nJ",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 11,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "MIC (µg/mL)\nStrains Antibiotics resistant to Details about the strain\n8b 8c 8h 8i Levofloxacin Meropenem Vancomycin Daptomycin Methicillin\nS. aureus\nMSSA ATCC None 8 8 8 4 0.125 0.0625 1 1 1\n29213\nMethicillin, Ceftriaxone,\nResistant to tetracycline, contains mec subtype I\nNR 100 Meropenem, Gentamycin 8 32 8 4 0.25 32 2 1 >64\ncassette, Large variety of virulence factors\nand Linezolid\nMethicillin, Ceftriaxone,\nContains mec subtype IV cassette, G2576T mutation in\nNR 119 Meropenem, Gentamycin 8 8 32 4 16 64 2 1 >64\ndomain V in one or more 23 S rRNA genes\nand Linezolid f\nNR Methicillin, Ceftriaxone, o\nAlso called as TCH60 8 16 8 4 0.25 4 1 0.5 >64\n10129 Meropenem o\nNR Methicillin, Ceftriaxone, USA100 Community acquired-MRSA, Contains mec\n4 4 r8 8 8 4 1 0.5 >64\n10198 Meropenem type II cassette, Negative for PVL virulence factor\np\nMRSA NR Methicillin, Ceftriaxone, Community acquired-MRSA, Contains mec type II\n8 32 4 2 16 64 1 1 >64\n10192 Meropenem cassette, Negative for PVL virulence factor -\nNR Methicillin, Ceftriaxone, USA 300 Community acquired-MRSA, Contains mec e\n8 8 16 4 8 8 1 0.5 >64\n10186 Meropenem type IV cassette, Positive for PVL virulence factor r\nNR Methicillin, Ceftriaxone, Community acquired-MRSA, Contains mec type II P\n16 16 8 8 32 64 2 1 >64\n10193 Meropenem cassette, Negative for PVL virulence factor\nNR Community acquired-MRSA, Contains mec type V\nMethicillin, Ceftriaxone l 8 8 8 4 0.125 1 1 0.5 32\n10194 cassette, Positive for PVL virulence facator\nUSA 600 Community acquired-MRSA\nNR Methicillin, Ceftriaxone, n\nContains mec type II cassette, Negative for PVL 16 16 8 8 32 64 2 1 >64\n10191 Meropenem\nvirulence factor r\nMethicillin, Ceftriaxone, USA100 and contains mec (subtuype II) and van A.,\nVRS1 Meropenem, Gentamycin, Negative for van B, van C1, van C2, van D, van E, PVL 4 8 4 4 32 64 >64 1 >64\no\nVancomycin, Teicoplanin and arginine catabolic mobile element (ACME)\nVRSA\nMethicillin, Ceftriaxone, USA100 and contains mJec (subtype II) and van A.\nVRS4 Meropenem, Vancomycin Negative for van B, van C1, van C2, van D, van E, PVL 8 8 8 2 >64 64 >64 0.5 >64\nand Teicoplanin and arginine catabolic mobile element (ACME)\nMethicillin, Ceftriaxone,\nVRS12 Meropenem, Vancomycin NA* 8 16 8 4 32 16 >64 0.5 >64\nand Teicoplanin",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 12,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "3. Conclusion:\nRapid rise in multidrug resistance is one of the alarming threats to public health worldwide.\nIn order to alleviate the situation, there is an urgent need to develop new antimicrobial drugs\nwith novel mechanisms of action. In this work, we designed and synthesized a library of 15\nnew Quinazoline-Benzimidazole hybrids and evaluated them against a panel of gram positive\nand gram negative bacterial strains consisting of against E. coli, S. aureus, K. pneuminiae, A.\nbaumannii, and P. aeruginosa, M. tuberculosis H37Rv and other mycobacterial strains.\nAmong the studied compounds, 8a, 8b, 8c, 8d, 8f, 8g, 8h, 8i and 10c exhibited good to\nf\nmoderate inhibitory activity against S. aureus and different mycobacterium species. The\no\ncompounds were found to be non-toxic to Vero cells (CC 40->100 µg/mL) with favourable\n50o\nselectivity index (SI <10->25). Further, the compoundsr 8b, 8c, 8h and 8i were found to\np\ndisplay potent inhibitory activity against clinical MRSA and VRSA isolates. In a separate\n-\nstudy, the compounds 8a, 8f and 10c were founde to exhibit potent anti-mycobacterial activity\nwith MIC values in the range of 8-16 µg/mrL. The compounds were also found to be less\nP\ntoxic to Vero cells (CC ≥100 µg/mL) and exhibited promising selectivity index. Based on\n50\nthe above studies, the newly syntheslized quinazoline-benzimidazole hybrids were found to\na\npossess promising anti-bacterial and anti-mycobacterial activities and possess the potential\nn\nfor further development. r\nu\n4. Experimental secotion:\nJ\n4.1 General Methods. All the reagents and solvents were obtained from commercial\nsuppliers and were used without further purification. Analytical thin layer chromatography\n(TLC) was performed on MERCK pre-coated silica gel 60-F254 (0.5 mm) aluminum plates.\nVisualization of the spots on TLC plates was achieved by UV light. 1H and 13C NMR spectra\nwere recorded on Bruker 500 MHz by making a solution of samples in the DMSO-d as\n6\nsolvent using tetramethyl silane (TMS) as the internal standard. Chemical shifts for 1H and\n13C are reported in parts per million (ppm) downfield from tetra methyl silane. Spin\nmultiplicities are described as s (singlet), brs (broad singlet), d (doublet), t (triplet), q\n(quartet), and m (multiplet). Coupling constant (J) values are reported in hertz (Hz). HRMS\nwere determined with Agilent QTOF mass spectrometer 6540 series instrument. Wherever\nrequired, column chromatography was performed using silica gel (60-120). The reactions are\ncarried under nitrogen positive pressure using freshly distilled solvents wherever anhydrous\nconditions required. All evaporation of solvents was carried out under reduced pressure using",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 14,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "Off-white solid; yield 80 %; mp:160–164 °C; FT-IR (cm−1): 3325, 3062, 1650, 1585, 780,\n710; 1H NMR (500 MHz, DMSO-d ): δ 12.32 (s, 1H), 8.22–8.11 (m, 1H), 7.89–7.80 (m, 1H),\n6\n7.71 (d, J = 7.9 Hz, 1H), 7.67–7.39 (m, 2H), 7.40 (t, J = 1.9 Hz, 1H), 7.26 (t, J = 13.6 Hz,\n1H), 7.17 (t, J = 7.8 Hz, 1H), 6.77 (d, J = 7.9, 1H), 5.36 (s, 2H); 13C NMR (125 MHz,\nDMSO- d ): δ 167.5, 159.4, 158.2, 151.0, 144.1, 138.5, 134.0, 130.9, 130.5, 129.0, 128.6,\n6\n128.4, 128.2, 127.8, 127.8, 126.7, 125.5, 123.6, 121.4, 114.5; HRMS (ESI): m/z calculated\nfor C H N O 467.1872 found 467.1896 [M+H]+.\n31 22 4\n4.2 Bacterial strains and media\nf\nThe gram positive and gram-negative pathogen panel of bacteoria consisted of Escherichia\no\ncoli (ATCC 25922), Klebsiella pneumoniae (BAA-1705), Acinetobacter baumannii\nr\n(BAA1605), Pseudomonas aeruginosa (ATCC 27853) and Staphylococcus aureus (ATCC\np\n29213). NRS199, NRS129, NRS186, NRS191, N-RS192, NRS193, NRS194, NRS198 are\ne\nMRSA strains while VRS1, VRS4, VRS12 are VRSA strains. These strains were obtained\nr\nfrom BEI/NARSA/ATCC (BiodefenseP and Emerging Infections Research Resources\nRepository/Network on Antimicrobial Resistance in Staphylococcus aureus/American Type\nl\nCulture Collection, USA) and rouatinely cultivated on Mueller-Hinton Agar (MHA). Prior to\nn\nthe experiment, a single colony was picked from MHA plate, inoculated in Mueller-Hinton\nr\ncation supplemented broth II (CA-MHB) and incubated overnight at 37 °C with shaking for\nu\n18–24 h to get the stoarter culture.\nJ\nM. tuberculosis H37Rv ATCC 27294 was cultured in Middlebrook 7H9 (Difco, Becton, NJ,\nUSA) media supplemented with 10% ADC (Bovine Serum Albumin, Dextrose, NaCl), 0.2%\nglycerol and 0.05% Tween-80 (ADC-Tween-80).\n4.2.1 Antibiotic susceptibility testing against pathogen panel consisting E. coli, S. aureus,\nK. pneuminiae, A. baumannii, and P. aeruginosa.\nAntibiotic susceptibility testing was carried out on the newly synthesized compounds by\ndetermining the Minimum Inhibitory Concentration (MIC) with reference to the standard\nCLSI guidelines [31, 32]. MIC is defined as the minimum concentration of compound at\nwhich visible bacterial growth is inhibited. Bacterial cultures were grown in Mueller-Hinton\ncation supplemented broth (CA-MHB). Optical density (OD ) of the cultures was measured,\n600\nfollowed by dilution for ~106 cfu/mL. This inoculum was added into a series of test wells in a\nmicrotitre plate that contained various concentrations of compound under test ranging from",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 20,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "64-4 µg/mL. Controls i.e., cells alone and media alone (without compound+cells) and\nlevofloxacin used as a reference standard. Plates were incubated at 37 °C for 16-18 h\nfollowed by observations of MIC values by the absence or presence of visible growth. For\neach compound, MIC determinations were performed independently thrice using duplicate\nsamples each time.\n4.2.2 Antibiotic susceptibility testing against pathogenic mycobacteria\nAntimycobacterial susceptibility testing was carried out on the newly synthesized compounds\nby using broth micro dilution assay [33]. 1g/100 mL stock solutions of test and control\nf\ncompounds were prepared in DMSO and stored in −20°C. oMycobacterial cultures were\no\ninoculated in Middlebrook 7H9 enriched (Difco, Becton, NJ, USA) media supplemented with\nr\n10% ADC-Tween-80 (Bovine Serum Albumin, Dextrose, 0.2% glycerol and 0.05% Tween-\np\n80) and OD\n600\nof the cultures was measured, follo-wed by dilution to achieve ~106 cfu/mL\ne\n[34]. The newly synthesized compounds were tested from 0.0064–0.00005 g/100 mL in two-\nr\nfold serial diluted fashion with 2.5 μL Pof each concentration added per well of a 96-well\nround bottom micro titre plate. Later, 9 7.5 μL of bacterial suspension was added to each well\nl\ncontaining the test compound aloang with appropriate controls. Presto blue (Thermo Fisher,\nn\nUSA) resazurin-based dye was used for the visualized identification of active compounds.\nr\nMIC of active compound was determined as lowest concentration of compound that inhibited\nu\nvisible growth afteor incubation period. For each compound, MIC determinations were\nreplicated thrice Jusing duplicate samples. The MIC plates were incubated at 37 °C for 7 days\nfor Mtb.\n4.2.3 Cell Cytotoxicity Assay\nThe active newly synthesized compounds were screened for their cell toxicity against Vero\ncells using MTT assay [35]. ~103 cells/well were seeded in 96 well plate and incubated at 37\n°C with an 5% CO atmosphere. After 24 h, compound was added ranging from 100–5 mg/L\n2\nand incubated for 72 h at 37 °C with 5% CO atmosphere. After the incubation period, MTT\n2\nwas added at 5 mg/L in each well, incubated at 37 °C for further 4 hours, residual medium\nwas discarded, 0.1 mL of DMSO was added to solubilise the formazan crystals and OD was\ntaken at 540 nm for the calculation of CC . CC is defined as the lowest concentration of\n50 50\ncompound which leads to a 50% reduction in cell viability. Doxorubicin was used as positive\ncontrol and each experiment was repeated in triplicate.",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 21,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "(2014) 68-77.\no\n2. M. Woolhouse, C. Waugh, M.R. Perry, H. Nair, Global disease burden due to\nJ\nantibiotic resistanceestate of the evidence, J. Glob. Health 6 (2016).\n3. J. Vila, E. Saez-Lopez, J.R. Johnson, U. Romling, U. Dobrindt, R. Cant on, C.G.\nGiske, T. Naas, A. Carattoli, M. Martínez-Medina, Escherichia coli: an old friend\nwith new tidings, FEMS Microbiol. Rev. 40 (2016) 437–463.\n4. J.D. Pitout, Extraintestinal pathogenic Escherichia coli: an update on antimicrobial\nresistance, laboratory diagnosis and treatment, Expert Rev. Anti Infect. Ther. 10\n(2012) 1165-1176.\n5. P. Vikesland, E. Garner, S. Gupta,",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 22,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "idence, J. Glob. Health 6 (2016).\n3. J. Vila, E. Saez-Lopez, J.R. Johnson, U. Romling, U. Dobrindt, R. Cant on, C.G.\nGiske, T. Naas, A. Carattoli, M. Martínez-Medina, Escherichia coli: an old friend\nwith new tidings, FEMS Microbiol. Rev. 40 (2016) 437–463.\n4. J.D. Pitout, Extraintestinal pathogenic Escherichia coli: an update on antimicrobial\nresistance, laboratory diagnosis and treatment, Expert Rev. Anti Infect. Ther. 10\n(2012) 1165-1176.\n5. P. Vikesland, E. Garner, S. Gupta, S. Kang, A. Maile-Moskowitz, N. Zhu, Differential\nDrivers of Antimicrobial Resistance across the World, Acc. Chem. Res. 52 (2019)\n916",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 22,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "iram, A.N.V. Dusthackeer, B.H. Rode, Synthesis and evaluation of a-aminoacyl\namides as antitubercular agents effective on drug resistant tuberculosis, Eur. J. Med.\nChem. 164 (2019) 665-677.\n14. H. Grundmann, M. Aires-De-Sousa, J. Boyce, E. Tiemersma, Emergence and\nresurgence of meticillin-resistant Staphylococcus aureus as a public-health threat,\nLancet 368 (2006) 874-885.",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 23,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "antimicrobial activity and anti-HIV activity evaluation of novel hybrid quinazoline–\ntriazine derivatives, J Enzyme Inhib Med Chem. (2013) 1475-6374.\n20. D.B. Farag, N.A. Farag, A. Esmat, S.A. Abuelezz, E.A.S. Ibrahimd, D.A. El Ellae,\nSynthesis, 3D pharmacophore, QSAR and docking studies of novel quinazoline\nderivatives with nitric oxide release moiety as preferential COX-2 inhibitors, Med.\nChem. Commun. 6 (2015) 283-299. b) M. Alafeefya, A.A.K. Omar, A.A.\nDeebaKamal, E.H.E. TahirbNabila, A.A. jaberc, Synthesis, analgesic and anti-\ninflammatory evaluation of some novel quinazoline derivatives, Eur. J. Med. Chem.\n45 (2010) 4947-495. c) R.A. Smits, M. Adami, E.P. Istyastono, O.P. Zuiderveld,\nf\nC.M.E. Dam, F.J.J. Kanter, A. Jongejan, G. Coruzzi, R.o Leurs, I.J.P. Esch, Synthesis\nand QSAR of quinazoline sulfonamides as higholy potent human histamine H4\nr\nreceptor inverse agonists, J. Med. Chem. (53) 2010, 2390-2400.\np\n21. L.F. Hennequin, F.T. Boyle, J. Michael, W. Peter, R. Marsham, R. Kimbell, A.L.\n-\ne\nJackman, Quinazoline antifolates thymidylate synthase inhibitors: Lipophilic\nr\nanalogues with modification to the C2-methyl substituent, J. Med. Chem. 39 (1996)\nP\n695-704. b) M.K. Krapf, J. Gallus, M. Wiese, 4-Anilino-2-pyridylquinazolines and -\nl\npyrimidines as highly poatent and nontoxic inhibitors of breast cancer resistance\nprotein (ABCG2), J. Mned. Chem., 60 (2017) 4474-4495. c) J. Chen, Z. Sang, Y. Jiang\nr\nC. Yang, L. He, Design, synthesis, and biological evaluation of quinazoline\nu\nderivatives as dual HDAC1 and HDAC6 inhibitors for the treatment of cancer,\no\nChemicalJ biology and drug design 93 (2019) 232-241.\n22. R. Bouley, D. Ding, Z. Peng, M. Bastian, E. Lastochkin, W. Song, M.A. Suckow,\nV.A. Schroeder, W.R. Wolter, S. Mobashery, Structureeactivity relationship for the 4\n(3 H)-Quinazolinone antibacterials, J. Med. Chem. 59 (2016) 5011-5021.\n23. a) S. Gatadi, J. Gour, M. Shukla, G. Kaul, S. Das, A. Dasgupta, Y.V. Madhavi, S.\nChopra, S. Nanduri, Synthesis and evaluation of new 4-oxoquinazolin-3(4H)-\nyl)benzoic acid and benzamide derivatives as potent antibacterial agents effective\nagainst multidrug resistant Staphylococcus aureus, Bioorg. Chem. 83 (2018) 569e579;\n(b) S. Gatadi, J. Gour, G. Kaul, M. Shukla, A. Dasgupta, R. Akunuri, R. Tripathi,\nY.V. Madhavi, S. Chopra, S. Nanduri, Synthesis of new 3-phenylquinazolin-4(3H)-\none derivatives as potent antibacterial agents effective against methicillin- and\nvancomycin-resistant Staphylococcus aureus (MRSA and VRSA), Bioorg. Chem. 81\n(2018) 175-183.",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 25,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "24. S. Malasala, M.N. Ahmad, J. Gour, M. Shukla, G. Kaul, A. Akhir, S. Gatadi, Y.V.\nMadhavi, S. Chopra, S. Nanduri, Synthesis, biological evaluation and molecular\nmodelling insights of 2-arylquinazoline benzamide derivatives as anti-tubercular\nagents, J. Mol. Struct. 1218 (2020) 128493.\n25. a) L. Zhang, D. Addla, J. Ponmani, A. Wang, D. Xie, Y.N. Wang, S.L. Zhang, R.X.\nGeng, G.X. Cai, S. Li, C.H. Zhou, Discovery of membrane active benzimidazole\nquinolones-based topoisomerase inhibitors as potential DNA-binding antimicrobial\nagents, Eur. J. Med. Chem. 111 (2016) 160-182. b) F. Arjmand, B. Mohani, S.\nAhmad, Synthesis, antibacterial, antifungal activity and interaction of CT-DNA with a\nf\nnew benzimidazole derived Cu(II) complex, Eur. J. Moed. Chem. 40 (2005) 1103-\n1110. c) L. Zhang, D. Addla, J. Ponmani, A. Wang, oD. Xie, Y.N. Wang, S.L. Zhang,\nr\nR.X. Geng, G.X. Cai, S. Li, C.H. Zhou, Discovery of membrane active benzimidazole\np\nquinolones-based topoisomerase inhibitors as potential DNA-binding antimicrobial\n-\ne\nagents, Eur. J. Med. Chem. 111 (2016) 160-182.\nr\n26. K.F. Ansari, C. Lal, Synthesis, physicochemical properties and antimicrobial activity\nP\nof some new benzimidazole derivatives, Eur. J. Med. Chem. 44 (2009) 4028-4033; (c)\nl\nH.H. Gong, D. Addla, J.aS. Lv, C.H. Zhou, Heterocyclic Naphthalimides as New\nSkeleton Structure of Cnompounds with Increasingly Expanding Relational Medicinal\nr\nApplications, Curr. Top. Med. Chem. 16 (2016) 3304-3364. S.Q. Wen, P.\nu\nJeyakkumary, S.R. Avula, L. Zhang, C.H. Zhou, Discovery of novel berberine\no\nimidazoleJs as safe antimicrobial agents by down regulating ROS generation, Bioorg.\nMed. Chem. Lett. 26 (2016) 2768-2773; (e) S.F. Cui, L.P. Peng, H.Z. Zhang, S.\nRasheed, K.V. Kumar, C.H. Zhou, Novel hybrids of metronidazole and quinolones:\nsynthesis, bioactive evaluation, cytotoxicity, preliminary antimicrobial mechanism\nand effect of metal ions on their transportation by human serum albumin, Eur. J. Med.\nChem. 86 (2014) 318-334; (f) L. Zhang, K.V. Kumar, S. Rasheed, S.L. Zhang, R.X.\nGeng, C.H. Zhou, Design, synthesis, and antibacterial evaluation of novel\nazolylthioether quinolones as MRSA DNA intercalators, Med. Chem. Commun. 6\n(2015) 1303-1310.\n27. E.M.E. Dokla, N.S. Abutaleb, S.N. Milik, D. Li, K. Elbaz, M.W. Shalaby, R. Al-\nKaraki, M. Nasr, C.D. Klein, K.A.M. Abouzid, M.N. Seleem, Development of\nbenzimidazole-based derivatives as antimicrobial agents and their synergistic effect\nwith colistin against gram-negative bacteria, Eur. J. Med. Chem. 186 (2020) 111850.",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 26,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "28. M.S. Mustafa, V.S. Krishna, D. Sriram, O.U. Tan, Novel benzimidazole-acrylonitrile\nhybrids and their derivatives: Design, synthesis and antimycobacterial activity, Eur. J.\nMed. Chem. 188 (2020) 112010.\n29. D.A. Mitchison, Role of individual drugs in the chemotherapy of tuberculosis Role of\nindividual drugs in the chemotherapy of tuberculosis, Int J Tuberc Lung Dis. 4 (2000)\n796–806.\n30. a) N.Y. Kim, C.H. Cheon, Synthesis of quinazolinones from anthranilamides and\naldehydes via metal-free aerobic oxidation in DMSO. Tetfrahedron Lett. 55 (2014)\no\n2340-2344. b) K.M. Krapf, J. Gallus, A. Spindler, M. Wiese, Synthesis and biological\no\nevaluation of quinazoline derivatives- A SAR study of novel inhibitors of ABCG2.\nr\np\nEur. J. Med. Chem. 161 (2019) 506-525.\n-\n31. P.A. Wayne, Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria\ne\nThat Grow Aerobically, Approved Srtandard, ninth ed., CLSI document M07-A9,\nP\nClinical and Laboratory Standards Institute, 2012.\n32. J.H. Jorgensen, J.F. Hindler, Ll.B. Reller, M.P. Weinstein, New consensus guidelines\na\nfrom the clinical and laboratory standards institute for antimicrobial susceptibility\nn\ntesting of infrequently isolated or fastidious bacteria, Clin. Infect. Dis. 44 (2007) 280–\nr\nu\n286.\no\n33. a) M. Pandey, A.K. Singh, R. Thakare, S. Talwar, P. Karaulia, A. Dasgupta, S.\nJ\nChopra, A.K. Pandey, Diphenyleneiodonium chloride (DPIC) displays broad-\nspectrum bactericidal activity, Sci. Rep. 7 (2017) 11521; (b) I. Wiegand, K. Hilpert,\nR.E. Hancock, Agar and broth dilution methods to determine the minimal inhibitory\nconcentration (MIC) of antimicrobial substances, Nat. Protoc. 3 (2008) 163–175.\n34. B. Rivas-Santiago, C.E.R. Santiago, J.E. Castañeda-Delgado, J.C. León–Contreras,\nR.E. Hancock, R. Hernandez-Pando, Activity of LL-37, CRAMP and antimicrobial\npeptide-derived compounds E2, E6 and CP26 against Mycobacterium\ntuberculosis, Int. J. Antimicrob. Agents. 41 (2013) 143–148.\n35. S. Patel, N. Gheewala, A. Suthar, A. Shah, In-vitro cytotoxicity activity of Solanum\nnigrum extract against Hela cell line and Vero cell line, Int. J. Pharm. Pharm. Sci. 1\n(2009) 38–46.",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 27,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "Synthesis and evaluation of new Quinazoline-benzimidazole hybrids as\npotent anti-microbial agents against multidrug resistant Staphylococcus\naureus and Mycobacterium tuberculosis\nSatyaveni Malasalaa, Md. Naiyaz Ahmadb, c, Ravikumar Akunuria, Manjulika Shuklab,\nGrace Kaulb, c, Arunava Dasguptab, c, Y.V Madhavia, Sidharth Choprab,c*, Srinivas Nanduria*.\naDepartment of Medicinal Chemistry, National Institute of Pharmaceutical Education and\nResear",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 28,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "Highlights: r\nP\n1. Series of new quinazoline-benzimidazole hybrids were designed, synthesized and\nl\nevaluated for antibacterial activity against ESKAP pathogens and pathogenic\na\nmycobacteria. n\n2. Compounds 8b, 8c, r8d, 8g, 8h, 8i and 10a displayed selective and potent inhibitory\nu\nactivity against Staphylococcus aureus.\no\n3. Compounds 8a, 8b, 8f, 8g, and 10c exhibited potent inhibitory activity against\nJ\ndifferent strains of Mycobacterium tuberculosis.\n4. The selected compounds were found to show less cytotoxicity towards Vero cells with\nfavorable selectivity index.\n5. The selected compounds were found to possess",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 28,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "tivity against\nJ\ndifferent strains of Mycobacterium tuberculosis.\n4. The selected compounds were found to show less cytotoxicity towards Vero cells with\nfavorable selectivity index.\n5. The selected compounds were found to possess potent inhibitory activity against\nmultiple drug-resistant strains of S. aureus including VRSA.",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 28,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "Synthesis and evaluation of new Quinazoline-benzimidazole hybrids as potent\nanti-microbial agents against multidrug resistant Staphylococcus aureus and\nMycobacterium tuberculosis\nSatyaveni Malasalaa, Md. Naiyaz Ahmadb, Ravikumar Akunuria, Manjulika Shuklab,\nGrace Kaulb, Arunava Dasguptab, Y.V Madhavia, Sidharth Choprab*, Srinivas Nanduria*.\naDepartment of Medicinal Chemistry, National Institute of Pharmaceutical Education and\nResearch (NIPER),",
+    "source": {
+      "source_file": "j.ejmech.2020.112996.pdf",
+      "page": 29,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  }
+]

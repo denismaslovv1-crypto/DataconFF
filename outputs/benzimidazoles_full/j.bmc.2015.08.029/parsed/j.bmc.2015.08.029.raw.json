@@ -1,0 +1,655 @@
+{
+  "source_file": "j.bmc.2015.08.029.pdf",
+  "page_count": 35,
+  "metadata": {
+    "Author": "Anelia Ts. Mavrova",
+    "CreationDate": "D:20150826005600+05'30'",
+    "Creator": "Elsevier",
+    "ElsevierWebPDFSpecifications": "6.4",
+    "ModDate": "D:20150826005700+05'30'",
+    "Subject": "BIOORGANIC & MEDICINAL CHEMISTRY, doi:10.1016/j.bmc.2015.08.029",
+    "Title": "Synthesis, electronic properties, antioxidant and antibacterial activity of some new benzimidazoles",
+    "doi": "10.1016/j.bmc.2015.08.029"
+  },
+  "text_blocks": [
+    {
+      "text": "Accepted Manuscript\nSynthesis, electronic properties, antioxidant and antibacterial activity of some\nnew benzimidazoles\nAnelia Ts. Mavrova, Denitsa Yancheva, Neda Anastassova, Kamelya Anichina,\nJelena Zvezdanovic, Aleksandra Djordjevic, Dejan Markovic, Andrija\nSmelcerovic\nPII: S0968-0896(15)30010-9\nDOI: http://dx.doi.org/10.1016/j.bmc.2015.08.029\nReference: BMC 12533\nTo appear in: Bioorganic & Medicinal Chemistry\nReceived Date: 19 June 2015\nRevised Date: 8 August 2015\nAccepted Date: 25 August 2015\nPlease cite this article as: Mavrova, A.T., Yancheva, D., Anastassova, N., Anichina, K., Zvezdanovic, J., Djordjevic,\nA., Markovic, D., Smelcerovic, A., Synthesis, electronic properties, antioxidant and antibacterial activity of some\nnew benzimidazoles, Bioorganic & Medicinal Chemistry (2015), doi: http://dx.doi.org/10.1016/j.bmc.2015.08.029\nThis is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers\nwe are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and\nreview of the resulting proof before it is published in its final form. Please note that during the production process\nerrors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 1,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Synthesis, electronic properties, antioxidant and antibacterial activity of some new\nbenzimidazoles\nAnelia Ts. Mavrova a1, Denitsa Yancheva b, Neda Anastassova a, Kamelya Anichina a, Jelena\nZvezdanovic c, Aleksandra Djordjevic d, Dejan Markovic c, Andrija Smelcerovic e\na University of Chemical Technology and Metallurgy, 8 Kliment Ohridski Blvd., 1756 Sofia, Bulgaria\nbInstitute of Organic Chemistry with Centre of Phytochemistry, Bulgarian Academy of Science, Acad. G Bonchev Str.,\nbuild. 9, 1113 Sofia, Bulgaria\ncFaculty of Technology, University of Niš, Bulevar Oslobodjenja 124, 16000 Leskovac, Serbia\ndDepartment of Chemistry, Faculty of Science and Mathematics, University of Niš, Višegradska 33, 18000 Niš, Serbia\neDepartment of Chemistry, Faculty of Medicine, University of Nis, Bulevar Dr Zorana Djindjica 81, 18000 Nis, Serbia\nAbstract\nTwo groups of benzimidazole derivatives were synthesized using as precursors 5(6)-\nsubstituted 2-mercapto-benzimidazol-thiols and their antioxidant activity was investigated using\nTBA-MDA test.\nIn the group of 1,3-disubstituted-benzimidazol-2-imines the highest lipid peroxidation\ninhibition effect 74.04 % (IC = 141.89 g/mL) revealed ethyl [3-(2-ethoxy-2-oxoethyl)-2-imino-5-\n50\nbenzoyl-2,3-dihydro-1H-benzimdazol-1-yl]acetate 12 while in the group of 2-substituted-1,3-\n1 Corresponding author: Anelia Mavrova, Department of Organic Synthesis, University of Chemical\nTechnology and Metallurgy, 8 Kliment Ohridski Blvd., 1756 Sofia, Bulgaria\ne-mail anmav@abv.bg; tel. 0035928163207; fax 003592685488\n1",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 2,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "thiazolo[3,2-a]benzimidazolones the highest inhibition effect showed 2-(4-fluorobenzylidene)-7-\n(phenylcarbonyl)[1,3]thiazolo[3,2-a]benzimidazol-3(2H)-one 17 90.76% (IC = 53.70 g/mL). In\n50\norder to estimate the capability of the studied benzimidazoles to act as radical scavengers the structure\nof the most active derivative within the both subseries was optimized at B3LYP/6-311++G** level and\nthe respective bond dissociation enthalpies were calculated. The appropriate models for the HAT and\nSET-mechanism of the antioxidant activity were proposed.\nThe antibacterial activity of the compounds was evaluated against two Gram-positive\nbacteria (Bacillus subtilis ATCC 6633 and Staphylococcus aureus ATCC 6538) and three Gram-\nnegative bacteria (Escherichia coli ATCC 8739, Pseudomonas aeruginosa ATCC 9027 and\nSalmonella abony NCTC 6017). 1,3-Diphenylpropyl-5-methyl-1,3-dihydro-2H-benzimidazol-2-\nimine 14 exhibited significant activity against B. subtilis, S. aureus, S. abony and E. coli (with MIC\nvalues of 0.125, 0.016, 0.50 and 0.50 mg/mL, respectively). The group of thiazolobenzimidazolones\ndid not reveal antibacterial activity against the tested strains.\nKeywords: 2-imino-benzimidazoles; 1,3-thiazolo[3,2-a]benzimidazolones, lipid peroxidation\ninhibition, antibacterial activity, DFT calculations\n1. Introduction\nBenzimidazole heterocycle system is an important pharmacophore and privileged structure in\nthe medicinal chemistry. Its derivatives and particularly 2-aminobenzimidazoles exert various\nbiological activities such as antioxidant,1 antimicrobial,2 anthelmintic,3 anticancer,4 anti-\nhypertensives,5 antiviral,6 and antifungal.7 The benzimidazole ring system exists in the structure of\nmany antiparasitic, anthelmintic, antifungal, antiviral and antitumor drugs. Some of them as\nalbendazole, omeprazole, lansoprazole, bendamustine etc. have found widespread application in\nmedicinal practice. Therefore the synthesis of new benzimidazoles and the study of their biological\nproperties are of pharmacological interest.\n2",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 3,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Many benzimidazoles derivatives were synthesized and proven for their antibacterial\nactivity.8,9 Benzimidazoles, containing thiadiazole or oxadiazole rings in 1-position were studied for\nantibacterial and antifungal activity. All of the reported benzimidazoles showed good activity\ntowards Gram-positive bacteria and negligible activity towards Gram-negative bacteria.10,11 A series\nof 2-substituted-5-nitro-benzimidazole derivatives showed comparable activity to that of ampicilline\nagainst Gram-positive bacteria S. aureus, S. mutans, B. subtilis and to the activity of nalidixic acid\nagainst Gram negative E. coli, S. typhi and P. aeruginosa.12 Furthermore the 2-aminobenzimidazole\ndimers are identified as a novel scaffold that possesses antibacterial activity and as such may aid in\nthe discovery of new antibacterial agents.13 Benzimidazolopeptides as well as head-to-head bis-\nbenzimidazoles have shown good antimicrobial activity against pathogenic fungal strains and Gram\nnegative bacterial strains.14, 15\nA series of benzimidazoles, containing 1,3,4-thiadiazole or 1,2,4-triazole rings were\nsynthesized and tested for antioxidant properties by using various in vitro systems.16 Albendazole,\nsubstituted with benzoyl group in 1-position, possesses significant antioxidant activity.17\nThiazolo[3,2-a]benzimidazole derivatives inhibited the oxidation of adrenaline to adrenochrome, and\nprevented the formation of the superoxide radical.18 The antioxidant potential of some coumarine-\nbenzimidazole hybrids as radical scavengers was evaluated.19 2-Aryl-1-arylmethyl-1H-\nbenzimidazoles can be considered as potential antioxidant and xanthine oxidase inhibitory agents.20\nIt is known that active oxygen species as superoxide, hydroxyl and peroxyl radicals are\ncauses of the oxidative stress associated with the pathogenesis of various diseases as Alzheimer's,\nParkinson's, cataracts and DNA damage leading to carcinogenesis. Taking into account that the\nantioxidants and enzymes take part of the protective system of the organism it is of interest to\nsynthesize new benzimidazole derivatives and to study their antioxidant properties.\nOn the other site the spreading out of various resistant bacterial and fungal strains versus the\nantibacterial drugs is a challenge to researchers to create and develop structurally new class of\n3",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 4,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "molecules with new mechanisms of action. Thus the generation of new antibacterial agents as well\nas antioxidants is of special interest in the field of medical chemistry. Therefore, the aim of the\npresent study was to synthesize two groups of benzimidazole derivatives using substituted\nbenzimidazol-2-thiols as starting compounds, 2-imino-2,3-dihydro-benzimidazole and 1,3-\nthiazolo[3,2-a]benzimidazolone derivatives, to examine their antibacterial and antioxidant properties\nand to perform SAR analysis using DFT calculations.\n2. Results and Discussions\n2.1. Chemistry\nTwo groups of some new benzimidazole derivatives were synthesized by use of 2-mercapto-\nbenzimidazoles as precursors, and their antibacterial and antioxidant properties were investigated.\nThe nucleophilic substitution of 2-amino-benzimidazoles 7-9 with halogen derivatives was\nperformed under solid-liquid phase transfer catalysis conditions in dry acetonitrile and resulted in\nbis-1,3-disubstituted-2,3-dihydro-benzimidazole 10-14, obtained in good yields (65-86 %). The\nsecond group of compounds was obtained by the reaction of thiazolobenzimidazolone 16 and\nsubstituted arylaldehydes using pyridine as catalyst in good yields. The one-pot synthesis requires\nprolonged reaction time, but the yields of the obtained end product are higher.\nThe synthesis of 1,3-thiazolo[3,2-a]benzimidazolones and 2,3-dihydro-2-\niminobenzimidazoles is illustrated and outlined in Scheme 1.\n4",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 5,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "O\nN\nS\nN\nO\nO O\nN H 3 CO\n19 N\nS O\nN S\n20 N\nO\nO\nO\n18\nF\nO\nO O\nO\ne N\nN f N\nS OH S\nN S F\nN N\nH\n15\n16 O 17 O\nd\nO\nN N\nOH O\nR SH + Cl + R 1 S\nN N\nO R\nH 1\n1-3\n1. R = CH 17 R =p-F O\n3 1\n2. R = C 6 H 5 CO 18 R 1 = o-F\n3. R = NO2 19 R = o-OCH\n1 3\n20 R = 1,3-Dioxolyl\n1\na\nN b N c R N O\nR SO H R NH NH\n3 2\nN N N\nH H O\n10 - 11\n4 - 6 4. R = CH 3 7- 9 7. R = CH 3\n5. R = C 6 H 5 CO 8. R = C 6 H 5 CO 10. R = CH 3\n6. R = NO2 9. R = NO2 11. R = NO2\nO\nO\nO\nO\nN O\nN NH N\nNH N NH\nN O N\nO\nO\n14 13 O\n12\nScheme 1. Synthesis of the studied benzimidazole compounds. Reagents and conditions: a) KMnO ,\n4\nNaOH water solution, refluxing; b) NH OH, 150 °C in welded ampoule; c) TBAB, dry K CO ,\n4 2 3\nhalogen derivative, 25 °C, acetonitrile; d) ClCH COOH, NaOH/ethanol, refluxing 3 h; e)\n2\n5",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 6,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "(CH CO) O, pyridine medium refluxing 10 min; aromatic aldehydes, cat. Py, ethanol, refluxing 4-6\n3 2\nh.\nThe starting 4-substituted benzimidazolyl-2-thiols were synthesized by refluxing of 4-\nsubstituted-1,2-diamino-benzenes, carbon disulfide, ethanol and sodium hydroxide according to the\nmethod described in our earlier report.21 The Williamson reaction of the thiols with chloroacetic\nacids in ethanol in the presence of excess of sodium hydroxide led to the corres p onding thioacetic\nacids. The cyclocondensation of thioacetic acids with acetic anhydride in pyridine medium at 100 oC\nresulted to 1,3-thiazolo[3,2-a]benzimidazolones. The compounds 17-20 were synthesized by the use\nof two alternative methods. The first one, condensation between thiazolo[3,2-a]benzimidazolones\nand aromatic aldehydes performed in ethanol gave the 1,3-thiazolo[3,2-a]benzimidazolones\nsubstituted at the 2-position. By the second method compound 17-20 were synthesized by\nKnovenagel condensation and subsequent cyclocondensation of the starting thiol, chloroacetic acid\nand the appropriate aromatic aldehydes.\nThe 5-substituted-2-amino-benzimidazoles 7-9 were synthesized by oxidation of 5-\nsubstituted-2-mercaptobenzimidazoles with water solution of KMnO in the presence of sodium\n4\nhydroxide to yield benzimidazol-2-yl-sulphonic acids, followed by the treatment of the sulphonic\nacids with ammonium hydroxide in welded ampoule for 5 hours at 145-150 °C.22 The introduction\nof substituents in 1-th and 3-th position of the 5-substituted 2-aminobenzimidazoles was performed\nunder solid-liquid phase transfer catalysis conditions in dry acetonitrile using dry potassium\ncarbonate and different halogen derivatives. Except for compound 12, the synthesis of all other\nbenzimidazole derivatives is reported here for the first time.\nThe chemical structures of the compounds were established by elemental analyses, IR and\n1H NMR spectra and the results are presented in the Experimental part. The elemental analyses\nindicated by the symbols of the elements were within ± 0.4% of theoretical values.\n6",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 7,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "2.2. Pharmacology\n2.2.1. Antibacterial activity\nAntibacterial activity was evaluated against two Gram-positive and three Gram-negative\nbacteria. Gram-positive bacteria used were: Bacillus subtilis ATCC 6633 and Staphylococcus aureus\nATCC 6538 while Gram-negative bacteria utilized in the assay were: Escherichia coli ATCC 8739,\nPseudomonas aeruginosa ATCC 9027 and Salmonella abony NCTC 6017. The antibacterial\nproperties of the studied compounds was determined by using a broth microdilution method in 96\nmulti-well microtitre plates.\nCompounds 10-14 and 17-20 were examined as potential antimicrobial agents, starting from\ninitial 2 mg/mL concentration for all tested samples. The minimal inhibitory concentrations (MICs)\nranged from 0.016 to 1.0 mg/mL. Only three among the tested samples, i.e. compounds 10, 11 and\n14 showed antimicrobial activity (Table 1). Compound 14 was the most active one being effective\nagainst four bacteria, especially against S. aureus with MIC value of 0.016 mg/mL. According to\navailable data23 compounds 14 and 10 might be considered as antimicrobial agents with strong\nactivity while compound 11 belongs to the group of agents with moderate activity. The tested\nsamples were less effective than the antibiotic used as a reference standard. Comparing the\nantibacterial activities of the group of 1,3-disubstituted-2-imino-benzimidazoles can be concluded\nthat the compounds possessing ester groups (12, 13) at positions 1 and 3 do not exhibit antibacterial\nactivity in contrast to those containing phenylethanone or phenylpropyl groups as substituents. It\ncould be supposed that the presence of phenylpropyl groups at positions 1 and 3 of 2-imino-\nbenzimidazol core is responsible for the potent antibacterial activity of the compound 14. This\ncompound possesses much higher lipophilicity than the other studied 1,3-disubstituted-2-imino-\nbenzimidazoles as well as the smallest topological surface area (see Table 3). Comparing the\nactivities of compounds 10 and 11 can be observed that the presence of methyl group at position 5 of\n7",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 8,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "2-imino-benzimidazol core is more favorable for antimicrobial activity than the presence of nitro\ngroup. The 2-substituted-1,3-thiazolo[3,2-a]benzimidazolones 17-20 did not show antibacterial\nactivity, therefore their results were not included in Table 1.\nTable 1. Minimal inhibitory concentrations (MIC values given in mg/mL, unless stated otherwise)\nof compounds 10-14\nSamples B. subtilis S. aureus S. abony E. coli P . aeruginosa\n10 0.50 0.50 n.a. n.a. n.a.\n11 1.00 n.a. n.a. n.a. n.a.\n12 n.a. n.a. n.a. n.a. n.a.\n13 n.a. n.a. n.a. n.a. n.a.\n14 0.125 0.016 0.50 0.50 n.a.\nDoxycycline (µg/mL) 1.56 0.78 6.25 0.78 12.50\nDMSO (10%) n.a. n.a. n.a. n.a. n.a.\n2.2.2. Antioxidant activity\nLipid peroxidation (LP), as well as its inhibition in the presence of the synthesized\ncompounds, was measured by using TBA–MDA test. 24,25\nLipid peroxidation (LP), as well as its inhibition in the presence of the synthesized studied\nbenzimidazole derivatives, was measured by using TBA–MDA test, the method based on the MDA\n(LP secondary product) reaction with TBA to obtain a red coloured complex with maximum\nabsorption at 530 nm The TBA-MDA complex absorbances in the supernatant read at 530 nm were\nused to calculate the inhibition percentage of lipid peroxidation26 by using the equation given in the\nexperimental section, and the results are given in Table 2. All samples were assayed for LP\n8",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 9,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "inhibitory activity at concentrations of 200 µg/mL in the fiinal reaction mixture. Those showing\ninhibition greater than 50% at this concentration were tested in a broader concentration range to\nallow calculation of IC values. The IC values represent the concentrations of studied\n50 50\nbenzimidazoles in the reaction mixture which induce a 50% LP-inhibition effect after 3h incubation.\nTable 2. Lipid peroxidation inhibition effects of studied benzimidazoles 10-14 and 17-20 (example\nconcentration 200 µg/mL) and IC values (given in g/mL)\n50\nComp Lipid Peroxidation Standard Lipid Peroxidation\nNo Inhibition Effect antioxidants Inhibition Effect\n(%) IC g/mL) (%) IC g/mL)\n50 50\n10 39.26±3.11 > 200 Trolox 85.61 ± 2.05 7.74\n11 23.43±2.79 > 200 Quercetin 91.12 ± 0.36 10.47\n12 74.04±0.90 141.89 Caffeic acid 99.98 ± 2.52 3.79\n13 55.87±3.16 176.58 L-Ascorbic acid 99.90 ± 1.70 9.12\n14 62.15±5.71 144.88\n17 90.76±1.04 53.70\n18 75.76±6.78 86.97\n19 80.35±2.08 74.11\n20 60.80±5.35 85.51\nThe obtained results indicated that most of the tested compounds of both groups possessed\ngood antioxidant properties. The thiazolo[3,2-a]benzimidazolones demonstrated higher activity than\nthe 1,3-disubstituted-benzimidazol-2-imines. Highest inhibition percentage of lipid peroxidation was\nexpressed by 2-(4-fluorobenzylidene)-7-(phenylcarbonyl)[1,3]thiazolo[3,2-a]benzimidazol-3(2H)-\none 17 (IC = 53.70 g/mL). The next by activity is compound 19 containing a methoxygroup at o-\n50\nposition of the benzene ring with IC value of 74.11 %. The presence of the F-atom in 2-nd position\n50\n9",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 10,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "of benzene nucleus as in compound 18 led to decrease of lipid peroxidation inhibition (IC = 86.97\n50\ng/mL).\nIn the group of 1,3-disubstituted-2-imino-benzimidazoles compound 12 showed the most\neffective LP inhibition (IC = 141.89 g/mL).\n50\n2.3. SAR\nThree different mechanisms could be regarded when concerning how antioxidants deactivate\nthe free radicals – H-atom abstraction (HAT mechanism, see Eq. 1),27-30 electron transfer (SET\nmechanism, see Eq. 2a-2b),30-33 and sequential proton loss electron transfer (SPLET mechanism, see\nEq. 3a-3b)27,34:\n. .\nR-H  R + H (1)\n.\nR-H  R+ + e- (2a)\n. .\nR+  R + H+ (2b)\nR-H  R- + H+ (3a)\n.\nR-  R + e- (3b)\nThe efficacy of the antioxidant to react via HAT is characterized by the bond dissociation\nenthalpy (BDE) – the lower BDE values, the higher the radical scavenging capacity of R-H. In the\nSET mechanism, the reactivity is evaluated by ionization potential (IP). A lower IP implies an easier\nelectron release. The first step of the SPLET mechanism consists in formation of an anion and thus\nthe proton affinity (PA) of the formed anion is used as a measure for the reactivity. Lower PA values\nindicate an easier extraction of the proton. The net result of the three radical scavenging mechanisms\nis the same. SET and SPLET mechanisms are favoured in polar environment because the generated\ncharged species are stabilized by the solvent. Based on calculation of the reaction enthalpies for each\n10",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 11,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "of the mechanisms, it is possible to suggest the most probable mechanism of action of a compounds\nparticular group.27\nIn order to estimate the capability of the studied iminobenzimidazoles 10-14 to act as radical\nscavengers via HAT mechanism the structure of the most active derivative within the series\n(compound 12) was optimized at B3LYP/6-311++G** level and the respective bond dissociation\nenthalpies were calculated. The most favourable positions for hydrogen atom abstractions are\nexpected to be the two α-C atoms (site 1 and site 2, Fig. 1) from the side chains and the imino group\nN-H (site 3, Fig. 1). It is known that the BDE of the α-C-H bonds in alkylamines decrease with\nincreasing number of alkyl sibstituents on the N and C atoms.35 In compounds 10-13 the α-C-H\nbonds are additionally polarized by the adjacent ester groups.\nAccording to the B3LYP/6-311++G** calculations, the most favorable position for hydrogen\natom abstraction is site 1 (Figure 1).\n11",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 12,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Figure 1. Hydrogen atom abstraction at different sites and corresponding DFT B3LYP/6-311++G**\nbond dissociation enthalpies of compound 12 in kJ/mol.\nIn order to prevent effectively lipid peroxidation the antioxidants should have a lower BDE\nvalue than the free lipid radicals. LOO. radicals typically display a BDE of about 367 kJ/mol, as\nreported based on radical kinetics, gas-phase acidity cycles, and photoionization mass spectrometry\nmeasurements.36 However, a lipid BDE value, representative for the chosen level of theory is needed\nto enable an accurate comparison. For this purpose the BDE of O-H bond of methanol was\ncalculated in gas-phase:\n12",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 13,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": ". .\nBDE(CH OH) = H(CH O) + H(H) – H(CH OH) = 413 kJ/mol\n3 3 3\nEffective chain-breaking antioxidants such as α-tocopherol show substantially lower BDE -\n327 kJ/mol according to the calculations in gas-phase the same computational scheme.27\nComparing the BDE value calculated for methanol with those of compound 12, the N-H\nbond should be excluded as probable site for HAT reaction. The BDE values related to the formation\nof C-centered radicals are lower than those of the N-centered one by 40 kJ/mol. The atomic spin\npopulation analysis show that the formation of C-centered radicals is associated with more efficient\ndelocalization of the odd electrons through the conjugated system than in the case of the N-centered\none. This leads to better radical stability for the C-centered radicals, and especially those formed by\nHAT from site 1. Based on the obtained enthalpies the following hypothetical mechanism could be\nsuggested:\n.\nLO LOH\n.\nR or LOO or LOOH . R\n2 2\nN N\nNH NH\nR N (hydrogen atom R N\n1 1\ntransfer)\nR R\n2 2\nAntioxidant mechanism: HAT\nScheme 2. Hypothetical mechanism of antioxidant action of compounds 10-14.\nThe compounds in the second studied subseries of benzimidazoles 17-20 possess an aromatic\nstructure without any OH and NH groups. Compounds 17-20 might exist in two diastereoisomeric\nforms (Z and E) concerning the relative orientation of the phenyl rings and the thiazolone fragment.\nAccording to the B3LYP/6-311++G** optimization of the structure of the most active derivative\nwithin the series 17, the difference between the ZPVE-corrected total energies of the more stable Z-\nisomer and the less stable E-isomer is 16.9 kJ/mol and therefore E-isomer is not expected to be\npresent in solution or solid state. The NMR data show no evidence of that isomer. The only possible\n13",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 14,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "site for H-abstraction is the benzylidene group (Fig. 2), thus feasibility of the HAT mechanism was\nestimated based on the respective BDE. As it can be seen in Fig. 2, the calculated value is 421\n.\nkJ/mol which is higher than those of CH O, excluding the HAT as possible mechanism of action.\n3\nFigure 2. Hydrogen atom abstraction and corresponding DFT B3LYP/6-311++G** bond dissociation\nenthalpy of 17 in kJ/mol.\nOn the other hand, compounds 17-20 might easily donate an electron due to the presence of\ntheir extended conjugated system. They resemble in structure to some recently investigated 2-amino-\n5-alkylidenethiazol-4-ones26 and pyrrolopyrimidines37 exhibiting antioxidant action. Similarly to\nthese cases, a mechanism of stepwise oxidation could be suggested for compounds 17-20 (Scheme\n.\n3). These compounds could produce radical cations able to scavenge the lipid alkoxyl (LO), lipid\n. .\nperoxyl (LOO) or hydroxyl (OH) radicals by initial electron transfer (SET mechanism), then form\nan intermediate adduct and terminate the process by a proton transfer (Scheme 3):\n14",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 15,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": ".\nLO LO .\nO 6 or LOO . or LOO O H LO .\n5 or LOO\n3 4 .\n1\n2 S S\nN R 1 (electron N R 1\ntransfer)\nO O\n(LO) (LO)\nLO . . O LOO o L r O LO - O - o L r O LO H OH O LOO\nor LOO\nH\nS S\nN R 1 (proton N R 1\ntransfer)\nO Adduct O\nAntioxidant mechanism: SET\nScheme 3. Hypothetical mechanism of antioxidant action of compounds 17-20.\nThe structure of the radical cations and adducts formed in the course of the antioxidant action\naccording to Scheme 3, were further investigated by modeling compound 17 and including a\nmethoxy radical to represent the lipid. The optimized geometry of the radical cation shows a planar\norientation of the phenyl ring and thiazolobenzimidazolone fragment. The S1-C5 bond is\nsubstantially shortened and the C5-C6 bond is much longer compared to the parent neutral molecule.\nThe analysis of the spin densities over the atoms indicates that approximately one third of unpaired\nelectron is localized in the fragment S1-C5-C6 and could be illustrated by the resonance structures\nshowed on Scheme 4.\n15",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 16,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "H\nH\nO\nO\nN\nN S R\nS R\nN\nN\nO\nO\nH\nO\nor N\nS R\nN\nO\nScheme 4. Resonance structures of the peroxyl scavengers (radical cations) of compounds 17-20.\nThus the attack of the lipid radicals would be expected at S1, C5 and C6. The adducts formed by\naddition of methoxy radical at these sites were studied by optimizing the geometry of the relevant\ncation products of compound 17. According to the calculated ZPVE-corrected total energies,\naddition at C6 seems to be the most favorable. The adduct has tetrahedral structure due to the sp3\nhybridization of C6 with two possible stereo configurations – S and R (Fig. 3). In the final step of\nthe proposed antioxidant reaction, after transferring a proton to the lipid anion, the molecule would\nrestore its planarity.\nA B\n16",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 17,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Figure 3. Stereo isomers of the methoxy adduct of compound 17 – S configuration at C6 (A) and R\nconfiguration at C6 (B).\nIn view of future medical application, the promising pharmacological potential of studied\nbenzimidazoles demonstrated above, should match also favorable pharmacokinetical behavior in\nliving organisms i.e. sufficient bioavailability and transportation through different membranes to the\nsite of action, optimal process of metabolization and elimination. In this relation the prediction of\nmolecular properties such as lipophilicity, molecular size, flexibility and presence of hydrogen-\ndonor and acceptors could provide useful preliminary information.\nTable 3. Calculated molecular properties of compounds 10-14 and 17-20 for assessment of the drug-\nlikeness\nCompd. mlogPa TPSAb N c MWd N e N f N g N h Voli\ni atoms ON OHNH viol. rotb.\nNo.\nRule < 5 < 500 < 10 < 5 ( < 10 )\n10 2.83 67 29 383 5 1 0 6 352\n11 2.34 113 31 414 8 1 0 7 358\n12 2.02 103 30 409 8 1 0 10 367\n13 1.01 86 23 319 7 1 0 8 293\n14 5.18 33 29 383 3 1 1 8 381\n17 5.30 51 29 400 4 0 1 3 329\n18 5.25 51 29 400 4 0 1 3 329\n19 5.15 60 30 412 5 0 1 4 350\n20 5.03 69 31 426 6 0 1 3 348\n17",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 18,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "a octanol-water partition coefficient, calculated by the methodology developed by Molinspiration; b\npolar surface area; c number of nonhydrogen atoms; d molecular weight; e number of hydrogen-bond\nacceptors (O and N atoms); f number of hydrogen-bond donors (OH and NH groups); g Number of\n\"Rule of five\" violations; h number of rotatable bonds; i molecular volume.\nBased on the analysis of a large number of drugs, Lipinski and coworkers established an\neffective methodology for estimation of potential drug solubility and permeability.38 The required\nmolecular properties were conveniently set into a \"Rule of five\": poor absorption or permeation are\nmore likely to occur when the molecule has molecular weight more than 500, log P over 5, and\ncontains more than 5 H-bond donors or 10 H-bond acceptors. More than one violation of the rule is\nthe critical limit for acceptable drug-likeness.\nThe physico-chemical properties of the studied benzimidazoles, calculated using\nMolinspiration tool,39 are shown in Table 3. Data indicate that none of the compounds is above the\ncritical limit established by the \"Rule of five\". Molinspiration methodology for calculation of\nmiLogP implements fragment-based contributions and correlation factors which makes it robust and\nwidely applicable tool. Compounds 10-13 show miLogP values below 5 which is favorable feature\nfor their oral bioavalability. The highest lipophilicity among the group of 1,3-disubstituted-2-imino-\nbenzimidazoles is observed with compound 14 that contains only phenylpropyl substituents without\nany polar groups. The derivatives containing thiazolobenzimdazolone moiety 17-20 show\nsignificantly greater lipophilicity with miLogP values slightly above 5. Their higher lipophilicity is\ndue to their smaller polar surface area which is another useful descriptor of the oral bioavailability40\nand drug transport properties.41,42 It is being expressed here as topological surface area (TPSA)\nwhich is a sum of the surface areas occupied by oxygen and nitrogen atoms and the hydrogens\nattached to them. TPSA represents the hydrogen bonding capacity of the molecules. Molecules with\nTPSA less than 140 Å2 are recognized to have good intestinal absorption, and those with TPSA less\nthan 60 Å2 show good blood-brain barrier penetration.41,42 All presented benzimidazoles are\n18",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 19,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "expected to have good intestinal absorption and most of them – also good blood-brain barrier\npenetration.\nOn the other hand, all compounds containing N-alkyl substituents show higher\nconformational flexibility manifested through their greater number of rotatable bonds. The number\nof rotatable bonds is an important factor for the efficient binding to receptors and channels as well as\nfor the oral bioavailability.40 Molecules with more than 10 rotatable bonds tend to show poor oral\nbioavailability. All studied compounds, satisfy this criterion and compounds 17-20 have low\nconformational flexibility with less than 5 rotatable bonds. The benzimidazole moiety itself has no\nrotatable bonds and could be regarded as a rigid linker.\nHydrogen bonding capacity of the drug candidates is also described by the number of H-bond\ndonors and acceptors. The compounds in the series show 3 to 8 H-bond acceptors, but none (17-20)\nor one (10-14) H-bond donor. Molecular volumes of the compounds in the series are less than 400\nÅ3. Summarizing the physico-chemical properties of studied benzimidazoles, we could conclude that\nthey obey the \"Rule of five\" and meet all criteria for good solubility and permeability.\n3. Conclusion\nTwo groups of benzimidazole derivatives were synthesized by use of 2-\nmercaptobenzimidazoles as precursors in order to estimate their antioxidant and antibacterial\nproperties. The results obtained by the screening showed that derivatives of 2-iminobenzimidazoles\n10 and 14 possessed strong activity against B. subtilis, S. aureus, S. abony and E. coli whereat their\nMIC were in the range 0.016 - 0.50 mg/mL. The thiazolo[3,2-a]benzimidazolones demonstrated\n50\nhigher activity than the 1,3-disubstituted-benzimidazol-2-imines The 2-substituted\nthiazolobenzimidazoles 17 and 19 revealed very strong lipid peroxidation inhibition effects with IC\n50\nvalues of 53.70 g/mL and 74.11 g/mL, respectively. SAR analysis was performed and some\nelectronic properties of the compounds were established using B3LYP/6-311++G** calculations. On\nthe basis of calculated bond dissociation enthalpies, it was suggested that iminobenzimidazoles 10-\n19",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 20,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "14 might act as radical scavengers via hydrogen atom abstraction preferably in the α-C atom of the\nside chains attached to the iminobenzimidazole rings. Based on the higher BDE for the alkilydene\ngroup in benzimidazoles 17-20, the HAT was excluded as possible mechanism of action of these\ncompounds. It was suggested that due to their electron-donating properties, compounds 17-20 might\nundergo a stepwise oxidation via SET mechanism and produce radical cations able to scavenge the\n. . .\nlipid alkoxyl (LO), lipid peroxyl (LOO) or hydroxyl (OH) radicals.\n4. Experimental\n4.1. Chemistry\nMelting points (mp) were determined on an Electrothermal AZ 9000 3MK4 apparatus and were\nuncorrected. IR spectra were recorded on a Bruker spectrophotometer with potassium bromide discs\nand as well as on aVarian 660-IR, FT-IR Spectrometer. 1H and 13C NMR spectra were recorded on\na Bruker Avance II+ 250 MHz and a Bruker Avance II+ 600 MHz NMR instrument. The spectra\nare referred to the solvent signal. Chemical shifts are expressed in ppm and coupling constants in\nHz. The precise assignment of the 1H and 13C NMR spectra was accomplished by measurement of\n2D homonuclear correlation (COSY), DEPT-135 and 2D inverse detected heteronuclear (C–H)\ncorrelations (HMQC and HMBC). The microanalyses for C, H, N and S were performed on Perkin-\nElmer elemental analyzer. The reactions were monitored by thin layer chromatography, which was\nperformed on Merck pre-coated plates (silica gel. 60 F254, 0.25 mm) and was visualized by\nfluorescence quenching under UV light (254 nm).\nThe starting 4-substituted-1,2-diaminobenzenes were commercial available.\nThe thiols 1-3 as well as the 2-sulphonic acids and the 2-aminobenzimidazoles were\nsynthesized according to the procedure described by us earlier21,22:\n4.1.1. 5-Methyl-1H-benzimidazole-2-thiol 1: Yield –71.3 %; Mp >300°C; IR, KBr, (cm-1): νNH\n3426; νAr3126; νSH2570; δAr 1634, 1618, 1562; δCH 1372; νC-S1118; δAr 799; 1H- NMR\n3\n20",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 21,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "(DMSO-d6)  (ppm): 13.12 (s, 1H,SH), 10.48 (s, 1H, NH), 7.89 (s, 1H, 9-H, Ar), 7.53 (m, 2H, 6-H,\n7-H, J = 8.45), 2.66 (s, 3H, CH ); Analysis: Calc. for C H N S: C, 58.51; H, 4.91; N, 17.06; S,\n3 8 8 2\n19.52; Found: 58.48; H, 4.95; N, 17.16; S, 19.60.\n6.1.2. (2-Mercapto-1H-benzimidazol-5-yl)(phenyl)methanone 2: Yield – 96,8 %; Mp – 248- 250 °C;\nRf = 0.68, mobile phase: 1H NMR (DMSO-d6)  (ppm): 1.877 (s, 1H, SH), 7.251 (d, J=8.2 Hz, 1H,\n7-H), 7.462 (d, J=1.6 Hz, 1H, 4-H), 7.545 (dd, J=8.2 Hz, J=1.6 Hz, 1H, 6-H), 7.558 (t, J=7.7 Hz, 2H,\nm-Ph), 7.658 (dt, J = 7.4 Hz, J=1.4 Hz, 1H, p-Ph), 7.700 (dd, J=8.1 Hz, J=1.4 Hz, 2H, o-Ph), 12.75\n(bs, 1H, NH); 13C NMR (DMSO-d6)  (ppm): 109.30(7-C), 110.81(4-C), 125.12(6-C), 128.48(m-\nPh), 129.35(o-Ph), 130.51(3a-C), 132.12(p-Ph), 132.92(7a-C), 137.14(5-C),137.99(i-Ph),\n170.78(C=N), 195.08(C=O); Analysis: Calc. for C H N OS; C, 66.12; H, 3.96; N, 11.02; O, 6.29;\n14 10 2\nS, 12.61; Found: C, 66.09; H, 3.91; N, 11.12; O, 6.32; S, 12.64.\n4.1.3. 5-Nitro-1H-benzimidazole-2-thiol 3: Yield – 84%; Mp – 245-247°C; Rf - 0.41, mobile phase:\nCHCl /ethyl acetate = 6:1. 1H NMR (DMSO-d6)  (ppm): 7.94(dd, 1H, CH, J = 9.10 Hz); 8.13 (m,\n3\n1H, CH); 8.34 (d 1H), 12.32(s, 1H, SH); Analysis: Calculated for C H N O S: C, 43.07; H, 2.58; N,\n7 5 3 2\n21.53; O, 16.39; S, 16.43; Found: C, 43.17; H, 2.53; N, 21.57; O, 16.41; S, 16.42.\n4. 2. General procedure for compounds 10-14\nTo a solution of 5(6)-substituted-2-aminobenzimidazole (0.01 mol) in dry acetonitrile (50\nmL) was added anhydrous potassium carbonate (2.7 g, 0.02 mol) and tetrabutylammonium bromide\n(TBAB) (0.9 g, 0.003 mol) and 0.02 mol of the halogen organic reagent was dropped by cooling.\nThe mixture was stirred for 8-10 hours vigorously at 25 ºC and monitored by TLC over the reaction\nperiod. After completing the reaction, the mixture was filtered to separate the solid K CO , and the\n2 3\norganic solvent was removed under vacuum.The residue was then crystallized from appropriate\nsolvent to give the relevant compounds 10-14.\n4.2.1. 2-[2-Imino-5-methyl-3-(2-oxo-2-phenylethyl)-2,3-dihydro-1H-benzimdazol-1-yl]-\nphenylethanone 10: Yield 69%; Mp. 283-285 °С; Rf - 0.71, mobile phase CHCl /CH OH - 8:2; IR,\n3 3\n21",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 22,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "KBr, (cm-1): νNH 3335; νC=O 1689; δNH 1662; 1Н NMR (DMSO-d6)  (ppm): 2.367 (s, 3H, CH );\n3\n5.992 (s, 4H, 2CH ); 7.133 (d, 2H, Ar); 7.630 (t, 3H, Ar), 7.813 (m, 3H, Ar); 8.076 (m, 2H, Ar);\n2\n8.131 (m, 3H, Ar); 8.834 (m, 2H, NH +); 13C NMR (DMSO-d6)  (ppm): 20.98 (C-7); 52.04(C-10,\n2\nC-14); 128.18(C-9); 128.18(C-9); 128.51(C-6); 12895(C-8); 133.64 (C-19, C-23, C-25); 127.83 (C-\n20, C-22, C-26, C-28); 133.64 (C-21, C-27); 134.10 (C-18, C-24); 151.08(C=N); 191.04 (C-11, C-\n15); Analysis: Calc. for C H N O : C, 75.18; H, 5.52; N, 10.96; O, 8.35; Found: C, 75.20; H,\n24 21 3 2\n5.49; N, 10.98; O, 8.39.\n4.2.2. 2-[2-Imino-5-nitro-3-(2-oxo-2-phenylethyl)-2,3-dihydro-1H-benzimdazol-1-yl]-1-\nphenylethanone 11: Yield 82%, Mp. 246°С, Rf - 0.71, mobile phase CH Cl /CH OH - 8:1; IR, KBr,\n2 2 3\n(cm-1): νNH 3338; νC=O 1679; δNH 1652; δNO 1335; δAr 751, 691; 1Н NMR (DMSO): 5.732(s,\n2\n4H, 2CH ); 7.445(s, 1H,Ar); 7.636(m, 4H, Ar); 7.752(t, 2H, Ar); 8.072(s, 4H, Ar); 8.119(s, 1H, Ar);\n2\n13C NMR (DMSO-d6)  (ppm): 48.04(C-10, C-14); 104.59(C-9); 108.43(C-6); 118.31(C-7);\n128.4(C-20, C-24); 129.02(C-26, C-30); 130.00 (C-29, C-27); 134.26(C-22, C-28); 134.35(C-4);\n134.38(C-5); 135.34(C-19, C-20), 142.18(C-NO ); 154.35(C=N); 191.67(C=O); 192.78(C=O);\n2\nAnalysis: Calc. for C H N O : C, 66.66; H, 4.38; N, 13.52; O, 15.44; Found: C, 66.62; H, 4.36; N,\n23 18 4 4\n13.56; O, 15.47.\n4.2.3. Ethyl [3-(2-ethoxy-2-oxoethyl)-2-imino-5-benzoyl-2,3-dihydro-1H-benzimdazol-1-yl]acetate\n12: IR, KBr, (cm-1): νNH 3457; νC=O 1736; νC=O 1691 δNH 1649; δCH 1377; νC-O-C1208; δAr\n3\n746, 713; 1H NMR (DMSO-d6)  (ppm): 1.191 (t, J=7.1Hz, 6H, CH ), 4.152 (q, J=7.1 Hz, 4H,\n3\nOCH ), 4.262 (s, 4H, NCH ), 7.107 (d, J=8.1Hz, 1H, 7-Ar), 7.346(d, J=8.1Hz, 1H, 6-Ar), 7.446 (s,\n2 2\n1H, 4-H), 7.536 (t, J=7.7Hz, 2H, m-Ph), 7.640 (t, J=7.4Hz, 1H, p-Ph), 7.678(dd, J=8.2, 1.2Hz, 2H, o-\nPh); 13C NMR (DMSO-d6)  (ppm): 13.97 (CH ), 47.48 (NCH ), 60.14 (OCH ), 105.77 (7-C),\n3 2 2\n107.92 (4-Ar), 109.58 (6-Ar), 128.37 (m-Ph), 129.10 (7a-C), 129.30 (o-Ph), 131.95 (p-Ph), 132.25\n22",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 23,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "(3a-C), 138.06 (i-Ph), 152.22 (C=N), 167.77 (O-C=O), 171.52 (C=O). Analysis: Calc. for\nC H N O ; C, 64.54; H, 5.66; N, 10.26; O, 19.54; Found: C, 64.57; H, 5.61; N, 10.28; O, 19.49.\n22 23 3 5\n4.2.4. Ethyl [3-(2-ethoxy-2-oxoethyl)-2-imino-5-methyl-2,3-dihydro-1H-benzimdazol-1-yl]acetate\nhydrobromide 13: Yield – 65 %; Mp 297-299 °С, Rf – 0,66; mobile phase CHCl / CH COOC H ;\n3 3 2 5\nIR, KBr, (cm-1): νNH 3342; νC=O 1733; δNH 1666; δCH 1378; 1Н NMR (DMSO-d6)  (ppm):\n3\n1.226 (t, 6H, 2CH ), 2.389 (s, 3H, CH ), 4.207 (q, 4H, 2O-CH ), 5.168 (s, 4H, 2CH ), 7.154 (d,\n3 3 2 2\n1H, Ar ), 7.461 (t, 2H, Bz ), 9.039 (bs, 2H, NH +); 13C-NMR(DMSO-d6)  (ppm): 13.53 (C-20),\n2\n14.08 (C-23), 21.03 (C-17), 61.85 (C-19, C-22), 110 (C-9), 127.69 (C-6), 133.87 (C-2), 150.65\n(C=N), 166.50 (C=O); Analysis: Calc. for C H N O : C, 60.17; H, 6.63; N, 13.16; O, 20.04;\n16 21 3 4\nFound: C, 60.20; H, 6.61; N, 13.14; O, 20.06.\n6.2.5. 5-Methyl-1,3-bis(3-phenylpropyl)-1H-benzo[d]imidazol-2(3H)-imine hydrobromide 14:\nYield - 72 %, Mp 223-225 °С, Rf- 0.55, mobile phase CH Cl /CH OH; IR, KBr, (cm-1): νNH-\n2 2 3\n3409; δNH 1676; δCH 1382; 1Н NMR (DMSO-d6)  (ppm): 1.987 (t, 4H, 2CH ); 2.399 (s, 3H,\n3 2\nCH ); 2.643 (m, 4H, 2CH ); 3.467 (m, 4H, 2CH ); 7.168 (m, 7H, CH); 7.249 (m, 4H, CH); 7.314\n3 2 2\n(s, 1H, CH); 8.738 (s, 2H, NH +); Analysis: Calc. for C H N : C, 81.42; H, 7.62; N, 10.96; Found:\n2 26 29 3\nC, 81.42; H, 7.62; N, 10.96.\n4.3. Synthesis of (5-phenylcarbonyl-1H-benzimidazol-2-ylthio)acetic acid 15: A solution of sodium\nhydroxide (0.012 mol) in ethanol (14 mL) and 5(6)-(un)substituted-1H-benzimidazole-2-thiol\n(0.0067 mol) was refluxed for 1 h. After cooling, chloroacetic acid (0.0067 mol) was added and the\nrefluxing was continued for 5 h more. Then the reaction mixture was cooled, poured into water and\nacidified with diluted acetic acid. The crystallized product was filtrated, carefully washed with\nwater and re-crystallized with ethanol; Yield: 85%; Mp 173-175; Rf 0.4 C H /CH OH = 2:1; IR,\n6 6 3\nKBr, (cm-1): νOH- 3440; νNH 3208; νC=O 1747; νC=O 1649; 1 H NMR (DMSO-d6)  (ppm): 3.91\n(s, 2H, CH2); 7.58 (dd, 2H, m-Ph, J= 7.15 Hz); 7.70 (m, 1H p-Ph); 7.87 (d 1H, o-Bz, J=8.40 Hz);\n7.92 (d, 1H, o-Ph, J=7.38 Hz); 7.94 (m, 1H, o-Bz); 8.04 (d, 1H, m-Bz); 9.82 (bs, 2H, NH, COOH);\n23",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 24,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Analysis: Calc. for C H N O S; C, 61.53; H, 3.87; N, 8.97; O, 15.37; S, 10.27; Found: , 61.55; H,\n16 12 2 3\n3.89; N, 8.95; O, 15.34; S, 10.29.\n4.4. Synthesis of 6-(phenylcarbonyl)[1,3]thiazolo[3,2-a]benzimidazol-3(2H)-one 16: A solution of\n5-phenylcarbonyl-(1H-benzimidazol-2-ylthio)acetic acid (0.104 mol) and acetic anhydride (19.5\nmL) in dry pyridine (65 mL) was heated under reflux for 10 min. After completing of the reaction\nthe solution was cooled and the product was crystallized as pale orange sediment by addition of\nwater (100 mL) in small portions by stirring. Yield 66%; Mp-147-150; °С, Rf 0.5; mobile phase\nCH COOC H /C H - 1:4; IR, KBr, (cm-1): νC=O 1747; νC=O 1648; νC=O 1648; νC-S 1369, 1293;\n3 2 5 6 6\n1\nH NMR (DMSO-d6)  (ppm): 4.648 (s, 2H) and 4.652 (s, 2H, CH ), 7.55-7.60 (m, 4H, m-Ph), 7.69-\n2\n7.72 (m, 2H, p-Ph+p-Ph), 7.73-7.76 (m, 6H, o-Ph+7-Ar+8-Ar), 7.806 (dd, J=8.4 Hz, J=1.7 Hz, 1H,\n7-Ar), 7.894(d, J=1.1 Hz, 1H, 5-Ar), 8.014(d, J=8.2 Hz, 1H, 8-Ar), 8.157(d, J=1.2 Hz, 1H, 5-Ar);\nAnalysis: Calc. for C H N O S; C, 65.29; H, 3.42; N, 9.52; O, 10.87; S, 10.89; Found:\n16 10 2 2\nC H N O S; C, 65.31; H, 3.40; N, 9.54; O, 10.88; S, 10.85.\n16 10 2 2\n4.5. General procedure for compounds 17-20\nA) 0.0105 mol of the relevant aldehyde was added to the solution of 0.01 mol 3a-d in 50 mL\nabsolute ethanoland 3-4 drops of pyridine. After several hours of reflux, the solution was cooled and\nthe precipitate obtained was washed with ethanol, followed by double re-crystallization from\nethanol.\nB) Mixture of 0.01 mol 1H-benzimidazole-2-thiol, 0.015 mol chloroacetic acid, 0.01 mol aromatic\naldehyde, 2-3 drops piperidine and glacial acetic acid were refluxed for 4 h. After cooling, the\nproduct obtained was re-crystallized with ethanol.\n4.5.1. 2-(4-fluorobenzylidene)-6-(phenylcarbonyl)[1,3]thiazolo[3,2-a]benzimidazol-3(2H)-one 17:\nYield: 66 /76 %.; Mp 209-210 оС; Rf = 0.3, mobile phase: CH COOC H /C H - 1: 8; IR, KBr, (cm-\n3 2 5 6 6\n1): νC=O 1721; νNO 1341; δAr 829; 1Н NMR (CDCl ): 8.505 (s, 1H, CH), 8.350 (ds, 1H, CH),\n2 3\n24",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 25,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "8.146 (t, 1H, 1CH), 7.904 (q, 1H, 1CH), 7.849 (d, 2H); 7.783 (d, 1H), 7.672-7.612 (dt, 2H), 7.515\n(q, 3H, 3CH), 7.353 (t, 1H, CH); Analysis: Calc. for C H FN O S: C, 68.99; H, 3.27; F, 4.74; N,\n23 13 2 2\n7.00; O, 7.99; S, 8.01; Found: C, 68.95; H, 3.31; F, 4.73; N, 7.04; O, 7.94; S, 8.04;\n4.5.2. 2-(2-fluorobenzylidene)-6-(phenylcarbonyl)[1,3]thiazolo[3,2-a]benzimidazol-3(2H)-one 18:\nYield - 51/65 %; Mp -232-235°С; Rf 0.64, mobile phase: CH COOC H /C H - 1: 8; IR, KBr, (cm-\n3 2 5 6 6\n1): νC=O 1732; νC=O 1653; νAr 1613; 1550; 1506; δAr 756; 698; 1Н NMR (CDCl ): 8.504 (s, 1H,\n3\nCH), 8.077 (m, 1H, CH), 7.917 (d, 1H, 1CH), 7.888 (t, 1H, 1CH), 7.806 (d, 2H); 7.774 (d, 1H),\n7.648 (m, 3H), 7.537 (m 3H); Analysis: Calc. for C H1 FN O S: C, 68.99; H, 3.27; F, 4.74; N,\n23 3 2 2\n7.00; O, 7.99; S, 8.01; Found: C, 68.91; H, 3.27; F, 4.76; N, 7.06; O, 7.96; S, 8.05;\n4.5.3. 2-(2-methoxybenzylidene)-6-(phenylcarbonyl)[1,3]thiazolo[3,2-a]benzimidazol-3(2H)-one 19\nYield- 62/75 %; Mp - 235-237°C; Rf 0.62, mobile phase: CH COOC H /C H - 1: 8; IR, KBr, (cm-\n3 2 5 6 6\n1): νAr 3031; νCH 2840; νC=O 1725; νC=O 1654; νAr 1596; 1560; 1487; δCH 1440; 1362; νC-O-\n3 3\nC 1252; 1158; δAr 694, 746; δAr 722; 1Н NMR (CDCl ): 8.500 (t, 1H, CH, J = 8.52Hz), 8.144(t,\n3\n1H, CH), 7,907 (m, 1H), 7.880 (d, 2H, 2CH); 7.769 (d, 1H, CH), 7.607 (m, 5H, 5CH); 7.116 (t, 1H,\nCH), 7.008 (d, 1H, CH), 3.958 (s, 3H, CH3); Analysis: Calc. for C H N O S: C, 69.89; H, 3.91;\n24 16 2 3\nN, 6.79; O, 11.64; S, 7.77; Found: C, 69.91; H, 3.89; N, 6.77; O, 11.67; S, 7.74.\n4.5.4. 2-(1,3-benzodioxol-5-ylmethylidene)-6-(phenylcarbonyl)-[1,3]thiazolo[3,2-a]benzimidazol-\n3(2H)-one 20: Yield: 45 /60 %; Mp - 165-167 °C; Rf 0.60 mobile phase CH COOC H /C H = 1:4;\n3 2 5 6 6\nIR, KBr, (cm-1): νC=O 1717; νC=O 1654 ; νAr 1614; 1580; 1508; δCH 1440; νC-O-C 1244; 1112;\n2\n1\nH NMR (CDCl )  (ppm): 5.93 (s, 2H, CH2); 7.24 (dd, 2H, o-Pip, J = 8.22 Hz); 7.36-7.39 (m, 1H,\n3\nm-Pip); 7.57 – 7.60 (m, 2H, o-Ph); 7.67 – 7.71 (m, 1H, p-Ph); 7.92 (m, 2H, o-Ph, J = 7.38 Hz);\n7.99 (s, 1H, CH=C); 8.20 (d, 1H, o-Bz, J= 8.40 Hz); 8.36 (d, 1H, m-Bz); 8.47 (s, 1H, o-Bz);\nAnalysis: Calc. for C H N O S: C, 67.60; H, 3.31; N, 6.57; O, 15.01; S, 7.52; Found: C, 67.62; H,\n24 14 2 4\n3.34; N, 6.54; O, 15.03; S, 7.49.\n25",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 26,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "4.6. Assay for in vitro antibacterial activity\nThe in vitro antimicrobial activity of samples 10-14 and 17-20 was tested against a panel of\nlaboratory control strains belonging to American Type Culture Collection Maryland, USA and\nNational Collection of Type Cultures, UK. Antimicrobial activity was evaluated against two Gram-\npositive bacteria (Bacillus subtilis ATCC 6633 and Staphylococcus aureus ATCC 6538) and three\nGram-negative bacteria (Escherichia coli ATCC 8739, Pseudomonas aeruginosa ATCC 9027 and\nSalmonella abony NCTC 6017).\nThe minimal inhibitory concentration (MIC) of samples, against tested bacteria was\ndetermined by using a broth microdilution method in 96 multi-well microtitre plates.43 After\novernight cultivation, microbial suspensions were made in Mueller Hinton broth and their turbidity\nwas standardised to 0.5 McFarland. Dimethyl sulphoxide (10%, v/v aqueous solution) was used to\ndissolve and to dilute sample. A serial double dilution of the sample was prepared in 96 well\nmicrotitre plates, using method of Sarker et al.44 The lowest concentration of the sample that\ninhibited visible growth was taken as the MIC value. One row was used as a positive control and\ncontained a broad-spectrum antibiotic (doxycycline in a serial dilution of 200–0.05 μg/ml) to\ndetermine the sensitivity of Gram-negative and Gram-positive bacteria while the other row contained\nthe solvent as negative control. Tests were carried out in triplicate.\n4.7. Lipid peroxidation inhibition\nPhospholipids (Phospholipon® 90; PL90) were gifted by PHOSPHOLIPID GMBH, Cologne,\nGermany. According to the accompanied declaration the mixture content of PL90 is:\nphosphatidylcholine 98%, lyso-phosphatidylcholine 2.1%; fatty acid composition: palmitic acid\n12±2%, stearic acid 3±1%, oleic acid 10±3%, linoleic acid 66±5%, linolenic acid 5±2%, peroxide\nvalue max. 1.3. The PL90 were kept in dark to prevent at least the photooxidation process.\n26",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 27,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Thiobarbituric acid (TBA), 2,2′-Azobis(2-methylpropionamidine) dihydrochloride (AAPH) and\nstandards of trolox, quercetin, caffeic acid and L-ascorbic acid were obtained from Sigma Aldrich.\n4.7.1. TBA-MDA test\nThe reaction mixture of 0.3 mL contained methanol solution of lipids (PL90) (1·10-2 mol/L) and\nmethanol solutions of selected synthesized compounds (1 g/L) in 2:1 (v/v) ratio. Lipid peroxidation\nwas initiated by using 0.2 mL (2.2·10-2 mol/L) aqueous solution of hydrophilic thermal initiator of\nlipid peroxidation (AAPH – 2,2′-azobis(2-methylpropionamidine) dihydrochloride) during time\nperiod of 3 h at 40 ºC. One centimeter cube of aqueous trichloroacetic acid (5.5 %), followed by 0.5\nmL of TBA (4.2·10-2 mol/L in 5·10-2 mol/L NaOH) and BHT (1·10-3 mol/L) were added in the\nreaction mixture immediately after 3 h of initiation. The mixture was incubated for 10 min at 65 ºC\nin the dark, and centrifuged for 5 min at 13800 rpm. The TBA-MDA complex absorbances in the\nsupernatant (the absorbances of control, sample and blank solution monitoring MDA level in the\nlipid before LP initiation by AAPH) read at 530 nm were used to calculate the inhibition percentage\nof lipid peroxidation.26\nInhibition of Lipid Peroxidation (%) = 100•(Ac-As)/(Ac-Ab)\nAc – the absorbance of control, As – the absorbance of sample and Ab – the absorbance of blank\nsolution monitoring MDA level in the lipid before LP initiation by AAPH.\nAll samples were assayed for LP inhibitory activity at concentrations of 200 µg/mL in the fiinal\nreaction mixture. Those showing inhibition greater than 50% at this concentration were tested in a\nbroader concentration range to allow calculation of IC values.\n50\n4.8. Computational details\nAll theoretical calculations were performed using the Gaussian 09 package45 of programs.\nGeometry and vibrational frequencies of the studied species were performed by analytical gradient\ntechnique without any symmetry constraint. All the results were obtained using the density\n27",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 28,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "functional theory (DFT), employing the B3LYP (Becke’s three-parameter non-local exchange46 and\nLee et al. correlation45 potentials).\nThe geometries of all possible isomers of the studied compounds, radicals, radical cations\nwere fully optimized by application of the UB3LYP functional in conjunction with the 6-311++G**\nbasis set. The optimized structures were further characterized by analytical computations of\nharmonic vibrational frequencies at the same level. Dissociation enthalpy (BDE), ionization\npotential (IP), proton dissociation enthalpy (PDE), proton affinity (PA), and electron transfer\nenthalpy (ETE) were calculated according the equations given by Klein et al.27\nBDE = H(R.) + H(H.) – H(R-H)\nIP = H(R+.) + H(e-) – H(R-H)\nPDE = H(R.) + H(H+) – H (R+. )\nPA = H(R-) + H(H+) – H (R-H)\nETE = H(R.) + H(e-) – H (R-)\nThe enthalpy of hydrogen atom, H(H) was obtained by the same method and basis set. All\nreaction enthalpies were calculated at 298 K. The enthalpies of proton H(H+), and electron, H(e-),\nwere taken from the literature: 6.197 kJ/mol and 3.145 kJ/mol, respectively.27 Natural bond orbitals\n(NBO) analysis47-49 has been performed to characterize the delocalization of electron density within\nthe molecule.\nAcknowledgements: The financial support of this work by the National Science Fund of\nBulgaria (Contracts RNF01/0110), Science Fund / Chemical Technology and Metallurgy University\ngrant 11252 and the Ministry of Education and Science of the Republic of Serbia (Grant No.172044\nand TR34012) is gratefully acknowledged.\n5. References\n1. Gurer-Orhan, H.; Orhan H.; Suzen, S.; Püsküllü M. O.; Buyukbingol, E., J. Enzyme. Inhib. Med.\nChem. 2006, 21, 2241-2247.\n28",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 29,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "2. Ozkay,Y.; Tunai. Y.; Karaca, H.; Isikdag, I., Eur. J. Med. Chem, 2010, 45, 3293-3298.\n3. Sreena, K; Ratheesh, R.; Rachana, M.; Poornima, M.; Shyni, C; Hygeia, 2009, 1(1), 21-22.\n4. Nofal, Z. M.; Soliman, E. A.; Abd El-Karim, S. S.; El Zahar, M. I.; Srour, A. M.;\nSethumadhavan, S.; Maher, T. J., Acta Pol. Pharm. 2011, 68(4), 519-534.\n5. Kumar, J. R.; Jawaharand, J.; Pathak, D. P., E-J. Chem. 2006, 3(4), 278-285.\n6. Tonelli, M.; Paglietti, G.; Boido, V.; Sparatore, F.; Marongiu, F.; Marongiu, E.; La Colla, P.;\nLoddo, R., Chem. Biodivers. 2008, 5(11), 2386-401.\n7. Podunavac-Kuzmanovi, S. O.; Barna, D. J; Cvetkovic, D. D., APTEFF, 2007, 38, 139-147.\n8. Zhang, D.; Wang, Z.; Xu, W.; Sun, F.; Tang. L.; Wang J., Eur. J. Med .Chem. 2009, 44, 2202-\n2210.\n9. Kumar, R. V.; Vaidya, S. D.; Kumar, B. V. S.; Bhise, U. N.; Bhirud, S. B.; Mashelkar U. C., Eur.\nJ. Med. Chem. 2008, 43, 986 - 995.\n10. Ansari, K. F.; Lal, C., Eur. J. Med. Chem., 2009, 44(5), 2294-2299.\n11. Ansari, K. F.; Lal, C., Eur. J. Med. Chem. 2009, 44, 4028-4033.\n12. Jain, P.; Jain, V.; Jain, A. K; Singour, P. K, Int. J. Drug Discov. 2011, 2(4), 633-636\n13. Seth, P. P.; Jefferson, E. A.; Risen, L. M.; Osgood, S. A., Bioorg. Med. Chem. Lett. 2003, 13\n1669-1672;\n14. Dahiya, R.; Pathak, D., Eur. J. Med. Chem., 2007, 42, 772-798.\n15. Moreira, J. B.; Mann, J.; Neidle, S; Taylor, P. W.; McHugh T. D., Int. J. Antimicrob. Ag.,\n2013, 42 (4), 361-366.\n16. Kuş, C.; Ayhan-Kılcıgil,G.; Özbey S.; Betül Kaynak, F.; Kaya, M.; Çoban, T.; Can-Eke, B.,\nBioorg. Med. Chem. 2008, 16(8), 4294–4303.\n17 El Harti, J.; Doudach, L.; Faouzi, M. A.; Taoufik, J.; Ansar, M., J. Chem. Pharm. Res, 2014, 6(2),\n781-784.\n18. Dianov, V. M., Pharm. Chem. J. 2007, 41, 308-309.\n29",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 30,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "19. Arora, R. K.; Kaur, N.; Bansal, Y.; Bansal, G., Acta Pharm. Sin. B, 2014, 4(5), 368-375.\n20. Nile, S. H.; Kumar, B.; Park, Se W., Chem. Biol. Drug Des. 2013, 82 (3), 290-295.\n21. Mavrova A.; Anichina, K.; Vutchev, D.; Tsenov, Y.; Denkova, P. S;. Kondeva, M. S.;\nMicheva, M. K., Eur. J. Med. Chem. 2006, 41, 1412-1422.\n22. Mavrova, A. Ts; Wesselinova, D.; Vassilev, N; Tsenov, J. A., Eur. J. Med. Chem. 2013, 63,\n696-701.\n23. Sartoratto, A.; Machado, A. L. M.; Delarmelina, I.; Figueira, G. M.; Duarte, M. C. T.; Rehder, V.\nL. G., Braz. J. Microbiol., 2004, 35, 275-280.\n24. Choi, C. W.; Kim, S. C.; Hwang, S. S.; Choi, B. K.; Ahn, H. J.; Lee, M. Y.; Park, S. H; Kim, S.\nK., Plant Sci. 2002, 163, 1161-1168.\n25 Fernandez, J.; Perez-Alvarez, J. D.; Fernindez-Lopez, J. D. Food Chem. 1997, 59, 345–353.\n26. Zvezdanovic, J.; Daskalova, L.; Yancheva, D.; Cvetkovic, D.; Markovic, D.; Anderluh, M;\nSmelcerovic, A., Monatsh. Chem, 2014, 145, 945-952.\n27. Klein, E.; Lukes V., Ilcin M., Chem. Phys. 2007, 336, 51-57.\n28. Burton, G. W.; Doba, T.; Gabe, E. J.; Hughes, L.; Lee, F. L.; Prasad, L.; Ingold, K. U., J. Am.\nChem. Soc. 1985, 107, 7053-7065.\n29. De Heer, M. I.; Mulder, P.; Korth, H.; Ingold, K. U.; Lusztyk, J., J. Am. Chem. Soc. 2000, 122,\n2355-2360.\n30. Wright, J. S.; Johnson, E. R.; DiLabio G. A., J. Am. Chem. Soc. 2001, 122, 1173-1183.\n31. Musialik, M.; Litwinienko, G., Org. Lett. 2005, 7, 4951-4954.\n32. Vafiadis, A. P.; Bakalbassis E. G., Chem. Phys. 2005, 316, 195-204.\n33. Rimarcik, J.; Lukes, V.; Klein, E.; Ilcin, M., J. Mol. Struct. (Theochem) 2010, 952, 25-30.\n34. Musialik, M.; Kuzmicz, R.; Pawlowski, T. S.; Litwinienko, G., J. Org. Chem., 2009, 74, 2699-\n2709.\n30",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 31,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "35. Denisov, E. T.; Afanasev, I. B., in Oxidation and Antioxidants in Organic Chemistry and\nBiology, CRC Press, Taylor& Francis Group, Boca Raton, 2005, 356-358.\n36. Berkowitz, J.; Ellison, G. B.; Gutman D., J. Phys. Chem. 1994, 98, 2744-2765.\n37 Hall, E. D.; Andrus, P. K.; Smith, S. L.; Fleck, T. J.; Scherch, H. M.; Lutzke, B. S.; Sawada, G.\nA.; Althaus, J. S.; Vonvoigtlander, P. F.; Padbury, G. E.; Larson, P. G.; Palmer, J. R.; Bundy, G. L.;\nJ. Pharmacol. Exp. Ther. 1997, 281, 895-904.\n38. Lipinski, C. A.; Lombardo, F.; Dominy, B. W.; Feeney, P. J., Adv. Drug. Deliver. Rev. 2012, 64,\n4-17.\n39. Molinspiration Cheminformatics, http:www.molinspiration.com; Molinspiration property engine\nv2013.09\n40. Veber, D. F.; Johnson, S. R.; Cheng, H-Y.; Smith, B. R.; Ward, K. W.; Kopple, U. D., J. Med.\nChem. 2002, 45, 2615-2623.\n41. Ertl, P.; Rodhe, B.; Selzer P., J. Med. Chem, 2000, 43, 3714-3717.\n42. Prasanna, S. R.; Doerksen J., Curr. Med. Chem. 2009, 16, 21-41.\n43. National Committee for Clinical Laboratory Standards, 2003. Performance standards for\nantimicrobial susceptibility testing: eleventh informational supplement, M100-S11; National\nCommittee for Clinical Laboratory Standard, Wayne, PA, USA.\n44. Sarker, S. A.; Nahar, L.; Kumarasamy, Y., Methods 2007, 42, 321–324.\n45. Frisch, M. J.; Trucks, G. W.; Schlegel, H. B.; Scuseria, G. E.; Robb, M. A.; Cheeseman, J. R.;\nScalmani, G.; Barone, V.; Mennucci, B.; Petersson, G. A.; Nakatsuji, H.; Caricato, M.; Li, X.;\nHratchian, H. P.; Izmaylov, A. F.; Bloino, J.; Zheng, G.; Sonnenberg, J. L.; Hada, M.; Ehara, M.;\nToyota, K.; Fukuda, R.; Hasegawa, J.; Ishida, M.; Nakajima, T.; Honda, Y.; Kitao, O.; Nakai, H.;\nVreven, T.; Montgomery, J. A., Jr.; Peralta, J. E.; Ogliaro, F.; Bearpark, M.; Heyd, J. J.; Brothers, E.;\nKudin, K. N.; Staroverov, V. N.; Kobayashi, R.; Normand, J.; Raghavachari, K.; Rendell, A.;\nBurant, J. C.; Iyengar, S. S.; Tomasi, J.; Cossi, M.; Rega, N.; Millam, J. M.; Klene, M.; Knox, J. E.;\n31",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 32,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Cross, J. B.; Bakken, V.; Adamo, C.; Jaramillo, J.; Gomperts, R.; Stratmann, R. E.; Yazyev, O.;\nAustin, A. J.; Cammi, R.; Pomelli, C.; Ochterski, J. W.; Martin, R. L.; Morokuma, K.; Zakrzewski,\nV. G.; Voth, G. A.; Salvador, P.; Dannenberg, J. J.; Dapprich, S.; Daniels, A. D.; Farkas, Ö.;\nForesman, J. B.; Ortiz, J. V.; Cioslowski, J.; Fox, D. J., Gaussian 09, Revision A.1, Gaussian Inc.,\nWallingford CT, 2009.\n46. Stephens P. J.; Devlin F. J.; Chabalowski, C. F.; Frisch M. J., J. Phys. Chem. 1994, 98, 11623-\n11627.\n47. Reed, A. E.; Curtiss, L. A.; Weinhold, F., Chem. Rev. 1988, 88, 899-926.\n48. Carpenter J. E.; Weinhold, F., J. Mol. Struct. (Theochem) 1988, 46, 41-62.\n49. Weinhold, F.; Carpenter, J. E., in The Structure of Small Molecules and Ions, Ed. R. Naaman and\nZ. Vager, Plenum, 1988, 227-236.\n32",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 33,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "List of captions\nFigure 1. Hydrogen atom abstraction at different sites and corresponding DFT B3LYP/6-\n311++G** bond dissociation enthalpies of 12 in kJ/mol.\nFigure 2. Hydrogen atom abstraction and corresponding DFT B3LYP/6-311++G** bond\ndissociation enthalpy of 17 in kJ/mol.\nFigure 3. Stereo isomers of the methoxy adduct of 17 – S configuration at C6 (A) and R configuration\nat C6 (B).\nScheme 1. Synthesis of the studied benzimidazole compounds. Reagents and conditions: a)\nKMnO , NaOH water solution, refluxing; b) NH OH, 150 °C in welded ampoule; c) TBAB, dry\n4 4\nK CO , halogen derivative, 25 °C, acetonitrile; d) ClCH COOH, NaOH/ethanol, refluxing 3 h; e)\n2 3 2\n(CH CO) O, pyridine medium refluxing 10 min; aromatic aldehydes, cat. Py, ethanol refluxing 4-6\n3 2\nh.\nScheme 2. Hypothetical mechanism of antioxidant action of compounds 10-14.\nScheme 3. Hypothetical mechanism of antioxidant action of compounds 17-20.\nScheme 4. Resonance structures of the peroxyl scavenger (radical cation) of 17.\nTable 1. Minimal inhibitory concentrations (MIC values given in mg/mL, unless stated otherwise)\nof compounds 10-14\nTable 2. Lipid peroxidation inhibition effects of studied benzimidazoles 10-14 and 17-20 (example\nconcentration 200 µg/mL) and IC values (given in g/mL)\n50\nTable 3. Calculated molecular properties of compounds 10-14 and 17-20 for assessment of the drug-\nlikeness\n33",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 34,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Graphical abstract\n.\nLO LO .\nO 6 or LOO .Grap or h L i O ca O l abstract O H LO .\n5 or LOO\n3 4 .\n1\n2 S S\nN R 1 (electron N R 1\ntransfer)\nO O\n(LO) (LO)\nLO . . O LOO o L r O LO - O - o L r O LO H OH O LOO\nor LOO\nH\nS S\nN R 1 (proton N R 1\ntransfer)\nO Adduct O\nAntioxidant mechanism: SET\n34",
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 35,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    }
+  ],
+  "tables": [
+    {
+      "table_id": "p3_t1",
+      "rows": [
+        [
+          "The antibacterial activity of the compounds was evaluated against two Gram-positive"
+        ],
+        [
+          "bacteria (Bacillus subtilis ATCC 6633 and Staphylococcus aureus ATCC 6538) and three Gram-"
+        ],
+        [
+          "negative bacteria (Escherichia coli ATCC 8739, Pseudomonas aeruginosa ATCC 9027 and"
+        ],
+        [
+          "Salmonella abony NCTC 6017). 1,3-Diphenylpropyl-5-methyl-1,3-dihydro-2H-benzimidazol-2-"
+        ],
+        [
+          "imine 14 exhibited significant activity against B. subtilis, S. aureus, S. abony and E. coli (with MIC"
+        ],
+        [
+          "values of 0.125, 0.016, 0.50 and 0.50 mg/mL, respectively). The group of thiazolobenzimidazolones"
+        ],
+        [
+          "did not reveal antibacterial activity against the tested strains."
+        ]
+      ],
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 3,
+        "section": null,
+        "table_id": "p3_t1",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p4_t1",
+      "rows": [
+        [
+          "have shown good antimicrobial activity against pathogenic fungal strains",
+          "and",
+          "Gram"
+        ]
+      ],
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 4,
+        "section": null,
+        "table_id": "p4_t1",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p4_t2",
+      "rows": [
+        [
+          "benzimidazole hybrids as radical scavengers was evaluated.19 2-Aryl-1-arylmethyl-1",
+          "H",
+          "-"
+        ]
+      ],
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 4,
+        "section": null,
+        "table_id": "p4_t2",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p8_t1",
+      "rows": [
+        [
+          "Antibacterial activity was evaluated against two Gram-positive and three Gram-negative"
+        ],
+        [
+          "bacteria. Gram-positive bacteria used were: Bacillus subtilis ATCC 6633 and Staphylococcus aureus"
+        ],
+        [
+          "ATCC 6538 while Gram-negative bacteria utilized in the assay were: Escherichia coli ATCC 8739,"
+        ],
+        [
+          "Pseudomonas aeruginosa ATCC 9027 and Salmonella abony NCTC 6017. The antibacterial"
+        ],
+        [
+          "properties of the studied compounds was determined by using a broth microdilution method in 96"
+        ],
+        [
+          "multi-well microtitre plates."
+        ]
+      ],
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 8,
+        "section": null,
+        "table_id": "p8_t1",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p27_t1",
+      "rows": [
+        [
+          "The in vitro antimicrobial activity of samples 10-14 and 17-20 was tested against a panel of"
+        ],
+        [
+          "laboratory control strains belonging to American Type Culture Collection Maryland, USA and"
+        ],
+        [
+          "National Collection of Type Cultures, UK. Antimicrobial activity was evaluated against two Gram-"
+        ],
+        [
+          "positive bacteria (Bacillus subtilis ATCC 6633 and Staphylococcus aureus ATCC 6538) and three"
+        ],
+        [
+          "Gram-negative bacteria (Escherichia coli ATCC 8739, Pseudomonas aeruginosa ATCC 9027 and"
+        ],
+        [
+          "Salmonella abony NCTC 6017)."
+        ]
+      ],
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 27,
+        "section": null,
+        "table_id": "p27_t1",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p30_t1",
+      "rows": [
+        [
+          ";",
+          "Maher"
+        ]
+      ],
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 30,
+        "section": null,
+        "table_id": "p30_t1",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p30_t2",
+      "rows": [
+        [
+          "15. Moreira, J. B.; Mann, J.; Neidle, S; Taylor, P. W.; McHugh T. D., Int. J. Antimicrob. Ag.,"
+        ],
+        [
+          "2013, 42 (4), 361-366."
+        ]
+      ],
+      "source": {
+        "source_file": "j.bmc.2015.08.029.pdf",
+        "page": 30,
+        "section": null,
+        "table_id": "p30_t2",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    }
+  ]
+}

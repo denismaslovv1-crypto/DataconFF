@@ -1,0 +1,52 @@
+{
+  "should_run_llm": true,
+  "confidence": "low",
+  "issues": [
+    {
+      "code": "no_table_records",
+      "severity": "medium",
+      "message": "Table evidence was selected, but rule extraction produced no table-backed records."
+    },
+    {
+      "code": "low_evidence_page_coverage",
+      "severity": "medium",
+      "message": "Validated records cover a small share of evidence-bearing pages."
+    },
+    {
+      "code": "low_average_record_confidence",
+      "severity": "medium",
+      "message": "Rule records are mostly from lower-confidence prose snippets."
+    },
+    {
+      "code": "high_validation_rejection_ratio",
+      "severity": "high",
+      "message": "Many rule candidates were rejected by schema/evidence validation."
+    },
+    {
+      "code": "many_missing_required_fields",
+      "severity": "high",
+      "message": "Many raw rule candidates are missing required ChemX fields."
+    },
+    {
+      "code": "conflicting_rule_records",
+      "severity": "medium",
+      "message": "Validated rule records disagree for the same compound/type/bacteria key."
+    }
+  ],
+  "signals": {
+    "parsed_tables": 22,
+    "evidence_chunks": 27,
+    "table_evidence_chunks": 6,
+    "table_like_records": 0,
+    "raw_records": 24,
+    "validated_records": 15,
+    "validation_errors": 9,
+    "validation_rejection_ratio": 0.375,
+    "average_record_confidence": 0.62,
+    "evidence_page_count": 7,
+    "record_page_count": 2,
+    "evidence_page_coverage_ratio": 0.2857,
+    "missing_required_field_ratio": 0.375,
+    "conflict_count": 3
+  }
+}

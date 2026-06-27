@@ -1,0 +1,32 @@
+{
+  "should_run_llm": true,
+  "confidence": "low",
+  "issues": [
+    {
+      "code": "no_table_evidence",
+      "severity": "medium",
+      "message": "Parsed tables exist, but none became Benzimidazoles evidence."
+    },
+    {
+      "code": "conflicting_rule_records",
+      "severity": "medium",
+      "message": "Validated rule records disagree for the same compound/type/bacteria key."
+    }
+  ],
+  "signals": {
+    "parsed_tables": 1,
+    "evidence_chunks": 4,
+    "table_evidence_chunks": 0,
+    "table_like_records": 0,
+    "raw_records": 61,
+    "validated_records": 60,
+    "validation_errors": 1,
+    "validation_rejection_ratio": 0.0164,
+    "average_record_confidence": 0.75,
+    "evidence_page_count": 4,
+    "record_page_count": 2,
+    "evidence_page_coverage_ratio": 0.5,
+    "missing_required_field_ratio": 0.0164,
+    "conflict_count": 6
+  }
+}

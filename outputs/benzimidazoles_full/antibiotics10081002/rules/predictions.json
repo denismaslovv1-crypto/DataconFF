@@ -1,0 +1,722 @@
+[
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "3.125",
+    "target_units": "µg/mL",
+    "bacteria": "E.coli",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 3of29\nRajoraandSrivastavareportedthesynthesisofsome2-(1H-pyrazol-3-yl)-1H-benzo[d]\nimidazolesbybrominationofbenzimidazolylchalcone4,withtheformationofdibromi-\nnatedintermediates5a–5f,followedbycyclizationinthepresenceofhydrazinehydrate\nanddehydrobromination,withtheformationofcompounds6a–6f(Scheme2).\nScheme2.Synthesisofbenzimidazole-pyrazole7.\nCompounds6a–6fshowedgoodantimicrobialactivityonfourbacterialstrains,E.coli,\nP.aeruginusa,B.subtilis,K.pneumoniaeandtwofungi,CandidaalbiconsandAspergillusniger,\nconsideringciprofoxacinandfluconazoleasstandarddrugs[56].\n2-Chloro-1-(5-hydroxy-3-methyl-1-phenyl-1H-pyrazol-4-yl)ethanone8synthesized\nbyrefluxing5-pyrazolone7withchloroacetylchlorideinabasicdioxanesolutionreacted\nwith2-aminobenzimidazole9togiveN-(3-methyl-1-phenyl-1H-furo[2,3-c]pyrazol-4(5H)-\nylidene)-1H-benzimidazol-2-amine10(Scheme3)[57]. Compound10showedaverygood\nanti-Gram-positiveprofile,beingequivalenttochloramphenicolagainstB.subtilis(MIC\n3.125µgmL−1),significantactivityagainstB.thuringiensis(MIC6.25µgmL−1)andalso\ngoodantibacterialactivitiesagainstGram-positivebacteria,E.coli(MIC50µgmL−1)andP.\naeruginosa(MIC50µgmL−1). Antifungalactivityofthecompound10was50%lowerthan\ncycloheximideininhibitorythegrowthofB.fabaeandF.oxysporum(MIC6.25µgmL−1).\nScheme3.Synthesisofbenzimidazole–pyrazole10.\nAsimilarcondensationofchalcones11a–11kwithintermediatehydrazide12inacetic\nacid, at 130 ◦C afforded new benzimidazole bearing pyrazoline derivatives 13a–13k in\nexcellentyields(Scheme4). Allcompoundsshowedantimicrobialactivityagainstbacteria\nE.coliMTCC443,P.aeruginosaMTCC1688,S.aureusMTCC96,S.pyogenesMTCC442and\nfungiC.albicansMTCC227,A.nigerMTCC282andA.clavatusMTCC1323. Compounds\n13a–13dshowedthehighestinhibitionagainstalmostallbacteriatestedwithvaluesof\nminimum inhibitory concentrations of 25–50 mg mL−1, while derivatives 13e–13k had\nantifungalactivityagainstalmostallstrainstested,withsimilarCMIvalues[58]. Structure–\nactivityrelationshipstudieshaveshownthatthepresenceofelectron-withdrawinggroups\ninthearomaticring,likeF,Cl,BrandNO ,areresponsibleforincreasingantimicrobial\n2\nactivityformostmicroorganismstested.",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "3.125",
+    "target_units": "µg/mL",
+    "bacteria": "E.coli",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 3of29\nRajoraandSrivastavareportedthesynthesisofsome2-(1H-pyrazol-3-yl)-1H-benzo[d]\nimidazolesbybrominationofbenzimidazolylchalcone4,withtheformationofdibromi-\nnatedintermediates5a–5f,followedbycyclizationinthepresenceofhydrazinehydrate\nanddehydrobromination,withtheformationofcompounds6a–6f(Scheme2).\nScheme2.Synthesisofbenzimidazole-pyrazole7.\nCompounds6a–6fshowedgoodantimicrobialactivityonfourbacterialstrains,E.coli,\nP.aeruginusa,B.subtilis,K.pneumoniaeandtwofungi,CandidaalbiconsandAspergillusniger,\nconsideringciprofoxacinandfluconazoleasstandarddrugs[56].\n2-Chloro-1-(5-hydroxy-3-methyl-1-phenyl-1H-pyrazol-4-yl)ethanone8synthesized\nbyrefluxing5-pyrazolone7withchloroacetylchlorideinabasicdioxanesolutionreacted\nwith2-aminobenzimidazole9togiveN-(3-methyl-1-phenyl-1H-furo[2,3-c]pyrazol-4(5H)-\nylidene)-1H-benzimidazol-2-amine10(Scheme3)[57]. Compound10showedaverygood\nanti-Gram-positiveprofile,beingequivalenttochloramphenicolagainstB.subtilis(MIC\n3.125µgmL−1),significantactivityagainstB.thuringiensis(MIC6.25µgmL−1)andalso\ngoodantibacterialactivitiesagainstGram-positivebacteria,E.coli(MIC50µgmL−1)andP.\naeruginosa(MIC50µgmL−1). Antifungalactivityofthecompound10was50%lowerthan\ncycloheximideininhibitorythegrowthofB.fabaeandF.oxysporum(MIC6.25µgmL−1).\nScheme3.Synthesisofbenzimidazole–pyrazole10.\nAsimilarcondensationofchalcones11a–11kwithintermediatehydrazide12inacetic\nacid, at 130 ◦C afforded new benzimidazole bearing pyrazoline derivatives 13a–13k in\nexcellentyields(Scheme4). Allcompoundsshowedantimicrobialactivityagainstbacteria\nE.coliMTCC443,P.aeruginosaMTCC1688,S.aureusMTCC96,S.pyogenesMTCC442and\nfungiC.albicansMTCC227,A.nigerMTCC282andA.clavatusMTCC1323. Compounds\n13a–13dshowedthehighestinhibitionagainstalmostallbacteriatestedwithvaluesof\nminimum inhibitory concentrations of 25–50 mg mL−1, while derivatives 13e–13k had\nantifungalactivityagainstalmostallstrainstested,withsimilarCMIvalues[58]. Structure–\nactivityrelationshipstudieshaveshownthatthepresenceofelectron-withdrawinggroups\ninthearomaticring,likeF,Cl,BrandNO ,areresponsibleforincreasingantimicrobial\n2\nactivityformostmicroorganismstested.",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "3.125",
+    "target_units": "µg/mL",
+    "bacteria": "E.coli",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 3of29\nRajoraandSrivastavareportedthesynthesisofsome2-(1H-pyrazol-3-yl)-1H-benzo[d]\nimidazolesbybrominationofbenzimidazolylchalcone4,withtheformationofdibromi-\nnatedintermediates5a–5f,followedbycyclizationinthepresenceofhydrazinehydrate\nanddehydrobromination,withtheformationofcompounds6a–6f(Scheme2).\nScheme2.Synthesisofbenzimidazole-pyrazole7.\nCompounds6a–6fshowedgoodantimicrobialactivityonfourbacterialstrains,E.coli,\nP.aeruginusa,B.subtilis,K.pneumoniaeandtwofungi,CandidaalbiconsandAspergillusniger,\nconsideringciprofoxacinandfluconazoleasstandarddrugs[56].\n2-Chloro-1-(5-hydroxy-3-methyl-1-phenyl-1H-pyrazol-4-yl)ethanone8synthesized\nbyrefluxing5-pyrazolone7withchloroacetylchlorideinabasicdioxanesolutionreacted\nwith2-aminobenzimidazole9togiveN-(3-methyl-1-phenyl-1H-furo[2,3-c]pyrazol-4(5H)-\nylidene)-1H-benzimidazol-2-amine10(Scheme3)[57]. Compound10showedaverygood\nanti-Gram-positiveprofile,beingequivalenttochloramphenicolagainstB.subtilis(MIC\n3.125µgmL−1),significantactivityagainstB.thuringiensis(MIC6.25µgmL−1)andalso\ngoodantibacterialactivitiesagainstGram-positivebacteria,E.coli(MIC50µgmL−1)andP.\naeruginosa(MIC50µgmL−1). Antifungalactivityofthecompound10was50%lowerthan\ncycloheximideininhibitorythegrowthofB.fabaeandF.oxysporum(MIC6.25µgmL−1).\nScheme3.Synthesisofbenzimidazole–pyrazole10.\nAsimilarcondensationofchalcones11a–11kwithintermediatehydrazide12inacetic\nacid, at 130 ◦C afforded new benzimidazole bearing pyrazoline derivatives 13a–13k in\nexcellentyields(Scheme4). Allcompoundsshowedantimicrobialactivityagainstbacteria\nE.coliMTCC443,P.aeruginosaMTCC1688,S.aureusMTCC96,S.pyogenesMTCC442and\nfungiC.albicansMTCC227,A.nigerMTCC282andA.clavatusMTCC1323. Compounds\n13a–13dshowedthehighestinhibitionagainstalmostallbacteriatestedwithvaluesof\nminimum inhibitory concentrations of 25–50 mg mL−1, while derivatives 13e–13k had\nantifungalactivityagainstalmostallstrainstested,withsimilarCMIvalues[58]. Structure–\nactivityrelationshipstudieshaveshownthatthepresenceofelectron-withdrawinggroups\ninthearomaticring,likeF,Cl,BrandNO ,areresponsibleforincreasingantimicrobial\n2\nactivityformostmicroorganismstested.",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "3.125",
+    "target_units": "µg/mL",
+    "bacteria": "S.aureus",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 3of29\nRajoraandSrivastavareportedthesynthesisofsome2-(1H-pyrazol-3-yl)-1H-benzo[d]\nimidazolesbybrominationofbenzimidazolylchalcone4,withtheformationofdibromi-\nnatedintermediates5a–5f,followedbycyclizationinthepresenceofhydrazinehydrate\nanddehydrobromination,withtheformationofcompounds6a–6f(Scheme2).\nScheme2.Synthesisofbenzimidazole-pyrazole7.\nCompounds6a–6fshowedgoodantimicrobialactivityonfourbacterialstrains,E.coli,\nP.aeruginusa,B.subtilis,K.pneumoniaeandtwofungi,CandidaalbiconsandAspergillusniger,\nconsideringciprofoxacinandfluconazoleasstandarddrugs[56].\n2-Chloro-1-(5-hydroxy-3-methyl-1-phenyl-1H-pyrazol-4-yl)ethanone8synthesized\nbyrefluxing5-pyrazolone7withchloroacetylchlorideinabasicdioxanesolutionreacted\nwith2-aminobenzimidazole9togiveN-(3-methyl-1-phenyl-1H-furo[2,3-c]pyrazol-4(5H)-\nylidene)-1H-benzimidazol-2-amine10(Scheme3)[57]. Compound10showedaverygood\nanti-Gram-positiveprofile,beingequivalenttochloramphenicolagainstB.subtilis(MIC\n3.125µgmL−1),significantactivityagainstB.thuringiensis(MIC6.25µgmL−1)andalso\ngoodantibacterialactivitiesagainstGram-positivebacteria,E.coli(MIC50µgmL−1)andP.\naeruginosa(MIC50µgmL−1). Antifungalactivityofthecompound10was50%lowerthan\ncycloheximideininhibitorythegrowthofB.fabaeandF.oxysporum(MIC6.25µgmL−1).\nScheme3.Synthesisofbenzimidazole–pyrazole10.\nAsimilarcondensationofchalcones11a–11kwithintermediatehydrazide12inacetic\nacid, at 130 ◦C afforded new benzimidazole bearing pyrazoline derivatives 13a–13k in\nexcellentyields(Scheme4). Allcompoundsshowedantimicrobialactivityagainstbacteria\nE.coliMTCC443,P.aeruginosaMTCC1688,S.aureusMTCC96,S.pyogenesMTCC442and\nfungiC.albicansMTCC227,A.nigerMTCC282andA.clavatusMTCC1323. Compounds\n13a–13dshowedthehighestinhibitionagainstalmostallbacteriatestedwithvaluesof\nminimum inhibitory concentrations of 25–50 mg mL−1, while derivatives 13e–13k had\nantifungalactivityagainstalmostallstrainstested,withsimilarCMIvalues[58]. Structure–\nactivityrelationshipstudieshaveshownthatthepresenceofelectron-withdrawinggroups\ninthearomaticring,likeF,Cl,BrandNO ,areresponsibleforincreasingantimicrobial\n2\nactivityformostmicroorganismstested.",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "62.5",
+    "target_units": "µg/mL",
+    "bacteria": "E.coli",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 5of29\nScheme6.Synthesisofbenzimidazole–pyrazoles19a–19fand20a–20f.\nReddy et al., reported the synthesis of a new class of pyrazolyl–benzimidazoles\n23a–23cpossessinganamidegroupbyreactionbetweenpyrazolones21a–21cwith1H-\nbenzo[d]imidazol-2-amine9,andtheoxidationoftheintermediatecompounds22a–22c\nwithchloranil(Scheme7)[61]. Itwasfoundthatthepresenceofelectron-withdrawing\nsubstituent“Cl”onthearomaticringincreasestheantimicrobialactivity,compound23c\nbeing a potent antifungal agent against A. niger considering ketoconazole as standard.\nAdditionally,compounds23aand23cpossessantimicrobialactivityagainstB.subtilisand\nP.aeruginosa(chloramphenicolstandard).\nScheme7.Synthesisofbenzimidazole–pyrazoles23a–23c.\nPadalkaretal.,synthesizedanewclassofantimicrobialagents,byreactionofphenyl\nhydrazinewithsubstitutedacetophenones24togivethecorrespondinghydrazones25,\nwhichonVilsmeier–HaackreactionwithPOCl –DMFgavesubstituted3-aryl-4-formyl\n3\npyrazoles26. Compounds25a–25bwerecondensedwitho-substitutedaromaticamines27\ninthepresenceofPCl inethanoltoobtaincorresponding2-[substituted-1H-pyrazol-4-yl]-\n3\n1H-benzimidazoles28b–28i(Scheme8)[62].Thecompound28gshowedgoodantibacterial\nactivityagainstEscherichiacoliandStaphylococcusaureus, andcompounds28d, 28e, 28h\nexhibitedweaktomoderategrowthinhibitoryactivityagainstbothE.coliandS.aureusas\nrevealedfromtheirMICvalues(Table1). Compounds28fand28hshowgoodinhibitory\ngrowthinthecaseofCandidaalbicans(MIC=62.5µgmL−1). Saundaneetal., reported\nthe synthesis of a series of benzimidazole–pyrazole compounds using a two-step strat-\negy(Scheme9): synthesisofintermediatechalcones25a–25bbyacondensationreaction,\nfollowed by a cyclization reaction with hydazine (compounds 31) or phenylhydrazine",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "62.5",
+    "target_units": "µg/mL",
+    "bacteria": "S.aureus",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 5of29\nScheme6.Synthesisofbenzimidazole–pyrazoles19a–19fand20a–20f.\nReddy et al., reported the synthesis of a new class of pyrazolyl–benzimidazoles\n23a–23cpossessinganamidegroupbyreactionbetweenpyrazolones21a–21cwith1H-\nbenzo[d]imidazol-2-amine9,andtheoxidationoftheintermediatecompounds22a–22c\nwithchloranil(Scheme7)[61]. Itwasfoundthatthepresenceofelectron-withdrawing\nsubstituent“Cl”onthearomaticringincreasestheantimicrobialactivity,compound23c\nbeing a potent antifungal agent against A. niger considering ketoconazole as standard.\nAdditionally,compounds23aand23cpossessantimicrobialactivityagainstB.subtilisand\nP.aeruginosa(chloramphenicolstandard).\nScheme7.Synthesisofbenzimidazole–pyrazoles23a–23c.\nPadalkaretal.,synthesizedanewclassofantimicrobialagents,byreactionofphenyl\nhydrazinewithsubstitutedacetophenones24togivethecorrespondinghydrazones25,\nwhichonVilsmeier–HaackreactionwithPOCl –DMFgavesubstituted3-aryl-4-formyl\n3\npyrazoles26. Compounds25a–25bwerecondensedwitho-substitutedaromaticamines27\ninthepresenceofPCl inethanoltoobtaincorresponding2-[substituted-1H-pyrazol-4-yl]-\n3\n1H-benzimidazoles28b–28i(Scheme8)[62].Thecompound28gshowedgoodantibacterial\nactivityagainstEscherichiacoliandStaphylococcusaureus, andcompounds28d, 28e, 28h\nexhibitedweaktomoderategrowthinhibitoryactivityagainstbothE.coliandS.aureusas\nrevealedfromtheirMICvalues(Table1). Compounds28fand28hshowgoodinhibitory\ngrowthinthecaseofCandidaalbicans(MIC=62.5µgmL−1). Saundaneetal., reported\nthe synthesis of a series of benzimidazole–pyrazole compounds using a two-step strat-\negy(Scheme9): synthesisofintermediatechalcones25a–25bbyacondensationreaction,\nfollowed by a cyclization reaction with hydazine (compounds 31) or phenylhydrazine",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "8",
+    "target_units": "µg/mL",
+    "bacteria": "E.coli",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 6of29\n(compounds32)[63]. Allcompoundswereassessedfortheirinvitroantibacterialactivity\nagainstfourrepresentativebacterialspeciesE.coli(MTCC-723),S.aureus(ATCC-29513),K.\npneumonia(NCTC-13368)andP.aeruginosa(MTCC-1688)usinggentamycinasareference\nand for their antifungal activity against A. oryzae (MTCC-3567T), A. niger (MTCC-281),\nA.flavus(MTCC-1973),A.terreus(MTCC-1782). Compounds31aand32apossessgood\nantibacterialandantifungalactivity(Table2),againstE.coli,S.aureus(MIC=8µgmL−1)\nand A. niger (MIC = 8 µg mL−1 for 31a). Additionally, all compounds possess antioxi-\ndantactivity.\nScheme8.Synthesisofbenzimidazole–pyrazoles27a–27i.\nScheme9.Synthesisofbenzimidazole–pyrazoles31a–31cand32a–32c.",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "8",
+    "target_units": "µg/mL",
+    "bacteria": "S.aureus",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 6of29\n(compounds32)[63]. Allcompoundswereassessedfortheirinvitroantibacterialactivity\nagainstfourrepresentativebacterialspeciesE.coli(MTCC-723),S.aureus(ATCC-29513),K.\npneumonia(NCTC-13368)andP.aeruginosa(MTCC-1688)usinggentamycinasareference\nand for their antifungal activity against A. oryzae (MTCC-3567T), A. niger (MTCC-281),\nA.flavus(MTCC-1973),A.terreus(MTCC-1782). Compounds31aand32apossessgood\nantibacterialandantifungalactivity(Table2),againstE.coli,S.aureus(MIC=8µgmL−1)\nand A. niger (MIC = 8 µg mL−1 for 31a). Additionally, all compounds possess antioxi-\ndantactivity.\nScheme8.Synthesisofbenzimidazole–pyrazoles27a–27i.\nScheme9.Synthesisofbenzimidazole–pyrazoles31a–31cand32a–32c.",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "8",
+    "target_units": "µg/mL",
+    "bacteria": "E.coli",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 6of29\n(compounds32)[63]. Allcompoundswereassessedfortheirinvitroantibacterialactivity\nagainstfourrepresentativebacterialspeciesE.coli(MTCC-723),S.aureus(ATCC-29513),K.\npneumonia(NCTC-13368)andP.aeruginosa(MTCC-1688)usinggentamycinasareference\nand for their antifungal activity against A. oryzae (MTCC-3567T), A. niger (MTCC-281),\nA.flavus(MTCC-1973),A.terreus(MTCC-1782). Compounds31aand32apossessgood\nantibacterialandantifungalactivity(Table2),againstE.coli,S.aureus(MIC=8µgmL−1)\nand A. niger (MIC = 8 µg mL−1 for 31a). Additionally, all compounds possess antioxi-\ndantactivity.\nScheme8.Synthesisofbenzimidazole–pyrazoles27a–27i.\nScheme9.Synthesisofbenzimidazole–pyrazoles31a–31cand32a–32c.",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "8",
+    "target_units": "µg/mL",
+    "bacteria": "S.aureus",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 6of29\n(compounds32)[63]. Allcompoundswereassessedfortheirinvitroantibacterialactivity\nagainstfourrepresentativebacterialspeciesE.coli(MTCC-723),S.aureus(ATCC-29513),K.\npneumonia(NCTC-13368)andP.aeruginosa(MTCC-1688)usinggentamycinasareference\nand for their antifungal activity against A. oryzae (MTCC-3567T), A. niger (MTCC-281),\nA.flavus(MTCC-1973),A.terreus(MTCC-1782). Compounds31aand32apossessgood\nantibacterialandantifungalactivity(Table2),againstE.coli,S.aureus(MIC=8µgmL−1)\nand A. niger (MIC = 8 µg mL−1 for 31a). Additionally, all compounds possess antioxi-\ndantactivity.\nScheme8.Synthesisofbenzimidazole–pyrazoles27a–27i.\nScheme9.Synthesisofbenzimidazole–pyrazoles31a–31cand32a–32c.",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "8",
+    "target_units": "µg/mL",
+    "bacteria": "E.coli",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 6of29\n(compounds32)[63]. Allcompoundswereassessedfortheirinvitroantibacterialactivity\nagainstfourrepresentativebacterialspeciesE.coli(MTCC-723),S.aureus(ATCC-29513),K.\npneumonia(NCTC-13368)andP.aeruginosa(MTCC-1688)usinggentamycinasareference\nand for their antifungal activity against A. oryzae (MTCC-3567T), A. niger (MTCC-281),\nA.flavus(MTCC-1973),A.terreus(MTCC-1782). Compounds31aand32apossessgood\nantibacterialandantifungalactivity(Table2),againstE.coli,S.aureus(MIC=8µgmL−1)\nand A. niger (MIC = 8 µg mL−1 for 31a). Additionally, all compounds possess antioxi-\ndantactivity.\nScheme8.Synthesisofbenzimidazole–pyrazoles27a–27i.\nScheme9.Synthesisofbenzimidazole–pyrazoles31a–31cand32a–32c.",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "8",
+    "target_units": "µg/mL",
+    "bacteria": "S.aureus",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 6of29\n(compounds32)[63]. Allcompoundswereassessedfortheirinvitroantibacterialactivity\nagainstfourrepresentativebacterialspeciesE.coli(MTCC-723),S.aureus(ATCC-29513),K.\npneumonia(NCTC-13368)andP.aeruginosa(MTCC-1688)usinggentamycinasareference\nand for their antifungal activity against A. oryzae (MTCC-3567T), A. niger (MTCC-281),\nA.flavus(MTCC-1973),A.terreus(MTCC-1782). Compounds31aand32apossessgood\nantibacterialandantifungalactivity(Table2),againstE.coli,S.aureus(MIC=8µgmL−1)\nand A. niger (MIC = 8 µg mL−1 for 31a). Additionally, all compounds possess antioxi-\ndantactivity.\nScheme8.Synthesisofbenzimidazole–pyrazoles27a–27i.\nScheme9.Synthesisofbenzimidazole–pyrazoles31a–31cand32a–32c.",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "8",
+    "target_units": "µg/mL",
+    "bacteria": "E.coli",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 6of29\n(compounds32)[63]. Allcompoundswereassessedfortheirinvitroantibacterialactivity\nagainstfourrepresentativebacterialspeciesE.coli(MTCC-723),S.aureus(ATCC-29513),K.\npneumonia(NCTC-13368)andP.aeruginosa(MTCC-1688)usinggentamycinasareference\nand for their antifungal activity against A. oryzae (MTCC-3567T), A. niger (MTCC-281),\nA.flavus(MTCC-1973),A.terreus(MTCC-1782). Compounds31aand32apossessgood\nantibacterialandantifungalactivity(Table2),againstE.coli,S.aureus(MIC=8µgmL−1)\nand A. niger (MIC = 8 µg mL−1 for 31a). Additionally, all compounds possess antioxi-\ndantactivity.\nScheme8.Synthesisofbenzimidazole–pyrazoles27a–27i.\nScheme9.Synthesisofbenzimidazole–pyrazoles31a–31cand32a–32c.",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "8",
+    "target_units": "µg/mL",
+    "bacteria": "S.aureus",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 6of29\n(compounds32)[63]. Allcompoundswereassessedfortheirinvitroantibacterialactivity\nagainstfourrepresentativebacterialspeciesE.coli(MTCC-723),S.aureus(ATCC-29513),K.\npneumonia(NCTC-13368)andP.aeruginosa(MTCC-1688)usinggentamycinasareference\nand for their antifungal activity against A. oryzae (MTCC-3567T), A. niger (MTCC-281),\nA.flavus(MTCC-1973),A.terreus(MTCC-1782). Compounds31aand32apossessgood\nantibacterialandantifungalactivity(Table2),againstE.coli,S.aureus(MIC=8µgmL−1)\nand A. niger (MIC = 8 µg mL−1 for 31a). Additionally, all compounds possess antioxi-\ndantactivity.\nScheme8.Synthesisofbenzimidazole–pyrazoles27a–27i.\nScheme9.Synthesisofbenzimidazole–pyrazoles31a–31cand32a–32c.",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "50",
+    "target_units": "µg/mL",
+    "bacteria": "E.coli",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 12,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 12of29\nTable5.Invitroantimicrobialactivityofbenzimidazole–pyrazoles61a–61c.\nMicroorganisms(µgmL−1)\nCompounds\nB.subtilis C.tetanis S.pneumoniae E.coli S.typhi V.cholera A.fumigatus C.albicans\n61a 100 200 100 200 250 250 >1000 250\n61b 500 200 200 250 250 50 200 >1000\n61c 250 250 250 62.5 200 100 >1000 250\nCiprofloxacin 50 100 50 25 25 25 - -\nChloramphenicol 50 50 50 50 50 50 - -\nNorfloxacin 100 50 10 10 10 10 - -\nAmpicillin 250 250 100 100 100 100 - -\nGriseofulvin - - - – - - 100 500\nSowdarietal.,synthesizedanewclassofdiamidomethane-linkedbenzazolyl–pyrazoles\n64a–64c by a green approach, using the synthesis strategy indicated in Scheme 16 [70].\nCompounds64aand64cwerefoundtobepotentialantifungalagentsagainstAspergillus\nniger(MIC=50and25µgmL−1,respectively)andPenicilliumchrysogenum(MIC=12.5\nand12.5µgmL−1,respectively)comparedtothestandarddrug,Ketoconazole.\nScheme16.Synthesisofbenzimidazole–pyrazole64a–64c.\nβ-ketoacyl-acylcarrierproteinsynthaseIII(FabH)isanattractivetargetforthede-\nvelopmentofnewantibacterialagents, becauseitcatalyzestheinitialstepoffattyacid\nbiosynthesis,essentialforbacterialsurvival. Thus,Wangetal.,reportedthesynthesisofa\nnewseriesofbenzimidazole–pyrazolamideswithlowtoxicityandpotentFabHinhibitory.\nSynthesisofcompound67from1-(4-fluorophenyl)ethanoneisaccomplishedinfoursteps:\ncondensationwithphenylhydrazine,followedbycyclizationbyrefluxwithPOCl inDMF\n3\nfor5h,toobtainpyrazole65,whichwith1,2-phenylenediamineandNa S O hasprovided\n2 2 5\nbenzimidazole–pyrazoleintermediate66,whichbyacylationwithnicotinicacid,DMAP\nandEDChydrochlorideledtothefinalproduct67(Scheme17). Compound67showedthe\nmostpotentinhibitionactivityagainstfourbacteriastrains(withMICof0.98,0.49,0.98,\n0.98µgmL−1,respectively,againstE.coli,P.aeruginosa,B.subtilisandS.aureus)andFabH\n(withIC of1.22 µM).Additionally, FabH mutantXanthomonasCampestris experiment\n50\nvalidatedthatcompoundsbindingsiteoutcomesFabH.",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "50",
+    "target_units": "µg/mL",
+    "bacteria": "E.coli",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 12,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 12of29\nTable5.Invitroantimicrobialactivityofbenzimidazole–pyrazoles61a–61c.\nMicroorganisms(µgmL−1)\nCompounds\nB.subtilis C.tetanis S.pneumoniae E.coli S.typhi V.cholera A.fumigatus C.albicans\n61a 100 200 100 200 250 250 >1000 250\n61b 500 200 200 250 250 50 200 >1000\n61c 250 250 250 62.5 200 100 >1000 250\nCiprofloxacin 50 100 50 25 25 25 - -\nChloramphenicol 50 50 50 50 50 50 - -\nNorfloxacin 100 50 10 10 10 10 - -\nAmpicillin 250 250 100 100 100 100 - -\nGriseofulvin - - - – - - 100 500\nSowdarietal.,synthesizedanewclassofdiamidomethane-linkedbenzazolyl–pyrazoles\n64a–64c by a green approach, using the synthesis strategy indicated in Scheme 16 [70].\nCompounds64aand64cwerefoundtobepotentialantifungalagentsagainstAspergillus\nniger(MIC=50and25µgmL−1,respectively)andPenicilliumchrysogenum(MIC=12.5\nand12.5µgmL−1,respectively)comparedtothestandarddrug,Ketoconazole.\nScheme16.Synthesisofbenzimidazole–pyrazole64a–64c.\nβ-ketoacyl-acylcarrierproteinsynthaseIII(FabH)isanattractivetargetforthede-\nvelopmentofnewantibacterialagents, becauseitcatalyzestheinitialstepoffattyacid\nbiosynthesis,essentialforbacterialsurvival. Thus,Wangetal.,reportedthesynthesisofa\nnewseriesofbenzimidazole–pyrazolamideswithlowtoxicityandpotentFabHinhibitory.\nSynthesisofcompound67from1-(4-fluorophenyl)ethanoneisaccomplishedinfoursteps:\ncondensationwithphenylhydrazine,followedbycyclizationbyrefluxwithPOCl inDMF\n3\nfor5h,toobtainpyrazole65,whichwith1,2-phenylenediamineandNa S O hasprovided\n2 2 5\nbenzimidazole–pyrazoleintermediate66,whichbyacylationwithnicotinicacid,DMAP\nandEDChydrochlorideledtothefinalproduct67(Scheme17). Compound67showedthe\nmostpotentinhibitionactivityagainstfourbacteriastrains(withMICof0.98,0.49,0.98,\n0.98µgmL−1,respectively,againstE.coli,P.aeruginosa,B.subtilisandS.aureus)andFabH\n(withIC of1.22 µM).Additionally, FabH mutantXanthomonasCampestris experiment\n50\nvalidatedthatcompoundsbindingsiteoutcomesFabH.",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "50",
+    "target_units": "µg/mL",
+    "bacteria": "S.aureus",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 12,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 12of29\nTable5.Invitroantimicrobialactivityofbenzimidazole–pyrazoles61a–61c.\nMicroorganisms(µgmL−1)\nCompounds\nB.subtilis C.tetanis S.pneumoniae E.coli S.typhi V.cholera A.fumigatus C.albicans\n61a 100 200 100 200 250 250 >1000 250\n61b 500 200 200 250 250 50 200 >1000\n61c 250 250 250 62.5 200 100 >1000 250\nCiprofloxacin 50 100 50 25 25 25 - -\nChloramphenicol 50 50 50 50 50 50 - -\nNorfloxacin 100 50 10 10 10 10 - -\nAmpicillin 250 250 100 100 100 100 - -\nGriseofulvin - - - – - - 100 500\nSowdarietal.,synthesizedanewclassofdiamidomethane-linkedbenzazolyl–pyrazoles\n64a–64c by a green approach, using the synthesis strategy indicated in Scheme 16 [70].\nCompounds64aand64cwerefoundtobepotentialantifungalagentsagainstAspergillus\nniger(MIC=50and25µgmL−1,respectively)andPenicilliumchrysogenum(MIC=12.5\nand12.5µgmL−1,respectively)comparedtothestandarddrug,Ketoconazole.\nScheme16.Synthesisofbenzimidazole–pyrazole64a–64c.\nβ-ketoacyl-acylcarrierproteinsynthaseIII(FabH)isanattractivetargetforthede-\nvelopmentofnewantibacterialagents, becauseitcatalyzestheinitialstepoffattyacid\nbiosynthesis,essentialforbacterialsurvival. Thus,Wangetal.,reportedthesynthesisofa\nnewseriesofbenzimidazole–pyrazolamideswithlowtoxicityandpotentFabHinhibitory.\nSynthesisofcompound67from1-(4-fluorophenyl)ethanoneisaccomplishedinfoursteps:\ncondensationwithphenylhydrazine,followedbycyclizationbyrefluxwithPOCl inDMF\n3\nfor5h,toobtainpyrazole65,whichwith1,2-phenylenediamineandNa S O hasprovided\n2 2 5\nbenzimidazole–pyrazoleintermediate66,whichbyacylationwithnicotinicacid,DMAP\nandEDChydrochlorideledtothefinalproduct67(Scheme17). Compound67showedthe\nmostpotentinhibitionactivityagainstfourbacteriastrains(withMICof0.98,0.49,0.98,\n0.98µgmL−1,respectively,againstE.coli,P.aeruginosa,B.subtilisandS.aureus)andFabH\n(withIC of1.22 µM).Additionally, FabH mutantXanthomonasCampestris experiment\n50\nvalidatedthatcompoundsbindingsiteoutcomesFabH.",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "12.5",
+    "target_units": "µg/mL",
+    "bacteria": "E.coli",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 12,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 12of29\nTable5.Invitroantimicrobialactivityofbenzimidazole–pyrazoles61a–61c.\nMicroorganisms(µgmL−1)\nCompounds\nB.subtilis C.tetanis S.pneumoniae E.coli S.typhi V.cholera A.fumigatus C.albicans\n61a 100 200 100 200 250 250 >1000 250\n61b 500 200 200 250 250 50 200 >1000\n61c 250 250 250 62.5 200 100 >1000 250\nCiprofloxacin 50 100 50 25 25 25 - -\nChloramphenicol 50 50 50 50 50 50 - -\nNorfloxacin 100 50 10 10 10 10 - -\nAmpicillin 250 250 100 100 100 100 - -\nGriseofulvin - - - – - - 100 500\nSowdarietal.,synthesizedanewclassofdiamidomethane-linkedbenzazolyl–pyrazoles\n64a–64c by a green approach, using the synthesis strategy indicated in Scheme 16 [70].\nCompounds64aand64cwerefoundtobepotentialantifungalagentsagainstAspergillus\nniger(MIC=50and25µgmL−1,respectively)andPenicilliumchrysogenum(MIC=12.5\nand12.5µgmL−1,respectively)comparedtothestandarddrug,Ketoconazole.\nScheme16.Synthesisofbenzimidazole–pyrazole64a–64c.\nβ-ketoacyl-acylcarrierproteinsynthaseIII(FabH)isanattractivetargetforthede-\nvelopmentofnewantibacterialagents, becauseitcatalyzestheinitialstepoffattyacid\nbiosynthesis,essentialforbacterialsurvival. Thus,Wangetal.,reportedthesynthesisofa\nnewseriesofbenzimidazole–pyrazolamideswithlowtoxicityandpotentFabHinhibitory.\nSynthesisofcompound67from1-(4-fluorophenyl)ethanoneisaccomplishedinfoursteps:\ncondensationwithphenylhydrazine,followedbycyclizationbyrefluxwithPOCl inDMF\n3\nfor5h,toobtainpyrazole65,whichwith1,2-phenylenediamineandNa S O hasprovided\n2 2 5\nbenzimidazole–pyrazoleintermediate66,whichbyacylationwithnicotinicacid,DMAP\nandEDChydrochlorideledtothefinalproduct67(Scheme17). Compound67showedthe\nmostpotentinhibitionactivityagainstfourbacteriastrains(withMICof0.98,0.49,0.98,\n0.98µgmL−1,respectively,againstE.coli,P.aeruginosa,B.subtilisandS.aureus)andFabH\n(withIC of1.22 µM).Additionally, FabH mutantXanthomonasCampestris experiment\n50\nvalidatedthatcompoundsbindingsiteoutcomesFabH.",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "12.5",
+    "target_units": "µg/mL",
+    "bacteria": "E.coli",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 12,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 12of29\nTable5.Invitroantimicrobialactivityofbenzimidazole–pyrazoles61a–61c.\nMicroorganisms(µgmL−1)\nCompounds\nB.subtilis C.tetanis S.pneumoniae E.coli S.typhi V.cholera A.fumigatus C.albicans\n61a 100 200 100 200 250 250 >1000 250\n61b 500 200 200 250 250 50 200 >1000\n61c 250 250 250 62.5 200 100 >1000 250\nCiprofloxacin 50 100 50 25 25 25 - -\nChloramphenicol 50 50 50 50 50 50 - -\nNorfloxacin 100 50 10 10 10 10 - -\nAmpicillin 250 250 100 100 100 100 - -\nGriseofulvin - - - – - - 100 500\nSowdarietal.,synthesizedanewclassofdiamidomethane-linkedbenzazolyl–pyrazoles\n64a–64c by a green approach, using the synthesis strategy indicated in Scheme 16 [70].\nCompounds64aand64cwerefoundtobepotentialantifungalagentsagainstAspergillus\nniger(MIC=50and25µgmL−1,respectively)andPenicilliumchrysogenum(MIC=12.5\nand12.5µgmL−1,respectively)comparedtothestandarddrug,Ketoconazole.\nScheme16.Synthesisofbenzimidazole–pyrazole64a–64c.\nβ-ketoacyl-acylcarrierproteinsynthaseIII(FabH)isanattractivetargetforthede-\nvelopmentofnewantibacterialagents, becauseitcatalyzestheinitialstepoffattyacid\nbiosynthesis,essentialforbacterialsurvival. Thus,Wangetal.,reportedthesynthesisofa\nnewseriesofbenzimidazole–pyrazolamideswithlowtoxicityandpotentFabHinhibitory.\nSynthesisofcompound67from1-(4-fluorophenyl)ethanoneisaccomplishedinfoursteps:\ncondensationwithphenylhydrazine,followedbycyclizationbyrefluxwithPOCl inDMF\n3\nfor5h,toobtainpyrazole65,whichwith1,2-phenylenediamineandNa S O hasprovided\n2 2 5\nbenzimidazole–pyrazoleintermediate66,whichbyacylationwithnicotinicacid,DMAP\nandEDChydrochlorideledtothefinalproduct67(Scheme17). Compound67showedthe\nmostpotentinhibitionactivityagainstfourbacteriastrains(withMICof0.98,0.49,0.98,\n0.98µgmL−1,respectively,againstE.coli,P.aeruginosa,B.subtilisandS.aureus)andFabH\n(withIC of1.22 µM).Additionally, FabH mutantXanthomonasCampestris experiment\n50\nvalidatedthatcompoundsbindingsiteoutcomesFabH.",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "12.5",
+    "target_units": "µg/mL",
+    "bacteria": "S.aureus",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 12,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 12of29\nTable5.Invitroantimicrobialactivityofbenzimidazole–pyrazoles61a–61c.\nMicroorganisms(µgmL−1)\nCompounds\nB.subtilis C.tetanis S.pneumoniae E.coli S.typhi V.cholera A.fumigatus C.albicans\n61a 100 200 100 200 250 250 >1000 250\n61b 500 200 200 250 250 50 200 >1000\n61c 250 250 250 62.5 200 100 >1000 250\nCiprofloxacin 50 100 50 25 25 25 - -\nChloramphenicol 50 50 50 50 50 50 - -\nNorfloxacin 100 50 10 10 10 10 - -\nAmpicillin 250 250 100 100 100 100 - -\nGriseofulvin - - - – - - 100 500\nSowdarietal.,synthesizedanewclassofdiamidomethane-linkedbenzazolyl–pyrazoles\n64a–64c by a green approach, using the synthesis strategy indicated in Scheme 16 [70].\nCompounds64aand64cwerefoundtobepotentialantifungalagentsagainstAspergillus\nniger(MIC=50and25µgmL−1,respectively)andPenicilliumchrysogenum(MIC=12.5\nand12.5µgmL−1,respectively)comparedtothestandarddrug,Ketoconazole.\nScheme16.Synthesisofbenzimidazole–pyrazole64a–64c.\nβ-ketoacyl-acylcarrierproteinsynthaseIII(FabH)isanattractivetargetforthede-\nvelopmentofnewantibacterialagents, becauseitcatalyzestheinitialstepoffattyacid\nbiosynthesis,essentialforbacterialsurvival. Thus,Wangetal.,reportedthesynthesisofa\nnewseriesofbenzimidazole–pyrazolamideswithlowtoxicityandpotentFabHinhibitory.\nSynthesisofcompound67from1-(4-fluorophenyl)ethanoneisaccomplishedinfoursteps:\ncondensationwithphenylhydrazine,followedbycyclizationbyrefluxwithPOCl inDMF\n3\nfor5h,toobtainpyrazole65,whichwith1,2-phenylenediamineandNa S O hasprovided\n2 2 5\nbenzimidazole–pyrazoleintermediate66,whichbyacylationwithnicotinicacid,DMAP\nandEDChydrochlorideledtothefinalproduct67(Scheme17). Compound67showedthe\nmostpotentinhibitionactivityagainstfourbacteriastrains(withMICof0.98,0.49,0.98,\n0.98µgmL−1,respectively,againstE.coli,P.aeruginosa,B.subtilisandS.aureus)andFabH\n(withIC of1.22 µM).Additionally, FabH mutantXanthomonasCampestris experiment\n50\nvalidatedthatcompoundsbindingsiteoutcomesFabH.",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "70",
+    "target_units": "um",
+    "bacteria": "E.coli",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 13,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 13of29\nScheme17.Synthesisofbenzimidazole–pyrazole67.\n2DmoleculardockingmodelingandsurroundingresiduesofE.coliFabHwasalso\nperformedforcompound67(Figure2)[71].\nFigure 2. Docking model of representative compound 67. 2D molecular docking modeling of\ncompound67andsurroundingresiduesofE.coliFabH(PDBcode:1HNJ)adaptedfrom[71].\nA special method for the synthesis of a benzimidazolo–pyrazole compound was\nreportedbyChkirateetal.,[72]. Thus, condensationof1,2-phenylenediaminewithde-\nhydroaceticacidafford68whichreactedwith1-bromobutanetogivethealkylated1,5-\nbenzodiazepine 69. Compound 69 reacts with an excess of hydrazine monohydrate to\naffordthepyrazolyl–benzimidazole70(Scheme18). Theminimuminhibitoryconcentra-\ntion(MIC)of70againstS.aureus,E.coliandP.aeruginosawasevaluatedat12.5µgmL−1,\n50µgmL−1and50µgmL−1,respectively,comparedtostandarddrugChloramphenicol.\nAdditionally,Co(II)andZn(II)complexesof70possessremarkableantibacterialactivity.",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "70",
+    "target_units": "um",
+    "bacteria": "E.coli",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 13,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 13of29\nScheme17.Synthesisofbenzimidazole–pyrazole67.\n2DmoleculardockingmodelingandsurroundingresiduesofE.coliFabHwasalso\nperformedforcompound67(Figure2)[71].\nFigure 2. Docking model of representative compound 67. 2D molecular docking modeling of\ncompound67andsurroundingresiduesofE.coliFabH(PDBcode:1HNJ)adaptedfrom[71].\nA special method for the synthesis of a benzimidazolo–pyrazole compound was\nreportedbyChkirateetal.,[72]. Thus, condensationof1,2-phenylenediaminewithde-\nhydroaceticacidafford68whichreactedwith1-bromobutanetogivethealkylated1,5-\nbenzodiazepine 69. Compound 69 reacts with an excess of hydrazine monohydrate to\naffordthepyrazolyl–benzimidazole70(Scheme18). Theminimuminhibitoryconcentra-\ntion(MIC)of70againstS.aureus,E.coliandP.aeruginosawasevaluatedat12.5µgmL−1,\n50µgmL−1and50µgmL−1,respectively,comparedtostandarddrugChloramphenicol.\nAdditionally,Co(II)andZn(II)complexesof70possessremarkableantibacterialactivity.",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "70",
+    "target_units": "um",
+    "bacteria": "S.aureus",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 13,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 13of29\nScheme17.Synthesisofbenzimidazole–pyrazole67.\n2DmoleculardockingmodelingandsurroundingresiduesofE.coliFabHwasalso\nperformedforcompound67(Figure2)[71].\nFigure 2. Docking model of representative compound 67. 2D molecular docking modeling of\ncompound67andsurroundingresiduesofE.coliFabH(PDBcode:1HNJ)adaptedfrom[71].\nA special method for the synthesis of a benzimidazolo–pyrazole compound was\nreportedbyChkirateetal.,[72]. Thus, condensationof1,2-phenylenediaminewithde-\nhydroaceticacidafford68whichreactedwith1-bromobutanetogivethealkylated1,5-\nbenzodiazepine 69. Compound 69 reacts with an excess of hydrazine monohydrate to\naffordthepyrazolyl–benzimidazole70(Scheme18). Theminimuminhibitoryconcentra-\ntion(MIC)of70againstS.aureus,E.coliandP.aeruginosawasevaluatedat12.5µgmL−1,\n50µgmL−1and50µgmL−1,respectively,comparedtostandarddrugChloramphenicol.\nAdditionally,Co(II)andZn(II)complexesof70possessremarkableantibacterialactivity.",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "70",
+    "target_units": "um",
+    "bacteria": "E.coli",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 13,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 13of29\nScheme17.Synthesisofbenzimidazole–pyrazole67.\n2DmoleculardockingmodelingandsurroundingresiduesofE.coliFabHwasalso\nperformedforcompound67(Figure2)[71].\nFigure 2. Docking model of representative compound 67. 2D molecular docking modeling of\ncompound67andsurroundingresiduesofE.coliFabH(PDBcode:1HNJ)adaptedfrom[71].\nA special method for the synthesis of a benzimidazolo–pyrazole compound was\nreportedbyChkirateetal.,[72]. Thus, condensationof1,2-phenylenediaminewithde-\nhydroaceticacidafford68whichreactedwith1-bromobutanetogivethealkylated1,5-\nbenzodiazepine 69. Compound 69 reacts with an excess of hydrazine monohydrate to\naffordthepyrazolyl–benzimidazole70(Scheme18). Theminimuminhibitoryconcentra-\ntion(MIC)of70againstS.aureus,E.coliandP.aeruginosawasevaluatedat12.5µgmL−1,\n50µgmL−1and50µgmL−1,respectively,comparedtostandarddrugChloramphenicol.\nAdditionally,Co(II)andZn(II)complexesof70possessremarkableantibacterialactivity.",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "1",
+    "target_units": "mm",
+    "bacteria": "E.coli",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 16,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 16of29\nScheme21.Synthesisofbenzimidazole–pyrazoles80a–80h,81a–81h.\nTable8.Theantimicrobialactivityofthecompounds80a–80hand81a–81h.\nZoneofInhibitionat100µgmL−1(inmm)\nCompounds\nE.coli P.aeruginosa S.aureus B.subtilis C.albicans A.niger\n80a - - - 15 - -\n80b 14 13 14 16 - -\n80d 12 17 - - - -\n80e - 12 12 - - -\n80f - - 14 18 - -\n80g 13 - - - - -\n80h 19 16 18 15 - -\n81b - - - - 13 16\n81c - - 14 13 - -\n81d 17 15 - - 18 -\n81f - - - 12 14 17\n81g - 13 15 - - -\n81h - - - - - 14\nGentamycin 22 22 19 20 - -\nKetoconazole - - - - 25 20\nEl-Gohary et al., synthesized benzimidazole–pyrazole molecules 83a–83b with an-\ntimicrobialproperties,usingthereactionbetweenbenzimidazoles82a–82band3-methyl-\n1H-pyrazol-5(4H)-oneindimethylformamide(DMF),inpresenceoftriethyl-amine(TEA)\nascatalyst(Scheme22)[76]. Thecompounds83a–83bshowedverygoodantimicrobial\nactivityagainsttwobacteriaB.cereusandS.aureus,againsttwofungi,C.albicansandA.\nfumigatus,comparedtothestandardsused,ampicillinandfluconazole(Table9).\nTable9.Antibacterialandantifungalactivitiesofcompounds83a–83b.\nMIC,µgmL−1(mM)\nCompounds\nB.cereus S.aureus C.albicans A.fumigatus\n83a 1250(5.48) 156.25(0.684) 625(2.74) 312.5(1.37)\n83b 1250(4.57) 2500(9.15) 1250(4.57) 625(2.29)\nAmpicillin 1250(3.58) 312.5(0.894) - -\nFluconazole - - 2500(8.16) -\nThebenzimidazole–pyrazole85synthesizedbycyclizationofbenzimidazole84in\nthe reaction with of ethyl 3-oxobutanoate (Scheme 23), possessed good antifungal ac-\ntivity, against C. albicans (MIC = 2500 µg mL−1) compared with standard Fluconazole\n(MIC=2500µgmL−1)[77].",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "1",
+    "target_units": "mm",
+    "bacteria": "S.aureus",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 16,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 16of29\nScheme21.Synthesisofbenzimidazole–pyrazoles80a–80h,81a–81h.\nTable8.Theantimicrobialactivityofthecompounds80a–80hand81a–81h.\nZoneofInhibitionat100µgmL−1(inmm)\nCompounds\nE.coli P.aeruginosa S.aureus B.subtilis C.albicans A.niger\n80a - - - 15 - -\n80b 14 13 14 16 - -\n80d 12 17 - - - -\n80e - 12 12 - - -\n80f - - 14 18 - -\n80g 13 - - - - -\n80h 19 16 18 15 - -\n81b - - - - 13 16\n81c - - 14 13 - -\n81d 17 15 - - 18 -\n81f - - - 12 14 17\n81g - 13 15 - - -\n81h - - - - - 14\nGentamycin 22 22 19 20 - -\nKetoconazole - - - - 25 20\nEl-Gohary et al., synthesized benzimidazole–pyrazole molecules 83a–83b with an-\ntimicrobialproperties,usingthereactionbetweenbenzimidazoles82a–82band3-methyl-\n1H-pyrazol-5(4H)-oneindimethylformamide(DMF),inpresenceoftriethyl-amine(TEA)\nascatalyst(Scheme22)[76]. Thecompounds83a–83bshowedverygoodantimicrobial\nactivityagainsttwobacteriaB.cereusandS.aureus,againsttwofungi,C.albicansandA.\nfumigatus,comparedtothestandardsused,ampicillinandfluconazole(Table9).\nTable9.Antibacterialandantifungalactivitiesofcompounds83a–83b.\nMIC,µgmL−1(mM)\nCompounds\nB.cereus S.aureus C.albicans A.fumigatus\n83a 1250(5.48) 156.25(0.684) 625(2.74) 312.5(1.37)\n83b 1250(4.57) 2500(9.15) 1250(4.57) 625(2.29)\nAmpicillin 1250(3.58) 312.5(0.894) - -\nFluconazole - - 2500(8.16) -\nThebenzimidazole–pyrazole85synthesizedbycyclizationofbenzimidazole84in\nthe reaction with of ethyl 3-oxobutanoate (Scheme 23), possessed good antifungal ac-\ntivity, against C. albicans (MIC = 2500 µg mL−1) compared with standard Fluconazole\n(MIC=2500µgmL−1)[77].",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "1",
+    "target_units": "mm",
+    "bacteria": "S.aureus",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 16,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 16of29\nScheme21.Synthesisofbenzimidazole–pyrazoles80a–80h,81a–81h.\nTable8.Theantimicrobialactivityofthecompounds80a–80hand81a–81h.\nZoneofInhibitionat100µgmL−1(inmm)\nCompounds\nE.coli P.aeruginosa S.aureus B.subtilis C.albicans A.niger\n80a - - - 15 - -\n80b 14 13 14 16 - -\n80d 12 17 - - - -\n80e - 12 12 - - -\n80f - - 14 18 - -\n80g 13 - - - - -\n80h 19 16 18 15 - -\n81b - - - - 13 16\n81c - - 14 13 - -\n81d 17 15 - - 18 -\n81f - - - 12 14 17\n81g - 13 15 - - -\n81h - - - - - 14\nGentamycin 22 22 19 20 - -\nKetoconazole - - - - 25 20\nEl-Gohary et al., synthesized benzimidazole–pyrazole molecules 83a–83b with an-\ntimicrobialproperties,usingthereactionbetweenbenzimidazoles82a–82band3-methyl-\n1H-pyrazol-5(4H)-oneindimethylformamide(DMF),inpresenceoftriethyl-amine(TEA)\nascatalyst(Scheme22)[76]. Thecompounds83a–83bshowedverygoodantimicrobial\nactivityagainsttwobacteriaB.cereusandS.aureus,againsttwofungi,C.albicansandA.\nfumigatus,comparedtothestandardsused,ampicillinandfluconazole(Table9).\nTable9.Antibacterialandantifungalactivitiesofcompounds83a–83b.\nMIC,µgmL−1(mM)\nCompounds\nB.cereus S.aureus C.albicans A.fumigatus\n83a 1250(5.48) 156.25(0.684) 625(2.74) 312.5(1.37)\n83b 1250(4.57) 2500(9.15) 1250(4.57) 625(2.29)\nAmpicillin 1250(3.58) 312.5(0.894) - -\nFluconazole - - 2500(8.16) -\nThebenzimidazole–pyrazole85synthesizedbycyclizationofbenzimidazole84in\nthe reaction with of ethyl 3-oxobutanoate (Scheme 23), possessed good antifungal ac-\ntivity, against C. albicans (MIC = 2500 µg mL−1) compared with standard Fluconazole\n(MIC=2500µgmL−1)[77].",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "1",
+    "target_units": "mm",
+    "bacteria": "S.aureus",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 16,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 16of29\nScheme21.Synthesisofbenzimidazole–pyrazoles80a–80h,81a–81h.\nTable8.Theantimicrobialactivityofthecompounds80a–80hand81a–81h.\nZoneofInhibitionat100µgmL−1(inmm)\nCompounds\nE.coli P.aeruginosa S.aureus B.subtilis C.albicans A.niger\n80a - - - 15 - -\n80b 14 13 14 16 - -\n80d 12 17 - - - -\n80e - 12 12 - - -\n80f - - 14 18 - -\n80g 13 - - - - -\n80h 19 16 18 15 - -\n81b - - - - 13 16\n81c - - 14 13 - -\n81d 17 15 - - 18 -\n81f - - - 12 14 17\n81g - 13 15 - - -\n81h - - - - - 14\nGentamycin 22 22 19 20 - -\nKetoconazole - - - - 25 20\nEl-Gohary et al., synthesized benzimidazole–pyrazole molecules 83a–83b with an-\ntimicrobialproperties,usingthereactionbetweenbenzimidazoles82a–82band3-methyl-\n1H-pyrazol-5(4H)-oneindimethylformamide(DMF),inpresenceoftriethyl-amine(TEA)\nascatalyst(Scheme22)[76]. Thecompounds83a–83bshowedverygoodantimicrobial\nactivityagainsttwobacteriaB.cereusandS.aureus,againsttwofungi,C.albicansandA.\nfumigatus,comparedtothestandardsused,ampicillinandfluconazole(Table9).\nTable9.Antibacterialandantifungalactivitiesofcompounds83a–83b.\nMIC,µgmL−1(mM)\nCompounds\nB.cereus S.aureus C.albicans A.fumigatus\n83a 1250(5.48) 156.25(0.684) 625(2.74) 312.5(1.37)\n83b 1250(4.57) 2500(9.15) 1250(4.57) 625(2.29)\nAmpicillin 1250(3.58) 312.5(0.894) - -\nFluconazole - - 2500(8.16) -\nThebenzimidazole–pyrazole85synthesizedbycyclizationofbenzimidazole84in\nthe reaction with of ethyl 3-oxobutanoate (Scheme 23), possessed good antifungal ac-\ntivity, against C. albicans (MIC = 2500 µg mL−1) compared with standard Fluconazole\n(MIC=2500µgmL−1)[77].",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "2500",
+    "target_units": "µg/mL",
+    "bacteria": "E.coli",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 16,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 16of29\nScheme21.Synthesisofbenzimidazole–pyrazoles80a–80h,81a–81h.\nTable8.Theantimicrobialactivityofthecompounds80a–80hand81a–81h.\nZoneofInhibitionat100µgmL−1(inmm)\nCompounds\nE.coli P.aeruginosa S.aureus B.subtilis C.albicans A.niger\n80a - - - 15 - -\n80b 14 13 14 16 - -\n80d 12 17 - - - -\n80e - 12 12 - - -\n80f - - 14 18 - -\n80g 13 - - - - -\n80h 19 16 18 15 - -\n81b - - - - 13 16\n81c - - 14 13 - -\n81d 17 15 - - 18 -\n81f - - - 12 14 17\n81g - 13 15 - - -\n81h - - - - - 14\nGentamycin 22 22 19 20 - -\nKetoconazole - - - - 25 20\nEl-Gohary et al., synthesized benzimidazole–pyrazole molecules 83a–83b with an-\ntimicrobialproperties,usingthereactionbetweenbenzimidazoles82a–82band3-methyl-\n1H-pyrazol-5(4H)-oneindimethylformamide(DMF),inpresenceoftriethyl-amine(TEA)\nascatalyst(Scheme22)[76]. Thecompounds83a–83bshowedverygoodantimicrobial\nactivityagainsttwobacteriaB.cereusandS.aureus,againsttwofungi,C.albicansandA.\nfumigatus,comparedtothestandardsused,ampicillinandfluconazole(Table9).\nTable9.Antibacterialandantifungalactivitiesofcompounds83a–83b.\nMIC,µgmL−1(mM)\nCompounds\nB.cereus S.aureus C.albicans A.fumigatus\n83a 1250(5.48) 156.25(0.684) 625(2.74) 312.5(1.37)\n83b 1250(4.57) 2500(9.15) 1250(4.57) 625(2.29)\nAmpicillin 1250(3.58) 312.5(0.894) - -\nFluconazole - - 2500(8.16) -\nThebenzimidazole–pyrazole85synthesizedbycyclizationofbenzimidazole84in\nthe reaction with of ethyl 3-oxobutanoate (Scheme 23), possessed good antifungal ac-\ntivity, against C. albicans (MIC = 2500 µg mL−1) compared with standard Fluconazole\n(MIC=2500µgmL−1)[77].",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "2500",
+    "target_units": "µg/mL",
+    "bacteria": "S.aureus",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 16,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 16of29\nScheme21.Synthesisofbenzimidazole–pyrazoles80a–80h,81a–81h.\nTable8.Theantimicrobialactivityofthecompounds80a–80hand81a–81h.\nZoneofInhibitionat100µgmL−1(inmm)\nCompounds\nE.coli P.aeruginosa S.aureus B.subtilis C.albicans A.niger\n80a - - - 15 - -\n80b 14 13 14 16 - -\n80d 12 17 - - - -\n80e - 12 12 - - -\n80f - - 14 18 - -\n80g 13 - - - - -\n80h 19 16 18 15 - -\n81b - - - - 13 16\n81c - - 14 13 - -\n81d 17 15 - - 18 -\n81f - - - 12 14 17\n81g - 13 15 - - -\n81h - - - - - 14\nGentamycin 22 22 19 20 - -\nKetoconazole - - - - 25 20\nEl-Gohary et al., synthesized benzimidazole–pyrazole molecules 83a–83b with an-\ntimicrobialproperties,usingthereactionbetweenbenzimidazoles82a–82band3-methyl-\n1H-pyrazol-5(4H)-oneindimethylformamide(DMF),inpresenceoftriethyl-amine(TEA)\nascatalyst(Scheme22)[76]. Thecompounds83a–83bshowedverygoodantimicrobial\nactivityagainsttwobacteriaB.cereusandS.aureus,againsttwofungi,C.albicansandA.\nfumigatus,comparedtothestandardsused,ampicillinandfluconazole(Table9).\nTable9.Antibacterialandantifungalactivitiesofcompounds83a–83b.\nMIC,µgmL−1(mM)\nCompounds\nB.cereus S.aureus C.albicans A.fumigatus\n83a 1250(5.48) 156.25(0.684) 625(2.74) 312.5(1.37)\n83b 1250(4.57) 2500(9.15) 1250(4.57) 625(2.29)\nAmpicillin 1250(3.58) 312.5(0.894) - -\nFluconazole - - 2500(8.16) -\nThebenzimidazole–pyrazole85synthesizedbycyclizationofbenzimidazole84in\nthe reaction with of ethyl 3-oxobutanoate (Scheme 23), possessed good antifungal ac-\ntivity, against C. albicans (MIC = 2500 µg mL−1) compared with standard Fluconazole\n(MIC=2500µgmL−1)[77].",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "2500",
+    "target_units": "µg/mL",
+    "bacteria": "S.aureus",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 16,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 16of29\nScheme21.Synthesisofbenzimidazole–pyrazoles80a–80h,81a–81h.\nTable8.Theantimicrobialactivityofthecompounds80a–80hand81a–81h.\nZoneofInhibitionat100µgmL−1(inmm)\nCompounds\nE.coli P.aeruginosa S.aureus B.subtilis C.albicans A.niger\n80a - - - 15 - -\n80b 14 13 14 16 - -\n80d 12 17 - - - -\n80e - 12 12 - - -\n80f - - 14 18 - -\n80g 13 - - - - -\n80h 19 16 18 15 - -\n81b - - - - 13 16\n81c - - 14 13 - -\n81d 17 15 - - 18 -\n81f - - - 12 14 17\n81g - 13 15 - - -\n81h - - - - - 14\nGentamycin 22 22 19 20 - -\nKetoconazole - - - - 25 20\nEl-Gohary et al., synthesized benzimidazole–pyrazole molecules 83a–83b with an-\ntimicrobialproperties,usingthereactionbetweenbenzimidazoles82a–82band3-methyl-\n1H-pyrazol-5(4H)-oneindimethylformamide(DMF),inpresenceoftriethyl-amine(TEA)\nascatalyst(Scheme22)[76]. Thecompounds83a–83bshowedverygoodantimicrobial\nactivityagainsttwobacteriaB.cereusandS.aureus,againsttwofungi,C.albicansandA.\nfumigatus,comparedtothestandardsused,ampicillinandfluconazole(Table9).\nTable9.Antibacterialandantifungalactivitiesofcompounds83a–83b.\nMIC,µgmL−1(mM)\nCompounds\nB.cereus S.aureus C.albicans A.fumigatus\n83a 1250(5.48) 156.25(0.684) 625(2.74) 312.5(1.37)\n83b 1250(4.57) 2500(9.15) 1250(4.57) 625(2.29)\nAmpicillin 1250(3.58) 312.5(0.894) - -\nFluconazole - - 2500(8.16) -\nThebenzimidazole–pyrazole85synthesizedbycyclizationofbenzimidazole84in\nthe reaction with of ethyl 3-oxobutanoate (Scheme 23), possessed good antifungal ac-\ntivity, against C. albicans (MIC = 2500 µg mL−1) compared with standard Fluconazole\n(MIC=2500µgmL−1)[77].",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "2500",
+    "target_units": "µg/mL",
+    "bacteria": "S.aureus",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 16,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 16of29\nScheme21.Synthesisofbenzimidazole–pyrazoles80a–80h,81a–81h.\nTable8.Theantimicrobialactivityofthecompounds80a–80hand81a–81h.\nZoneofInhibitionat100µgmL−1(inmm)\nCompounds\nE.coli P.aeruginosa S.aureus B.subtilis C.albicans A.niger\n80a - - - 15 - -\n80b 14 13 14 16 - -\n80d 12 17 - - - -\n80e - 12 12 - - -\n80f - - 14 18 - -\n80g 13 - - - - -\n80h 19 16 18 15 - -\n81b - - - - 13 16\n81c - - 14 13 - -\n81d 17 15 - - 18 -\n81f - - - 12 14 17\n81g - 13 15 - - -\n81h - - - - - 14\nGentamycin 22 22 19 20 - -\nKetoconazole - - - - 25 20\nEl-Gohary et al., synthesized benzimidazole–pyrazole molecules 83a–83b with an-\ntimicrobialproperties,usingthereactionbetweenbenzimidazoles82a–82band3-methyl-\n1H-pyrazol-5(4H)-oneindimethylformamide(DMF),inpresenceoftriethyl-amine(TEA)\nascatalyst(Scheme22)[76]. Thecompounds83a–83bshowedverygoodantimicrobial\nactivityagainsttwobacteriaB.cereusandS.aureus,againsttwofungi,C.albicansandA.\nfumigatus,comparedtothestandardsused,ampicillinandfluconazole(Table9).\nTable9.Antibacterialandantifungalactivitiesofcompounds83a–83b.\nMIC,µgmL−1(mM)\nCompounds\nB.cereus S.aureus C.albicans A.fumigatus\n83a 1250(5.48) 156.25(0.684) 625(2.74) 312.5(1.37)\n83b 1250(4.57) 2500(9.15) 1250(4.57) 625(2.29)\nAmpicillin 1250(3.58) 312.5(0.894) - -\nFluconazole - - 2500(8.16) -\nThebenzimidazole–pyrazole85synthesizedbycyclizationofbenzimidazole84in\nthe reaction with of ethyl 3-oxobutanoate (Scheme 23), possessed good antifungal ac-\ntivity, against C. albicans (MIC = 2500 µg mL−1) compared with standard Fluconazole\n(MIC=2500µgmL−1)[77].",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "2500",
+    "target_units": "µg/mL",
+    "bacteria": "E.coli",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 16,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 16of29\nScheme21.Synthesisofbenzimidazole–pyrazoles80a–80h,81a–81h.\nTable8.Theantimicrobialactivityofthecompounds80a–80hand81a–81h.\nZoneofInhibitionat100µgmL−1(inmm)\nCompounds\nE.coli P.aeruginosa S.aureus B.subtilis C.albicans A.niger\n80a - - - 15 - -\n80b 14 13 14 16 - -\n80d 12 17 - - - -\n80e - 12 12 - - -\n80f - - 14 18 - -\n80g 13 - - - - -\n80h 19 16 18 15 - -\n81b - - - - 13 16\n81c - - 14 13 - -\n81d 17 15 - - 18 -\n81f - - - 12 14 17\n81g - 13 15 - - -\n81h - - - - - 14\nGentamycin 22 22 19 20 - -\nKetoconazole - - - - 25 20\nEl-Gohary et al., synthesized benzimidazole–pyrazole molecules 83a–83b with an-\ntimicrobialproperties,usingthereactionbetweenbenzimidazoles82a–82band3-methyl-\n1H-pyrazol-5(4H)-oneindimethylformamide(DMF),inpresenceoftriethyl-amine(TEA)\nascatalyst(Scheme22)[76]. Thecompounds83a–83bshowedverygoodantimicrobial\nactivityagainsttwobacteriaB.cereusandS.aureus,againsttwofungi,C.albicansandA.\nfumigatus,comparedtothestandardsused,ampicillinandfluconazole(Table9).\nTable9.Antibacterialandantifungalactivitiesofcompounds83a–83b.\nMIC,µgmL−1(mM)\nCompounds\nB.cereus S.aureus C.albicans A.fumigatus\n83a 1250(5.48) 156.25(0.684) 625(2.74) 312.5(1.37)\n83b 1250(4.57) 2500(9.15) 1250(4.57) 625(2.29)\nAmpicillin 1250(3.58) 312.5(0.894) - -\nFluconazole - - 2500(8.16) -\nThebenzimidazole–pyrazole85synthesizedbycyclizationofbenzimidazole84in\nthe reaction with of ethyl 3-oxobutanoate (Scheme 23), possessed good antifungal ac-\ntivity, against C. albicans (MIC = 2500 µg mL−1) compared with standard Fluconazole\n(MIC=2500µgmL−1)[77].",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "2500",
+    "target_units": "µg/mL",
+    "bacteria": "S.aureus",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 16,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 16of29\nScheme21.Synthesisofbenzimidazole–pyrazoles80a–80h,81a–81h.\nTable8.Theantimicrobialactivityofthecompounds80a–80hand81a–81h.\nZoneofInhibitionat100µgmL−1(inmm)\nCompounds\nE.coli P.aeruginosa S.aureus B.subtilis C.albicans A.niger\n80a - - - 15 - -\n80b 14 13 14 16 - -\n80d 12 17 - - - -\n80e - 12 12 - - -\n80f - - 14 18 - -\n80g 13 - - - - -\n80h 19 16 18 15 - -\n81b - - - - 13 16\n81c - - 14 13 - -\n81d 17 15 - - 18 -\n81f - - - 12 14 17\n81g - 13 15 - - -\n81h - - - - - 14\nGentamycin 22 22 19 20 - -\nKetoconazole - - - - 25 20\nEl-Gohary et al., synthesized benzimidazole–pyrazole molecules 83a–83b with an-\ntimicrobialproperties,usingthereactionbetweenbenzimidazoles82a–82band3-methyl-\n1H-pyrazol-5(4H)-oneindimethylformamide(DMF),inpresenceoftriethyl-amine(TEA)\nascatalyst(Scheme22)[76]. Thecompounds83a–83bshowedverygoodantimicrobial\nactivityagainsttwobacteriaB.cereusandS.aureus,againsttwofungi,C.albicansandA.\nfumigatus,comparedtothestandardsused,ampicillinandfluconazole(Table9).\nTable9.Antibacterialandantifungalactivitiesofcompounds83a–83b.\nMIC,µgmL−1(mM)\nCompounds\nB.cereus S.aureus C.albicans A.fumigatus\n83a 1250(5.48) 156.25(0.684) 625(2.74) 312.5(1.37)\n83b 1250(4.57) 2500(9.15) 1250(4.57) 625(2.29)\nAmpicillin 1250(3.58) 312.5(0.894) - -\nFluconazole - - 2500(8.16) -\nThebenzimidazole–pyrazole85synthesizedbycyclizationofbenzimidazole84in\nthe reaction with of ethyl 3-oxobutanoate (Scheme 23), possessed good antifungal ac-\ntivity, against C. albicans (MIC = 2500 µg mL−1) compared with standard Fluconazole\n(MIC=2500µgmL−1)[77].",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "2500",
+    "target_units": "µg/mL",
+    "bacteria": "S.aureus",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 16,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 16of29\nScheme21.Synthesisofbenzimidazole–pyrazoles80a–80h,81a–81h.\nTable8.Theantimicrobialactivityofthecompounds80a–80hand81a–81h.\nZoneofInhibitionat100µgmL−1(inmm)\nCompounds\nE.coli P.aeruginosa S.aureus B.subtilis C.albicans A.niger\n80a - - - 15 - -\n80b 14 13 14 16 - -\n80d 12 17 - - - -\n80e - 12 12 - - -\n80f - - 14 18 - -\n80g 13 - - - - -\n80h 19 16 18 15 - -\n81b - - - - 13 16\n81c - - 14 13 - -\n81d 17 15 - - 18 -\n81f - - - 12 14 17\n81g - 13 15 - - -\n81h - - - - - 14\nGentamycin 22 22 19 20 - -\nKetoconazole - - - - 25 20\nEl-Gohary et al., synthesized benzimidazole–pyrazole molecules 83a–83b with an-\ntimicrobialproperties,usingthereactionbetweenbenzimidazoles82a–82band3-methyl-\n1H-pyrazol-5(4H)-oneindimethylformamide(DMF),inpresenceoftriethyl-amine(TEA)\nascatalyst(Scheme22)[76]. Thecompounds83a–83bshowedverygoodantimicrobial\nactivityagainsttwobacteriaB.cereusandS.aureus,againsttwofungi,C.albicansandA.\nfumigatus,comparedtothestandardsused,ampicillinandfluconazole(Table9).\nTable9.Antibacterialandantifungalactivitiesofcompounds83a–83b.\nMIC,µgmL−1(mM)\nCompounds\nB.cereus S.aureus C.albicans A.fumigatus\n83a 1250(5.48) 156.25(0.684) 625(2.74) 312.5(1.37)\n83b 1250(4.57) 2500(9.15) 1250(4.57) 625(2.29)\nAmpicillin 1250(3.58) 312.5(0.894) - -\nFluconazole - - 2500(8.16) -\nThebenzimidazole–pyrazole85synthesizedbycyclizationofbenzimidazole84in\nthe reaction with of ethyl 3-oxobutanoate (Scheme 23), possessed good antifungal ac-\ntivity, against C. albicans (MIC = 2500 µg mL−1) compared with standard Fluconazole\n(MIC=2500µgmL−1)[77].",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "2500",
+    "target_units": "µg/mL",
+    "bacteria": "S.aureus",
+    "evidence": {
+      "source_file": "antibiotics10081002.pdf",
+      "page": 16,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Antibiotics2021,10,1002 16of29\nScheme21.Synthesisofbenzimidazole–pyrazoles80a–80h,81a–81h.\nTable8.Theantimicrobialactivityofthecompounds80a–80hand81a–81h.\nZoneofInhibitionat100µgmL−1(inmm)\nCompounds\nE.coli P.aeruginosa S.aureus B.subtilis C.albicans A.niger\n80a - - - 15 - -\n80b 14 13 14 16 - -\n80d 12 17 - - - -\n80e - 12 12 - - -\n80f - - 14 18 - -\n80g 13 - - - - -\n80h 19 16 18 15 - -\n81b - - - - 13 16\n81c - - 14 13 - -\n81d 17 15 - - 18 -\n81f - - - 12 14 17\n81g - 13 15 - - -\n81h - - - - - 14\nGentamycin 22 22 19 20 - -\nKetoconazole - - - - 25 20\nEl-Gohary et al., synthesized benzimidazole–pyrazole molecules 83a–83b with an-\ntimicrobialproperties,usingthereactionbetweenbenzimidazoles82a–82band3-methyl-\n1H-pyrazol-5(4H)-oneindimethylformamide(DMF),inpresenceoftriethyl-amine(TEA)\nascatalyst(Scheme22)[76]. Thecompounds83a–83bshowedverygoodantimicrobial\nactivityagainsttwobacteriaB.cereusandS.aureus,againsttwofungi,C.albicansandA.\nfumigatus,comparedtothestandardsused,ampicillinandfluconazole(Table9).\nTable9.Antibacterialandantifungalactivitiesofcompounds83a–83b.\nMIC,µgmL−1(mM)\nCompounds\nB.cereus S.aureus C.albicans A.fumigatus\n83a 1250(5.48) 156.25(0.684) 625(2.74) 312.5(1.37)\n83b 1250(4.57) 2500(9.15) 1250(4.57) 625(2.29)\nAmpicillin 1250(3.58) 312.5(0.894) - -\nFluconazole - - 2500(8.16) -\nThebenzimidazole–pyrazole85synthesizedbycyclizationofbenzimidazole84in\nthe reaction with of ethyl 3-oxobutanoate (Scheme 23), possessed good antifungal ac-\ntivity, against C. albicans (MIC = 2500 µg mL−1) compared with standard Fluconazole\n(MIC=2500µgmL−1)[77].",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "text": "o. pMIC\nEC | pMIC\nSA | C. No. | pMIC pMIC\nEC S",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 4,
+      "section": null,
+      "table_id": "p4_t2",
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_tables",
+      "confidence": 0.75
+    },
+    "row_id": "0"
+  },
+  {
+    "text": "pMIC\nEC | µ | log P | MR | 1χv | 3χ | 3χv | κ1 | Κα2 | J | LUMO",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 7,
+      "section": null,
+      "table_id": "p7_t1",
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_tables",
+      "confidence": 0.75
+    },
+    "row_id": "0"
+  },
+  {
+    "text": "pMIC\nEC | 1.00",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 7,
+      "section": null,
+      "table_id": "p7_t1",
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_tables",
+      "confidence": 0.75
+    },
+    "row_id": "1"
+  },
+  {
+    "text": "pMIC\nSA | µ | log P | MR | 1χv | 3χ | 3χv | κ1 | Κα2 | J | LUMO",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 7,
+      "section": null,
+      "table_id": "p7_t2",
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_tables",
+      "confidence": 0.75
+    },
+    "row_id": "0"
+  },
+  {
+    "text": "pMIC\nSA | 1.00",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 7,
+      "section": null,
+      "table_id": "p7_t2",
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_tables",
+      "confidence": 0.75
+    },
+    "row_id": "1"
+  },
+  {
+    "text": "C. No. | Escherichia Coli | Staphylococcus aureus",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "p8_t1",
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_tables",
+      "confidence": 0.75
+    },
+    "row_id": "0"
+  },
+  {
+    "text": "macophore and shows a broad range of\nbiological activities. Modern drug development commonly use the molecular docking technique for\nunderstanding drug-receptor interaction. Various computational techniques, including 2D QSAR, molecular\ndocking, and ADME studies of benzimidazole derivatives against Escherichia Coli and Staphylococcus\naureus, were used in this research study. Molecular descriptors used in 2D QSAR studies, include topological\nindex Balaban (J), electronic parameters like Vamp Lumo & Kier's second order alpha shape index (kα2)\nagainst Escherichia Coli microorganism. The antibacterial activity of",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 1,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "broad range of\nbiological activities. Modern drug development commonly use the molecular docking technique for\nunderstanding drug-receptor interaction. Various computational techniques, including 2D QSAR, molecular\ndocking, and ADME studies of benzimidazole derivatives against Escherichia Coli and Staphylococcus\naureus, were used in this research study. Molecular descriptors used in 2D QSAR studies, include topological\nindex Balaban (J), electronic parameters like Vamp Lumo & Kier's second order alpha shape index (kα2)\nagainst Escherichia Coli microorganism. The antibacterial activity of benzimidazole derivatives",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 1,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "studies of benzimidazole derivatives against Escherichia Coli and Staphylococcus\naureus, were used in this research study. Molecular descriptors used in 2D QSAR studies, include topological\nindex Balaban (J), electronic parameters like Vamp Lumo & Kier's second order alpha shape index (kα2)\nagainst Escherichia Coli microorganism. The antibacterial activity of benzimidazole derivatives is governed\nby topological parameters like third-order molecular connectivity index (3χ) against Staphylococcus aureus\nmicroorganism. According to molecular docking studies, compounds 15, 2, 4, 7 and 24 have the best docking\nsco",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 1,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "ical\nindex Balaban (J), electronic parameters like Vamp Lumo & Kier's second order alpha shape index (kα2)\nagainst Escherichia Coli microorganism. The antibacterial activity of benzimidazole derivatives is governed\nby topological parameters like third-order molecular connectivity index (3χ) against Staphylococcus aureus\nmicroorganism. According to molecular docking studies, compounds 15, 2, 4, 7 and 24 have the best docking\nscores against the protein Topoisomerase II (PDB ID: 1JIJ) and compounds 14, 27, 2, 25 and 15 have the\nbest docking scores against the protein DNA Gyrase (PDB ID: 1KZN). The Lipinski rule of fi",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 1,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "QSAR, Molecular Docking, And ADME Studies Of Benzimidazole Derivatives\nAs Antibacterial Agents Section A-Research Paper\nMATERIAL AND METHODS biological activity was shown in MIC (µM). It was\n2D QSAR Study converted to pMIC values to get rid of substantial\nThe derivatives of benzimidazole (1-30) Table 1, clumping and make it more reliable for the QSAR\nselected from the reported work by Vashist et al., analysis, as shown in Table 2.\n(2018), were sketched using Chem Draw 19.0. The\nTable 1 Chemical structures of Benzimidazole derivatives used in QSAR studies\nC. No. Chemical Structure C. No. Chemical Structure\n1 2\n3 4\n5 6\n7 8\n9 10\n11 12\n13 14\n15 16\n17 18\nEur. Chem. Bull. 2023, 12(Special Issue 5), 5524 – 5539 5526",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "QSAR, Molecular Docking, And ADME Studies Of Benzimidazole Derivatives\nAs Antibacterial Agents Section A-Research Paper\n19 20\n21 22\n23 24\n25 26\n27 28\n29 30\nTable 2 Antibacterial data of Benzimidazole derivatives used in QSAR studies\nC. No. pMIC pMIC C. No. pMIC pMIC\nEC SA EC SA\n1 0.73 1.63 16 1.76 1.16\n2 1.64 1.64 17 1.46 1.16\n3 1.35 1.65 18 1.43 1.13\n4 0.82 1.72 19 1.69 1.09\n5 1.67 1.67 20 1.66 1.36\n6 1.67 1.67 21 1.45 1.15\n7 1.37 1.67 22 1.76 1.15\n8 1.59 1.89 23 1.78 1.18\n9 1.40 1.70 24 1.46 1.16\n10 1.16 1.76 25 1.78 1.18\n11 1.00 1.60 2",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 4,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "QSAR, Molecular Docking, And ADME Studies Of Benzimidazole Derivatives\nAs Antibacterial Agents Section A-Research Paper\n19 20\n21 22\n23 24\n25 26\n27 28\n29 30\nTable 2 Antibacterial data of Benzimidazole derivatives used in QSAR studies\nC. No. pMIC pMIC C. No. pMIC pMIC\nEC SA EC SA\n1 0.73 1.63 16 1.76 1.16\n2 1.64 1.64 17 1.46 1.16\n3 1.35 1.65 18 1.43 1.13\n4 0.82 1.72 19 1.69 1.09\n5 1.67 1.67 20 1.66 1.36\n6 1.67 1.67 21 1.45 1.15\n7 1.37 1.67 22 1.76 1.15\n8 1.59 1.89 23 1.78 1.18\n9 1.40 1.70 24 1.46 1.16\n10 1.16 1.76 25 1.78 1.18\n11 1.00 1.60 26 1.4",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 4,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "QSAR, Molecular Docking, And ADME Studies Of Benzimidazole Derivatives\nAs Antibacterial Agents Section A-Research Paper\n19 20\n21 22\n23 24\n25 26\n27 28\n29 30\nTable 2 Antibacterial data of Benzimidazole derivatives used in QSAR studies\nC. No. pMIC pMIC C. No. pMIC pMIC\nEC SA EC SA\n1 0.73 1.63 16 1.76 1.16\n2 1.64 1.64 17 1.46 1.16\n3 1.35 1.65 18 1.43 1.13\n4 0.82 1.72 19 1.69 1.09\n5 1.67 1.67 20 1.66 1.36\n6 1.67 1.67 21 1.45 1.15\n7 1.37 1.67 22 1.76 1.15\n8 1.59 1.89 23 1.78 1.18\n9 1.40 1.70 24 1.46 1.16\n10 1.16 1.76 25 1.78 1.18\n11 1.00 1.60 26 1.47 1.17\n12 2.",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 4,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "QSAR, Molecular Docking, And ADME Studies Of Benzimidazole Derivatives\nAs Antibacterial Agents Section A-Research Paper\n19 20\n21 22\n23 24\n25 26\n27 28\n29 30\nTable 2 Antibacterial data of Benzimidazole derivatives used in QSAR studies\nC. No. pMIC pMIC C. No. pMIC pMIC\nEC SA EC SA\n1 0.73 1.63 16 1.76 1.16\n2 1.64 1.64 17 1.46 1.16\n3 1.35 1.65 18 1.43 1.13\n4 0.82 1.72 19 1.69 1.09\n5 1.67 1.67 20 1.66 1.36\n6 1.67 1.67 21 1.45 1.15\n7 1.37 1.67 22 1.76 1.15\n8 1.59 1.89 23 1.78 1.18\n9 1.40 1.70 24 1.46 1.16\n10 1.16 1.76 25 1.78 1.18\n11 1.00 1.60 26 1.47 1.17\n12 2.40 1.",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 4,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "QSAR, Molecular Docking, And ADME Studies Of Benzimidazole Derivatives\nAs Antibacterial Agents Section A-Research Paper\nprotein to determine their anticancer potential. A QSAR models for antibacterial potential against\nseries of heterocyclic molecules selected from the Escherichia Coli are as follows\nliterature were prepared using maestro module. Correlation analysis was used in the initial\nTheir 3D mol files were converted in the software study. The correlation matrix for antibacterial\naccepted .maegz file in Ligprep. Minimization of compounds' activity against Escherichia coli is\nall ligands was carried out using the OPLS force presented in Table 4. The colinearity (r > 0.8)\nfield module [44, 45]. The search algorithm and between various variables was significant. The\nenergy scoring function used in docking are used to correlation matrix showed that the topological\ngenerate and evaluate ligand poses within receptor index Balaban (r = 0.582, Eq. 1) (Table 4) was\nbinding sites. [46]. used to define the antibacterial activity of\nbenzimidazole derivatives.\nGrid Generation and Molecular Docking\nThe preprocessed protein (1JIJ and 1KZN) was The equation comes out as:\ntaken and the most suitable grid was generated to\naround its most active site using site map tool. After pMICec = 1.207 J – 0.0210 ( Eq.1 )\nthe preparation of grid all the prepared ligands were\nadded together to the grid generated receptor n= 30, r= 0.582, q2= 0.249, F= 0.000 , SD= 0.306\n(active site of the protein) and using the most\nsuitable protein ligand conformational complex, where q2 - cross-validated, n - number of data\ndocking is done with extra precision (XP) to obtain points, F - Fischer statistics, r - correlation\nthe correct dock score values. [45] . coefficients, r2 - obtained by leaving one out\nmethod, SD - standard deviation\nADME Study\nDetermining ADME traits is crucial because the Electronic parameter Vamp Lumo was introduced\nmajority of pharmaceutical substances fail in to topological index Balaban to improve the r\nclinical trials. The likeliness and ADME value, increasing the correlation value to 0.706 (Eq.\ncharacteristics of the most active chemicals were 2).\ndetermined using QikProp, GLIDE, and\nSchrodinger v 13.1. Using the LigPrep module of pMICec = 1.314 J - 0.293 VAMP LUMO – 0.469\nSchrodinger v 13.1, the ligand was synthesised for ( Eq. 2 )\nADME study in Maestro format (.maez). Then, we\nwent to work by navigating the QikPro dialogue n= 30, r= 0.706, q2= 0.396, F= 7.298, SD= 0.271\nbox and inserting the ligand preparation file\n(.maez) for the synthesised derivatives in order to The correlation value was increased to 0.742 (Eq.\nobtain the ADME parameters [47]. 3) by adding Kα2 to Eq. 2 in order to further\nimprove the r value.\nRESULTS AND DISCUSSION\n2D QSAR Study pMICec = 0.025 J – 1.434 VAMP LUMO - 0.253\nIn response to the foregoing findings, and in the Kα2 – 0.795( Eq.3 )\ncurrent study we hereby report QSAR, Molecular\nDocking and ADME Studies for the prediction of n= 30, r= 0.742, q2= 0.431, F= 6.782 , SD= 0.261\nBenzimidazole derivatives as antibacterial agent\nwere synthesised by Vashist et al., (2018) [40]. However, since the value of q2 is not close to 0.5 or\nUsing a variety of chemical descriptors, the more and the value of r is not closer to 1, this shows\nstructural properties of the therapeutic compounds that the model is not significant. The presence of\nin the current study were first quantified (Table 3). outliers may be responsible for this. As a result, 6\noutliers (compound 11, 10, 6, 4, 2, 1) were found\nAfter that, using multiple linear regression and and eliminated, raising the value of r to 0.891 (Eq.\nlinear regression, features and biological activity 4). The equation has statistical significance.\nwere quantified and associated to equations. In\norder to use pMIC values as the dependent variable pMICec = 0.016 J – 1.384 VAMP LUMO - 0.160\nin the QSAR investigation, biological data that was Kα2 – 0.477 ( Eq.4 )\ninitially determined as MIC values were first\nconverted into pMIC values (Table 2). n= 24, r= 0.891, q2= 0.675, F= 1.464 , SD= 0.139\nEur. Chem. Bull. 2023, 12(Special Issue 5), 5524 – 5539 5529",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "QSAR, Molecular Docking, And ADME Studies Of Benzimidazole Derivatives\nAs Antibacterial Agents Section A-Research Paper\nTable 4 Correlation matrix for antibacterial activity against Escherichia Coli\npMIC µ log P MR 1χv 3χ 3χv κ1 Κα2 J LUMO\nEC\npMIC 1.00\nEC\nµ -0.31 1.00\nlog P -0.40 0.10 1.00\nMR -0.23 0.02 0.92 1.00\n1χv -0.21 -0.03 0.87 0.99 1.00\n3χ -0.09 0.00 0.48 0.67 0.76 1.00\n3χv -0.21 0.19 0.59 0.76 0.80 0.92 1.00\nκ1 -0.11 -0.09 0.86 0.98 0.99 0.71 0.73 1.00\nΚα2 -0.06 -0.13 0.87 0.90 0.85 0.",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 7,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "QSAR, Molecular Docking, And ADME Studies Of Benzimidazole Derivatives\nAs Antibacterial Agents Section A-Research Paper\nTable 4 Correlation matrix for antibacterial activity against Escherichia Coli\npMIC µ log P MR 1χv 3χ 3χv κ1 Κα2 J LUMO\nEC\npMIC 1.00\nEC\nµ -0.31 1.00\nlog P -0.40 0.10 1.00\nMR -0.23 0.02 0.92 1.00\n1χv -0.21 -0.03 0.87 0.99 1.00\n3χ -0.09 0.00 0.48 0.67 0.76 1.00\n3χv -0.21 0.19 0.59 0.76 0.80 0.92 1.00\nκ1 -0.11 -0.09 0.86 0.98 0.99 0.71 0.73 1.00\nΚα2 -0.06 -0.13 0.87 0.90 0.85 0.37 0.",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 7,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "QSAR, Molecular Docking, And ADME Studies Of Benzimidazole Derivatives\nAs Antibacterial Agents Section A-Research Paper\nTable 4 Correlation matrix for antibacterial activity against Escherichia Coli\npMIC µ log P MR 1χv 3χ 3χv κ1 Κα2 J LUMO\nEC\npMIC 1.00\nEC\nµ -0.31 1.00\nlog P -0.40 0.10 1.00\nMR -0.23 0.02 0.92 1.00\n1χv -0.21 -0.03 0.87 0.99 1.00\n3χ -0.09 0.00 0.48 0.67 0.76 1.00\n3χv -0.21 0.19 0.59 0.76 0.80 0.92 1.00\nκ1 -0.11 -0.09 0.86 0.98 0.99 0.71 0.73 1.00\nΚα2 -0.06 -0.13 0.87 0.90 0.85 0.37 0.43 0.91 1.00\nJ 0.58 -0.38 -0.66 -0.60 -0.60",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 7,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "1; Table 4). residual propagation on every dimension.\nTo determine the systemic error, the measured\nFig. 1 Plot of Observed vs. Predicted Activity Fig. 2 Comparison of Observed vs. Residual Activity\nQSAR models for antibacterial activity against connectivity index (Eq. 5) Table 5. When r is closer\nStaphylococcus aureus are as follows to 1 and q2 is identically close to or above 0.5, this\nCorrelation analysis was used in the initial suggests that the equation is statistically\nstudy. The correlation matrix for antibacterial significant.\ncompounds' activity against Staphylococcus The equation comes out as:\naureus is",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 7,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "used in the initial suggests that the equation is statistically\nstudy. The correlation matrix for antibacterial significant.\ncompounds' activity against Staphylococcus The equation comes out as:\naureus is presented in Table 5. The colinearity (r >\n0.8) between various variables was significant. The pMIC = -0.376 3χ – 1.986 ( Eq. 5 )\nsa\ninitial correlation of r = 0.848 was found with the n= 30, r= 0.848, q2= 0.674, F= 2.398, SD= 0.135\ntopological parameters third-order molecular\nTable 5 Correlation matrix for antibacterial activity again Staphylococcus aureus\npMIC µ log P MR 1χv 3χ 3χv κ1 Κα2 J LUM",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 7,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "(r >\n0.8) between various variables was significant. The pMIC = -0.376 3χ – 1.986 ( Eq. 5 )\nsa\ninitial correlation of r = 0.848 was found with the n= 30, r= 0.848, q2= 0.674, F= 2.398, SD= 0.135\ntopological parameters third-order molecular\nTable 5 Correlation matrix for antibacterial activity again Staphylococcus aureus\npMIC µ log P MR 1χv 3χ 3χv κ1 Κα2 J LUMO\nSA\npMIC 1.00\nSA\nµ 0.14 1.00\nlog P -0.52 0.07 1.00\nMR -0.71 -0.03 0.93 1.00\n1χv -0.76 -0.10 0.88 0.99 1.00\n3χ -0.84 -0.03 0.57 0.74 0.81 1.00\n3χv -0.82 0.19 0.65 0.79 0.82 0.92 1.00\nκ1 -0.73 -0.15 0.87 0.98 0.99 0.77 0.75 1.00\nΚα2 -0.48 -0.17 0.86 0.91 0.87 0",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 7,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "ous variables was significant. The pMIC = -0.376 3χ – 1.986 ( Eq. 5 )\nsa\ninitial correlation of r = 0.848 was found with the n= 30, r= 0.848, q2= 0.674, F= 2.398, SD= 0.135\ntopological parameters third-order molecular\nTable 5 Correlation matrix for antibacterial activity again Staphylococcus aureus\npMIC µ log P MR 1χv 3χ 3χv κ1 Κα2 J LUMO\nSA\npMIC 1.00\nSA\nµ 0.14 1.00\nlog P -0.52 0.07 1.00\nMR -0.71 -0.03 0.93 1.00\n1χv -0.76 -0.10 0.88 0.99 1.00\n3χ -0.84 -0.03 0.57 0.74 0.81 1.00\n3χv -0.82 0.19 0.65 0.79 0.82 0.92 1.00\nκ1 -0.73 -0.15 0.87 0.98 0.99 0.77 0.75 1.00\nΚα2 -0.48 -0.17 0.86 0.91 0.87 0.47 0",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 7,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": ".376 3χ – 1.986 ( Eq. 5 )\nsa\ninitial correlation of r = 0.848 was found with the n= 30, r= 0.848, q2= 0.674, F= 2.398, SD= 0.135\ntopological parameters third-order molecular\nTable 5 Correlation matrix for antibacterial activity again Staphylococcus aureus\npMIC µ log P MR 1χv 3χ 3χv κ1 Κα2 J LUMO\nSA\npMIC 1.00\nSA\nµ 0.14 1.00\nlog P -0.52 0.07 1.00\nMR -0.71 -0.03 0.93 1.00\n1χv -0.76 -0.10 0.88 0.99 1.00\n3χ -0.84 -0.03 0.57 0.74 0.81 1.00\n3χv -0.82 0.19 0.65 0.79 0.82 0.92 1.00\nκ1 -0.73 -0.15 0.87 0.98 0.99 0.77 0.75 1.00\nΚα2 -0.48 -0.17 0.86 0.91 0.87 0.47 0.49 0.92 1.00\nJ 0.16 -0.42 -0.61 -0.51 -0.49",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 7,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "omparison of observed, predicted, and residual\nall QSAR models are authentic. In contrast, the values of each of the organisms taken, shown in\nvalidity of the QSAR model is demonstrated by the Table 6.\nTable 6 Observed, predicted, and residual activity values of the benzimidazole derivatives\nC. No. Escherichia Coli Staphylococcus aureus\nObs. Pre. Res. Obs. Pre. Res.\n1 - - - 1.63 1.52 0.12\n2 - - - 1.64 1.53 0.11\n3 1.35 1.50 -0.16 1.65 1.58 0.07\n4 - - - 1.72 1.60 0.12\n5 1.67 1.61 0.06 1.67 1.52 0.15\n6 - - -- 1.67 1.52 0.16\n7 1.37 1.54 -0.17 1.67 1.52 0.15\n8 1.59 1.89 -0.30 1.89 1.78 0.11\n9 1.40 1.45 -0.05 1.70",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "rved, predicted, and residual\nall QSAR models are authentic. In contrast, the values of each of the organisms taken, shown in\nvalidity of the QSAR model is demonstrated by the Table 6.\nTable 6 Observed, predicted, and residual activity values of the benzimidazole derivatives\nC. No. Escherichia Coli Staphylococcus aureus\nObs. Pre. Res. Obs. Pre. Res.\n1 - - - 1.63 1.52 0.12\n2 - - - 1.64 1.53 0.11\n3 1.35 1.50 -0.16 1.65 1.58 0.07\n4 - - - 1.72 1.60 0.12\n5 1.67 1.61 0.06 1.67 1.52 0.15\n6 - - -- 1.67 1.52 0.16\n7 1.37 1.54 -0.17 1.67 1.52 0.15\n8 1.59 1.89 -0.30 1.89 1.78 0.11\n9 1.40 1.45 -0.05 1.70 1.63 0.07\n10 - - - 1.7",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "QSAR, Molecular Docking, And ADME Studies Of Benzimidazole Derivatives\nAs Antibacterial Agents Section A-Research Paper\nmolecules 2, 4, 7, 14, 15, 24, 25 and 27 adhere to 24, 25 and 27 follow the Lipinski's rule,\neach component of the Lipinski rule of five. The recommending that these derivatives could be\nresults suggested that the compounds 2, 4, 7, 14, 15, employed as modelling molecules in future studies.\nTable 10 ADME data of most active compounds calculates using Qik Prop Simulation\nC.No. MW QPlogPo/w AcceptHB QPlogBB DonorHB Human oral bsorption Rule of Five\n2 287.320 3.484 3.250 -0.557 2 3 0\n4 237.260 2.473 3.250 -0.691 2 3 0\n7 266.259 2.549 3.500 -1.121 1 3 0\n14 409.357 0.678 8.500 -2.111 0 2 1\n15 257.291 0.745 7.500 -1.254 0 3 0\n24 436.426 3.529 7.250 -1.147 1 3 0\n25 415.364 2.162 7.500 -2.097 0 3 0\n27 430.419 3.077 8.000 -1.315 0 3 0\n✓ Molecular weight, not more than 500 Da. out; ADME; Adsorption Distribution Metabolism\n✓ Hydrogen bond donor (Accepted Limit: ≤ 5) Excretion; HOMO: Highest occupied molecular\n✓ Hydrogen bond acceptor (Accepted Limit: ≤ 10) orbital; LUMO: Lowest unoccupied molecular\n✓ Log P less than 5. orbital; J: Balaban topological index; W: Wiener\n✓ Human oral absorption – 1, 2, or 3 for low, topological index; R: Randic topological index; µ:\nmedium, or high. Total dipole; MR: Molecular Refractivity\n✓ QPlogBB range from -3.0 to 1.2.\nAcknowledgements\nCONCLUSION The authors thank the Head of the Department of\nVarious computational techniques, including 2D Pharmaceutical Sciences, Maharshi Dayanand\nQSAR, molecular docking, and ADME studies of University, Rohtak, for providing the necessary\nbenzimidazole derivatives against S. Aureus and E. facilities to carry out this research work—special\nColi, were used in this research study. Molecular thanks to Vinod Devaraji and his team for guiding\ndescriptors used in 2D QSAR studies, and learning Schrodinger software.\ninclude topological index Balaban (J), electronic\nparameters like Vamp Lumo & Kier's second order Authors’ Contributions\nalpha shape index (kα2) against E.Coli Authors VK and BN designed the computational\nmicroorganisms. The antibacterial activity of study; VK, JR and MK carried out the 2D QSAR\nbenzimidazole derivatives is governed by study; SY and AS carried out the molecular\ntopological parameters like third-order molecular docking study; KB carried out the ADME study of\nconnectivity index (3χ) against S. Aureus synthesised compounds; MK helped in critical\nmicroorganisms. According to molecular docking revision of the manuscript. All authors read and\nstudies, compounds 15, 2, 4, 7 and 24 have the best approved the final manuscript.\ndocking scores against the protein Topoisomerase\nII (PDB ID: 1JIJ) and compounds 14, 27, 2, 25 Funding\nand 15 have the best docking scores against the Not applicable\nprotein DNA Gyrase (PDB ID: 1KZN). The\nLipinski rule of five was used to determine an Availability of data and materials\nexcellent ADME profile based on QSAR, The datasets used and analysed during the current\nmolecular docking data, and binding interaction study are available from the corresponding author\nanalysis. According to the study, these compounds upon reasonable request.\nmay be used as lead structures for more\ninvestigation of antimicrobial resistance. Ethics approval and consent to participate\nNot applicable\nAbbreviations\nQSAR: Quantitative structure activity relationship; Conflict of interest\nCADD: Computer Aided Drug Design; MIC: The authors declare no conflict of interest\nMinimum Inhibitory Concentration; MLR:\nMultiple Linear Regression; Log P: Partition Consent for publication\nCoefficient; pMIC: log of Minimum Inhibitory All authors of the research paper have approved the\nConcentration; μM: Micromol; SA: S.Aureus; EC: manuscript for submission.\nE.Coli; PDB: Protein data bank; LOO: Leave one\nEur. Chem. Bull. 2023, 12(Special Issue 5), 5524 – 5539 5536",
+    "source": {
+      "source_file": "2023.12.si5a.0471.pdf",
+      "page": 13,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  }
+]

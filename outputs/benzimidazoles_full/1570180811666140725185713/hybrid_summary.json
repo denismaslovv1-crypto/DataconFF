@@ -1,0 +1,74 @@
+{
+  "pdf": "data\\chemx\\benzimidazoles\\pdfs\\1570180811666140725185713.pdf",
+  "confidence": "low",
+  "llm_mode": "never",
+  "llm_ran": false,
+  "llm_status": "skipped",
+  "rule_records": 14,
+  "llm_records": 0,
+  "merged_records_before_dedup": 14,
+  "predictions_csv": "outputs\\benzimidazoles_full_dedup_fix\\1570180811666140725185713\\predictions.csv",
+  "sidecar_json": "outputs\\benzimidazoles_full_dedup_fix\\1570180811666140725185713\\predictions_with_evidence.json",
+  "metrics": {
+    "macro_f1": 0.1984126984126984,
+    "field_metrics": [
+      {
+        "field": "compound_id",
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "true_positive": 0
+      },
+      {
+        "field": "smiles",
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "true_positive": 0
+      },
+      {
+        "field": "target_type",
+        "precision": 1.0,
+        "recall": 0.6363636363636364,
+        "f1": 0.7777777777777778,
+        "true_positive": 14
+      },
+      {
+        "field": "target_relation",
+        "precision": 0.21428571428571427,
+        "recall": 0.13636363636363635,
+        "f1": 0.16666666666666663,
+        "true_positive": 3
+      },
+      {
+        "field": "target_value",
+        "precision": 0.14285714285714285,
+        "recall": 0.09090909090909091,
+        "f1": 0.1111111111111111,
+        "true_positive": 2
+      },
+      {
+        "field": "target_units",
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "true_positive": 0
+      },
+      {
+        "field": "bacteria",
+        "precision": 0.42857142857142855,
+        "recall": 0.2727272727272727,
+        "f1": 0.33333333333333326,
+        "true_positive": 6
+      }
+    ],
+    "prediction_count": 14,
+    "ground_truth_count": 22,
+    "benchmark_pdf_ids": [
+      "10.1002/jhet.1889",
+      "10.1002/jhet.2034",
+      "10.1016/j.ejmech.20-14.0-"
+    ],
+    "benchmark_pdf_name": "1570180811666140725185713"
+  }
+}

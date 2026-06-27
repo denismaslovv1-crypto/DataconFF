@@ -1,0 +1,23 @@
+compound_id,smiles,target_type,target_relation,target_value,target_units,bacteria
+BK-1,NOT_DETECTED,MIC,=,1.25,mm,Staphylococcus aureus
+BK-1,NOT_DETECTED,MIC,=,0.625,mm,Escherichia coli
+BK-2,NOT_DETECTED,MIC,=,1.25,mm,Staphylococcus aureus
+BK-2,NOT_DETECTED,MIC,=,2.5,mm,Escherichia coli
+BK-3,NOT_DETECTED,MIC,=,5.0,mm,Staphylococcus aureus
+BK-3,NOT_DETECTED,MIC,=,5.0,mm,Escherichia coli
+BK-4,NOT_DETECTED,MIC,=,5.0,mm,Staphylococcus aureus
+BK-4,NOT_DETECTED,MIC,=,5.0,mm,Escherichia coli
+BK-5,NOT_DETECTED,MIC,=,1.25,mm,Staphylococcus aureus
+BK-5,NOT_DETECTED,MIC,=,2.5,mm,Escherichia coli
+BK-6,NOT_DETECTED,MIC,=,5.0,mm,Staphylococcus aureus
+BK-6,NOT_DETECTED,MIC,=,5.0,mm,Escherichia coli
+BK-7,NOT_DETECTED,MIC,=,0.625,mm,Staphylococcus aureus
+BK-7,NOT_DETECTED,MIC,=,1.25,mm,Escherichia coli
+BK-8,NOT_DETECTED,MIC,=,5.0,mm,Staphylococcus aureus
+BK-8,NOT_DETECTED,MIC,=,2.5,mm,Escherichia coli
+BK-9,NOT_DETECTED,MIC,=,2.5,mm,Staphylococcus aureus
+BK-9,NOT_DETECTED,MIC,=,2.5,mm,Escherichia coli
+BK-10,NOT_DETECTED,MIC,=,2.5,mm,Staphylococcus aureus
+BK-10,NOT_DETECTED,MIC,=,0.156,mm,Escherichia coli
+BK-11,NOT_DETECTED,MIC,=,2.5,mm,Staphylococcus aureus
+BK-11,NOT_DETECTED,MIC,=,1.25,mm,Escherichia coli

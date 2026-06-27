@@ -1,0 +1,8 @@
+{
+  "input_records": 24,
+  "output_records": 24,
+  "exact_duplicates_merged": 0,
+  "records_with_normalized_fields": 24,
+  "conflict_count": 0,
+  "conflicts": []
+}

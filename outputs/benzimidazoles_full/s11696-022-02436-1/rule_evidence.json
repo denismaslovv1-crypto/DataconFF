@@ -1,0 +1,58 @@
+[
+  {
+    "text": "The structure of the prepared compounds\nwas confirmed with the help of 1D, 2D-NMR, FTIR and HRMS. The synthesized compounds have been evaluated for their\nbiocidal effects against four bacterial and two fungal strains. The obtained results indicate stronger inhibitory effect of com-\npound 5o against E. coli, while compound 5r showed good inhibition against all the tested strains except B. subtilis. In vitro\nα-glucosidase inhibition of all synthesized derivatives identified 5p ( IC value = 0.015 ± 0.0003 μmol/mL) and 5r ( IC\n50 50\nvalue = 0.018 ± 0.0008 μmol/mL) as potent inhibitors of α-glucosidase, e",
+    "source": {
+      "source_file": "s11696-022-02436-1.pdf",
+      "page": 1,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "Chemical Papers\ncarbons. For the assignment of each carbon, HSQC and parameters comprising of absorption, distribution, metabo-\nHMBC experiments were performed. HSQC gave the lism and excretion from the human body. The calculated\nassignment of carbon signals at δ 127.56 (C ), 125.59 parameters were reported in Table 2. The value of molecular\n28\n( C ), 125.45 (C ), 122.08 (C /C ), 118.00 (C ), 116.28 aqua-phobicity is measured by the octanol–water partition\n17 26 1 2 3\n( C ), 110.12 (C ), 52.44 (C ), 46.87(C ), 39.19 (C ), coefficient (miLogP). All the newly synthesized compounds\n25 6 12 21 18\n28.00 ( C ), 14.90 (C ), because the key correlation was show miLogP value less than 5, these compounds may per-\n22 11\nas follows δ 8.06 → 125.59, 7.94 → 116.28, 7.61 → 110.30, meate lipid bilayers. The number of hydrogen bond accep-\n7.56 → 118.00, 7.27 → 125.45, 7.18 → 122.08, tors (nON) was found less than or equal to 10, except in\n7.14 → 127.56, 7.03 → 124.35, 5.52 → 39.19, 5.48 → 52.44, 5r (nON = 11) and the number of hydrogen bond donors\n4.18 → 46.87, 3.20 → 28.00 and 2.74 → 14.90. (nOHNH) in all the hybrid analogues was found to be less\nThe HMBC spectrum reflected the linkage involving than 5. The synthesized compounds have molecular weight\nhydrogen with other carbons through multiple bond cor- less than 500 Dalton which indicates their easy diffusion,\nrelation and help us to assign the quaternary carbon sig- absorption and transportation. The number of rotational\nnals at 164.45 (C ), 152.71 (C ), 143.46 (C ), 142.87 bonds was found to be less than 10, thus demonstrating\n19 8 5\n( C ), 142.28 (C ), 136.56 (C ) and 132.18(C ). The good flexibility. Topological polar surface area (TPSA) was\n24 13 4 23\nabove assignment was confirmed through HMBC cor- observed in the range of 68.85 to 127.57 Å2 which is less\nrelation, i.e. δ 8.06 → 142.28; 7.94 → 132.18 and 125.45, than 140 Å2 thereby predicting good transport properties\n7.61 → 143.46 and 122.08; 7.56 → 143.46, 136.56 and like intestinal absorption, blood barrier penetration, etc. All\n122.08; 7.27 → 142.87, 127. 56 and 125.45; 7.18 → 143.46, the newly synthesized compounds shown in Table 1 follow\n136.56, 118.00 and 110.30; 7.03 → 116.28 and 132.18; the ‘Lipinski rule of five’ except 5r (one violation). There\n5.52 → 164.45 and 125.59; 5.48 → 152.71, 142.28, 136.56 is one violation, which confirms the good drug-likeness of\nand 125.59. the rest of the synthesized compounds.\nIn silico ADME properties Pharmacology\nThe drug-likeness properties of the newly synthesized Antimicrobial activity\ncompounds were calculated by online available Molinspi-\nration property calculator (https://w ww.m olins pirat ion. The MIC values of the synthesized compounds ranges\ncom) which gives information about the pharmacokinetic between 0.013 to 0.070 µmol/mL for bacterial strains and\nTable 2 In silico parameters of\nComp. No MiLogP TPSA Natoms MW nON nOHNH nviolation Nrotb Volume\nsynthesized compounds\n5a 2.29 68.85 27 358.40 7 0 0 4 317.25\n5b 3.09 68.85 29 386.46 7 0 0 4 350.37\n5c 2.38 68.85 28 372.43 7 0 0 4 333.81\n5d 3.21 68.85 29 404.50 7 0 0 5 351.94\n5e 4.40 68.85 33 434.50 7 0 0 5 388.66\n5f 3.26 81.75 33 435.49 8 0 0 5 384.50\n5g 2.62 68.85 28 372.43 7 0 0 4 333.84\n5h 3.42 68.85 30 400.49 7 0 0 4 366.96\n5i 2.71 68.85 29 386.46 7 0 0 4 350.40\n5j 3.54 68.85 30 418.53 7 0 0 5 368.53\n5k 4.73 68.85 34 448.53 7 0 0 5 405.25\n5l 3.59 81.75 34 449.52 8 0 0 5 401.09\n5m 2.22 114.68 30 403.40 10 0 0 5 340.58\n5n 3.02 114.68 32 431.46 10 0 0 5 373.71\n5o 2.31 11.68 31 417.43 10 0 0 5 357.14\n5p 3.14 114.68 32 449.50 10 0 0 6 375.27\n5q 4.34 114.68 36 479.50 10 0 0 6 411.99\n5r 3.19 127.57 36 480.49 11 0 1 6 407.84\nMW molecular weight, miLogP calculated partition coefficient, nRotB number of rotatable bonds, TPSA\ntopological polar surface area\n1 3",
+    "source": {
+      "source_file": "s11696-022-02436-1.pdf",
+      "page": 10,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "Chemical Papers\n0.026 to 0.070 µmol/mL for fungal strains, respectively • Overall, nitro and pyridinyl containing derivatives exhib-\n(Table 2). Analysis of the antimicrobial activity result from ited better antimicrobial potential among the synthesized\nTable 3 showed that compound 5r showed excellent activity compounds.\nagainst bacteria, i.e. S. aureus (MIC = 0.013 µmol/mL), E.\ncoli and S. epidermidis (MIC = 0.026 µmol/mL) and com-\npound 5o showed good activity against bacteria, i.e. E. coli\nand S. epidermidis (MIC = 0.030 µmol/mL) as compared to α‑Glucosidase inhibition\nreference drug Norfloxacin. Compound 5r was found to pos-\nsess promising activity against A. niger and C. albicans with The newly synthesized compounds were evaluated\nMIC value of 0.0260 µmol/mL as compared to reference for in vitro inhibition of α-glucosidase using Acar-\ndrug Fluconazole. bose as a standard drug. The IC values of compounds\n50\nare presented in Table 4. The predominance of tested\n• In benzimidazole-1,2,3-triazole-indoline derivatives 5f, compounds showed significant α-glucosidase inhibi-\n5l and 5r having pyridinyl moiety on benzimidazole, tory activity with IC values range of 0.015 ± 0.00\n50\nthe order of activity is 5r ( NO ) > 5f ≈ 5l (H) against 03–0.081 ± 0.002 μmol/mL as compared to standard\n2\nS. aureus, E. coli, S. epidermidis, A. niger and C. albi- drug Acarbose (IC = 0.019 ± 0.0007 μmol/mL). Com-\n50\ncans. Interestingly, 5r displayed highest activity against pounds 5p ( IC = 0.015 ± 0.0003 μmol/mL) and 5r\n50\nall microbes except B. subtilis, even better than standard ( IC = 0.018 ± 0.0008 μmol/mL) showed excellent potency\n50\ndrugs—Norfloxacin and Fluconazole. Further, in thio- against α-glucosidase as compared to standard drug.\nmethyl derivatives (5d, 5j and 5p) substitution of nitro\nStructure–activity relationship\ngroup on indoline again performed better activity against\nall bacterial and fungal strains and in methyl derivatives\n(5c, 5i and 5o), 5o with nitro substitution was more active The results of the α-glucosidase inhibition demonstrated\nagainst E. coli and S. epidermidis as compared to refer- some interesting facts about the SAR of the synthesized\nence drug—Norfloxacin. benzimidazole-1,2,3-triazoles-indolines (Fig. 2). The phar-\n• In benzimidazole-1,2,3-triazole-indoline derivatives 5e, macological profile of molecules is strongly affected by the\n5k and 5q having phenyl moiety on benzimidazole, there substituents present on benzimidazole and indoline ring.\nis comparable activity against all strains except for S. Further, while comparing the α-glucosidase inhibition data\naureus where the order is 5e (H)≈ 5q (NO ) > 5k (H). of our previously reported work with the current manuscript\n2\nTable 3 Antimicrobial activity Compound S. aureus E. coli B. subtilis S. epidermidis A. niger C. albicans\nof synthesized compounds in\nterms of MIC (µmol/mL) 5a 0.035 0.070 0.070 0.070 0.070 0.070\n5b 0.065 0.065 0.065 0.065 0.065 0.065\n5c 0.067 0.067 0.067 0.067 0.067 0.067\n5d 0.062 0.062 0.062 0.062 0.062 0.062\n5e 0.029 0.058 0.058 0.058 0.058 0.058\n5f 0.029 0.057 0.057 0.057 0.057 0.057\n5g 0.034 0.067 0.067 0.067 0.067 0.067\n5h 0.031 0.063 0.063 0.063 0.063 0.063\n5i 0.065 0.065 0.065 0.065 0.065 0.065\n5j 0.060 0.060 0.060 0.060 0.060 0.060\n5k 0.056 0.056 0.056 0.056 0.056 0.056\n5l 0.028 0.056 0.056 0.056 0.056 0.056\n5m 0.031 0.062 0.062 0.062 0.062 0.062\n5n 0.029 0.058 0.058 0.058 0.058 0.058\n5o 0.060 0.030 0.060 0.030 0.060 0.060\n5p 0.029 0.056 0.056 0.056 0.056 0.056\n5q 0.026 0.052 0.052 0.052 0.052 0.052\n5r 0.013 0.026 0.052 0.026 0.026 0.026\nNorfloxacin 0.020 0.039 0.039 0.039\nFluconazole 0.041 0.020\n1 3",
+    "source": {
+      "source_file": "s11696-022-02436-1.pdf",
+      "page": 11,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ves and investigation of their anticancer and antimicrobial activi- 2022.1 00379\nties, carbonic anhydrase and acetylcholinesterase enzymes inhibi- Srinivasan B, Tonddast-Navaei S, Roy A, Zhou H, Skolnick J (2019)\ntion profiles. Arch Physiol Biochem 124(1):61–68. https://d oi.o rg/ Chemical space of Escherichia coli dihydrofolate reductase inhibi-\n10.1 080/1 38134 55.2 017.1 36091 4 tors: new approaches for discovering novel drugs for old bugs.\nKumar N, Asija S, Deswal Y, Saroya S, Kumar A, Devi J (2022) Med Res Rev 39(2):684–705. https://d oi.o rg/1 0.1 002/m ed.2 1538\nOrganotin (IV) complexes derived from hy",
+    "source": {
+      "source_file": "s11696-022-02436-1.pdf",
+      "page": 16,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  }
+]

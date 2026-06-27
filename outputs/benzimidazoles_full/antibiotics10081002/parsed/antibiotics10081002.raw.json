@@ -1,0 +1,641 @@
+{
+  "source_file": "antibiotics10081002.pdf",
+  "page_count": 29,
+  "metadata": {
+    "Author": "Maria Marinescu",
+    "CreationDate": "D:20210823110707+08'00'",
+    "Creator": "LaTeX with hyperref",
+    "Keywords": "benzimidazole; pyrazole; hybrids; antimicrobial; pharmaceutical properties",
+    "ModDate": "D:20210823051031+02'00'",
+    "Producer": "pdfTeX-1.40.21",
+    "Subject": "The synthesis of new compounds with antimicrobial and antiviral properties is a central objective today in the context of the COVID-19 pandemic. Benzimidazole and pyrazole compounds have remarkable biological properties, such as antimicrobial, antiviral, antitumor, analgesic, anti-inflammatory, anti-Alzheimer’s, antiulcer, antidiabetic. Moreover, recent literature mentions the syntheses and antimicrobial properties of some benzimidazole–pyrazole hybrids, as well as other biological properties thereof. In this review, we aim to review the methods of synthesis of these hybrids, the antimicrobial activities of the compounds, their correlation with various groups present on the molecule, as well as their pharmaceutical properties.",
+    "Title": "Synthesis of Antimicrobial Benzimidazole–Pyrazole Compounds and Their Biological Activities"
+  },
+  "text_blocks": [
+    {
+      "text": "antibiotics\nReview\nSynthesis of Antimicrobial Benzimidazole–Pyrazole\nCompounds and Their Biological Activities\nMariaMarinescu\nDepartmentofOrganicChemistry,BiochemistryandCatalysis,FacultyofChemistry,UniversityofBucharest,\nSoseauaPanduri,030018Bucharest,Romania;maria.marinescu@chimie.unibuc.ro\nAbstract:Thesynthesisofnewcompoundswithantimicrobialandantiviralpropertiesisacentral\nobjectivetodayinthecontextoftheCOVID-19pandemic.Benzimidazoleandpyrazolecompounds\nhaveremarkablebiologicalproperties,suchasantimicrobial,antiviral,antitumor,analgesic,anti-\ninflammatory,anti-Alzheimer’s,antiulcer,antidiabetic. Moreover,recentliteraturementionsthe\nsynthesesandantimicrobialpropertiesofsomebenzimidazole–pyrazolehybrids,aswellasother\nbiologicalpropertiesthereof. Inthisreview,weaimtoreviewthemethodsofsynthesisofthese\nhybrids,theantimicrobialactivitiesofthecompounds,theircorrelationwithvariousgroupspresent\nonthemolecule,aswellastheirpharmaceuticalproperties.\nKeywords:benzimidazole;pyrazole;hybrids;antimicrobial;pharmaceuticalproperties\n(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1) 1. Introduction\n(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)\nMicrobialresistanceisoneoftheburningissuesfacingclinicalpracticeandfinding\nCitation: Marinescu,M.Synthesisof neweffectivecompoundsagainstmulti-resistantpathogensisoneofthemajorgoalsin\nAntimicrobialBenzimidazole–Pyrazole currentbiomedicalresearch[1]. Thediscoveryofnewantimicrobialandantiviralcom-\nCompoundsandTheirBiological poundsisamajorgoalinthecontextoftoday’sCOVID-19pandemic[2]. Itisknownthat\nActivities.Antibiotics2021,10,1002. bothpatientswithseverecasesandpatientswithmoderatecasesofCOVID-19,withor\nhttps://doi.org/10.3390/ without pneumonia, have received treatments with various antibiotics [3]. Among the\nantibiotics10081002 heterocycliccompoundsknownintheliteraturefortheirantimicrobialactivitiesarethose\nwithbenzimidazoleringandthosewithpyrazolering,aromaticcompoundswithavery\nAcademicEditor:MariaFernandaN.\nwiderangeofmedicinalproperties. Benzimidazolederivativesdevelopedaconsiderable\nN.Carvalho\ninterestinmedicaldomainduetotheirtherapeuticactionasantitumor[4–7],antimicro-\nbial[8–14],antihelmintic[15],antihistaminic[16,17],protonpumpinhibitors[16,18],anti-\nReceived:31July2021\ninflammatory[19,20]andanti-hypertensive[21]drugs. Astemizole-relatedcompounds\nAccepted:18August2021\ndemonstrated anti-prion activity for the treatment of Creutzfeldt–Jakob disease, while\nPublished:19August2021\nalbendazolecompoundsarecurrentlyusedasmedicationforthetreatmentofavariety\nofparasiticworminfestations. Additionally,benzimidazolestreatmitochondrialdysfunc-\nPublisher’sNote:MDPIstaysneutral\ntioninAlzheimer’sdisease[22],possessneurotropic,psychoactive,analgesiceffects[23],\nwithregardtojurisdictionalclaimsin\nanticoagulantproprieties[24]andareefficientagentsinDiabetesmellitus[25]. Addition-\npublishedmapsandinstitutionalaffil-\nally,pyrazolecompoundspossessadiversityofbiologicalactivitiesasanalgesic[26–28],\niations.\nanticonvulsivant [29,30], antitumor [31–34], antidiabetic [35,36], antimicrobial [37–43],\nantipyretic[44,45],antiviral[46,47],antimalarial[48,49],localanesthetic[50]andsoforth.\nMoreover,theliteraturementionsaseriesofbenzimidazole–pyrazolehybridswith\nremarkableantimicrobialproperties,andnotonly,antiviralactivities,evenanti-COVID-\nCopyright: © 2021 by the author.\n19[51–54],inthecontextofthenewpandemic,whichhasledustocurrentresearch,to\nLicensee MDPI, Basel, Switzerland.\nstudytheirsynthesismethods,antimicrobialproperties,structure–propertyrelationships,\nThis article is an open access article\nandtheirbiologicalactivities.\ndistributed under the terms and\nInthisreview,weaimtoreviewthevariousmethodsofsynthesisofbenzimidazole–\nconditionsoftheCreativeCommons\npyrazolehybridcompoundswithantibacterialandantifungalproperties,DNA-Gyrase\nAttribution(CCBY)license(https://\ninhibitors, topoisomerase IV inhibitors, as well as the other biological properties they\ncreativecommons.org/licenses/by/\n4.0/). possess,suchas: antitumor,antioxidant,anti-inflammatory,analgesic,antiulcer(Figure1).\nAntibiotics2021,10,1002.https://doi.org/10.3390/antibiotics10081002 https://www.mdpi.com/journal/antibiotics",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 1,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 2of29\nInordertohighlightthestructuresoftheheterocyclesinthediscussedcompounds,we\ncoloredthebenzimidazolenucleuswithblue,thepyrazolewithgreen,thelinkerwithred,\nandthecompoundswithgoodbiologicalactivityaremarkedwitharectangle.\nFigure1. Schematicrepresentationofthesynthesisandbiologicalpropertiesofbenzoimidazole–\npyrazolecompounds.\n2. Synthesis,AntimicrobialActivitiesofBenzimidazole–PyrazoleCompounds.\nBenzimidazole–PyrazoleCompoundsasPotentDNAGyraseandTopoisomerase\nIVInhibitors\n2.1. BenzimidazolesSubstitutedinthe“2”PositionwithPyrazoleMoiety\nBenzimidazolechalcones2a–2n,synthesizedfrom2-acetylbenzimidazole1andalde-\nhydes in ethanolic KOH by a Claisen–Schmidt condensation, were cyclocondensated\nwithizoniazide,togive(3-(1H-benzo[d]imidazol-2-yl)-5-(aryl)-4,5-dihydro-1H-pyrazol-\n1-yl)(pyridin-4-yl)methanones3a–3ningoodyields(Scheme1). Allcompoundsshowed\nantimicrobialactivityagainstbacterialstrainsE.coli,P.aeruginosa,S.aureus,S.pyogenesand\nfungiC.albicans,A.nigerandA.clavatus. Thecompounds3d,3g,3h,werefoundtobethe\nbestantibacterials,withMICof25µgmL−1 againstP.aeuginosa(3d)andE.coli(3g,3h)\nandcompound3nthebestantifungal,withMIC25µgmL−1againstA.niger[55].\nScheme1.Synthesisofbenzimidazole–pyrazoles3a–3n.",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 2,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 3of29\nRajoraandSrivastavareportedthesynthesisofsome2-(1H-pyrazol-3-yl)-1H-benzo[d]\nimidazolesbybrominationofbenzimidazolylchalcone4,withtheformationofdibromi-\nnatedintermediates5a–5f,followedbycyclizationinthepresenceofhydrazinehydrate\nanddehydrobromination,withtheformationofcompounds6a–6f(Scheme2).\nScheme2.Synthesisofbenzimidazole-pyrazole7.\nCompounds6a–6fshowedgoodantimicrobialactivityonfourbacterialstrains,E.coli,\nP.aeruginusa,B.subtilis,K.pneumoniaeandtwofungi,CandidaalbiconsandAspergillusniger,\nconsideringciprofoxacinandfluconazoleasstandarddrugs[56].\n2-Chloro-1-(5-hydroxy-3-methyl-1-phenyl-1H-pyrazol-4-yl)ethanone8synthesized\nbyrefluxing5-pyrazolone7withchloroacetylchlorideinabasicdioxanesolutionreacted\nwith2-aminobenzimidazole9togiveN-(3-methyl-1-phenyl-1H-furo[2,3-c]pyrazol-4(5H)-\nylidene)-1H-benzimidazol-2-amine10(Scheme3)[57]. Compound10showedaverygood\nanti-Gram-positiveprofile,beingequivalenttochloramphenicolagainstB.subtilis(MIC\n3.125µgmL−1),significantactivityagainstB.thuringiensis(MIC6.25µgmL−1)andalso\ngoodantibacterialactivitiesagainstGram-positivebacteria,E.coli(MIC50µgmL−1)andP.\naeruginosa(MIC50µgmL−1). Antifungalactivityofthecompound10was50%lowerthan\ncycloheximideininhibitorythegrowthofB.fabaeandF.oxysporum(MIC6.25µgmL−1).\nScheme3.Synthesisofbenzimidazole–pyrazole10.\nAsimilarcondensationofchalcones11a–11kwithintermediatehydrazide12inacetic\nacid, at 130 ◦C afforded new benzimidazole bearing pyrazoline derivatives 13a–13k in\nexcellentyields(Scheme4). Allcompoundsshowedantimicrobialactivityagainstbacteria\nE.coliMTCC443,P.aeruginosaMTCC1688,S.aureusMTCC96,S.pyogenesMTCC442and\nfungiC.albicansMTCC227,A.nigerMTCC282andA.clavatusMTCC1323. Compounds\n13a–13dshowedthehighestinhibitionagainstalmostallbacteriatestedwithvaluesof\nminimum inhibitory concentrations of 25–50 mg mL−1, while derivatives 13e–13k had\nantifungalactivityagainstalmostallstrainstested,withsimilarCMIvalues[58]. Structure–\nactivityrelationshipstudieshaveshownthatthepresenceofelectron-withdrawinggroups\ninthearomaticring,likeF,Cl,BrandNO ,areresponsibleforincreasingantimicrobial\n2\nactivityformostmicroorganismstested.",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 3,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 4of29\nKalariaetal.,reportedaL-prolinepromotedone-potfour-componenttandemreac-\ntionforsynthesisofcompound16,startingfromcarbothioamide14,pyrazolylaldehyde\n15,α-bromoethylacetateandmalononitrile(Scheme5)[59]. Antibacterialactivityofthe\ncompounds16wasscreenedagainstthreeGram-positivebacteria(Streptococcuspneumo-\nniaeMTCC1936,BacillussubtilisMTCC441andClostridiumtetaniMTCC449)andthree\nGram-negativebacteria(EscherichiacoliMTCC443,SalmonellatyphiMTCC98,Vibriocholerae\nMTCC3906)usingampicillin,norfloxacinandciprofloxacinasthestandardantibacterial\ndrugs. Compound16illustratedanexcellentactivityagainstGram-positivebacteriaB.\nsubtilis(62.5µgmL−1),beingmorepotentthanampicillin(250µgmL−1)andnorfloxacin\n(100 µg mL−1) and also against C. tetani, with a CMI of 200 µg mL−1 compared with\n250µgmL−1forampicilin. Additionally,thestructure–activityrelationship(SAR)showed\nthatthepresenceofbenzimidazoleinthefifthpositioninthepyrazoleringisresponsible\nforitsbiologicalactivity.\nScheme4.Synthesisofbenzimidazole–pyrazoles13a–13k.\nScheme5.Synthesisofbenzimidazole–pyrazoles16.\nPatiletal.,reportedtwoseriesobenzimidazole–pyrazolecompounds19a–19fand\n20a–20fintwosteps: acondensationbetween2-benzimidazolehydrazine17andpyrazole\n18a–18f,followedbycyclizationwiththioglicolicacid(Scheme6)[60].Thecompounds19b,\n19d,20aand20fshowgoodactivityagainstbacteriaP.aeruginosa,S.aureusandP.vulgaris,\nwhiletheothersshowmoderatetopooractivityagainstallpathogens. Thecompounds\n19aand19cexhibitedgoodactivityagainstfungalstrainsA.nigerandA.flavus.",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 4,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 5of29\nScheme6.Synthesisofbenzimidazole–pyrazoles19a–19fand20a–20f.\nReddy et al., reported the synthesis of a new class of pyrazolyl–benzimidazoles\n23a–23cpossessinganamidegroupbyreactionbetweenpyrazolones21a–21cwith1H-\nbenzo[d]imidazol-2-amine9,andtheoxidationoftheintermediatecompounds22a–22c\nwithchloranil(Scheme7)[61]. Itwasfoundthatthepresenceofelectron-withdrawing\nsubstituent“Cl”onthearomaticringincreasestheantimicrobialactivity,compound23c\nbeing a potent antifungal agent against A. niger considering ketoconazole as standard.\nAdditionally,compounds23aand23cpossessantimicrobialactivityagainstB.subtilisand\nP.aeruginosa(chloramphenicolstandard).\nScheme7.Synthesisofbenzimidazole–pyrazoles23a–23c.\nPadalkaretal.,synthesizedanewclassofantimicrobialagents,byreactionofphenyl\nhydrazinewithsubstitutedacetophenones24togivethecorrespondinghydrazones25,\nwhichonVilsmeier–HaackreactionwithPOCl –DMFgavesubstituted3-aryl-4-formyl\n3\npyrazoles26. Compounds25a–25bwerecondensedwitho-substitutedaromaticamines27\ninthepresenceofPCl inethanoltoobtaincorresponding2-[substituted-1H-pyrazol-4-yl]-\n3\n1H-benzimidazoles28b–28i(Scheme8)[62].Thecompound28gshowedgoodantibacterial\nactivityagainstEscherichiacoliandStaphylococcusaureus, andcompounds28d, 28e, 28h\nexhibitedweaktomoderategrowthinhibitoryactivityagainstbothE.coliandS.aureusas\nrevealedfromtheirMICvalues(Table1). Compounds28fand28hshowgoodinhibitory\ngrowthinthecaseofCandidaalbicans(MIC=62.5µgmL−1). Saundaneetal., reported\nthe synthesis of a series of benzimidazole–pyrazole compounds using a two-step strat-\negy(Scheme9): synthesisofintermediatechalcones25a–25bbyacondensationreaction,\nfollowed by a cyclization reaction with hydazine (compounds 31) or phenylhydrazine",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 5,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 6of29\n(compounds32)[63]. Allcompoundswereassessedfortheirinvitroantibacterialactivity\nagainstfourrepresentativebacterialspeciesE.coli(MTCC-723),S.aureus(ATCC-29513),K.\npneumonia(NCTC-13368)andP.aeruginosa(MTCC-1688)usinggentamycinasareference\nand for their antifungal activity against A. oryzae (MTCC-3567T), A. niger (MTCC-281),\nA.flavus(MTCC-1973),A.terreus(MTCC-1782). Compounds31aand32apossessgood\nantibacterialandantifungalactivity(Table2),againstE.coli,S.aureus(MIC=8µgmL−1)\nand A. niger (MIC = 8 µg mL−1 for 31a). Additionally, all compounds possess antioxi-\ndantactivity.\nScheme8.Synthesisofbenzimidazole–pyrazoles27a–27i.\nScheme9.Synthesisofbenzimidazole–pyrazoles31a–31cand32a–32c.",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 6,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 7of29\nTable1.Antibacterialandantifungalactivitiesofthecompounds28a–28hindicatedbyMIC(µgmL−1).\nCompound E.coli S.aureus C.albicans A.niger\n28b 312 312 312 312\n28c 187.5 312 312 312\n28d 250 62.5 250 187.5\n28e 187.5 62.5 312 250\n28f 312 187.5 62.5 312\n28g 62.5 62.5 312 312\n28h 125 62.5 62.5 125\nStreptomycin 125 125 - -\nFluconazole - - 125 125\nTable2.Antibacterialandantifungalactivitiesofthecompounds28a–28h.\nCompound AntibacterialActivity(MICµgmL−1) AntifungalActivity(MICµgmL−1)\nEc Sa Kp Pa Ao An Af At\n31a 8 8 16 16 16 8 16 8\n31b 32 64 128 128 64 128 256 128\n31c 128 512 512 256 512 512 256 128\n32a 8 16 16 32 32 16 8 32\n32b 32 32 16 128 128 128 256 128\n32c 32 64 512 256 128 256 256 128\nGentamycin 2 2 2 2 - - - -\nFluconazole - - - - 2 2 2 2\nEc:Escherichiacoli(MTCC-723),Sa:Staphylococcusaureus(ATCC-29513),Kp:Klebsiellapneumonia(NCTC-13368),\nPa:Pseudomonasaeruginosa(MTCC-1688),Ao:Aspergillusoryzae(MTCC-3567T),An:Aspergillusniger(MTCC-281),\nAf:Aspergillusflavus(MTCC-1973),At:Aspergillusterreus(MTCC-1782).\nPadhyetal.,synthesizedtwoseriesofbenzimidazole–pyrazolecompoundsinthree\nsteps: (i)Claisen–Schmidtcondensationof2-acetylbezimidazole1withsubstitutedaro-\nmaticaldehydesinpresenceofNaOH,togivetheintermediateschalcones33a–33e;(ii)con-\ndensationofthechalcones33withbenzylchloridegavethecorresponding1-benzylsub-\nstitutedcompounds34a–34e;(iii)thereactionofcompounds34withphenylhydrazinein\nthepresenceofaceticacidafforded1-benzyl-2-(5-aryl-1-phenyl-4,5-dihydro-1H-pyrazol-3-\nyl)-1H-benzimidazoles35a–35e,while(iv)condensationwiththiosemicarbazideinpres-\nenceofNaOH,give5-aryl-3-(1-benzyl-1H-benzimidazol-2-yl)-4,5-dihydro-1H-pyrazole-1-\ncarbothioamides36a–36eingoodyields(Scheme10). Theinvitroantimicrobialactivityof\ncompounds35–36wastestedagainstfourbacterialstrains,S.aureus,B.subtilis,E.coli,P.\naeruginosa,andonefungus,C.albicans. Thecompoundsexhibitedweakerantimicrobial\nactivitiescomparedtothoseofthecontroldrugs(CiprofloxacinandFluconazole),theMIC\nvaluesofthecompoundsrangedbetween64–1024µgmL–1forthe1-phenylpyrazolines\n35a–35e and between 128–512 µg mL–1 for the pyrazoline-1-carbothioamides 36a–36e.\nCompound35eshowedgoodactivity(64µgmL–1)againstalltestedbacterialstrains[64].",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 7,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 8of29\nScheme10.Synthesisofbenzimidazole–pyrazoles35a–35eand36a–36e.\n4-(1H-benzimidazol-2-yl)benzenamine 37, obtained by cyclization reaction of 1,2-\nphenylenediaminewith4-aminobenzoicacid,wasdiazotizedandtreatedwithethylacetoac-\netatetoproduceethyl2-(2-(4-(1H-benzimidazol-2-yl)phenyl)hydrazono)-3-oxobutanoate\n38throughintramolecularrearrangementreaction. Dehydrativecyclisationof38inthe\nwithdifferenthydrazinehydrochloridesproducecorrespondingbenzimidazole–pyrazole\n39a–39i(Scheme11)[65]. Theantitubercularandantimicrobialactivityofcompounds39\nwasdeterminedonfourGram-positivestrains,threeGram-negativestrainsand2fungi.\nInTable3wemarkedingreentheverygoodantimicrobialactivitiesofcompounds39c\nand39f,aswellasofthecompounds3dand3g,forthelabeledstrains,andtheverygood\nantibacterialactivitiesofallcompoundsagainstStaphylococcusaureus. Thevaluesofthe\nminimuminhibitoryconcentrations(MIC)inTable3showedthatcompounds,39cand39f,\npossessalmostallMICsasgoodasthestandardsusedforantitubercularandantimicrobial\nactivities,andtheirantifungalactivitiesaretwiceashigh,comparedtoKetoconazole,ie\n3.9µgmL–1againstAspergillusnigerATCC9029and1.95µgmL–1againstAspergillusfumiga-\ntusATCC46645.Withtheexceptionofcompounds39f,39hand39i,allcompoundsshowed\nbetterantibacterialactivity(MIC=125µgmL–1)thanstandard,Ciprofloxacin,compounds\n39cand39dbeing16timesmoreactive(MIC=7.81µgmL–1)thanstandard.\nScheme11.Synthesisofbenzimidazole–pyrazoles39a–39i.",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 8,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 9of29\nTable3.Minimuminhibitoryconcentration(µgmL−1)ofthecompounds39a–39i.\nAntibacterialActivity\nAntitubercular Antifungal\nGram-Negative\nCompound Activity Gram-PositiveBacteria Activity\nBacteria\nMt Sa Se Ml Bc Ec Pa Kp An Af\n39a 125.5 62.5 62.5 125 62.5 62.5 125 31.25 62.5 31.25\n39b 62.5 31.25 31.25 62.5 31.25 62.5 62.5 31.25 31.25 15.62\n39c 3.9 7.81 1.95 3.9 7.81 7.81 7.81 1.95 3.9 1.95\n39d 7.81 7.81 3.9 7.81 7.81 7.81 7.81 3.9 7.81 3.9\n39e 62.5 62.5 31.25 62.5 62.5 62.5 62.5 31.25 62.5 31.25\n39f 3.9 125 3.9 3.9 7.81 7.81 3.9 1.95 3.9 1.95\n39g 7.81 15.62 3.9 7.81 7.81 15.62 7.81 3.9 7.81 3.9\n39h >125 125 125 >125 >125 125 >125 62.5 62.5 62.5\n39i 125 125 125 >125 125 62.5 125 62.5 62.5 31.25\nStandard 0.97 125 1.95 3.9 7.81 7.81 3.9 1.95 7.81 3.9\nMb: Mycobacteriumtuberculosis,Sa: StaphylococcusaureusATCC9144,Se: StaphylococcusepidermidisATCC155,Ml: Micrococcusluteus\nATCC4698,BacilluscereusATCC11778,Ec:EscherichiacoliATCC25922,Pa:PseudomonasaeruginosaATCC2853,Kp:Klebsiellapneumoniae\nATCC11298,An:AspergillusnigerATCC9029,Af:AspergillusfumigatusATCC46645.Standard:Isoniazid:referencestandardagainstM.\ntuberculosis,Ciprofloxacin:standardforotherbacteria,Ketoconazol:referencestandardforfungi.\nSurametal.,reportedthesynthesisofaseriesofbis(benzimidazolyl)pyrazolecom-\npoundsfromchlororacetylpyrazole-benzimidazole40andbenzimidazoles41–44,toobtain\ncompounds45–48(Scheme12)[66]. Itwasobservedthatthecompoundwiththioethanone\nlinkage45andaminoethanonelinkage47displayedslightlyhigheractivitythanthatwith\nmethylthioethanone46andmethylaminoethanonelinkage48onthemicrobialtested\nstrains,S.aureus,B.subtilis,P.aeruginosa,K.pneumoniae,A.nigerandP.chrysogenum,when\ncomparedwiththestandarddrugschloramphenicolandketoconazole.\nScheme12.Synthesisofdibenzimidazole–pyrazoles45–48.",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 9,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 10of29\nAnewclassofbenzimidazole–pyrazoleswaspreparedusingaClaisen–Schmidtreac-\ntion[67]. Fromallsynthesizedcompounds,derivative51,obtainedbycyclocondensation\nreaction of thioamide 49 with 4-fluorophenacyl bromide 50 (Scheme 13), having nitro\nsubstituentonthearomaticringshowedgreaterantimicrobialactivityparticularlyagainst\nPseudomonasaeruginosa,withaninhibitionzoneof34mmat100µgperwell,andPenicillium\nchrysogenum,withaninhibitionzoneof41mmat100µgperwell.\nScheme13.Synthesisofdibenzimidazole–pyrazole51.\nSietal.,synthesizedtwoseriesofbenzimidazole–pyrazolesbyreactionofbenzimida-\nzole52withpyrazole-5-carbonylchlorides53and54toaffordthefinalcompounds55a–55f\nand56a–56f(Scheme14)[68]. Theauthorsreportedtheantifungalactivitiesagainstfour\nfungi,B.cinerea,R.solani,F.graminearum,A.solani,consideringhymexazolasthepositive\ncontrolat100µgmL−1(Table4). Allcompoundsshowedbetterinhibitoryactivityagainst\nB.cinerea. Theinhibitionratesofcompounds55a–55fexceeded60%againstR.solaniand\ntheinhibitionratesofcompounds55a–55frangedfrom58.28%to68.28%againstA.solani,\nwhichwerebetterthan55.43%ofthecontrolhymexazol. Thecompoundswithpyrazole-\n4-carboxamidemoiety55a–55fshowedhigheractivitiesthanthetargetcompoundswith\npyrazole-5-carboxamidemoiety56a–56f. Thus,theactivitiesof55aand55bwerebetter\nthanthoseof56aand56bandtheactivitiesof55cand55dwerebetterthanthoseof56c\nand56d.\nTable4.Inhibitoryratesofthecompounds55–56againstfourphytopathogenicfungiat100ugmL−1.\nCompound B.cinerea R.solani F.graminearum A.solani\n55a 65.53 63.34 39.21 29.71\n55b 83.11 64.84 52.37 34.57\n55c 72.37 62.34 51.38 52.57\n55d 79.68 69.08 52.63 58.28\n55e 85.62 63.34 45.52 6.00\n55f 85.39 62.84 47.37 68.28\n56a 43.38 38.65 21.05 21.42\n56b 45.66 30.17 18.42 29.14\n56c 44.98 39.90 22.36 24.57\n56d 52.28 36.66 25.79 34.00\n56e 52.28 34.91 17.36 62.57\n56f 41.55 45.38 25.00 30.85\nHymexazol 100.00 72.82 68.16 55.43",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 10,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 11of29\nScheme14.Synthesisofdibenzimidazole–pyrazole55a–55fand56a–56f.\nJardoshetal.,synthesizednewpyrido[1,2-a]benzimidazolesstartingchloroformilation\nandalkilationof4-methyl-2-p-tolylcyclopent-3-enone57. Inthenextstep,aone-potthree-\ncomponentreactionwasusedtoaffordfinalcompounds61a–61c(Scheme15). Theinvitro\nantimicrobialactivityof61a–61cagainstS.typhi,S.pneumoniae,E.coli,C.tetani,V.cholera,B.\nsubtilis,C.albicansandA.fumigatususingbrothmicrodilutiontechniquewasassessed. All\ncompounds61a–61cdisplayedgoodantimicrobialactivitycomparedtostandarddrugs,as\ncanbeseeninTable5[69].\nScheme15.Synthesisofbenzimidazole–pyrazole61a–61c.",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 11,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 12of29\nTable5.Invitroantimicrobialactivityofbenzimidazole–pyrazoles61a–61c.\nMicroorganisms(µgmL−1)\nCompounds\nB.subtilis C.tetanis S.pneumoniae E.coli S.typhi V.cholera A.fumigatus C.albicans\n61a 100 200 100 200 250 250 >1000 250\n61b 500 200 200 250 250 50 200 >1000\n61c 250 250 250 62.5 200 100 >1000 250\nCiprofloxacin 50 100 50 25 25 25 - -\nChloramphenicol 50 50 50 50 50 50 - -\nNorfloxacin 100 50 10 10 10 10 - -\nAmpicillin 250 250 100 100 100 100 - -\nGriseofulvin - - - – - - 100 500\nSowdarietal.,synthesizedanewclassofdiamidomethane-linkedbenzazolyl–pyrazoles\n64a–64c by a green approach, using the synthesis strategy indicated in Scheme 16 [70].\nCompounds64aand64cwerefoundtobepotentialantifungalagentsagainstAspergillus\nniger(MIC=50and25µgmL−1,respectively)andPenicilliumchrysogenum(MIC=12.5\nand12.5µgmL−1,respectively)comparedtothestandarddrug,Ketoconazole.\nScheme16.Synthesisofbenzimidazole–pyrazole64a–64c.\nβ-ketoacyl-acylcarrierproteinsynthaseIII(FabH)isanattractivetargetforthede-\nvelopmentofnewantibacterialagents, becauseitcatalyzestheinitialstepoffattyacid\nbiosynthesis,essentialforbacterialsurvival. Thus,Wangetal.,reportedthesynthesisofa\nnewseriesofbenzimidazole–pyrazolamideswithlowtoxicityandpotentFabHinhibitory.\nSynthesisofcompound67from1-(4-fluorophenyl)ethanoneisaccomplishedinfoursteps:\ncondensationwithphenylhydrazine,followedbycyclizationbyrefluxwithPOCl inDMF\n3\nfor5h,toobtainpyrazole65,whichwith1,2-phenylenediamineandNa S O hasprovided\n2 2 5\nbenzimidazole–pyrazoleintermediate66,whichbyacylationwithnicotinicacid,DMAP\nandEDChydrochlorideledtothefinalproduct67(Scheme17). Compound67showedthe\nmostpotentinhibitionactivityagainstfourbacteriastrains(withMICof0.98,0.49,0.98,\n0.98µgmL−1,respectively,againstE.coli,P.aeruginosa,B.subtilisandS.aureus)andFabH\n(withIC of1.22 µM).Additionally, FabH mutantXanthomonasCampestris experiment\n50\nvalidatedthatcompoundsbindingsiteoutcomesFabH.",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 12,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 13of29\nScheme17.Synthesisofbenzimidazole–pyrazole67.\n2DmoleculardockingmodelingandsurroundingresiduesofE.coliFabHwasalso\nperformedforcompound67(Figure2)[71].\nFigure 2. Docking model of representative compound 67. 2D molecular docking modeling of\ncompound67andsurroundingresiduesofE.coliFabH(PDBcode:1HNJ)adaptedfrom[71].\nA special method for the synthesis of a benzimidazolo–pyrazole compound was\nreportedbyChkirateetal.,[72]. Thus, condensationof1,2-phenylenediaminewithde-\nhydroaceticacidafford68whichreactedwith1-bromobutanetogivethealkylated1,5-\nbenzodiazepine 69. Compound 69 reacts with an excess of hydrazine monohydrate to\naffordthepyrazolyl–benzimidazole70(Scheme18). Theminimuminhibitoryconcentra-\ntion(MIC)of70againstS.aureus,E.coliandP.aeruginosawasevaluatedat12.5µgmL−1,\n50µgmL−1and50µgmL−1,respectively,comparedtostandarddrugChloramphenicol.\nAdditionally,Co(II)andZn(II)complexesof70possessremarkableantibacterialactivity.",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 13,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 14of29\nScheme18.Synthesisofbenzimidazole–pyrazole70.\nElaziz et al., synthesized benzimidazole–pyrazole 74 from 1-methylbenzimdazole\n71 and diazonium salt 72, through the intermediate 73 [73]. Compound 74 possessed\nbetterantibacterialactivitythanstandardCephalothinagainstanaerobicE.coli(16.5µg\nmL−1versus24.3µgmL−1),Salmonellatyphimurium(13.4µgmL−1versus28.5µgmL−1),\nandbetterantibacterialactivitythanstandardChloramphenicolagainstBacillussubtilis\n(23.3µgmL−1versus32.4µgmL−1,Scheme19,Table6).\nScheme19.Synthesisofbenzimidazole–pyrazole74.\nTable6.Antibacterialactivityofthecompound74andthestandards(MICµgmL−1).\nEscherichiacoli Salmonella\nCompound Staphylococcusaureus Bacillussubtilis\nanaerobic typhimurium\n74 25.3 23.3 16.5 13.4\nChloramphenicol 24.5 32.4 - -\nCephalothin - - 24.3 28.5\nBassyouni et al., synthesized three series of benzimidazole–pyrazoles 76–78b [74].\nCompounds 76a and 76b were synthesized by the reaction of 75a and 75b with ethyl\ncyanoacetateinethanolinthepresenceoftriethylamine,respectively(Scheme20). Methy-",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 14,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 15of29\nlation of 76a and 76b was achieved by their reaction with methyl iodide or DMC that\nyieldedcompounds77aand77b. Compounds77aand77breactedwith4-aminoantipyrine\nin ethanol, in the presence of catalytic amounts of acetic acid to give 78a and 78b. The\nantibacterial activity of the compounds 76a, 76b, 77b, 78a and 78b was examined with\nGram-positive bacteria Bacillus subtilis, Bacillus cereus and Staphylococcus aureus, Gram-\nnegativebacteriaEscherichiacoli,PseudomonasaeruginosaandSalmonellatyphimurium. The\nantibacterialactivityshowedthatcompound76awasthemostactiveagainstS.typhimurium\nanditsactivityexceededtheactivityofthereferenceantibioticamoxicillin. Compounds\n77band78bexhibitedhighantimicrobialactivityagainstS.aureus(Table7).\nScheme20.Synthesisofbenzimidazole–pyrazoles76a–76b,77a–77b,78a–78b.\nTable7.Theantimicrobialactivityofthecompounds76a,76b,77b,78a,78b.\nInhibitionZoneDiameter(mm/mgSample)\nMicroorganism\n76a 76b 77b 78a 78b Amoxicillin\nBacilluscereus 10 7 9 7 10 22\nBacillussubtilis - - 10 7 9 25\nStaphylococcusaureus 10 10 18 10 18 16\nEscherichiacoli 7 12 8 8 - 22\nPseudomonasaeruginosa 10 9 11 11 13 30\nSalmonellatyphimurium 40 - - - 11 20\nBenzimidazolo–pyrazolecompounds80a–80hand81a–81hweresynthesizedfrom\nthereactionofchalcones79a–79hwithphenylhydrazineand2,4-dinitrophenylhydrazine,\nrespectively(Scheme21)[75]. Allcompoundswerescreenedfortheirantimicrobialactivi-\ntiesagainstE.coli,P.aeruginosa,S.aureus,B.subtilis,C.albicansandA.niger(Table8). The\nbestantimicrobialactivitiesofthecompoundsaremarkedingreeninTable8. Itisobserved\nthatcompounds80band80hshowedagoodantibacterialactivityagainstallthestrains\ntested, and compounds with 2,4-dinitrophenylhydrazine had better antifungal activity\nthan the antibacterial one, e.g., compounds 81b and 81f. Only compound 80a showed\nsignificantantitubercularactivityattheconcentrationof100µgmL−1comparedwiththe\nstandarddrug,Rifampicin.",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 15,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 16of29\nScheme21.Synthesisofbenzimidazole–pyrazoles80a–80h,81a–81h.\nTable8.Theantimicrobialactivityofthecompounds80a–80hand81a–81h.\nZoneofInhibitionat100µgmL−1(inmm)\nCompounds\nE.coli P.aeruginosa S.aureus B.subtilis C.albicans A.niger\n80a - - - 15 - -\n80b 14 13 14 16 - -\n80d 12 17 - - - -\n80e - 12 12 - - -\n80f - - 14 18 - -\n80g 13 - - - - -\n80h 19 16 18 15 - -\n81b - - - - 13 16\n81c - - 14 13 - -\n81d 17 15 - - 18 -\n81f - - - 12 14 17\n81g - 13 15 - - -\n81h - - - - - 14\nGentamycin 22 22 19 20 - -\nKetoconazole - - - - 25 20\nEl-Gohary et al., synthesized benzimidazole–pyrazole molecules 83a–83b with an-\ntimicrobialproperties,usingthereactionbetweenbenzimidazoles82a–82band3-methyl-\n1H-pyrazol-5(4H)-oneindimethylformamide(DMF),inpresenceoftriethyl-amine(TEA)\nascatalyst(Scheme22)[76]. Thecompounds83a–83bshowedverygoodantimicrobial\nactivityagainsttwobacteriaB.cereusandS.aureus,againsttwofungi,C.albicansandA.\nfumigatus,comparedtothestandardsused,ampicillinandfluconazole(Table9).\nTable9.Antibacterialandantifungalactivitiesofcompounds83a–83b.\nMIC,µgmL−1(mM)\nCompounds\nB.cereus S.aureus C.albicans A.fumigatus\n83a 1250(5.48) 156.25(0.684) 625(2.74) 312.5(1.37)\n83b 1250(4.57) 2500(9.15) 1250(4.57) 625(2.29)\nAmpicillin 1250(3.58) 312.5(0.894) - -\nFluconazole - - 2500(8.16) -\nThebenzimidazole–pyrazole85synthesizedbycyclizationofbenzimidazole84in\nthe reaction with of ethyl 3-oxobutanoate (Scheme 23), possessed good antifungal ac-\ntivity, against C. albicans (MIC = 2500 µg mL−1) compared with standard Fluconazole\n(MIC=2500µgmL−1)[77].",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 16,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 17of29\nScheme22.Synthesisofbenzimidazole–pyrazoles83a–83b.\n2.2. BenzimidazolesSubstitutedinthePosition“1”withPyrazoleMoiety\nKrishnanjaneyuluetal.,synthesizedaseriesof1-substitutedbenzimidazoleswithpyra-\nzolemoietythroughalinkerusingafour-stepstrategy:benzimidazolesynthesis,N-alkylation,\ncondensationwithaldehydeswiththeformationofchalcones87a–87iandcyclizationwith\nthe formation of the pyrazole nucleus, in compounds 88a–88i (Scheme24)[78]. All com-\npoundswereevaluatedfortheirantibacterialactivityagainstfourGram-positivebacteria:\nStaphylococcusaureusATCC9144,StaphylococcusepidermidisATCC155,Micrococcusluteus\nATCC4698andBacilluscereusATCC11778,andthreeGram-negativebacteria: Escherichia\ncoliATCC25922,PseudomonasaeruginosaATCC2853andKlebsiellapneumoniaeATCC11298.\nTheantifungalactivityofthecompounds88a–88iwasevaluatedagainsttwofungi,As-\npergillusnigerATCC9029andAspergillusfumigatusATCC46645(Table10). Itwasfound\nthatcompoundscontaininganelectron-withdrawinggroupatthephenylgroupattachedto\nC-5ofpyrazoledisplayedsuperiorantimicrobialactivitiesthancompoundspossessingan\nelectron-releasinggroup. Theunsubstitutedderivativesdisplayedmoderateantimicrobial\nactivity. Thebestantimicrobialactivitywasshownbycompounds88gand88i,whichin\nTable10ismarkedingreen.\nScheme23.Synthesisofbenzimidazole–pyrazoles85.\nTable10.MinimuminhibitoryconcentrationinµgmL−1ofthecompounds88a–88l.\nCompounds Sa Se Ml Bc Ec Pa Kp An Af\n88a 31.25 31.25 15.62 62.5 31.25 31.25 15.62 62.5 31.25\n88b 125 62.5 31.25 125 62.5 125 31.25 125 125\n88c 125 62.5 125 125 62.5 62.5 31.25 125 125\n88d 62.5 31.25 31.25 31.25 62.5 62.5 31.25 125 62.5\n88e 15.62 15.62 7.81 15.62 15.62 7.81 7.81 31.25 15.62\n88f 62.5 31.25 31.25 31.25 62.5 125 31.25 125 62.5\n88g 15.62 7.81 7.81 7.81 15.62 7.81 7.81 31.25 7.81\n88h 31.25 15.62 15.62 15.62 15.62 15.62 7.81 31.25 15.62\n88i 15.62 7.81 3.9 7.81 7.81 15.62 7.81 15.62 7.81\n88j 31.25 31.25 15.62 31.25 31.25 62.5 15.62 125 31.25\n88k 62.5 62.5 31.25 31.25 62.5 125 31.25 125 125\n88l 31.25 15.62 15.62 15.62 31.25 15.62 7.81 31.25 15.62\nCiprofloxacin 15.62 7.81 7.81 7.81 15.62 7.81 3.9 - -\nKetoconazole - - - - - - - 15.62 7.81\nSa:StaphylococcusaureusATCC9144;Se:StaphylococcusepidermidisATCC155;Ml:MicrococcusluteusATCC4698;Bc:BacilluscereusATCC\n11778;Ec:EscherichiacoliATCC25922;Pa:PseudomonasaeruginosaATCC2853;Kp:KlebsiellapneumoniaeATCC11298,An:Aspergillusniger\nATCC9029;Af:AspergillusfumigatusATCC46645.",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 17,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 18of29\nDawoud et al., reported the synthesis of a benzimidazole–pyrazole compound 90\nfromchalconeintermediate89(Scheme25). Itwasfoundbytheagardiffusionmethodthat\ncompound90possessedgoodantimicrobialactivityagainstEscherichiacoli,Salmonella. SP.,\nStaphylococcusaurousandCandidaalbicans[79].\nScheme24.Synthesisofbenzimidazole–pyrazole88a–88i.\nTumosiene˙ etal.,reportedthesynthesisofthebenzimidazole–pyrazolecompounds\n94a–94b,inthreesteps,from2-substitutedbenzimidazoles91a–91b(Scheme26). Itwas\nfoundthatcompound94bshowsgoodantimicrobialactivityagainstStaphylococcusaureus\nATCC9144andEscherichiacoliATCC8739(250µgmL−1)[80].\nScheme25.Synthesisofbenzimidazole–pyrazole90.",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 18,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 19of29\nScheme26.Synthesisofbenzimidazole–pyrazoles94a–94b.\n2.3. BenzimidazolesSubstitutedinthePosition“4”(“7”)withPyrazoleMoiety\nGrilotetal.,reportedthesynthesisofsecond-generationantibacterialbenzimidazole–\npyrazolesfrom2,3,6-trifluorobenzenamineinsevensteps,ascanbeseeninScheme27[81].\nCompound98a,witha3-pyridinemoietyatC5,whichmaintainsahydrogenbondwith\nArg136,showedareasonableMICagainstS.aureus(0.25µgmL−1). Itcanbeobserved\nthatintroductionofafluorineatomatC6onpyrazole98b,hasnoimprovedantibacterial\npotency(0.25µgmL−1againstS.aureus),noraffinityforGyraseBandTopoisomeraseIV,as\npreviouslyreported[80],butoralexposurewasimproved2-fold,whichledtotheexclusive\nfocusonC6-fluorobenzimidazolepyrazoles. TheauthorsalsostudiedthevariationofMIC\nandthepolarityofmoleculeswiththeintroductionofthesubstituentinthe“5”position,\nasseeninTable11. Compound98fshowedaMICagainstS.aureusof0.125µgmL−1and\ncouldbeimprovedslightlybytheadditionofamethylgroupontheC5substituent,asin\n98ganditsresolutionyieldedcompounds98hand98i. The(S)-isomer98iwas4-foldmore\npotentthanthe(R)-isomer98hagainstS.aureusandshowedacceptableoralexposure,but\ncompound98hexhibitedahighserumshift(16-fold).\nScheme27.Synthesisofbenzimidazole–pyrazoles98a–98i.",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 19,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 20of29\nTable11.MICvaluesandSARstudiesinpyrazoleseries17a–17i.\nMinimumInhibitoryConcentrationµg/mL\nCompounds\nC 5 C 6 C 7(cid:48) Sa Sa+HS Efs Efm Sp\n98a H H 0.25 4 0.063 - 0.016\n98b F H 0.25 2 0.063 - 0.032\n98c F H 0.25 1 0.125 0.5 0.016\n98d F Me 0.063 0.5 0.063 0.25 0.016\n98e F Me 0.016 0.125 0.016 0.032 <0.008\n98f F H 0.125 3 0.125 0.5 0.032\n98g F H 0.063 2 0.125 0.25 0.032\n98h F H 0.25 4 0.063 0.25 0.016\n98i F H 0.063 1 0.063 0.5 0.063\nSa=S.aureus;Sa+HS=S.aureus+50%humanserum;Efs=E.faecalis;Efm=E.faecium;Sp=S.pneumoniae.\nCharifson et al., reported the synthesis of benzimidazole–pyrazoles 101–102 from\n5-bromo-2-nitro-3-(1H-pyrazol-1-yl)benzenamine 99, using a Suzuki coupling reaction\n(Scheme28)[82]. ThecompoundswerefoundtobeinhibitorsofDNAGyraseandTopoiso-\nmeraseIV,withpotentantibacterialactivity. Theresultsoftheevaluationforenzymatic\ninhibitionandantibacterialpotencyofthecompoundsareshowninTable12. Thesuperior\nenzymaticandantibacterialinhibitoryactivityofcompound102vs. 101isobserved,due\ntothepresenceofthepyrimidinenucleusinthemolecule.",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 20,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 21of29\nScheme28.Synthesisofbenzimidazole–pyrazoles101and102.\nTable12.GyraseandTopoisomeraseIVInhibitionandantibacterialactivitiesofthecompounds.\nEnzymeInhibitonDataKi(µM) MinimumInhibitoryConcentration(µg/mL)\nCompound\nS.aureusgyrase E.coligyrase E.colitopoIV S.aureus S.pneumoniae H.influenzae\n101 0.015 <0.004 0.046 0.063 0.008 1\n102 0.016 <0.004 0.058 0.031 <0.008 0.25\n3. BiologicalActivitiesofAntimicrobialBenzimidazole–PyrazoleCompounds\n3.1.AnalgesicandAnti-InflammatoryActivityofAntimicrobialBenzimidazole–PyrazoleCompounds\nBenzimidazoleandpyrazole/pyrazolineareimportantnitrogen-containinghetero-\ncyclicsinanti-inflammatoryresearch[83,84]. Inrecentdecades,therehavebeenvarious\nstudiesontheanti-inflammatoryactivityofbenzimidazolecompounds.\nChikkulaetal.,reportedtheanalgesicactivity[65]ofthecompounds39a–39i(Scheme11).\nThe analgesic activity of novel benzimidazole derivatives 39a–39i varied with reaction\ntime. Thecompoundsdisplayedmoderateanalgesicactivityat30minofreactiontime. In\nthesecondhour,theanalgesicactivityreachedtopeaklevel. Additionally,thepresenceof\nphenylringattheN-1atomofpyrazoleringsignificantlyincreasedanalgesicactivity. The\nanti-inflammatoryactivityofthesynthesizedcompoundsvariessimilarlytotheiranalgesic\nactivity. Compounds39c,39dand39ehadthebestanalgesicactivity.\nAroraetal.,reportedthesynthesisofthecompounds104a–104efromchalcones103a–\n103e(Scheme29)[85]. Theinvivostudiesforanalgesicactivitywereevaluatedinalbino\nmicebyEddy’shotplatemethod. Thecompound104ashowedmildactivityatadoseof\n100and200mgkg−1 intherangeof7.38±0.12–7.36±0.15at90minwhencompared\nwithstandarddrugDiclofenacsodiumatadoseof5mgkg−1intherangeof9.45±0.28\nat 90 min. Additionally, the compound 104a showed slightly less moderate activity in\ntherangeof53.03and59.09%atadoseof100and200mgkg−1 atatimeintervalof3h\nof carrageenan challenge when compared to compound 104c (63.63%) as well as when\ncompared with standard Diclofenac sodium at the same time period exhibited 69% of\nactivity,respectively,atadoseof100mgkg−1.",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 21,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 22of29\nScheme29.Synthesisofbenzimidazole–pyrazoles104a–104e.\n3.2. Benzimidazole–PyrazoleCompoundswithAntitumorActivities\nKalirajanetal.,[75]reportedanticanceractivityofcompounds80a–80hand81a–81h\nagainst MCF7 human breast cell line by invitro Sulforhodamine B assay (SRB assay)\nmethod. The compounds 80b, 81a and 81b have significant activity when compared\nwithstandarddrugDoxorubicin(Adriamycin,ADR),withGI valuesof16.3µgmL−1,\n50\n16.0µgmL−1,and17.1µgmL−1,respectively(DoxorubicinwithGI value<10µgmL−1).\n50\nEl-GoharyandShaaban[76]reportedtheantitumoractivityofcompounds83aand83band\ntheresultsareshowninTable13. Compound83a,exhibitingthehighestinvitroantitumor\nactivity,wasevaluatedforinvivoantitumoractivityagainstEACinmice. Additionally,\ncompound83awasassessedforinvitrocytotoxicitytowardhumannormallungfibroblast\n(W138)celllineemployingMTTassay[86–88]andutilizing5-fluorouracilasastandard\ncytotoxicdrug. IC valuefor83awasdetermined0.246mM,thereforelesscytotoxicthan\n50\n5-fluorouracil(IC =0.051mM).Additionally,resultsoftheDNA-bindingassayconfirmed\n50\nthat antimicrobial and antitumor compound 83a exerts its biological activities through\ninteractionwithDNA.Bezimidazole–pyrazole85displayedeminentactivitytowardHCT-\n116cellline[77]withIC valueof5.41µMclosetothatof5-fluorouracilof4.00µMand\n50\nlowerthanthatmeasuredforthepreviouslypreparedbenzimidazoles[76,89].\nTable13.Invitroantitumoractivityofthecompounds83a–83btowardHep-G2,HCT-116andMCF-7\ncancercelllines.\nIC (mM)\n50\nCompound\nHepG2 HCT-116 MCF-7\n83a 0.054 0.042 0.062\n83b 0.265 0.20 0.281\n5-Fluorouracil 0.061 0.041 0.0415\nWangetal.,synthesizedaseriesofbenzimidazolegraftedbenzsulfamide-containing\npyrazoleringderivatives usingastrategyin twosteps: 1. synthesisofbenzimidazole–\npyrazolehybridbyreactionofpirazolecarbaldehyde105with1,2,-phenylenediamineand\n2. reactionwithsulfonylchloride107withthehybrid106(Scheme30)[90]. Compound108\nshowedthemostexcellentinhibitionagainsttubulinassembly(IC =1.52µM)andinvitro\n50\ngrowthinhibitoryactivityagainstapaneloffourhumancancercelllines,IC =0.15,0.21,\n50\n0.33and0.17µM,respectively,forA549,Hela,HepG2andMCF-7.Additionally,compound\n108validlyinducesA549cellapoptosis,causescellcyclearrestintheG2/Mphaseand\ndisrupts the cellular microtubule network. Due to these promising results, along with\nmoleculardockingdata,compound108isapotentialanticanceragent.",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 22,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 23of29\nScheme30.Synthesisofbenzimidazole–pyrazole108.\nShakeetal.,reportedsynthesisof1-substitutedbenzimidazoleswithpyrazolemoiety\n109a–109d(Figure3),bycyclizationofthecorrespondingchalconeswithhydrazinehydrate\ninethanol,andtheirantitumorandantiviralactivities[91]. Theinvitrocytotoxicscreening\nofthecompounds109a–109dagainstfourdifferentcelllinesisshowedinTable14. Itcan\nbeseenthatcompound109dhasthebestantitumoractivityonalldeterminedtumorlines.\nFigure3.Benzimidazole–pyrazoles109a–109d.\nTable14.Invitroantitumoractivityofthecompounds109a–109dtowardA-549,HCT-116,Hep-G2\nandMCF-7cancercelllines.\n%InhibitoryActivityagainstTumorCellLinesat300µM\nCompounds\nA-549 HCT-116 Hep-G2 MCF-7\n109a 7.2 81.1 40.0 35.1\n109b 38.3 65.5 60.8 49.4\n109c 0.0 35.3 41.7 39.5\n109d 48.8 49.9 62.4 59.6\nDoxorubicin 84.1±12.6 111.7±20.5 63.6±9.4 163.8±10.1\n3.3. Benzimidazole–PyrazoleCompoundsasAntioxidants\nSaundane et al., evaluated the scavenging effects of the compounds 31a–31c and\n32a–32c[63]ontheDPPHradicalbyHatano’smethod[92]. TheRSA(RadicalScavenging\nActivity)resultssuggestedthatthecompound31aexhibitedgoodantioxidantactivityof\n71.95and72.43%attheconcentrationof100µgmL−1.Additionally,thereductiveabilityof\nsynthesizedcompoundswasassessedbytheextentofconversionofFe3+/ferricyanidecom-\nplextotheFe2+/ferrousform. Thereductiveabilityresultssuggestedthatthecompound\n31aexhibitedgoodreducingpowerabilityattheconcentrationof100µgmL−1.\nBassyounietal.,reportedthatcompounds77a,77band78bdisplayedmildantioxi-\ndantactivity,of227.9µmolL−1,412.7µmolL−1and361.8µmolL−1,respectively,using\nthe2,2-diphenyl-1-picrylhydrazylradicalscavengingassay[74].",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 23,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 24of29\nDurgammaetal.,reportedthesynthesisofamido-linkedbenzimidazolyl–pyrazoles\n110a–110c (Figure 4) from the corresponding chalcones [93]. All compounds possess\ngood antioxidant activity in the DPPH method, with IC values of 0.121 µmol mL−1,\n50\n0.127 µmol mL−1 and 0.135 µmol mL−1, respectively, compared to ascorbic acid with\nIC =0.256µmolmL−1.\n50\nFigure4.Benzimidazole–pyrazoles109a–109d.\n3.4. Benzimidazole–PyrazoleCompoundsasAntiulcerAgents\nNooretal.,synthesizedthebenzimidazole–pyrazolehybrids113a–113fbyreaction\nofbenzimidazole–hydrazide111withchalcones112a–112finaceticacid(Scheme31)[94].\nTheantiulceractivityofallthebenzimidazole–pyrazolehybridswastestedinvivobyan\nethanol-inducedgastriculcermodelinrats,withOmeprazole(30mg/kg)asastandard.\nAllcompounds113a–113fexhibitedanantiulcereffect.\nScheme31.Synthesisofbenzimidazole–pyrazoles113a–113f.\n4. Conclusions\nThisreviewsummarizesthesynthesesofbenimidazole–pyrazolecompoundswith\nantimicrobialproperties,aswellastheirbiologicalactivitiesmentionedintheliterature.\nFrom the data presented, it can be concluded that hybrids with pyrazole moiety in po-\nsition “4” (“7”) possess the strongest antimicrobial properties. The presence of certain\ngroups grafted on the benzimidazole and pyrazole nuclei, such as -COOCH , -NHCO,\n3\n-CHO,-CF ,-NO ,-CN,-F,-Cl,-OH,OCH ,-N(CH ) aswellasotherheterocyclesinthe\n3 2 3 3 2\nmolecule(pyridine,pyrimidine,thiazole,indole),increasestheantimicrobialactivityofthe\ncompounds[95]. Additionally,thebindinglinkerbetweenbenzimidazoleandpyrazole\nis important for their antimicrobial activity. Additionally, the antimicrobial activity is\nimprovedifthemoleculecontainslinkergroupssuchascarbonyl(CO),amide(NHCO),or\notherheteroatoms. Wehopethatthisreviewwillbeastartingpointforthesynthesisof\notherbenzimidazole–pyrazolehybridswithantimicrobialproperties,whichhavemuch\nbetterbacterialandantifungalpropertiesthanthoseofantibioticsmarketedorusedin\nhospitalstoday.",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 24,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 25of29\nFunding:Thisresearchreceivednoexternalfunding.\nAcknowledgments:TheauthoristhankfultoDepartmentofOrganicChemistry,Biochemistryand\nCatalysis,forprovidingnecessaryfacilitiestocarryoutthisresearchwork.\nConflictsofInterest:Theauthorsdeclarenoconflictofinterest.\nAbbreviations\nAcOH Aceticacid\nAcONa Sodiumacetate\nBTBA Benzyltributylammoniumchloride\nCTAB etyltrimethylammoniumbromide\nDCC N,N(cid:48)-dicyclohexylcarbodiimide\nDMAP N,N-dimethylpyridin-4-amine\nDME Dimethoxyethane\nDMF Dimethylformamid\nDMSO Dimethylsulfoxid\nEDC*HCl N-(3-Dimethylaminopropyl)-N(cid:48)-ethylcarbodiimidehydrochloride\nEt ethyl\nEtOH Ethanol\nMeOH Methanol\nNBS N-Bromsuccinimid\nPPA polyphosphoricacid\nPh phenyl\nPy pyridine\nTEA triethilamine\nReferences\n1. Breijyeh,Z.;Jubeh,B.;Karaman,R.ResistanceofGram-NegativeBacteriatoCurrentAntibacterialAgentsandApproachesto\nResolveIt.Molecules2020,25,1340.[CrossRef]\n2. Balasubramaniam,B.;Prateek;Ranjan,S.;Saraf,M.;Kar,P.;Singh,S.P.;Thakur,V.K.;Singh,A.;Gupta,R.K.Antibacterialand\nAntiviralFunctionalMaterials:ChemistryandBiologicalActivitytowardTacklingCOVID-19-likePandemics.ACSPharmacol.\nTransl.Sci.2021,4,8–54.[CrossRef]\n3. Nasir,N.;Rehman,F.;Omair,S.F.RiskfactorsforbacterialinfectionsinpatientswithmoderatetosevereCOVID-19case: A\ncase-controlstudy.J.Med.Virol.2021,93,4564–4569.[CrossRef][PubMed]\n4. Khalifa,M.E.;Gobouri,A.A.;Kabli,F.M.;Altalhi,T.A.;Almalki,A.S.A.;Mohamed,M.A.Synthesis,antibacterial,andantiHepG2\ncelllinehumanhepatocytecarcinomaactivityofsomenewpotentiallybenzimidazole-5-(aryldiazenyl)thiazolederivatives.\nMolecules2018,23,3285.[CrossRef]\n5. Onnis,V.;Demurtas,M.;Deplano,A.;Balboni,G.;Baldisserotto,A.;Manfredini,S.;Pacifico,S.;Liekens,S.;Balzarini,J.Design,\nsynthesisandevaluationofantiproliferativeactivityofnewbenzimidazolehydrazones. Molecules2016,21,579. [CrossRef]\n[PubMed]\n6. Cheong,J.E.;Zaffagni,M.;Chung,I.;Xu,Y.;Wang,Y.;Jernigan,F.E.;Zetter,B.R.;Sun,L.Synthesisandanticanceractivityof\nnovelwatersolublebenzimidazolecarbamates.Eur.J.Med.Chem.2018,144,372–385.[CrossRef]\n7. Bistrovic,A.;Krstulovic,L.;Harej,A.;Grbcic,P.;Sedic,M.;Kostrun,S.;Pavelic,S.K.;Bajic,M.;Raic-Malic,S.Design,synthesis\nandbiologicalevaluationofnovelbenzimidazoleamidinesaspotentmulti-targetinhibitorsforthetreatmentofnon-smallcell\nlungcancer.Eur.J.Med.Chem.2018,143,1616–1634.[CrossRef][PubMed]\n8. Aragón-Muriel,A.;Liscano,Y.;Upegui,Y.;Robledo,S.M.;Ramírez-Apan,M.T.;Morales-Morales,D.;Oñate-Garzón,J.;Polo-\nCerón,D.InVitroEvaluationofthePotentialPharmacologicalActivityandMolecularTargetsofNewBenzimidazole-Based\nSchiffBaseMetalComplexes.Antibiotics2021,10,728.[CrossRef]\n9. Karaburun, A.C.; Çavusoglu, B.K.; Çevik, U.A.; Osmaniye, D.; Saglık, B.N.; Levent, S.; Özkay, Y.; Atlı, O.; Koparal, A.S.;\nKaplancıklı,Z.A.Synthesisandantifungalpotentialofsomenovelbenzimidazole-1,3,4-oxadiazolecompounds.Molecules2019,\n24,191.[CrossRef][PubMed]\n10. Zhang,H.-Z.;He,S.-C.;Peng,Y.-J.;Zhang,H.-J.;Gopala,L.;Tangadanchu,V.K.R.;Gan,L.-L.;Zhou,C.-H.Design,synthesisand\nantimicrobialevaluationofnovelbenzimidazole-incorporatedsulfonamideanalogues. Eur. J.Med. Chem. 2017,136,165–183.\n[CrossRef]\n11. Ai, X.; Pu, X.; Yi, Y.; Liu, Y.; Xu, S.; Liang, J.; Shang, R. Synthesis and pharmacological evaluation of novel pleuromutilin\nderivativeswithsubstitutedbenzimidazolemoieties.Molecules2016,21,1488.[CrossRef][PubMed]",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 25,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 26of29\n12. Liu,H.-B.;Gao,W.-W.;Tangadanchu,V.K.R.;Zhou,C.-H.;Geng,R.-X.Novelaminopyrimidinylbenzimidazolesaspotentially\nantimicrobialagents:Design,synthesisandbiologicalevaluation.Eur.J.Med.Chem.2018,143,66–84.[CrossRef]\n13. Marinescu,M.ChemistryandApplicationsofBenzimidazoleandItsDerivatives;IntechOpen:London,UK,2019;pp.11–130.\n14. Marinescu,M.;Tudorache,D.G.;Marton,G.I.;Zalaru,C.M.;Popa,M.;Chifiriuc,M.C.;Stavarache,C.E.;Constantinescu,C.\nDensityfunctionaltheorymolecularmodeling, chemicalsynthesis, andantimicrobialbehaviourofselectedbenzimidazole\nderivatives.J.Mol.Struct.2017,1130,463–471.[CrossRef]\n15. Márquez-Navarro, A.; Nogueda-Torres, B.; Hernández-Campos, A.; Soria-Arteche, O.; Castillo, R.; Rodríguez-Morales, S.;\nYépez-Mulia,L.;Hernández-Luis,F.AnthelminticactivityofbenzimidazolederivativesagainstToxocaracanissecond-stage\nlarvaeandHymenolepisnanaadults.ActaTrop.2009,109,232–235.[CrossRef]\n16. Bansal,Y.;Silakari,O.Thetherapeuticjourneyofbenzimidazoles:Areview.Bioorg.Med.Chem.2012,20,6208–6236.[CrossRef]\n[PubMed]\n17. Hadole,C.D.;Rajput,J.D.;Bendre,R.S.Conciseonsomebiologicallyimportant2-substitutedbenzimidazolederivatives.Curr.\nChem.Curr.Res.2018,7,195.[CrossRef]\n18. Shin,J.M.;Kim,N.Pharmacokineticsandpharmacodynamicsoftheprotonpumpinhibitors.J.Neurogastroenterol.Motil.2013,19,\n25–35.[CrossRef]\n19. Gaba,M.;Singh,S.;Mohan,C.Benzimidazole:Anemergingscaffoldforanalgesicandanti-inflammatoryagents.Eur.J.Med.\nChem.2014,76,495–505.[CrossRef]\n20. Bansal, Y.; Kaur, M.; Silakari, O.Benzimidazole–ibuprofen/mesalamineconjugates: Potentialcandidatesformultifactorial\ndiseases.Eur.J.Med.Chem.2015,89,671–682.[CrossRef]\n21. Zhu,W.;Bao,X.;Ren,H.;Da,Y.;Wu,D.;Li,F.;Yan,Y.;Wang,L.;Chen,Z.N-PhenylindolederivativesasAT1antagonists\nwithanti-hypertensionactivities:Design,synthesisandbiologicalevaluation.Eur.J.Med.Chem.2016,115,161–178.[CrossRef]\n[PubMed]\n22. Kim, T.H.; Yang, H.Y.; Park, B.G.; Jung, S.Y.; Park, J.H.; Park, K.D.; Min, S.J.; Tae, J.; Yang, H.; Cho, S.; etal. Discoveryof\nbenzimidazolederivativesasmodulatorsofmitochondrialfunction:ApotentialtreatmentforAlzheimer’sdisease.Eur.J.Med.\nChem.2017,125,1172–1192.[CrossRef][PubMed]\n23. Cheretaev,I.V.;Korenyuk,V.;Nozdrachev,A.D.Neurotropic,psychoactive,andanalgesicpropertiesofbenzimidazoleandits\nderivatives:Physiologicalmechanisms.Neurosci.Behav.Physiol.2018,48,848–853.[CrossRef]\n24. Kumbhar,S.S.;Choudhari,P.B.;Bhatia,M.S.3DQSARandPharmacophoremodellingofselectedbenzimidazolederivativesas\nfactorIXainhibitors.IndianJ.Pharm.Sci.2017,79,813–819.[CrossRef]\n25. Aboul-Enein,H.Y.;ElRashedy,A.A.Benzimidazolederivativesasantidiabeticagents.Med.Chem.2015,5,318–325.[CrossRef]\n26. Domiati,S.;El-Mallah,A.;Ghoneim,A.;Bekhit,A.;Razik,H.A.E.Evaluationofanti-inflammatory,analgesicactivities,andside\neffectsofsomepyrazolederivatives.Inflammopharmacology2016,24,163–172.[CrossRef][PubMed]\n27. Karrouchi,K.;Radi,S.;Ramli,Y.;Taoufik,J.;Mabkhot,Y.N.;Al-aizari,F.A.;Ansar,M.SynthesisandPharmacologicalActivitiesof\nPyrazoleDerivatives:AReview.Molecules2018,23,134.[CrossRef]\n28. Moraes,P.A.;Brum,E.S.;Brusco,I.;Marangoni,M.A.;Lobo,M.M.;Camargo,A.F.;Nogara,P.A.;Bonacorso,H.G.;Martins,M.A.P.;\nDaRocha,J.B.;etal.Pyrazole-EnaminonesasPromisingPrototypesfortheDevelopmentofAnalgesicDrugs.ChemistrySelect\n2020,5,14620–14625.[CrossRef]\n29. Gao,M.;Qu,K.;Zhang,W.;Wang,X.Pharmacologicalactivityofpyrazolederivativesasananticonvulsantforbenefitagainst\nepilepsy.Neuroimmunomodulation2021,28,90–97.[CrossRef]\n30. Mandour, A.H.; El-Sawy, E.R.; Ebaid, M.S.; Hassan, S.M. Synthesis and potential biological activity of some novel 3-[(N-\nsubstitutedindol-3-yl)methyleneamino]-6-amino-4-aryl-pyrano(2,3-c)pyrazole-5-carbonitrilesand3,6-diamino-4-(N-substituted\nindol-3-yl)pyrano(2,3-c)pyrazole-5-carbonitriles.ActaPharm.2012,62,15–30.[CrossRef]\n31. Santos,N.E.;Carreira,A.R.F.;Silva,V.L.M.;Braga,S.S.NaturalandBiomimeticAntitumorPyrazoles,APerspective.Molecules\n2020,25,1364.[CrossRef][PubMed]\n32. Liang,X.;Zang,J.;Zhu,M.;Gao,Q.;Wang,B.;Xu,W.;Zhang,Y.Design,Synthesis,andAntitumorEvaluationof4-Amino-(1H)-\npyrazoleDerivativesasJAKsInhibitors.ACSMed.Chem.Lett.2016,7,950–955.[CrossRef]\n33. Du, K.; Xia, C.; Wei, M.; Chen, X.; Zhang, P.Microwave-assistedrapidsynthesisofsugar-basedpyrazolederivativeswith\nanticanceractivityinwater.RSCAdv.2016,6,66803–66806.[CrossRef]\n34. Ismail,M.F.;El-sayed,A.A.Synthesisandin-vitroantioxidantandantitumorevaluationofnovelpyrazole-basedheterocycles.J.\nIran.Chem.Soc.2019,16,921–937.[CrossRef]\n35. Datar,P.A.;Jadhav,S.R.DesignandSynthesisofPyrazole-3-oneDerivativesasHypoglycaemicAgents.Int.J.Med.Chem.2015,\n2015,670181.[CrossRef][PubMed]\n36. Naim,M.J.;Alm,O.;Alam,M.J.;Shaquiquzzaman,M.;Alam,M.M.;Naidu,V.G.M.Synthesis,docking,invitroandinvivo\nantidiabeticactivityofpyrazole-based2,4-thiazolidinedionederivativesasPPAR-γmodulators.Arch.Pharm.2018,351,1700223.\n[CrossRef]\n37. Cetin,A.;Bildirici,I.Astudyonsynthesisandantimicrobialactivityof4-acyl-pyrazoles.J.SaudiChem.Soc.2018,22,279–296.\n[CrossRef]\n38. Harikrishna,N.;Arun,M.;Isloor,A.M.;Ananda,K.;Obaid,A.;Fun,H.K.Synthesis,andantitubercularandantimicrobialactivity\nof1(cid:48)-(4-chlorophenyl)pyrazolecontaining3,5-disubstitutedpyrazolinederivatives.NewJ.Chem.2016,40,73–76.[CrossRef]",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 26,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 27of29\n39. Ardiansah,B.ARecentupdate: Antimicrobialagentscontainingpyrazolenucleus. AsianJ.Pharm. Clin. Res. 2018,11,88–94.\n[CrossRef]\n40. Metwally,N.H.;Ragab,E.A.;Mohamed,M.S.SynthesisofsomenovelN5-sulfonylatedandN1-alkyatedpyrazolederivatives\nandtheirantimicrobialactivityinconjunctionwithmoleculardockingstudy.J.Heterocycl.Chem.2020,57,1698–1713.[CrossRef]\n41. Whitt,J.;Duke,C.;Ali,M.A.;Chambers,S.A.;Khan,M.M.K.;Gilmore,D.;Alam,M.A.Synthesisandantimicrobialstudiesof\n4-[3-(3-Fluorophenyl)-4-formyl-1H-pyrazol-1-yl]benzoicAcidand4-[3-(4-Fluorophenyl)-4-formyl-1H-pyrazol-1-yl]benzoicacid\naspotentgrowthinhibitorsofdrug-resistantbacteria.ACSOmega2019,4,14284–14293.[CrossRef]\n42. Al-Azmi,A.;Mahmoud,H.FacileSynthesisandantimicrobialactivitiesofnovel1,4-bis(3,5-dialkyl-4H-1,2,4-triazol-4-yl)benzene\nand5-aryltriaz-1-en-1-yl-1-phenyl-1H-pyrazole-4-carbonitrilederivatives.ACSOmega2020,5,10160–10166.[CrossRef][PubMed]\n43. Zalaru, C.; Dumitrascu, F.; Draghici, C.; Tarcomnicu, I.; Tatia, R.; Moldovan, L.; Chifiriuc, M.C.; Lazar, V.; Marinescu, M.;\nNitulescu,M.G.;etal.Synthesis,spectroscopiccharacterization,DFTstudyandantimicrobialactivityofnovelalkylaminopyrazole\nderivatives.J.Mol.Struct.2018,1156,12–21.[CrossRef]\n44. Uamaru,N.;Shigematsu,H.;Toda,A.;Eyanagi,R.;Kitamura,S.;Ohta,S.Design,synthesis,andpharmacologicalactivityof\nnonallergenicpyrazolone-Typeantipyreticanalgesics.J.Med.Chem.2010,53,8727–8733.[CrossRef]\n45. Padmini,T.;Kamal,B.R.Synthesis,Anti-inflammatory,AnalgesicandAntipyreticActivityofNovel1,3,5-TrisubstitutedPyrazole\nDerivatives.AsianJ.Chem.2019,31,1225–1229.[CrossRef]\n46. Desideri,N.;Fioravanti,R.;Monaco,L.P.;Atzori,E.M.;Carta,A.;Delogu,I.;Collu,G.;Loddo,R.Design,Synthesis,Antiviral\nevaluation,andSARstudiesofnew1-(phenylsulfonyl)-1H-pyrazol−4-yl-methylanilinederivatives.Front.Chem.2019,7,214.\n[CrossRef][PubMed]\n47. Corona,A.;Onnis,V.;Deplano,A.;Bianco,G.;Demurtas,M.;Distinto,S.;Cheng,Y.C.;Alcaro,S.;Esposito,F.;Tramontano,E.\nDesign,synthesisandantiviralevaluationofnovelheteroarylcarbothioamidederivativesasdualinhibitorsofHIV-1reverse\ntranscriptase-associatedRNaseHandRDDPfunctions.Pathog.Dis.2017,75,ftx078.[CrossRef]\n48. Pandya,K.M.;Patel,A.H.;Desai,P.S.DevelopmentofAntimicrobial,AntimalarialandAntitubercularCompoundsBasedona\nquinoline-pyrazoleclubbedscaffoldderivedviaDoebnerreaction.Chem.Afr.2020,3,89–98.[CrossRef]\n49. Kumar,G.;Tanwar,O.;Kumar,J.;Akhter,S.M.;Sharma,S.;Pillai,C.R.;Alam,M.M.;Zama,M.S.Pyrazole-pyrazolineaspromising\nnovelantimalarialagents:Amechanisticstudy.Eur.J.Med.Chem.2018,149,139–147.[CrossRef]\n50. Zalaru, C.; Dumitrascu, F.; Draghici, C.; Iovu, M.; Marinescu, M.; Tarcomnicu, I.; Nitulescu, G.M.Synthesisandbiological\nscreeningofsomenovel2-(1H-pyrazol-1-yl)-acetamidesaslidocaineanalogue.IndianJ.Chem.B2014,53,733–739.\n51. Refat,M.S.;Hamza,R.Z.;Adam,A.M.A.;Saad,H.A.;Gobouri,A.A.;Al-Salmi,F.A.;Altalhi,T.;El-Megharbel,S.M.Synthesisof\nN,N(cid:48)-bis(1,5-dimethyl-2-phenyl-1,2-dihydro-3-oxopyrazol-4-yl)sebacamidethatameliorateosteoarthritissymptomsandimprove\nbone marrow matrix structure and cartilage alterations induced by monoiodoacetate in the rat model: “Suggested potent\nanti-inflammatoryagentagainstCOVID-19”.Hum.Exp.Toxicol.2021,40,325–341.[CrossRef]\n52. Masih,A.;Agnihotri,A.K.;Srivastava,J.K.;Pandey,N.;Bhat,H.R.;Singh,U.P.Discoveryofnovelpyrazolederivativesasa\npotentanti-inflammatoryagentinRAW264.7cellsviainhibitionofNF-kBforpossiblebenefitagainstSARS-CoV-2.J.Biochem.\nMol.Toxicol.2021,35,e22656.[CrossRef][PubMed]\n53. Francesconi, V.; Cichero, E.; Schenone, S.; Naesens, L.; Tonelli, M. Synthesis and Biological Evaluation of Novel\n(thio)semicarbazone-Based Benzimidazoles as Antiviral Agents against Human Respiratory Viruses. Molecules 2020, 25,\n1487.[CrossRef][PubMed]\n54. Humphries,F.;Shmuel-Galia,L.;Jiang,Z.;Wilson,R.;Landis,P.;Ng,S.L.;Parsi,K.M.;Maehr,R.;Cruz,J.;Morales-Ramos,A.;\netal.AdiamidobenzimidazoleSTINGagonistprotectsagainstSARS-CoV-2infection.Sci.Immunol.2021,6,eabi9002.[CrossRef]\n[PubMed]\n55. Desai,N.C.;Pandya,D.D.;Joshi,V.V.;Rajpara,K.M.;Vaghani,H.V.;Satodiya,H.M.Synthesis,characterizationandantimicrobial\nscreeningofhybridmoleculescontainingbenzimidazole-pyrazoleandpyridinenucleus.Med.Chem.Res.2012,21,4463–4472.\n[CrossRef]\n56. Rajora,J.;Srivastava,Y.K.Synthesisandantimicrobialactivitiesofsomebenzimidazolylpyrazoles. RasayanJ.Chem. 2009,2,\n655–658.\n57. Bondock,S.;Khalifa,W.;Fadda,A.A.Synthesisandantimicrobialactivityofsomenew4-hetarylpyrazoleandfuro[2,3-c]pyrazole\nderivatives.Eur.J.Med.Chem.2011,46,2555–2561.[CrossRef]\n58. Desai,N.C.;Pandya,D.D.;Kotadiya,G.M.;Desai,P.Synthesisandcharacterizationofnovelbenzimidazolebearingpyrazoline\nderivativesaspotentialantimicrobialagents.Med.Chem.Res.2014,23,1474–1487.[CrossRef]\n59. Kalaria,P.K.;Satasia,S.P.;Raval,D.K.L-Prolinepromotedgreenandregioselectivesynthesisofanovelpyrazolebasedtrifluo-\nromethylatedfusedthiazolopyranscaffolanditsbiologicalevaluation.RSCAdv.2014,4,32353–32362.[CrossRef]\n60. Patil, S.B.; Goudgon, N.M. Synthesis of 3-(1–benzy-1H-benzo[d]imidazol–2-yl-amino)–2-(3–aryl-1-phenyl-1H-pyrazol-4-yl)\nthiazolidin-4-onesandtheirantimicrobialactivities.Int.J.Pharm.Sci.Res.2010,1,50–56.\n61. Reddy, L.M.; Prakash, T.B.; Padmaja, A.; Padmavathi, V. Synthesis and antimicrobial activity of pyrazolyl benzoxazoles,\nbenzothiazolesandbenzimidazoles.Med.Chem.Res.2015,24,970–979.[CrossRef]\n62. Padalkar,V.S.;Borse,B.N.;Gupta,V.D.;Phatangare,K.R.;Patil,V.S.;Sekar,N.Synthesisandantimicrobialactivitiesofnovel\n2-[substituted-1H-pyrazol-4-yl]benzothiazoles,benzoxazoles,andbenzimidazoles. J.Heterocycl. Chem. 2016,53,1347–1355.\n[CrossRef]",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 27,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 28of29\n63. Saundane,A.R.;Mathada,K.N.Synthesis,characterization,andbiologicalevaluationofsomenewchalconescontainingindole\nmoietyandtheirderivatives.Mon.Chem.2016,147,1291–1301.[CrossRef]\n64. Padhy, G.K.; Panda, J.; Behera, A.K. Synthesis and characterization of novel benzimidazole embedded 1,3,5-trisubstituted\npyrazolinesasantimicrobialagents.J.Serb.Chem.Soc.2017,82,985–993.[CrossRef]\n65. Chikkula,K.;Sundararajan,R.Analgesic,anti-inflammatory,andantimicrobialactivitiesofnovelisoxazole/pyrimidine/pyrazole\nsubstitutedbenzimidazoleanalogs.Med.Chem.Res.2017,26,3026–3037.[CrossRef]\n66. Suram,D.;Thatha,S.;Venkatapuram,P.;Adivireddy,P.SynthesisandAntimicrobialActivityofaNewClassofBenzazolyl\nPyrazoles.J.Heterocycl.Chem.2017,54,3152–3162.[CrossRef]\n67. Reddy,N.B.;Zyryanov,G.V.;Reddy,G.M.;Balakrishna,A.;Padmaja,A.;Padmavathi,V.;Reddy,C.S.;Garcia,J.R.;Sravya,G.\nDesignandsynthesisofsomenewbenzimidazolecontainingpyrazolesandpyrazolylthiazolesaspotentialantimicrobialagents.\nJ.Heterocycl.Chem.2019,56,589–596.[CrossRef]\n68. Si,W.J.;Wang,X.;Chen,M.;Wang,M.Q.;Lu,A.M.;Yang,C.L.Design,synthesis,antifungalactivityand3D-QSARstudyof\nnovelpyrazolecarboxamideandniacinamidederivativescontainingbenzimidazolemoiety.NewJ.Chem.2019,43,3000–3010.\n[CrossRef]\n69. Jardosh,H.H.;Sangani,C.B.;Patel,M.P.;Patel,R.G.Onestepsynthesisofpyrido[1,2-a]benzimidazolederivativesofaryloxypyra-\nzoleandtheirantimicrobialevaluation.Chin.Chem.Lett.2013,24,123–126.[CrossRef]\n70. Sowdari,J.;Gudi,Y.;Donthamsetty,S.V.;Venkatapuram,P.;Adivireddy,P.GreenApproachfortheSynthesisofaNewClassof\nDiamidomethane-linkedBenzazolylPyrazolesandEvaluationasAntifungals.J.Heterocycl.Chem.2019,56,2080–2089.[CrossRef]\n71. Wang,Y.T.;Shi,T.Q.;Fu,J.;Zhu,H.L.DiscoveryofnovelbacterialFabHinhibitors(Pyrazol-Benzimidazoleamidederivatives):\nDesign, synthesis, bioassay, moleculardockingandcrystalstructuredetermination. Eur. J.Med. Chem. 2019, 171, 209–220.\n[CrossRef][PubMed]\n72. Chkirate,K.;Karrouchi,K.;Dege,N.;Sebbar,N.K.;Ejjoummany,A.;Radi,S.;Adarsh,N.N.;Talbaoui,A.;Ferbinteanu,M.;Essassi,\nE.M.;etal.Co(II)andZn(II)pyrazolyl-benzimidazolecomplexeswithremarkableantibacterialactivity.NewJ.Chem.2020,44,\n2210–2221.[CrossRef]\n73. Abd Elaziz, A.A.E.S.; Farag, A.M.; Alagib, I.I.A.; Abdallah, E.M.; Mohammed, N.E.A. Evaluation of some new synthesis\nbenzothiazoleandbenzimidazolederivativesaspotentialantimicrobialandanticanceragents. Int. J.Adv. Appl. Sci. 2020,7,\n69–77.[CrossRef]\n74. Bassyouni, F.A.; Tawfik, H.A.; Hamed, A.R.; Soltan, M.M.; ElHefnawi, M.; ElRashedy, A.A.; Moharam, M.E.; Rehim, M.A.\nSynthesis,antioxidant,andantimicrobialactivitiesofnew2-(1,5,6-trimethyl-1H-benzo[d]imidazole-2-carbonyl)-2,3-dihydro-1H-\npyrazole-4-carbonitriles,(1,3,4-oxadiazol-2-yl)-1Hbenzo[d]imidazol-5-yl)(phenyl)methanones,and(1,3,4-oxadiazol-2-yl)-1,5-\ndihydro-[1,2,4]triazolo[1,5-a]pyridine-8-carbonitriles:QSARandmoleculardockinganalysis.Egypt.Pharm.J.2012,11,80–92.\n[CrossRef]\n75. Kalirajan,R.;Rathore,L.;Jubie,S.;Gowramma,B.;Gomathy,S.;Sankar,S.Microwaveassistedsynthesisofsomenovelpyrazole\nsubstitutedbenzimidazolesandevaluationoftheirbiologicalactivities.IndianJ.Chem.B2011,50,1794–1799.[CrossRef]\n76. El-Gohary,N.S.;Shaaban,M.I.Synthesisandbiologicalevaluationofanewseriesofbenzimidazolederivativesasantimicrobial,\nantiquorum-sensingandantitumoragents.Eur.J.Med.Chem.2017,131,255–262.[CrossRef][PubMed]\n77. El-Gohary,N.S.;Shaaban,M.I.Synthesis,antimicrobial,antiquorum-sensingandantitumoractivitiesofnewbenzimidazole\nanalogs.Eur.J.Med.Chem.2017,137,439–449.[CrossRef]\n78. Krishnanjaneyulu, I.S.; Saravanan, G.; Vamsi, J.; Supriya, P.; Bhavana, J.U.; Kumar, M.V.S. Synthesis, characterization and\nantimicrobialactivityofsomenovelbenzimidazolederivatives.J.Adv.Pharm.Technol.Res.2014,5,21–27.[CrossRef][PubMed]\n79. Dawoud,N.T.A.;Mahmoud,F.F.;Ismil,Z.H.;Lotfy,D.R.SynthesisandBiologicalScreeningofSomeNewSubstituted1-Acetyl\nBenzimidazol-2-ylMethylIsoindoline-1,3-DioneAnalogsasAnti-MicrobialAgents.J.Chem.Pharm.Res.2018,10,110–118.\n80. Tumosiene˙,I.;Peleckis,A.;Jonuškiene˙,I.;Vaickelioniene˙,R.;Kantminiene,K.;Šiugždaite˙,J.;Beresnevicˇius,Z.J.;Mickevicˇius,V.\nSynthesisofnovel1,2-and2-substitutedbenzimidazoleswithhighantibacterialandantioxidantactivity.Mon.Chem.2018,149,\n577–594.[CrossRef]\n81. Grillot, A.-L.; LeTiran, A.; Shannon, D.; Krueger, E.; Liao, Y.; O’Dowd, H.; Tang, Q.; Ronkin, S.; Wang, T.; Waal, N.; etal.\nSecond-GenerationAntibacterialBenzimidazoleUreas:DiscoveryofaPreclinicalCandidatewithReducedMetabolicLiability.J.\nMed.Chem.2014,57,8792–8816.[CrossRef][PubMed]\n82. Charifson,P.S.;Grillot,A.L.;Grossman,T.H.;Parsons,J.D.;Badia,M.;Bellon,S.;Deininger,D.D.;Drumm,J.E.;Gross,C.H.;\nLeTiran, A.; etal. NovelDual-TargetingBenzimidazoleUreaInhibitorsofDNAGyraseandTopoisomeraseIVPossessing\nPotentAntibacterialActivity: IntelligentDesignandEvolutionthroughtheJudiciousUseofStructure-GuidedDesignand\nStucture-ActivityRelationships.J.Med.Chem.2008,51,5243–5263.[CrossRef]\n83. Veerasamy,R.;Roy,A.;Karunakaran,R.;Rajak,H.Structure–ActivityRelationshipAnalysisofBenzimidazolesasEmerging\nAnti-InflammatoryAgents:AnOverview.Pharmaceuticals2021,14,663.[CrossRef][PubMed]\n84. Sharma, S.; Kumar, D.; Singh, G.; Monga, V.; Kumar, B. Recent Advancements in the Development of Heterocyclic Anti-\nInflammatoryAgents.Eur.J.Med.Chem.2020,200,112438.[CrossRef]\n85. Arora,R.;Kaur,A.;Gill,N.S.AnalgesicandAnti-inflammatoryActivityofSomeNewlySynthesizedNovelPyrazoleDerivatives\nofBenzimidazole.Curr.Res.Chem.2012,4,76–87.[CrossRef]",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 28,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Antibiotics2021,10,1002 29of29\n86. Mosmann,T.Rapidcolorimetricassayforcellulargrowthandsurvival:Applicationtoproliferationandcytotoxicityassays.J.\nImmunol.Methods1983,65,55–63.[CrossRef]\n87. Denizot,F.;Lang,R.Rapidcolorimetricassayforcellgrowthandsurvival.Modificationstothetetrazoliumdyeproceduregiving\nimprovedsensitivityandreliability.J.Immunol.Methods1986,89,271–277.[CrossRef]\n88. Gerlier,D.;Thomasset,T.UseofMTTcolorimetricassaytomeasurecellactivation.J.Immunol.Methods1986,94,57–63.[CrossRef]\n89. Madalageri,P.M.;Kotresh,O.Synthesis,DNAprotectionandantimicrobialactivityofsomenovelchloromethylbenzimidazole\nderivativesbearingdithiocarbamates.J.Chem.Pharm.Res.2012,4,2697–2703.\n90. Wang,Y.T.;Shi,T.Q.;Zhu,H.L.;Liu,C.H.Synthesis,biologicalevaluationandmoleculardockingofbenzimidazolegrafted\nbenzsulfamide-containingpyrazoleringderivativesasnoveltubulinpolymerizationinhibitors. Bioorg. Med. Chem. 2019,27,\n502–515.[CrossRef][PubMed]\n91. Shake,Y.M.;Omar,M.A.;Mahmoud,K.;Elhallouty,S.M.;El-Senousy,W.M.;Ali,M.M.;Mahmoud,A.E.;Abdel-Halim,A.H.;\nSoliman,S.M.;ElDiwani,H.I.Synthesis,invitroandinvivoantitumorandantiviralactivityofnovel1-substitutedbenzimidazole\nderivatives.J.Enzym.Inhib.Med.Chem.2015,30,826–845.[CrossRef]\n92. Saundane,A.R.;Kirankumar,N.M.Synthesis,characterization,andbiologicalevaluationofSchiffbasescontainingindolemoiety\nandtheirderivatives.Mon.Chem.2015,146,1751–1761.[CrossRef]\n93. Durgamma, S.; Muralikrishna, A.; Padmavathi, V.; Padmaja, A. Synthesis and antioxidant activity of amido-linked\nbenzoxazolyl/benzothiazolyl/benzimidazolyl-pyrrolesandpyrazoles.Med.Chem.Res.2014,23,2916–2929.[CrossRef]\n94. Noor,A.;Qazi,N.G.;Nadeem,H.;Khan,A.U.;Paracha,R.Z.;Ali,F.;Saeed,A.Synthesis,characterization,anti-ulceractionand\nmoleculardockingevaluationofnovelbenzimidazole-pyrazolehybrids.Chem.Cent.J.2017,11,85.[CrossRef]\n95. Marinescu,M.;Cinteza,L.O.;Marton,G.I.;Chifiriuc,M.C.;Popa,M.;Stanculescu,I.;Zalaru,C.M.;Stavarache,C.E.Synthesis,\ndensityfunctionaltheorystudyandinvitroantimicrobialevaluationofnewbenzimidazoleMannichbases.BMCChem.2020,14,\n45.[CrossRef][PubMed]",
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 29,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    }
+  ],
+  "tables": [
+    {
+      "table_id": "p9_t1",
+      "rows": [
+        [
+          "",
+          "62.5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "31.25",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "3.9",
+          "7.81",
+          "1.95",
+          "3.9",
+          "7.81",
+          "7.81",
+          "7.81",
+          "1.95",
+          "3.9",
+          "1.95"
+        ],
+        [
+          "",
+          "7.81",
+          "",
+          "",
+          "7.81",
+          "7.81",
+          "",
+          "",
+          "7.81",
+          "3.9"
+        ],
+        [
+          "",
+          "62.5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "3.9",
+          "125",
+          "3.9",
+          "3.9",
+          "7.81",
+          "7.81",
+          "3.9",
+          "1.95",
+          "3.9",
+          "1.95"
+        ],
+        [
+          "",
+          "15.62",
+          "",
+          "",
+          "7.81",
+          "",
+          "",
+          "",
+          "7.81",
+          "3.9"
+        ],
+        [
+          "",
+          "125",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "125",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 9,
+        "section": null,
+        "table_id": "p9_t1",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p16_t1",
+      "rows": [
+        [
+          "14",
+          "13",
+          "14",
+          "16"
+        ]
+      ],
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 16,
+        "section": null,
+        "table_id": "p16_t1",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p16_t2",
+      "rows": [
+        [
+          "19",
+          "16",
+          "18",
+          "15",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "13",
+          "16"
+        ]
+      ],
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 16,
+        "section": null,
+        "table_id": "p16_t2",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p16_t3",
+      "rows": [
+        [
+          "14",
+          "17"
+        ]
+      ],
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 16,
+        "section": null,
+        "table_id": "p16_t3",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p17_t1",
+      "rows": [
+        [
+          "15.62",
+          "7.81",
+          "7.81",
+          "7.81",
+          "15.62",
+          "7.81",
+          "7.81",
+          "31.25",
+          "7.81"
+        ]
+      ],
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 17,
+        "section": null,
+        "table_id": "p17_t1",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p17_t2",
+      "rows": [
+        [
+          "15.62",
+          "7.81",
+          "3.9",
+          "7.81",
+          "7.81",
+          "15.62",
+          "7.81",
+          "15.62",
+          "7.81"
+        ]
+      ],
+      "source": {
+        "source_file": "antibiotics10081002.pdf",
+        "page": 17,
+        "section": null,
+        "table_id": "p17_t2",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    }
+  ]
+}

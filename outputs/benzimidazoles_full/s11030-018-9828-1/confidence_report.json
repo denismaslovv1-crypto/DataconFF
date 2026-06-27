@@ -1,0 +1,37 @@
+{
+  "should_run_llm": true,
+  "confidence": "low",
+  "issues": [
+    {
+      "code": "no_parsed_tables",
+      "severity": "medium",
+      "message": "The PDF parser found no structured tables."
+    },
+    {
+      "code": "high_validation_rejection_ratio",
+      "severity": "high",
+      "message": "Many rule candidates were rejected by schema/evidence validation."
+    },
+    {
+      "code": "many_missing_required_fields",
+      "severity": "high",
+      "message": "Many raw rule candidates are missing required ChemX fields."
+    }
+  ],
+  "signals": {
+    "parsed_tables": 0,
+    "evidence_chunks": 3,
+    "table_evidence_chunks": 0,
+    "table_like_records": 0,
+    "raw_records": 10,
+    "validated_records": 3,
+    "validation_errors": 7,
+    "validation_rejection_ratio": 0.7,
+    "average_record_confidence": 0.75,
+    "evidence_page_count": 3,
+    "record_page_count": 1,
+    "evidence_page_coverage_ratio": 0.3333,
+    "missing_required_field_ratio": 0.7,
+    "conflict_count": 0
+  }
+}

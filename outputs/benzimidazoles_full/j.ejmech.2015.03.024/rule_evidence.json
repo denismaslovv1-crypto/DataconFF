@@ -1,0 +1,100 @@
+[
+  {
+    "text": "MIC ((cid:2)g/mL)",
+    "source": {
+      "source_file": "j.ejmech.2015.03.024.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": "p3_t1",
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_tables",
+      "confidence": 0.75
+    },
+    "row_id": "0"
+  },
+  {
+    "text": "Compound | B.subtilis | S.aureus | S.epidermidis | E.coli | P.aeroginosa | K.pneumoniae",
+    "source": {
+      "source_file": "j.ejmech.2015.03.024.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": "p3_t1",
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_tables",
+      "confidence": 0.75
+    },
+    "row_id": "1"
+  },
+  {
+    "text": "ia\nAbstract: A series of novel benzimidazole-pyridine-piperidine hybrids was synthesized in good yields and characterized\nby spectral and elemental analyses. The compounds 4a-h and 5a-c were evaluated for their in vitro antibacterial activity\nagainst gram-positive organisms viz., Bacillus subtilis, Staphylococcus aureus, Staphylococcus epidermidis, gram-\nnegative organisms viz., Escherichia coli, Pseudomonas aeruginosa, Klebsiella pneumonia and also against fungal strains\nlike Candida albicans, Saccharomyces cervisiae of yeasts, Aspergillus flavus, Aspergillus niger according to the CLSI\nStandard Protocol. Compoun",
+    "source": {
+      "source_file": "j.ejmech.2015.03.024.pdf",
+      "page": 1,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "esized in good yields and characterized\nby spectral and elemental analyses. The compounds 4a-h and 5a-c were evaluated for their in vitro antibacterial activity\nagainst gram-positive organisms viz., Bacillus subtilis, Staphylococcus aureus, Staphylococcus epidermidis, gram-\nnegative organisms viz., Escherichia coli, Pseudomonas aeruginosa, Klebsiella pneumonia and also against fungal strains\nlike Candida albicans, Saccharomyces cervisiae of yeasts, Aspergillus flavus, Aspergillus niger according to the CLSI\nStandard Protocol. Compound 5ashowed promising activity against all tested organism excluding Bacillus",
+    "source": {
+      "source_file": "j.ejmech.2015.03.024.pdf",
+      "page": 1,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "40 Letters in Drug Design & Discovery,2015, Vol. 12, No. 1 Beulah et al.\nH H\nCl N N\nn-propyl amine\nPd/C / EtOH\nNO 2 110-115 oC NO 2 NH 2 -NH 2 / reflux NH 2\n6 7\nethyl\nCF\npiperidine-4 3\n-carboxylate\nN NH\n3a\n4N HCl, 72 h\nN N N\nN\nNaHCO/DMF\n3\nreflux\nN\n8 5b\nScheme (3). Synthesis of 2-(1-(6-Phenyl-4-(trifluoromethyl) pyridin-2-yl) piperidin-4-yl)-1-propyl-1H-benzo[d] imidazole 5b.\nTable 1. In vitro antibacterial activity of hybrid molecules 4a-h, 5a-c.\nMIC ((cid:2)g/mL)\nCompound B.subtilis S.aureus S.epidermidis E.coli P.aeroginosa K.pneumoniae\n4a >150 >150 >150 >150 >150 >150\n4b >150 >150 >150 >150 >150 >150\n4c >150 >150 >150 >150 >150 >150\n4d >150 >150 >150 >150 >150 >150\n4e >150 >150 >150 >150 >150 >150\n4f >150 >150 75 >150 >150 >150\n4g >150 >150 75 >150 >150 >150\n4h 150 >150 75 75 75 >150\n5a 150 9.375 4.68 9.375 4.68 37.5\n5b >150 >150 >150 >150 >150 >150\n5c >150 >150 >150 >150 >150 >150\nPenicillin 1.562 1.562 3.125 12.5 12.5 6.25\nNorfloxacin 9.375 1.17 1.17 18.75 1.17 9.375\nDMSO-negativecontrolshowednoactivity.\ncondition affording 2-nitro-N-propylaniline 6. The later was All the final compounds were well characterized with spec-\ntreated with metal catalyzed reduction using Pd/C in the tral and elemental analysis.\npresence of hydrazine hydrate resulting in N1-propyl-\nbenzene-1, 2-diamine 7. Compound 7 was reacted with\n2.2. Evaluation of Biological Activity\nethyl-piperidine-4-carboxylic acid [48] furnishing 2-(piperi-\ndin-4-yl)-1-propyl-1H-benzo[d]imidazole 8. Compound 8\n2.2.1. In Vitro Antibacterial Activity\nwas further reacted with 2-chloro-6-phenyl-4-(trifluoro-\nmethyl) pyridine affording 2-(1-(6-phenyl-4-(trifluoro- The title hybrid molecules 4a-h and 5a-c were tested\nmethyl) pyridin-2-yl) piperidin-4-yl)-1-propyl-1H-benzo[d] against bacterial organism such as Gram-positive organisms\nimidazole 5b (Scheme 3). The structure of alkylated com- Bacillus subtilis (MTCC 441), Staphylococcus aureus\npound 5b was found to be identical with the compound ob- (MTCC 96), Staphylococcus epidermidis, Gram-negative\ntained by unambiguous route (Scheme 3) in all respects organisms viz Escherichia coli (MTCC 443), Pseudomonas\nwhich was further confirmed by super imposable IR spectra. aeruginosa (MTCC 741), Klebsiella pneumonia (MTCC",
+    "source": {
+      "source_file": "j.ejmech.2015.03.024.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "Design, Synthesis and Biological Evaluation Letters in Drug Design & Discovery, 2015, Vol. 12, No. 1 41\nTable-2. In viro antifungal activity of 1-Ethyl-2- (1- (6-phenyl-4- (trifluoromethyl) pyridine-2- yl) piperidin-4-yl) -1H-benzo[d]\nimidazole 5a.\nZone of Inhibition in mm\nCompound C. albicans S. cervisiae A. niger A. flavus\n100(cid:3)g 150(cid:3)g 100(cid:3)g 150(cid:3)g 100(cid:3)g 150(cid:3)g 100(cid:3)g 150(cid:3)g\n7 10 7 10 - - - -\n5a\nAmphotericin(50 (cid:3)g) 23.5 22 24 25\nNegative control; DMSO showed no activity; well or cup method; the concentrations are expressed in mg/mL and inhibitory zone diameters are expressed in mm.\n618) and also against fungal strains like Candida albicans t (triplet), quart (quartet), m (multiplet) and br (broad), re-\n(MTCC 227), Saccharomyces cervisiae (MTCC36) of yeasts, spectively. All the reactions were monitored by thin layer\nAspergillus flavus (MTCC 277), Aspergillus niger (MTCC chromatography (TLC) on pre-coated silica gel 60 F\n254\n282) was done according to CLSI Standard Protocol [49] and (mesh); spots were visualized with UV light. Merck silica\nthe results were tabulated in Table 1, 2. Compound 5a gel (60-120 mesh) was used for column chromatography\nshowed excellent activity against all tested organism exclud- CHN analysis was recorded on a vario EL analyzer.\ning Bacillus subtilis (MTCC 441). In gram-negative organ-\nisms, it is more active against Escherichia coli (MTCC 443) 3.2. Chemistry\nstrain MIC value 9.375 with comparison to norfloxacin\nwhich is a broad range microbial agent and also penicillin. It Synthesis of 2-(1-(6-methyl/phenyl-4-(trifluoromethyl)\nis also active against gram-positive organisms with Pyridin-2-yl) Piperidin-4-yl)-1H-benzo[d] imidazoles (4a-\ncomparison to penicillin especially Staphylococcus h).\nepidermidis with MIC value 4.68. Compounds 4f-h showed\nmoderate activity against bacterial organisms. The optimum General Procedure\nalkyl group on benzimidazole NH is found to be as ethyl\nmoiety and did not show any interesting activity either by A mixture of 2-chloro-6-phenyl/methyl-4-(trifluoro-\nincreasing the number of carbons or by replacement of nitrile methyl) pyridine 3 (1 mmol) and 6-substituted-2-(piperidin-\ngroups. The standard samples are considered as resistant to 4-yl)-1H-benzo[d] imidazole (1.2 mmol) was charged and\nEscherichia coli (MTCC 443), however compound 5a added NaHCO 3 (3.8 mmol), and DMF (5 mL) were added.\nshowed enhanced activity than standard samples. The reaction mixture was heated for 18 h at 120-125 oC in\nN atmosphere. Progress of the reaction was monitored by\n2\nTLC. The reaction mixture was cooled and poured onto\n2.2.2. In Vitro Antifungal Activity\ncrushed ice. That obtained solid was filtered, washed with\nThe in vitro antifungal activities of hybrid molecules 4a- water, hot 4N HCl and followed by water. The obtained\ncrude product was purified at the column chromatography\nh and 5a-c were evaluated against four fungi includ-\nover silica gel using the solvent system 4:6 ethyl acetate:\ning Candida albicans Y0109, Candida albicans SC5314,\nhexane as eluent to give the title compounds (4a-h).\nSaccharomyces cervisiae, Aspergillus niger, Aspergillus\nflavus. The positive control, Amphotericin, was obtained\nfrom their respective manufacturers. Compound 5a showed 2-(1-(6-Phenyl-4-(trifluoromethyl) Pyridin-2-yl) Piperidin-\nmoderate activity against fungal organism like Candida 4-yl)-1H-benzo[d] imidazole (4a)\nalbicans (MTCC 227), Saccharomyces cervisiae (MTCC36). Yield: 76 %. M.P: 202-204 oC, I.R: 3447.15 (-NH),\nRemaining compounds showed poor activity against all 1608.96 (-C=N-), 1392.56 (CF ). 1H NMR (DMSO-d ): (cid:2)\n3 6\nfungal organisms. Compound 5a is identified as a new class\n2.03-2.11 (m, 2H), 2.24 (d, 2H, J = 11.71 Hz), 3.16-3.22 (m,\nof antimicrobial agent against broad range microbial\n3H), 4.60-4.65 (d, 2H, J = 12.84 Hz), 6.84 (s, 1H), 7.17-7.21\norganisms and further biological studies and modification\n(m, 2H, Ar-H), 7.44-7.49 (m, 5H, Ar-H), 7.65 (s, 1H, Ar-H),\nare under progress.\n8.02 (d, 2H, Ar-H, J = 6.61Hz), 11.69 (br., NH). ESI-MS\nm/z: 423 (M++H). Anal. Calcd. for C H F N : C, 68.24; H,\n24 21 3 4\n3. EXPERIMENTAL SECTION 5.01; N, 13.26. Found: C, 68.19; H, 4.96; N, 13.25.\n3.1. Materials & Methods 6-Chloro-2-(1-(6-phenyl-4-(trifluoromethyl) Pyridin-2-yl)\npiperidin-4-yl)-1H-benzo[d] Imidazole (4b)\nMelting points of all the compounds were recorded on\nCasia-Siamia (VMP-AM) melting point apparatus and were Yield: 73.4 %. M.P: >250 oC, I.R: 3436.87 (-NH),\nuncorrected. IR spectra were recorded on a Perkin-Elmer FT- 1614.16 (-C=N-), 1416.48 (CF ). 1H NMR (DMSO-d ): (cid:2)\n3 6\nIR 240-C spectrophotometer using KBr optics. 1H NMR 2.03-2.19 (m, 2H), 2.33-2.44 (m, 2H), 3.69-3.82 (m, 3H),\nspectra were recorded on Bruker AV 300 MHz and INOVA 4.68-4.73 (d, 2H, J = 13.59 Hz), 6.88 (s, 1H, Ar-H), 7.26 (s,\n400 & 500 MHz in DMSO-d using TMS as internal stan- 1H, Ar-H), 7.43-7.50 (m, 3H, Ar-H), 7.57 (m, 2H), 7.72 (d,\n6\ndard. Multiplicity is reported as s (singlet), d (doublet), 1H, Ar-H, J = 8.87 Hz), 8.03 (d, 2H, Ar-H, J = 7.55 Hz),",
+    "source": {
+      "source_file": "j.ejmech.2015.03.024.pdf",
+      "page": 4,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "Design, Synthesis and Biological Evaluation Letters in Drug Design & Discovery, 2015, Vol. 12, No. 1 43\nCalcd. for C H F N : C, 69.81; H, 5.86; N, 12.06. Found: plates were incubated at 27 °C for 48 h. Inhibition zones\n27 27 3 4\nC, 69.78; H, 5.82; N, 12.02. were measured, the diameter was calculated in millimeter\nand the corresponding results were in Table 2.\n2-(2-(1-(6-Phenyl-4-(trifluoromethyl) Pyridin-2-yl) Piperi-\ndin-4-yl)-1H-benzo[d] imidazol-1-yl) Acetonitrile (5c) 4. CONCLUSION\nYield: 83 %. M.P: 174-176 oC, I.R: 1610.87 (-C=N-), In conclusion, we have discovered that a number of ben-\n1396.06 (CF 3 ). 1H NMR (DMSO-d 6 ): (cid:2) 2.18-2.27 (m, 4H), zimidazole-pyridine-piperidine hybrids displayed moderate\n3.23-3.37 (m, 2H), 3.49-3.62 (m, 1H), 4.71-4.80 (d, 2H, J = activity against various fungal organisms as well as bacterial\n11.51 Hz), 5.59 (s, 2H, N-CH 2 -CN), 6.97 (s, 1H, Ar-H), organisms. One promising compound 5a exhibited broad\n7.27-7.30 (m, 2H, Ar-H), 7.41-7.49 (m, 3H, Ar-H), 7.57-7.61 spectrum antifungal activity including antibacterial activity\n(m, 1H, Ar-H), 7.65-7.69 (m, 1H, Ar-H), 8.08-8.10 (m, 2H, in vitro and was more potent than the standard drugs.\nAr-H). ESI-MS m/z: 462 (M++H). Anal. Calcd. for\nC H F N :C, 67.67; H, 4.81; F, 12.35; N, 15.18. Found: C,\n26 22 3 5 CONFLICT OF INTEREST\n67.63; H, 4.77; N, 15.14.\nThe authors confirm that this article content has no con-\n2-(Piperidin-4-yl)-1-propyl-1H-benzo[d]imidazole (8) flict of interest.\nYield: 72%. Gummy, I.R: 1608.96 (-C=N-), 1392.56. 1H\nACKNOWLEDGEMENTS\nNMR (DMSO-d ): (cid:2) 0.94-1.05 (m, 4H), 1.65-1.75 (m, 1H),\n6\n1.83-2.10 (m, 4H), 3.01-3.09 (m, 2H), 3.28-3.32 (d, 2H, J = We are thankful to the CSIR for financial assistance\n12.84 Hz), 4.04-4.12 (m, 2H), 6.69 (d, 1H, Ar-H, J = 9.01 through XII five year plan project: DISTF (code: CSC-\nHz), 7.20-7.35 (m, 2H, Ar-H), 7.67-76 (d, 1H, Ar-H, J = 0204). One of the authors (A. RAVI KUMAR) also thankful\n8.56 Hz). ESI-MS m/z: 244 (M++H). Anal. Calcd. for to Council of Scientific and Industrial Research (CSIR), In-\nC 15 H 21 N 3 : C, 74.03; H, 8.70; N, 17.27; Found: C, 74.69; H, dia for the financial assistance in the form of senior research\n8.67; N, 17.24. fellowship and contingency grant.\n3.3. In vitro Antimicrobial Assay\nREFERENCES\nAntibacterial Activity: Procedure [1] Tenover, F. C., L. C. McDonald. Vancomycin-resistant staphylo-\ncocci and enterococci: epidemiology and control. Curr. Opin. In-\nMinimum inhibitory concentration (MIC) assay of hybrid fect. Dis., 2005, 18, 300-305.\nmolecules 4a-h and 5a-c was done according to CLSI Stan- [2] Pfeltz, R. F.; Wilkinson, B. J. The escalating challenge of vanco-\nmycin resistance in Staphylococcus aureus. Curr. Drug Targets-\ndard Protocol by the micro dilution method in liquid medium\nInfect. Disord., 2004, 4, 273–294.\ndistributed in 96-well plates. In each test a microbial culture [3] Roberts, M. C. Distribution of macrolide, lincosamide, strepto-\ncontrol and a sterility control (negative) were performed. The gramin, ketolide and oxazolidinone (MLSKO) resistance genes in\nplates were incubated for 24 hours at 37 °C. The lowest con- gram-negative bacteria. Curr. Drug Targets Infect. Disord., 2004,\n4, 207-215.\ncentration which inhibited the growth of test organism was\n[4] Muroi, H.; Nihei, K-I.; Tsujimoto, K.; Kubo, I. Synergistic effects\nconsidered as MIC ((cid:4)g/mL) value for the tested compound.\nof anacardic acids and methicillin against methicillin resistant\nNorfloxacin and Penicillin were used as standard drugs. The Staphylococcus aureus. Bioorg. Med. Chem., 2004, 12, 583–587.\nminimum inhibitory concentration (MIC) values are pre- [5] Khan, M. W.; Alam, M. J.; Rashid, M. A.; Chowdhury, R. A new\nstructural alternative in benzo[b]furans for antimicrobial activity.\nsented in the Table 1.\nBioorg. Med. Chem., 2005, 13, 4796-4805.\n[6] Orjales, A.; Mosquera, R.; Labeaga, L.; Rodes, R. New 2-\nAntifungal Activity: Procedure Piperazinylbenzimidazole Derivatives as 5-HT3 Antagonists. Syn-\nthesis and Pharmacological Evaluation. J. Med. Chem., 1997, 40,\nIn vitro antifungal activity of hybrid molecules 4a-h and 586-593.\n5a-c was studied against the fungal strains. The Potato Dex- [7] Grimmett, M. R., Katritzky, A. R., Rees, C. W., Scriven, E. F. V.\ntrose Agar (PDA) medium was suspended in distilled water Comprehensive Heterocyclic Chemistry II; Eds.; Pergamon Press:\nOxford, 1996, 3, 77–220.\n(39 g in 1000 mL) and heated to boiling until it dissolved\n[8] Khalafi-Nezhad, A.; Soltani Rad, M. N.; Mohabatkar, H.; Asrari,\ncompletely, the medium and Petri dishes were autoclaved at Z.; Hemmateenejad, B. Design, synthesis, antibacterial and QSAR\npressure of 15 lb/inc2 for 20 min. Agar well bioassay was studies of benzimidazole and imidazole chloroaryloxyalkyl deriva-\nemployed for testing antifungal activity. The medium was tives. Bioorg. Med. Chem., 2005, 13, 1931-1938.\npoured into sterile Petri dishes under aseptic conditions in a [9] Evans, B. E.; Rittle, K. E.; Bock, M. G.; Dipardo, R. M.; Freid-\ninger, R. M.; Whitter, W. L.; Lundell, G. F.; Veber, D. F.; Ander-\nlaminar air flow chamber. When the medium in the plates\nson, P. S.; Chang, R. S. L.; Lotti, V. J.; Cerino, D. J; Chen, T. B.;\nsolidified, 0.5 mL of (week old) culture of test organism was Kling, P. J.; Kunkel, K. A.; Springer, J. P.; Hirshfield, J. Methods\ninoculated and uniformly spread over the agar surface with a for drug discovery: development of potent, selective, orally effec-\nsterile L-shaped rod. Different concentrations of solutions tive cholecystokinin antagonists. J. Med. Chem., 1988, 31, 2235–\n2246.\nwere prepared by dissolving the compound in DMSO. After\n[10] Bell, C. A.; Dykstra, C. C.; Naiman, N. A.; Cory, M.; Fairley, T.\ninoculation, wells were scooped out with 6 mm sterile cork\nA.; Tidwell, R. R. Structure-activity studies of dicationically substi-\nborer and the lids of the dishes were replaced. To each wel, tuted bis-benzimidazoles against Giardia lamblia: correlation of\ndifferent concentrations (100 (cid:4)g/mL and 150 (cid:4)g/mL) of test antigiardial activity with DNA binding affinity and giardial topoi-\nsomerase II inhibition. Antimicrob. Agents Chemother., 1993, 37,\nsolutions were added. Controls were maintained. The\n2668.",
+    "source": {
+      "source_file": "j.ejmech.2015.03.024.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  }
+]

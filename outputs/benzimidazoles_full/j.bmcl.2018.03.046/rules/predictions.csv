@@ -1,0 +1,25 @@
+compound_id,smiles,target_type,target_relation,target_value,target_units,bacteria
+2018,NOT_DETECTED,MIC,=,4,mm,Staphylococcus aureus
+2018,NOT_DETECTED,MIC,=,4,mm,Staphylococcus aureus
+2018,NOT_DETECTED,MIC,=,32-128,um,S.aureus
+2018,NOT_DETECTED,MIC,=,32-128,um,S.aureus
+2018,NOT_DETECTED,MIC,=,32-128,um,Staphylococcus aureus
+2018,NOT_DETECTED,MIC,=,32-128,um,Staphylococcus aureus
+2018,NOT_DETECTED,MIC,=,32-128,um,Staphylococcus aureus
+2018,NOT_DETECTED,MIC,=,32-128,um,Escherichia coli
+2018,NOT_DETECTED,MIC,=,32-128,um,S.aureus
+2018,NOT_DETECTED,MIC,=,32-128,um,Staphylococcus aureus
+1624,NOT_DETECTED,MIC,=,256,um,S.aureus
+1624,NOT_DETECTED,MIC,=,256,um,S.aureus
+1624,NOT_DETECTED,MIC,=,256,um,E.coli
+1624,NOT_DETECTED,MIC,=,256,um,E.coli
+1624,NOT_DETECTED,MIC,=,256,um,S.aureus
+1624,NOT_DETECTED,MIC,=,256,um,S.aureus
+1624,NOT_DETECTED,MIC,=,256,um,S.aureus
+1624,NOT_DETECTED,MIC,=,256,um,E.coli
+1624,NOT_DETECTED,MIC,=,256,um,E.coli
+1624,NOT_DETECTED,MIC,=,256,um,E.coli
+1624,NOT_DETECTED,MIC,=,256,um,Staphylococcus aureus
+2018,NOT_DETECTED,MIC,=,4,MM,S.aureus
+2018,NOT_DETECTED,MIC,=,4,MM,Staphylococcus aureus
+2018,NOT_DETECTED,MIC,=,4,MM,S.aureus

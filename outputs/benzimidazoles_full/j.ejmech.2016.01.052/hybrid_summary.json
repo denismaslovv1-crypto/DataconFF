@@ -1,0 +1,73 @@
+{
+  "pdf": "data\\chemx\\benzimidazoles\\pdfs\\j.ejmech.2016.01.052.pdf",
+  "confidence": "low",
+  "llm_mode": "never",
+  "llm_ran": false,
+  "llm_status": "skipped",
+  "rule_records": 57,
+  "llm_records": 0,
+  "merged_records_before_dedup": 57,
+  "predictions_csv": "outputs\\benzimidazoles_full_dedup_fix\\j.ejmech.2016.01.052\\predictions.csv",
+  "sidecar_json": "outputs\\benzimidazoles_full_dedup_fix\\j.ejmech.2016.01.052\\predictions_with_evidence.json",
+  "metrics": {
+    "macro_f1": 0.19927971188475388,
+    "field_metrics": [
+      {
+        "field": "compound_id",
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "true_positive": 0
+      },
+      {
+        "field": "smiles",
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "true_positive": 0
+      },
+      {
+        "field": "target_type",
+        "precision": 1.0,
+        "recall": 0.3149171270718232,
+        "f1": 0.4789915966386554,
+        "true_positive": 57
+      },
+      {
+        "field": "target_relation",
+        "precision": 1.0,
+        "recall": 0.3149171270718232,
+        "f1": 0.4789915966386554,
+        "true_positive": 57
+      },
+      {
+        "field": "target_value",
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "true_positive": 0
+      },
+      {
+        "field": "target_units",
+        "precision": 0.9122807017543859,
+        "recall": 0.287292817679558,
+        "f1": 0.4369747899159664,
+        "true_positive": 52
+      },
+      {
+        "field": "bacteria",
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "true_positive": 0
+      }
+    ],
+    "prediction_count": 57,
+    "ground_truth_count": 181,
+    "benchmark_pdf_ids": [
+      "10.1016/j.ejmech.2016.01.052",
+      "10.1021/acs.jmedchem.5b00443"
+    ],
+    "benchmark_pdf_name": "j.ejmech.2016.01.052"
+  }
+}

@@ -1,0 +1,46 @@
+compound_id,smiles,target_type,target_relation,target_value,target_units,bacteria
+0,NOT_DETECTED,MIC,=,0.013,µmol/mL,S. aureus
+0,NOT_DETECTED,MIC,=,0.013,µmol/mL,"E.
+coli"
+0,NOT_DETECTED,MIC,=,0.013,µmol/mL,E. coli
+0,NOT_DETECTED,MIC,=,0.013,µmol/mL,S. aureus
+0,NOT_DETECTED,MIC,=,0.013,µmol/mL,E. coli
+0,NOT_DETECTED,MIC,=,0.013,µmol/mL,E. coli
+0,NOT_DETECTED,MIC,=,0.013,µmol/mL,S. aureus
+0,NOT_DETECTED,MIC,=,0.013,µmol/mL,E. coli
+0,NOT_DETECTED,MIC,=,0.026,µmol/mL,S. aureus
+0,NOT_DETECTED,MIC,=,0.026,µmol/mL,"E.
+coli"
+0,NOT_DETECTED,MIC,=,0.026,µmol/mL,E. coli
+0,NOT_DETECTED,MIC,=,0.026,µmol/mL,S. aureus
+0,NOT_DETECTED,MIC,=,0.026,µmol/mL,E. coli
+0,NOT_DETECTED,MIC,=,0.026,µmol/mL,E. coli
+0,NOT_DETECTED,MIC,=,0.026,µmol/mL,S. aureus
+0,NOT_DETECTED,MIC,=,0.026,µmol/mL,E. coli
+0,NOT_DETECTED,MIC,=,0.03,µmol/mL,S. aureus
+0,NOT_DETECTED,MIC,=,0.03,µmol/mL,"E.
+coli"
+0,NOT_DETECTED,MIC,=,0.03,µmol/mL,E. coli
+0,NOT_DETECTED,MIC,=,0.03,µmol/mL,S. aureus
+0,NOT_DETECTED,MIC,=,0.03,µmol/mL,E. coli
+0,NOT_DETECTED,MIC,=,0.03,µmol/mL,E. coli
+0,NOT_DETECTED,MIC,=,0.03,µmol/mL,S. aureus
+0,NOT_DETECTED,MIC,=,0.03,µmol/mL,E. coli
+0,NOT_DETECTED,MIC,=,0.026,µmol/mL,S. aureus
+0,NOT_DETECTED,MIC,=,0.026,µmol/mL,"E.
+coli"
+0,NOT_DETECTED,MIC,=,0.026,µmol/mL,E. coli
+0,NOT_DETECTED,MIC,=,0.026,µmol/mL,S. aureus
+0,NOT_DETECTED,MIC,=,0.026,µmol/mL,E. coli
+0,NOT_DETECTED,MIC,=,0.026,µmol/mL,E. coli
+0,NOT_DETECTED,MIC,=,0.026,µmol/mL,S. aureus
+0,NOT_DETECTED,MIC,=,0.026,µmol/mL,E. coli
+0,NOT_DETECTED,MIC,=,5,µmol/mL,S. aureus
+0,NOT_DETECTED,MIC,=,5,µmol/mL,"E.
+coli"
+0,NOT_DETECTED,MIC,=,5,µmol/mL,E. coli
+0,NOT_DETECTED,MIC,=,5,µmol/mL,S. aureus
+0,NOT_DETECTED,MIC,=,5,µmol/mL,E. coli
+0,NOT_DETECTED,MIC,=,5,µmol/mL,E. coli
+0,NOT_DETECTED,MIC,=,5,µmol/mL,S. aureus
+0,NOT_DETECTED,MIC,=,5,µmol/mL,E. coli

@@ -1,0 +1,110 @@
+{
+  "pdf": "data\\chemx\\benzimidazoles\\pdfs\\s13065-018-0479-1.pdf",
+  "confidence": "high",
+  "llm_mode": "never",
+  "llm_ran": false,
+  "llm_status": "skipped",
+  "rule_records": 24,
+  "llm_records": 0,
+  "merged_records_before_dedup": 24,
+  "predictions_csv": "outputs\\benzimidazoles_full_dedup_fix\\s13065-018-0479-1\\predictions.csv",
+  "sidecar_json": "outputs\\benzimidazoles_full_dedup_fix\\s13065-018-0479-1\\predictions_with_evidence.json",
+  "metrics": {
+    "macro_f1": 0.7142857142857143,
+    "field_metrics": [
+      {
+        "field": "compound_id",
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "true_positive": 24
+      },
+      {
+        "field": "smiles",
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "true_positive": 0
+      },
+      {
+        "field": "target_type",
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "true_positive": 24
+      },
+      {
+        "field": "target_relation",
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "true_positive": 24
+      },
+      {
+        "field": "target_value",
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "true_positive": 24
+      },
+      {
+        "field": "target_units",
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "true_positive": 24
+      },
+      {
+        "field": "bacteria",
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "true_positive": 0
+      }
+    ],
+    "prediction_count": 24,
+    "ground_truth_count": 24,
+    "benchmark_pdf_ids": [
+      "10.1002/anie.20050",
+      "10.1002/ardp.20140",
+      "10.1002/cmdc.20060",
+      "10.1007/bf026",
+      "10.1007/s1059",
+      "10.1016/j",
+      "10.1016/j.antiv",
+      "10.1016/j.arabj",
+      "10.1016/j.bioor",
+      "10.1016/j.bmcl.2017.11.026",
+      "10.1016/j.ejmec",
+      "10.1016/j.tetle",
+      "10.1016/s0223",
+      "10.1016/s0960",
+      "10.1016/s0968",
+      "10.1021/acs.jmedc",
+      "10.1021/ja981",
+      "10.1021/jm003",
+      "10.1021/jm049",
+      "10.1021/jm300",
+      "10.1039/c4ob0",
+      "10.1039/c5md0",
+      "10.1080/00304",
+      "10.1080/15257",
+      "10.1111/cbdd.12321",
+      "10.1146/annur",
+      "10.1186/s1306",
+      "10.1186/s13065",
+      "10.1248/cpb.58.160",
+      "10.1271/bbb.70.1060",
+      "10.1515/acph",
+      "10.1517/13543",
+      "10.2174/13895",
+      "10.2174/15680",
+      "10.2478/v1000",
+      "10.3184/17475",
+      "10.3390/molec",
+      "10.4155/fmc.14.68",
+      "10.5935/0103"
+    ],
+    "benchmark_pdf_name": "s13065-018-0479-1"
+  }
+}

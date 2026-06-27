@@ -6,6 +6,7 @@ from pydantic import BaseModel, Field
 
 from datacon_workflow.domains.benzimidazoles import BenzimidazoleRawRecord, BenzimidazoleRecord
 from datacon_workflow.extraction.evidence_builder import EvidenceChunk
+from datacon_workflow.orchestration import AgenticOrchestrationResult
 from pdf_extraction.models import ParsedPdfDocument
 
 
@@ -19,3 +20,4 @@ class WorkflowState(BaseModel):
     prediction_csv: Path | None = None
     prediction_json: Path | None = None
     metrics: dict[str, object] | None = None
+    agentic_result: AgenticOrchestrationResult | None = None

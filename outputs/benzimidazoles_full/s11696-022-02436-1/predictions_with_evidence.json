@@ -1,0 +1,1064 @@
+[
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.013",
+      "target_units": "µmol/mL",
+      "bacteria": "S. aureus",
+      "evidence_id": "rule-1",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Staphylococcus aureus->S. aureus"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-1"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Staphylococcus aureus->S. aureus"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.013",
+      "target_units": "µmol/mL",
+      "bacteria": "E.\ncoli",
+      "evidence_id": "rule-2",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-2"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.013",
+      "target_units": "µmol/mL",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-3",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-3"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.013",
+      "target_units": "µmol/mL",
+      "bacteria": "S. aureus",
+      "evidence_id": "rule-4",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Staphylococcus aureus->S. aureus"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-4"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Staphylococcus aureus->S. aureus"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.013",
+      "target_units": "µmol/mL",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-5",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-5"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.013",
+      "target_units": "µmol/mL",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-6",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-6"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.013",
+      "target_units": "µmol/mL",
+      "bacteria": "S. aureus",
+      "evidence_id": "rule-7",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Staphylococcus aureus->S. aureus"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-7"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Staphylococcus aureus->S. aureus"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.013",
+      "target_units": "µmol/mL",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-8",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-8"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.026",
+      "target_units": "µmol/mL",
+      "bacteria": "S. aureus",
+      "evidence_id": "rule-9",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Staphylococcus aureus->S. aureus"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-9"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Staphylococcus aureus->S. aureus"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.026",
+      "target_units": "µmol/mL",
+      "bacteria": "E.\ncoli",
+      "evidence_id": "rule-10",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-10"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.026",
+      "target_units": "µmol/mL",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-11",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-11"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.026",
+      "target_units": "µmol/mL",
+      "bacteria": "S. aureus",
+      "evidence_id": "rule-12",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Staphylococcus aureus->S. aureus"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-12"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Staphylococcus aureus->S. aureus"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.026",
+      "target_units": "µmol/mL",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-13",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-13"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.026",
+      "target_units": "µmol/mL",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-14",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-14"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.026",
+      "target_units": "µmol/mL",
+      "bacteria": "S. aureus",
+      "evidence_id": "rule-15",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Staphylococcus aureus->S. aureus"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-15"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Staphylococcus aureus->S. aureus"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.026",
+      "target_units": "µmol/mL",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-16",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-16"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.03",
+      "target_units": "µmol/mL",
+      "bacteria": "S. aureus",
+      "evidence_id": "rule-17",
+      "warnings": [
+        "source:rule_extractor",
+        "target_value_numeric_format_normalized",
+        "bacteria_normalized:Staphylococcus aureus->S. aureus"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-17"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "target_value_numeric_format_normalized",
+      "bacteria_normalized:Staphylococcus aureus->S. aureus"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.03",
+      "target_units": "µmol/mL",
+      "bacteria": "E.\ncoli",
+      "evidence_id": "rule-18",
+      "warnings": [
+        "source:rule_extractor",
+        "target_value_numeric_format_normalized"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-18"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "target_value_numeric_format_normalized"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.03",
+      "target_units": "µmol/mL",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-19",
+      "warnings": [
+        "source:rule_extractor",
+        "target_value_numeric_format_normalized",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-19"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "target_value_numeric_format_normalized",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.03",
+      "target_units": "µmol/mL",
+      "bacteria": "S. aureus",
+      "evidence_id": "rule-20",
+      "warnings": [
+        "source:rule_extractor",
+        "target_value_numeric_format_normalized",
+        "bacteria_normalized:Staphylococcus aureus->S. aureus"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-20"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "target_value_numeric_format_normalized",
+      "bacteria_normalized:Staphylococcus aureus->S. aureus"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.03",
+      "target_units": "µmol/mL",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-21",
+      "warnings": [
+        "source:rule_extractor",
+        "target_value_numeric_format_normalized",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-21"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "target_value_numeric_format_normalized",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.03",
+      "target_units": "µmol/mL",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-22",
+      "warnings": [
+        "source:rule_extractor",
+        "target_value_numeric_format_normalized",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-22"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "target_value_numeric_format_normalized",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.03",
+      "target_units": "µmol/mL",
+      "bacteria": "S. aureus",
+      "evidence_id": "rule-23",
+      "warnings": [
+        "source:rule_extractor",
+        "target_value_numeric_format_normalized",
+        "bacteria_normalized:Staphylococcus aureus->S. aureus"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-23"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "target_value_numeric_format_normalized",
+      "bacteria_normalized:Staphylococcus aureus->S. aureus"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.03",
+      "target_units": "µmol/mL",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-24",
+      "warnings": [
+        "source:rule_extractor",
+        "target_value_numeric_format_normalized",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-24"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "target_value_numeric_format_normalized",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.026",
+      "target_units": "µmol/mL",
+      "bacteria": "S. aureus",
+      "evidence_id": "rule-25",
+      "warnings": [
+        "source:rule_extractor",
+        "target_value_numeric_format_normalized",
+        "bacteria_normalized:Staphylococcus aureus->S. aureus"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-25"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "target_value_numeric_format_normalized",
+      "bacteria_normalized:Staphylococcus aureus->S. aureus"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.026",
+      "target_units": "µmol/mL",
+      "bacteria": "E.\ncoli",
+      "evidence_id": "rule-26",
+      "warnings": [
+        "source:rule_extractor",
+        "target_value_numeric_format_normalized"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-26"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "target_value_numeric_format_normalized"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.026",
+      "target_units": "µmol/mL",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-27",
+      "warnings": [
+        "source:rule_extractor",
+        "target_value_numeric_format_normalized",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-27"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "target_value_numeric_format_normalized",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.026",
+      "target_units": "µmol/mL",
+      "bacteria": "S. aureus",
+      "evidence_id": "rule-28",
+      "warnings": [
+        "source:rule_extractor",
+        "target_value_numeric_format_normalized",
+        "bacteria_normalized:Staphylococcus aureus->S. aureus"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-28"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "target_value_numeric_format_normalized",
+      "bacteria_normalized:Staphylococcus aureus->S. aureus"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.026",
+      "target_units": "µmol/mL",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-29",
+      "warnings": [
+        "source:rule_extractor",
+        "target_value_numeric_format_normalized",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-29"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "target_value_numeric_format_normalized",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.026",
+      "target_units": "µmol/mL",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-30",
+      "warnings": [
+        "source:rule_extractor",
+        "target_value_numeric_format_normalized",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-30"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "target_value_numeric_format_normalized",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.026",
+      "target_units": "µmol/mL",
+      "bacteria": "S. aureus",
+      "evidence_id": "rule-31",
+      "warnings": [
+        "source:rule_extractor",
+        "target_value_numeric_format_normalized",
+        "bacteria_normalized:Staphylococcus aureus->S. aureus"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-31"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "target_value_numeric_format_normalized",
+      "bacteria_normalized:Staphylococcus aureus->S. aureus"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "0.026",
+      "target_units": "µmol/mL",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-32",
+      "warnings": [
+        "source:rule_extractor",
+        "target_value_numeric_format_normalized",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-32"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "target_value_numeric_format_normalized",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "5",
+      "target_units": "µmol/mL",
+      "bacteria": "S. aureus",
+      "evidence_id": "rule-33",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Staphylococcus aureus->S. aureus"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-33"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Staphylococcus aureus->S. aureus"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "5",
+      "target_units": "µmol/mL",
+      "bacteria": "E.\ncoli",
+      "evidence_id": "rule-34",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-34"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "5",
+      "target_units": "µmol/mL",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-35",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-35"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "5",
+      "target_units": "µmol/mL",
+      "bacteria": "S. aureus",
+      "evidence_id": "rule-36",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Staphylococcus aureus->S. aureus"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-36"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Staphylococcus aureus->S. aureus"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "5",
+      "target_units": "µmol/mL",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-37",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-37"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "5",
+      "target_units": "µmol/mL",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-38",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-38"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "5",
+      "target_units": "µmol/mL",
+      "bacteria": "S. aureus",
+      "evidence_id": "rule-39",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Staphylococcus aureus->S. aureus"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-39"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Staphylococcus aureus->S. aureus"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "0",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "5",
+      "target_units": "µmol/mL",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-40",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-40"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  }
+]

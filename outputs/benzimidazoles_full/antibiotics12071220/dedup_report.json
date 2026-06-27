@@ -1,0 +1,819 @@
+{
+  "input_records": 481,
+  "output_records": 481,
+  "exact_duplicates_merged": 0,
+  "records_with_normalized_fields": 464,
+  "conflict_count": 5,
+  "conflicts": [
+    {
+      "key": {
+        "compound_id": "12",
+        "target_type": "MIC",
+        "bacteria": "E. coli"
+      },
+      "rows": [
+        {
+          "compound_id": "12",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "12.5",
+          "target_units": "µmol/mL",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "12",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "18",
+          "target_units": "µmol/mL",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "12",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "3.125",
+          "target_units": "µmol/mL",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "12",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "4",
+          "target_units": "µg/mL",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "12",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "50",
+          "target_units": "µg/mL",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "12",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "6.25",
+          "target_units": "µmol/mL",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "12",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "7.8",
+          "target_units": "µg/mL",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "12",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "8",
+          "target_units": "µg/mL",
+          "bacteria": "E. coli"
+        }
+      ]
+    },
+    {
+      "key": {
+        "compound_id": "12",
+        "target_type": "MIC",
+        "bacteria": "S. aureus"
+      },
+      "rows": [
+        {
+          "compound_id": "12",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "1-64",
+          "target_units": "µgml",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "12",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "12.5",
+          "target_units": "µmol/mL",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "12",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "13-18",
+          "target_units": "µgml-1",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "12",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "18",
+          "target_units": "µmol/mL",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "12",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "2",
+          "target_units": "um",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "12",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "2-19",
+          "target_units": "um",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "12",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "3.125",
+          "target_units": "µmol/mL",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "12",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "4",
+          "target_units": "µg/mL",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "12",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "50",
+          "target_units": "µg/mL",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "12",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "6.25",
+          "target_units": "µmol/mL",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "12",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "7",
+          "target_units": "µg/mL",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "12",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "8",
+          "target_units": "µg/mL",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "12",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "80",
+          "target_units": "um",
+          "bacteria": "S. aureus"
+        }
+      ]
+    },
+    {
+      "key": {
+        "compound_id": "2023",
+        "target_type": "MIC",
+        "bacteria": "E. coli"
+      },
+      "rows": [
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "0.5",
+          "target_units": "µg/mL",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "0.78-1.56",
+          "target_units": "µg/mL",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "0.97",
+          "target_units": "µg/mL",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "1",
+          "target_units": "um",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "1",
+          "target_units": "µmolmL",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "1-16",
+          "target_units": "mm",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "1-16",
+          "target_units": "um",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "1-16",
+          "target_units": "µmolmL",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "1-8",
+          "target_units": "µmolmL",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "12.5",
+          "target_units": "µg/mL",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "13-18",
+          "target_units": "µgmL",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "2",
+          "target_units": "µgmL",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "2-19",
+          "target_units": "µgmL",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "2.33-18.34",
+          "target_units": "µM",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "3.125",
+          "target_units": "µg/mL",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "3.125-6.25",
+          "target_units": "µg/mL",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "3.5",
+          "target_units": "µgmL",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "3.8",
+          "target_units": "µM",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "32",
+          "target_units": "µg/mL",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "4",
+          "target_units": "um",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "4-8",
+          "target_units": "mm",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "4-8",
+          "target_units": "um",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "4-8",
+          "target_units": "µmol/mL",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "5",
+          "target_units": "µg/mL",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "50",
+          "target_units": "mm",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "6.25",
+          "target_units": "µg/mL",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "7",
+          "target_units": "µgmL",
+          "bacteria": "E. coli"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "8-32",
+          "target_units": "um",
+          "bacteria": "E. coli"
+        }
+      ]
+    },
+    {
+      "key": {
+        "compound_id": "2023",
+        "target_type": "MIC",
+        "bacteria": "S. aureus"
+      },
+      "rows": [
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "0.5",
+          "target_units": "µg/mL",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "0.78-1.56",
+          "target_units": "µg/mL",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "1",
+          "target_units": "um",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "1",
+          "target_units": "µmolmL",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "1-16",
+          "target_units": "mm",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "1-16",
+          "target_units": "um",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "1-16",
+          "target_units": "µmolmL",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "1-8",
+          "target_units": "µmolmL",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "12.5",
+          "target_units": "µg/mL",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "13-18",
+          "target_units": "µgmL",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "2",
+          "target_units": "µgmL",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "2-19",
+          "target_units": "µgmL",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "2.33-18.34",
+          "target_units": "µM",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "3.125",
+          "target_units": "µg/mL",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "3.125-6.25",
+          "target_units": "µg/mL",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "3.5",
+          "target_units": "µgmL",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "3.8",
+          "target_units": "µM",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "32",
+          "target_units": "µg/mL",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "4",
+          "target_units": "um",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "4-8",
+          "target_units": "mm",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "4-8",
+          "target_units": "um",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "4-8",
+          "target_units": "µmol/mL",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "50",
+          "target_units": "mm",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "6.25",
+          "target_units": "µg/mL",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "7",
+          "target_units": "µgmL",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "8-32",
+          "target_units": "um",
+          "bacteria": "S. aureus"
+        }
+      ]
+    },
+    {
+      "key": {
+        "compound_id": "2023",
+        "target_type": "MIC",
+        "bacteria": "Staphylococcus\naureus"
+      },
+      "rows": [
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "0.5",
+          "target_units": "µg/mL",
+          "bacteria": "Staphylococcus\naureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "1",
+          "target_units": "um",
+          "bacteria": "Staphylococcus\naureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "1-16",
+          "target_units": "mm",
+          "bacteria": "Staphylococcus\naureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "1-16",
+          "target_units": "um",
+          "bacteria": "Staphylococcus\naureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "12.5",
+          "target_units": "µg/mL",
+          "bacteria": "Staphylococcus\naureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "2.33-18.34",
+          "target_units": "µM",
+          "bacteria": "Staphylococcus\naureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "3.8",
+          "target_units": "µM",
+          "bacteria": "Staphylococcus\naureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "4-8",
+          "target_units": "mm",
+          "bacteria": "Staphylococcus\naureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "4-8",
+          "target_units": "um",
+          "bacteria": "Staphylococcus\naureus"
+        },
+        {
+          "compound_id": "2023",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "6.25",
+          "target_units": "µg/mL",
+          "bacteria": "Staphylococcus\naureus"
+        }
+      ]
+    }
+  ]
+}

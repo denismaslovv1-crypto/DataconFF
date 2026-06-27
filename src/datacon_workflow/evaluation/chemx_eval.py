@@ -3,6 +3,7 @@ from __future__ import annotations
 import csv
 import json
 from collections import Counter
+from decimal import Decimal, InvalidOperation
 from pathlib import Path
 
 from datacon_workflow.domains.benzimidazoles import CHEMX_COLUMNS
@@ -13,12 +14,15 @@ def evaluate_predictions(
     ground_truth_csv: Path,
     output_dir: Path,
     benchmark_pdf_ids: set[str] | None = None,
+    benchmark_pdf_name: str | None = None,
 ) -> dict[str, object]:
     with predictions_csv.open(encoding="utf-8", newline="") as handle:
         predictions = list(csv.DictReader(handle))
     with ground_truth_csv.open(encoding="utf-8", newline="") as handle:
         truth = list(csv.DictReader(handle))
-    if benchmark_pdf_ids is not None:
+    if benchmark_pdf_name is not None:
+        truth = _scope_truth_by_pdf_name(truth, benchmark_pdf_name)
+    elif benchmark_pdf_ids is not None:
         truth = [
             row for row in truth
             if row.get("pdf", "").lower() in benchmark_pdf_ids or row.get("doi", "").lower() in benchmark_pdf_ids
@@ -41,6 +45,7 @@ def evaluate_predictions(
         "prediction_count": len(predictions),
         "ground_truth_count": len(truth),
         "benchmark_pdf_ids": sorted(benchmark_pdf_ids) if benchmark_pdf_ids else None,
+        "benchmark_pdf_name": benchmark_pdf_name,
     }
     output_dir.mkdir(parents=True, exist_ok=True)
     (output_dir / "metrics.json").write_text(json.dumps(result, indent=2), encoding="utf-8")
@@ -57,5 +62,39 @@ def _canonical_value(field: str, value: str) -> str:
     if field == "target_relation":
         return cleaned.lstrip("=") if cleaned.startswith("==") else cleaned
     if field == "target_value":
-        return cleaned.replace(",", ".")
+        return _canonical_target_value(cleaned)
+    if field == "bacteria":
+        return _canonical_bacteria(cleaned)
     return cleaned
+
+
+def _scope_truth_by_pdf_name(truth: list[dict[str, str]], pdf_name: str) -> list[dict[str, str]]:
+    pdf_key = _canonical_pdf_name(pdf_name)
+    return [row for row in truth if _canonical_pdf_name(row.get("pdf", "")) == pdf_key]
+
+
+def _canonical_pdf_name(value: str) -> str:
+    cleaned = value.strip()
+    if cleaned.lower().endswith(".pdf"):
+        cleaned = cleaned[:-4]
+    return cleaned.lower()
+
+
+def _canonical_target_value(value: str) -> str:
+    cleaned = value.replace(",", ".")
+    try:
+        decimal = Decimal(cleaned)
+    except InvalidOperation:
+        return cleaned
+    normalized = decimal.normalize()
+    return format(normalized, "f")
+
+
+def _canonical_bacteria(value: str) -> str:
+    aliases = {
+        "s. aureus": "staphylococcus aureus",
+        "staphylococcus aureus": "staphylococcus aureus",
+        "e. coli": "escherichia coli",
+        "escherichia coli": "escherichia coli",
+    }
+    return aliases.get(value.lower(), value)

@@ -1,0 +1,1373 @@
+{
+  "source_file": "j.ejmech.2020.112996.pdf",
+  "page_count": 29,
+  "metadata": {
+    "CreationDate": "D:20201106023833Z",
+    "Subject": "European Journal of Medicinal Chemistry, Journal Pre-proof, 112996. doi:10.1016/j.ejmech.2020.112996",
+    "Author": "Satyaveni Malasala",
+    "Creator": "Elsevier",
+    "Producer": "itext-paulo-155 (itextpdf.sf.net-lowagie.com)",
+    "ElsevierWebPDFSpecifications": "7.0",
+    "ModDate": "D:20201106080856+05'30'",
+    "doi": "10.1016/j.ejmech.2020.112996",
+    "Title": "Synthesis and evaluation of new Quinazoline-benzimidazole hybrids as potent anti-microbial agents against multidrug resistant Staphylococcus aureus and Mycobacterium tuberculosis"
+  },
+  "text_blocks": [
+    {
+      "text": "Journal Pre-proof\nSynthesis and evaluation of new Quinazoline-benzimidazole hybrids as potent\nanti-microbial agents against multidrug resistant Staphylococcus aureus and\nMycobacterium tuberculosis\nSatyaveni Malasala, Md. Naiyaz Ahmad, Ravikumar Akunuri, Manjulika Shukla,\nGrace Kaul, Arunava Dasgupta, Y.V. Madhavi, Sidharth Chopra, Srinivas Nanduri\nPII: S0223-5234(20)30968-5\nDOI: https://doi.org/10.1016/j.ejmech.2020.112996\nReference: EJMECH 112996\nTo appear in: European Journal of Medicinal Chemistry\nReceived Date: 5 August 2020\nRevised Date: 12 October 2020\nAccepted Date: 2 November 2020\nPlease cite this article as: S. Malasala, M.N. Ahmad, R. Akunuri, M. Shukla, G. Kaul, A. Dasgupta, Y.V\nMadhavi, S. Chopra, S. Nanduri, Synthesis and evaluation of new Quinazoline-benzimidazole hybrids\nas potent anti-microbial agents against multidrug resistant Staphylococcus aureus and Mycobacterium\ntuberculosis, European Journal of Medicinal Chemistry, https://doi.org/10.1016/j.ejmech.2020.112996.\nThis is a PDF file of an article that has undergone enhancements after acceptance, such as the addition\nof a cover page and metadata, and formatting for readability, but it is not yet the definitive version of\nrecord. This version will undergo additional copyediting, typesetting and review before it is published\nin its final form, but we are providing this version to give early visibility of the article. Please note that,\nduring the production process, errors may be discovered which could affect the content, and all legal\ndisclaimers that apply to the journal pertain.\n© 2020 Elsevier Masson SAS. All rights reserved.",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 1,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Synthesis and evaluation of new Quinazoline-benzimidazole hybrids as\npotent anti-microbial agents against multidrug resistant Staphylococcus\naureus and Mycobacterium tuberculosis\nSatyaveni Malasalaa, Md. Naiyaz Ahmadb, c, Ravikumar Akunuria, Manjulika Shuklab,\nGrace Kaulb, c, Arunava Dasguptab,c, Y.V Madhavia, Sidharth Choprab,c*, Srinivas Nanduria*.\naDepartment of Medicinal Chemistry, National Institute of Pharmaceutical Education and\nResearch (NIPER), Hyderabad-500 037, Telangana, India\nf\nbDivision of Microbiology, CSIR-Central Drug Research Institu o te, Sitapur Road, Sector 10,\nJanakipuram Extension, Lucknow-226031, Utotar Pradesh, India\nr\ncAcSIR, Ghaziabad, Sector 19, Kamla Nehru Nagar, Gphaziabad-201002, Uttar Pradesh, India\n-\ne\nr\nGraphical Abstract: P\nl\na\nn\nr\nu\no\nJ",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 2,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Synthesis and evaluation of new Quinazoline-benzimidazole hybrids as\npotent anti-microbial agents against multidrug resistant Staphylococcus\naureus and Mycobacterium tuberculosis\nSatyaveni Malasalaa, Md. Naiyaz Ahmadb,c, Ravikumar Akunuria, Manjulika Shuklab,\nGrace Kaulb, c, Arunava Dasguptab,c, Y.V Madhavia, Sidharth Choprab,c*, Srinivas Nanduria*.\naDepartment of Medicinal Chemistry, National Institute of Pharmaceutical Education and\nResearch (NIPER), Hyderabad-500 037, Telangana, India\nf\nbDivision of Microbiology, CSIR-Central Drug Research Instituote, Sitapur Road, Sector 10,\nJanakipuram Extension, Lucknow-226031, Utotar Pradesh, India\nr\ncAcSIR, Ghaziabad, Sector 19, Kamla Nehru Nagar, Gphaziabad-201002, Uttar Pradesh, India\n-\nCorresponding author: Dr. Srinivas Nanduri, E-m\ne\nail: nandurisrini92@gmail.com\nr\nCo-corresponding author: Dr. Sidharth Chopra: skchopra007@gmail.com\nP\nAbstract: Owing to the rapid rise in a ntibiotic resistance, infectious diseases have become\nl\nserious threat to public health. Thaere is an urgent need to develop new antimicrobial agents\nn\nwith diverse chemical structures and novel mechanisms of action to overcome the resistance.\nr\nIn recent years, Quinazoline-benzimidazole hybrids have emerged as a new class of\nu\nantimicrobial agentso active against S. aureus and M. tuberculosis. In the current study, we\ndesigned and synJthesized fifteen new Quinazoline-benzimidazole hybrids and evaluated them\nfor their antimicrobial activity against S. aureus ATCC 29213 and M. tuberculosis H37Rv.\nThese studies led to the identification of nine potent antibacterial agents 8a, 8b, 8c, 8d, 8f,\n8g, 8h, 8i and 10c with MICs in the range of 4-64 µg/mL. Further, these selected compounds\nwere found to possess potent antibacterial potential against a panel of drug-resistant clinical\nisolates which include methicillin and vancomycin-resistant S. aureus. The selected\ncompounds were found to be less toxic to Vero cells (CC = 40-≥200 µg/mL) and\n50\ndemonstrated a favourable selectivity index. Based on the encouraging results obtained these\nnew benzimidazol-2-yl quinazoline derivatives have emerged as promising antimicrobial\nagents for the treatment of MDR- S. aureus and Mycobacterial infections.\nKeywords: Quinazoline, Benzimidazole, anti-bacterial agents, MRSA, Tuberculosis,\ncytotoxicity, resistance.",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 3,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "1. Introduction\nAlarming rise of difficult to treat multi drug resistant bacterial infections has emerged as one\nof the formidable challenges of 21st century [1-5]. The World Health Organization (WHO)\nhas categorised 12 of the pathogens as high-risk priority II pathogens which require\nimmediate attention [6,7]. In particular, S. aureus is known to cause a wide range of diseases,\nfrom skin infections to serious illnesses like pneumonia, meningitis, bacteraemia and sepsis\n[8-10]. Among the various resistant strains, methicillin resistant (MRSA) and vancomycin\nresistant (VRSA) strains are known to be sources of spread of community infections. Multi\nDrug Resistant Tuberculosis (MDR-TB) caused due to Mycobacterium tuberculosis (Mtb)\nf\nhas emerged as another major life-threatening disease. A numbeor of studies indicated that the\no\nanti-microbial resistance (AMR) has attained frightening levels globally [11-13]. Around\nr\n750,000 deaths are reported annually due to AMR and the toll is likely to rise to 10 million\np\nby 2050 [14]. Hence, search for newer treatments fo-r multi drug resistant microbial infections\ne\nhave been the focus of the scientific community in recent years.\nr\nP\nQuinazoline is a remarkable scaffold of medicinal importance possessing promising\npharmacological activities like antitubercular [16], antibacterial [17], anticonvulsant [18],\nl\na\nanti-HIV, antifungal [19], anti-inflammatory, analgesic [20] and anticancer [21] activities.\nn\nBouley et al. [22] reported 4(3H)-quinazolinones as orally bioavailable antibacterial agents I.\nr\nOur group also reportedu 3-phenylquinazolin-4(3H)-ones and related derivatives II [23] and 2-\no\nphenylquinazoline derivatives III as potent anti-MDR-S. aureus agents and as anti-\nJ\nmycobacterial agents [24]. Benzimidazole scaffold has attracted wide attention as an\ninteresting heterocyclic in medicinal chemistry owing to its presence as a core scaffold in a\nnumber of drugs such as albendazole, mebendazole, candesartan, astemizole etc. [25].\nSeveral compounds possessing benzimidazole as a core are reported to possess diverse\ntherapeutic properties such as antibacterial, antiulcer, antiviral, antihypertensive, anticancer,\nantifungal, anti-inflammatory and anticoagulant properties [26]. Dokla et al. [27] reported\n1,2-disubstituted benzimidazole scaffold IV to possess potent antibacterial activity against E.\ncoli. Mustafa et al. [28] reported the benzimidazole-acrylonitrile hybrids V as anti-\nmycobacterial agents. p-aminobenzoic acid (PABA) serves as a bioactive linker because of\nits occurrence in many human pathogens. p-Aminosalicylic acid VI [29], a derivative of\nPABA is used to treat active drug resistant tuberculosis together with other anti-tubercular\nmedications.",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 4,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Br\nO\nO\nNH Cl\nO O OH\nHN\nN OH N OH\nN\nN N\nN\nI II CN III\nMIC:0.03 g/mLS.aureus MIC:0.03 g/mLS.aureus MIC:4 g/mLM.tuberculosis\nMIC:64 g/mLM.tuberculosis\nf\no\nO OH\no\nN N CN OH\nr\nN O N pN N\nHN S H\n- NH 2\nIV O eV\nVI\nMIC:2 g/mLE.coli\nMIC:0.78 r g/mLM.tuberculosis p-aminosalicylicacid\nP Secondlineanti-tbdrug\nFigure 1. Rleported anti-bacterial agents.\na\nBased on the key role being pnlayed by quinazoline, benzimidazole and p-aminobenzoic acid\nmoieties in a number of antir-microbial agents, we designed and synthesized a number of new\nu\nquinazoline-benzimidazole hybrids with p-aminobenzoic acid as linker.\no\nJ\nR2\nN\nN\nH\nHN\nN\nN\nR1\nFigure 2. Designed quinazolines-benzimidazole hybrids.",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 5,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "2. Results and Discussion:\n2.1 Chemistry:\nA series of new benzimidazolo-2-arylquinazoline derivatives were synthesized as described\nin Scheme 1. 2-aminobenzamide 1 was condensed with different substituted aryl aldehydes\n2a-d for 12-24 h in presence of dimethylsulphoxide to afford 2-arylquinazolinones 3a-d [30].\nThese derivatives were treated with phosphorus (V) oxychloride and N, N-diethyl aniline to\nprovide 2-aryl 4-chloroquinazoline derivatives 4a-d [30]. The chlorinated derivatives 4a-d\nundergo nucleophillic substitution with p-aminobenzoic acid 5 to obtain 4-[(2-\nf\nphenylquinazolin-4-yl)amino]benzoic acid derivatives 6a-c. Further, the 4-[(2-\no\nphenylquinazolin-4-yl)amino]benzoic acid derivatives 6a-c owere condensed with substituted\no-phenylenediamines 7a-e in presence of polyphosphorric acid at 180 oC to afford the\np\ncorresponding benzimidazole derivatives 8a-j in moderate to excellent yields.\n-\ne\nr\nP\nl\na\nn\nr\nu\no\nJ\nScheme 1. Synthesis of N-(4-(1H-benzoimidazol-2-yl)aryl)-2-arylquinazolin-4-amine\nderivatives.\n4-[(2-phenylquinazolin-4-yl) amino] benzoic acid derivatives 6a-c were also coupled with\ndifferent substituted 2-aryl-benzoimidazol-6-amines 9a-d to afford the corresponding\nbenzimidazoloamide derivatives 10a-d in excellent yields (Scheme-2).",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 6,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "f\no\nScheme 2. Synthesis of 4-((2-phenylquinazolin-4-yl)amino)-N-(2-(aryl)-1H-benzoimidazol-\no\n6-yl)benzamide derivatives.\nr\n2.2 In vitro antibacterial activity p\n-\ne\n2.2.1 Antibiotic susceptibility testing against E. coli, S. aureus, K. pneuminiae, A. baumannii,\nr\nand P. aeruginosa pathogen panel.\nP\nThe newly synthesized benzimidazol-l2-yl quinazoline derivatives were subjected to antibiotic\na\nsusceptibility testing against E. coli, S. aureus, K. pneuminiae, A. baumannii, and P.\nn\naeruginosa pathogen panel. The minimum inhibitory concentrations (MICs) against gram\nr\nu\npositive and gram-negative bacterial strains viz., E. coli, S. aureus, K. pneuminiae, A.\no\nbaumannii, and P. aeruginosa pathogen panel were determined by using broth microdilution\nJ\nassay. In addition, the synthesized compounds were also evaluated against M. tuberculosis\n(ATCC 27294), M. abscessus (ATCC 19977), M. fortuitum (ATCC 6841) and M. chelonae\n(ATCC 35752). The results are tabulated in Tables 1 & 2. As per our previous studies [24],\n2-phenylquinazolines are reported to possess potent anti-bacterial and anti-mycobacterial\nactivities. Based on this observation and also the promising antimicrobial activities of\nbenzimidazole, we explored a number of 2-aryl-quinazolines with benzimidazole hybrids\ncontaining a number of electron withdrawing and electron donating substituents. We studied\nthe effect of 3,4-dimethoxyphenyl and 4-chlorophenyl as aryl substituents at C-2 of\nquinazolines. Compounds with 4-nitro, 4-bromo, 4-chloro and 4-fluoro substituents on\nbenzimidazole moiety were studied. Based on this, a total of 15 new quinazoline-\nbenzimidazole hybrids were synthesized and evaluated for their anti-bacterial and anti-\nmycobacterial activities.",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 7,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "The antimicrobial screening results suggested that the synthesized compounds exhibited\nselective inhibitory activity against S. aureus. Compounds 8d, 8h and 8i exhibited equipotent\ninhibitory activity with MIC of 4 µg/mL. Compounds 8b and 8c have shown anti-bacterial\ninhibition with MIC of 8 µg/mL. Compounds 8g, 10a, 10b and 11 have exhibited moderate\ninhibition with MIC of 16-64 µg/mL. The remaining compounds are found to be inactive\nagainst E. coli, K. pneuminiae, A. baumannii, and P. aeruginosa pathogens. With phenyl\ngroup at C-2 position, the substitutions on benzimidazole were altered such as 4-nitro 8a, 4-\nchloro 8b, unsubstituted 8c, 4-fluoro 8d and 4-bromo 8e. While, the compound 8a did not\nshow any inhibitory activity against S. aureus, the compounds 8b, 8c and 8d exhibited good\nf\ninhibitory activity against S. aureus with MIC 8, 8 and 4 µg/moL respectively. Further, with\n3,4-dimethoxyphenyl at C-2 position compounds 8f witho 4-nitro and 8g with 4-chloro\nr\nsubstitutions on benzimidazole were synthesized. While the compound 8g inhibited S. aureus\np\nwith MIC value 16 µg/mL, the compound 8f did not show any inhibitory activity. With 4-\n-\ne\nchlorophenyl at C-2 position, compounds 8h, 8i and 8j were synthesized. While, the\nr\ncompounds 8h and 8i were found to possess potent inhibitory activity against S. aureus with\nP\nMIC: 4 µg/mL, the compound 8j was found to be inactive. Next, we focused our attention on\nl\nthe modification of the carboxyl amoiety at para position of the C-4 phenyl by modifying to\nvarious amides by coupling wnith substituted benzimidazoloamines as shown in Scheme 2.\nr\nThus, the compounds 10a, 10b, 10c and 10d were synthesized. The synthesized compounds\nu\nwere found to exhibit moderate inhibition against S. aureus with MIC values of 32->64\no\nµg/mL. CompoJund 11 was synthesized by direct substitution of 2-trifluoromethyl\nbenzimidazolo-5-amine at C-4. The compound 11 was found to be inactive.\nThe synthesized compounds were tested for their anti-mycobacterial potential with four\ndifferent mycobacterial strains. The inhibitory screening results are tabulated in Table 2.\nCompounds 8a-e showed moderate inhibitory activity against Mtb (MIC = 8–>64 µg/mL).\nThe compound 8a exhibited inhibitory activity against M. tuberculosis with MIC value of 8\nµg/mL. The compound 8b showed moderate activity against M. tuberculosis, M. fortuitum\nand M. chelonae. The compounds 8c and 8d did not show any inhibitory activity against M.\ntuberculosis. Interestingly, compound 8f exhibited good inhibitory activity against M.\ntuberculosis (H37Rv) with MIC value of 8 µg/mL. The compound 8f also showed good\ninhibition against M. fortuitum (ATCC 6841) with the MIC value of 4 µg/mL and M.\nchelonae (ATCC 35752) with the MIC value of 8 µg/mL. Compound 8g exhibited moderate\nactivity against M. tuberculosis with MIC value of 32 µg/mL. Compound 10c exhibited good",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 8,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "inhibition activity with MIC 16 µg/mL against M. tuberculosis. The compounds 10a and 10d\nwere found to be moderately active and compound 11 showed moderate inhibition with the\nMIC 64 µg/mL.\nTable 1. MIC values (µg/mL) of the tested compounds against gram positive and gram\nnegative pathogen panel.\nS. No Sample E. coli S. aureus\nK. pneumoniae A. baumannii P. aeruginosa\ncode ATCC ATCC\nBAA 1705 BAA 1605 ATCC 27853\n25922 29213\n1 8a >64 >64 >64 >64 >64\n2 8b >64 8 >64 >64 >64\n3 8c >64 8 >64 >64 >64\nf\n4 8d >64 4 >64 >64 >64\no\n5 8e >64 >64 >64 >64 >64\n6 8f >64 >64 >64 o>64 >64\n7 8g >64 16 >64 >64 >64\nr\n8 8h >64 4 >64 >64 >64\np\n9 8i >64 4 >64 >64 >64\n10 8j >64 >64 ->64 >64 >64\n11 10a >64 32 e>64 >64 >64\n12 10b >64 64 >64 >64 >64\nr\n13 10c >64 >64 P>64 >64 >64\n14 10d >64 >64 >64 >64 >64\n15 11 >64 6 4 >64 >64 >64\n16 Levofloxacin 0.125 0l.015 64 8 0.5\na\nTable 2. MIC values (µg/mL)n of the tested compounds against Mtb and other mycobacterium\nspecies. r\nu\nMtb H37Rv M. abscessus M. fortuitum M. chelonae\nS.No Sampole code\nATCC 27294 ATCC 19977 ATCC 6841 ATCC 35752\n1 8a 8 >64 >64 >64\nJ\n2 8b 32 >64 32 32\n3 8c >64 >64 >64 >64\n4 8d >64 >64 >64 32\n5 8e NT NT NT NT\n6 8f 8 >64 4 8\n7 8g 32 >64 >64 >64\n8 8h NT NT NT NT\n9 8i NT NT NT NT\n10 8j NT NT NT NT\n11 10a 64 >64 >64 >64\n12 10b >64 >64 >64 >64\n13 10c 16 >64 >64 >64\n14 10d 64 >64 >64 >64\n15 11 64 >64 >64 >64\n16 Isoniazid 0.03 NT NT NT\n17 Rifampicin 0.06 NT NT NT\n18 Streptomycin 1 NT NT NT\n19 Ethambutol 1 NT NT NT\n20 Levofloxacin NT 1 0.03 0.03\n*NT=not tested",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 9,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "The Structure-Activity Relationships derived are explained in Figure 3.\nf\no\no\nr\np\n-\ne\nFigure 3. Structure-Activity Relationship of nrew quinazoline-benzimidazole hybrids.\nP\n2.2.2 Cytotoxicity against Vero cells:\nl\na\nThe selected compounds were further subjected to cytotoxicity assay against Vero cells\nn\n(African green monkey kidney cell line, ATCC CCL-81) using MTT assay. The CC (50%\nr 50\nu\ncytotoxic concentration) was defined as the reduction of cell viability to 50% by compound.\no\nDoxorubicin and Levofloxacin were used as a reference standard and each experiment was\nJ\nperformed in triplicate. The cytotoxicity data demonstrates that 8a, 8b, 8c, 8d, 8f, 8g, 8h, 8i\nand 10c were nontoxic to Vero cells (CC = 40->100 µg/mL) and displayed favourable\n50\nselectivity index. The results are tabulated in Tables 3.\nTable 3. Cytotoxicity profile against Vero cells and Selectivity Index (SI).\nS. aureus CC Selective index\nS. No Sample code 50\nATCC 29213 (µg/mL) (CC /MIC)\n50\n1. 8a 8 100 12.5\n2. 8b 8 100 12.5\n3. 8c 8 80 10\n4. 8d 4 40 10\n5. 8f 8 100 12.5\n6. 8g 16 >100 >6.25\n7. 8h 4 50 12.5\n8. 8i 4 50 12.5\n9. 10c 16 >100 >6.25",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 10,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "2.2.3 Determination of MIC against MDR-S. aureus including VRSA\nTo further determine their potential against multiple strains of MDR S. aureus, 8b, 8c, 8h and\n8i were tested against various well defined and characterized clinical isolates of MSSA,\nMRSA and VRSA as per standard CLSI guidelines. The results are summarised in Table 4.\nThe compounds 8b, 8c, 8h and 8i were found to be active against various resistant strains.\nFrom the close examination of the results, it can be inferred that 8b, 8c, 8h and 8i displayed\npotent antibacterial activity with MIC 4–16 µg/mL against a number of clinical strains of\nMSSA, MRSA and VRSA. The obtained results suggest that compounds 8b, 8c, 8h and 8i\nare less resistant to all the MRSA and VRSA isolates with MIC 4–16 µg/mL in comparison\nf\no\nwith Methicillin. Levofloxacin and Meropenam. The compounds 8b, 8c, 8h and 8i were also\no\nfound to be active against VRSA clinical isolates with MIC 4–16 µg/mL.\nr\np\nTable 4. MIC of a compound 8b, 8c, 8h and 8i against MRSA and VRSA strains.\n-\ne\nr\nP\nl\na\nn\nr\nu\no\nJ",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 11,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "MIC (µg/mL)\nStrains Antibiotics resistant to Details about the strain\n8b 8c 8h 8i Levofloxacin Meropenem Vancomycin Daptomycin Methicillin\nS. aureus\nMSSA ATCC None 8 8 8 4 0.125 0.0625 1 1 1\n29213\nMethicillin, Ceftriaxone,\nResistant to tetracycline, contains mec subtype I\nNR 100 Meropenem, Gentamycin 8 32 8 4 0.25 32 2 1 >64\ncassette, Large variety of virulence factors\nand Linezolid\nMethicillin, Ceftriaxone,\nContains mec subtype IV cassette, G2576T mutation in\nNR 119 Meropenem, Gentamycin 8 8 32 4 16 64 2 1 >64\ndomain V in one or more 23 S rRNA genes\nand Linezolid f\nNR Methicillin, Ceftriaxone, o\nAlso called as TCH60 8 16 8 4 0.25 4 1 0.5 >64\n10129 Meropenem o\nNR Methicillin, Ceftriaxone, USA100 Community acquired-MRSA, Contains mec\n4 4 r8 8 8 4 1 0.5 >64\n10198 Meropenem type II cassette, Negative for PVL virulence factor\np\nMRSA NR Methicillin, Ceftriaxone, Community acquired-MRSA, Contains mec type II\n8 32 4 2 16 64 1 1 >64\n10192 Meropenem cassette, Negative for PVL virulence factor -\nNR Methicillin, Ceftriaxone, USA 300 Community acquired-MRSA, Contains mec e\n8 8 16 4 8 8 1 0.5 >64\n10186 Meropenem type IV cassette, Positive for PVL virulence factor r\nNR Methicillin, Ceftriaxone, Community acquired-MRSA, Contains mec type II P\n16 16 8 8 32 64 2 1 >64\n10193 Meropenem cassette, Negative for PVL virulence factor\nNR Community acquired-MRSA, Contains mec type V\nMethicillin, Ceftriaxone l 8 8 8 4 0.125 1 1 0.5 32\n10194 cassette, Positive for PVL virulence facator\nUSA 600 Community acquired-MRSA\nNR Methicillin, Ceftriaxone, n\nContains mec type II cassette, Negative for PVL 16 16 8 8 32 64 2 1 >64\n10191 Meropenem\nvirulence factor r\nMethicillin, Ceftriaxone, USA100 and contains mec (subtuype II) and van A.,\nVRS1 Meropenem, Gentamycin, Negative for van B, van C1, van C2, van D, van E, PVL 4 8 4 4 32 64 >64 1 >64\no\nVancomycin, Teicoplanin and arginine catabolic mobile element (ACME)\nVRSA\nMethicillin, Ceftriaxone, USA100 and contains mJec (subtype II) and van A.\nVRS4 Meropenem, Vancomycin Negative for van B, van C1, van C2, van D, van E, PVL 8 8 8 2 >64 64 >64 0.5 >64\nand Teicoplanin and arginine catabolic mobile element (ACME)\nMethicillin, Ceftriaxone,\nVRS12 Meropenem, Vancomycin NA* 8 16 8 4 32 16 >64 0.5 >64\nand Teicoplanin",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 12,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "2.3 ADMET properties\nADMET properties of the synthesized compounds were calculated using Qikprop program (Qikprop, version 6.5, Schrödinger, LLC, New York,\nNY, 2014). As can be seen below, the partition coefficient (QPlogPo/w), hydrogen bond donors (donor HB), hydrogen bond acceptors (acceptor\nHB), molecular weight (mol. Wt.) and percent human oral absorption exhibited satisfactory results. The compounds also followed Lipinski rule\nof five. ADMET properties for Isoniazid and Rifampicin were also calculated and compared with the results of the synthesized compounds. The\nf\no\npredicted results are shown in Table 5.\no\nr\np\nTable 5. ADMET properties of 8a-j, 10a-d and 11.\n-\ne\nRecommended\nDescriptors\nvalues\n8a 8b 8c 8d 8e 8f 8g 8h r8i 8j 10a 10b 10c 10d 11 Levofloxacin Isoniazid Rifampicin\nP\nMolecular\n130.0–725.0 458.47 413.48 431.47 492.37 518.53 507.97 447.92 465.91 465.37 524.50 629.49 618.09 582.66 411.40 361.37 137.141 820.978\nweight\nDipole 1.0–12.5 10.49 9.71 9.30 5.25 8.15 8.13 5.16 l9.33 7.32 7.33 7.79 9.61 8.30 5.25 4.15 5.33 3.32 4.33\nmoment a\nTotal SASA 300–1000 969.54 899.24 789.81 819.49 773.04 909.35 721.15 687.16 829.909 1005.33 855.54 979.24 1021.81 1011.49 653.04 587.16 329.909 1018.33\nn\nNo. of\nrotatable 0–15 2 3 4 3 4 4 r4 1 2 2 2 3 4 3 4 1 2 25\nbonds u\nDonor HB 0.0–6.0 2 2 2 2 2 2 2 2 2 2 3 3 3 3 2 0 3 6\no\nAcceptor HB 2.0–20.0 5 4 4 4 4 6.5 5.5 6.5 4 4 6.5 6.5 7.5 6.5 4 7.25 4.5 20.35\nQP J\n13.0–70.0 44.20 44.42 46.05 46.08 48.52 55.81 52.87 36.38 56.80 68.01 54.20 41.42 40.05 56.01 38.52 36.38 13.80 68.019\nPolarizability\nQP logP o/w 2.0–6.5 8.08 7.66 9.81 7.54 5.08 7.82 5.04 8.39 7.67 5.89 7.85 5.16 7.66 7.87 7.72 -0.39 -0.653 2.893\nQP log BB −3.0 and 1.2 -1.01 -1.41 -0.513 -0.112 -0.940 -0.96 -0.137 -0.42 -0.87 -2.430 -1.39 -0.61 -1.01 -1.11 -1.07 -0.42 -0.87 -2.430\nHuman Oral\n1–3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 1\nAbsorption\nPercent\nHuman Oral > 80% is high 91.49 100 100 100 100 79.59 100 100 100 100 100 100 100 100 100 48.823 66.30 33.90\nAbsorption\nRule of Five\n< 25% is low 1 1 1 1 1 1 1 1 1 1 2 2 2 2 1 0 0 3\nviolations",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 13,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "3. Conclusion:\nRapid rise in multidrug resistance is one of the alarming threats to public health worldwide.\nIn order to alleviate the situation, there is an urgent need to develop new antimicrobial drugs\nwith novel mechanisms of action. In this work, we designed and synthesized a library of 15\nnew Quinazoline-Benzimidazole hybrids and evaluated them against a panel of gram positive\nand gram negative bacterial strains consisting of against E. coli, S. aureus, K. pneuminiae, A.\nbaumannii, and P. aeruginosa, M. tuberculosis H37Rv and other mycobacterial strains.\nAmong the studied compounds, 8a, 8b, 8c, 8d, 8f, 8g, 8h, 8i and 10c exhibited good to\nf\nmoderate inhibitory activity against S. aureus and different mycobacterium species. The\no\ncompounds were found to be non-toxic to Vero cells (CC 40->100 µg/mL) with favourable\n50o\nselectivity index (SI <10->25). Further, the compoundsr 8b, 8c, 8h and 8i were found to\np\ndisplay potent inhibitory activity against clinical MRSA and VRSA isolates. In a separate\n-\nstudy, the compounds 8a, 8f and 10c were founde to exhibit potent anti-mycobacterial activity\nwith MIC values in the range of 8-16 µg/mrL. The compounds were also found to be less\nP\ntoxic to Vero cells (CC ≥100 µg/mL) and exhibited promising selectivity index. Based on\n50\nthe above studies, the newly syntheslized quinazoline-benzimidazole hybrids were found to\na\npossess promising anti-bacterial and anti-mycobacterial activities and possess the potential\nn\nfor further development. r\nu\n4. Experimental secotion:\nJ\n4.1 General Methods. All the reagents and solvents were obtained from commercial\nsuppliers and were used without further purification. Analytical thin layer chromatography\n(TLC) was performed on MERCK pre-coated silica gel 60-F254 (0.5 mm) aluminum plates.\nVisualization of the spots on TLC plates was achieved by UV light. 1H and 13C NMR spectra\nwere recorded on Bruker 500 MHz by making a solution of samples in the DMSO-d as\n6\nsolvent using tetramethyl silane (TMS) as the internal standard. Chemical shifts for 1H and\n13C are reported in parts per million (ppm) downfield from tetra methyl silane. Spin\nmultiplicities are described as s (singlet), brs (broad singlet), d (doublet), t (triplet), q\n(quartet), and m (multiplet). Coupling constant (J) values are reported in hertz (Hz). HRMS\nwere determined with Agilent QTOF mass spectrometer 6540 series instrument. Wherever\nrequired, column chromatography was performed using silica gel (60-120). The reactions are\ncarried under nitrogen positive pressure using freshly distilled solvents wherever anhydrous\nconditions required. All evaporation of solvents was carried out under reduced pressure using",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 14,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "rotary evaporator below 45 ℃. Melting points were determined with an electro thermal digital\nmelting point apparatus IA9100 and are uncorrected. The names of all the compounds given\nin the experimental section were taken from ChemBioDraw Ultra, Version 12.0.\nGeneral Experimental Procedure for the Synthesis of 8a-j, 10a-d and 11.\nProcedure for 8a-j: To the mixture of 6 (1 mmol), substituted o-phenylenediamines (7a-f, 1\nmmol) was added to the RBF, then polyphospheric acid (5gm) was added to the reaction\nmixture and stir the contents at 180 oC for 4-6 h. The reaction mixture was stirred for 20\nminutes at room temperature, followed by the addition of ice cold water. Then neutralise the\nreaction mixture by using the aqueous solution of NaOH. After neutralization of the reaction,\nf\nthe suspension was extracted with ethyl acetate (3x5.0 mL), owashed with 1:1 mixture of\nbrine. The combined organic extracts were dried over anohydrous sodium sulphate. After\nr\nremoval of the solvent under reduced pressure, the crude product was purified by using\np\ncolumn chromatography, EtOAc:Hexane (2:8) as eluent on silica gel to afford the pure\n-\ne\nproducts.\nr\nP\nProcedure for 10a-d: To the mixture of 6 (1 mmol) and HATU (1mmol), DMF (3mL) was\nadded slowly under nitrogen atmoslphere. The reaction mixture was then stirred for 20\na\nminutes at 0 oC, followed by the addition of substituted benzimidazole amines (9a-d,\nn\n1mmol). The reaction mixture was stirred for 20 minutes at room temperature, followed by\nr\nu\nthe addition of DIPEA. Upon completion of the reaction as monitored by TLC, crushed ice\no\nwas added to the reaction mixture. The resulting solid was then subjected to vacuum\nJ\nfiltration, excess of water was used to wash off the insoluble solids to obtain crude powder\nwhich was purified using column chromatography (elution with hexane/EtOAc = 3:7). The\npure products were collected as white color solids in good yields.\n4.1.1 N-(4-(5-nitro-1H-benzo[d]imidazol-2-yl)phenyl)-2-phenylquinazolin-4-amine (8a)\nOff-white solid; yield 80 %; mp:160–164 °C; FT-IR (cm−1): 3325, 3062, 1650, 1585, 780,\n710; 1H NMR (500 MHz, DMSO-d ): δ 13.57 (s, 1H), 10.14 (s, 1H), 8.65 (d, J = 8.3 Hz, 1H),\n6\n8.59-8.42 (m, 3H), 8.34 (d, J = 8.7 Hz, 2H), 8.29 (d, J = 8.7 Hz, 2H), 8.15 (d, J = 8.2 Hz,\n1H), 7.93 (d, J = 3.2 Hz, 2H), 7.76 (s, 1H), 7.69-7.61 (m, 1H), 7.60–7.53 (m, 3H); 13C NMR\n(125 MHz, DMSO- d ): δ 159.4, 158.2, 151.0, 143.0, 142.5, 138.6, 133.9, 130.9, 129.0,\n6\n128.9, 128.7, 128.4, 128.2, 127.9, 126.6, 126.3, 124.1, 123.5, 122.2, 118.4, 114.6; HRMS\n(ESI): m/z calculated for C H N O 467.1872 found 467.1896 [M+H]+.\n31 22 4",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 15,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "4.1.2 N-(4-(5-chloro-1H-benzo[d]imidazol-2-yl)phenyl)-2-phenylquinazolin-4-amine (8b)\nOff-white solid; yield 80 %; mp:160–164 °C; FT-IR (cm−1): 3325, 3062, 1650, 1585, 780,\n710; 1H NMR (500 MHz, DMSO-d ): δ 13.07 (d, J = 14.8 Hz, 1H), 10.10 (s, 1H), 8.64 (d, J =\n6\n8.3 Hz, 1H), 8.58–8.44 (m, 2H), 8.33–8.19 (m, 4H), 7.99–7.87 (m, 2H), 7.74–7.64 (m, 2H),\n7.55 (t, J = 7.2 Hz, 4H), 7.24 (t, J = 9.1 Hz, 1H); 13C NMR (125 MHz, DMSO- d ): δ 159.4,\n6\n158.2, 151.0, 141.7, 138.7, 133.8, 130.8, 129.0, 128.9, 128.7, 128.4, 128.2, 127.4, 126.6,\n124.9, 123.5, 122.8, 122.3, 121.8, 118.4, 114.6, 114.0, 112.8; HRMS (ESI): m/z calculated\nfor C H N O 467.1872 found 467.1896 [M+H]+.\n31 22 4\nf\n4.13 N-(4-(1H-benzo[d]imidazol-2-yl)phenyl)-2-phenylquinazolion-4-amine (8c)\no\nOff-white solid; yield 80 %; mp:160–164 °C; FT-IR (cmr −1): 3325, 3062, 1650, 1585, 780,\np\n710; 1H NMR (500 MHz, DMSO-d ): δ 13.83 (s, 1H), 10.53-10.46 (m, 1H), 10.14 (s, 1H),\n6\n-\n8.66 (d, J = 5.8 Hz, 1H), 8.53 (s, 2H), 8.40 (s, e1H), 8.25 (s, 2H), 8.18 (s, 2H), 7.93 (s, 2H),\n7.79 (d, J = 33.7 Hz, 2H), 7.68 (s, 1H), 7.56r (s, 3H); 13C NMR (125 MHz, DMSO- d ): δ\n6\nP\n159.4, 158.2, 151.2, 151.0, 141.6, 138.7, 133.8, 130.9, 128.9, 128.7, 128.4, 128.2, 127.3,\n126.6, 123.5, 122.3, 117.4, 114.6, 114l.0, 109.5; HRMS (ESI): m/z calculated for C H N O\na 31 22 4\n467.1872 found 467.1896 [M+H]+.\nn\nr\n4.1.4 N-(4-(5-fluoro-1H-ubenzo[d]imidazol-2-yl)phenyl)-2-phenylquinazolin-4-amine (8d)\no\nOff-white solid; yield 80 %; mp:160–164 °C; FT-IR (cm−1): 3325, 3062, 1650, 1585, 780,\nJ\n710; 1H NMR (500 MHz, DMSO-d ): δ 12.69 (s, 1H), 8.78–8.14 (m, 3H), 8.14–8.02 (m, 2H),\n6\n7.98-7.85 (m, 2H), 7.85–7.67 (m, 3H), 7.75–7.17 (m, 6H); 13C NMR (125 MHz, DMSO- d ):\n6\nδ 164.6, 158.4, 157.9, 150.6, 143.1, 141.0, 135.4, 135.2, 134.9, 133.9, 132.9, 131.4, 129.1,\n128.9, 128.7, 127.1, 123.5, 123.3, 120.2, 119.3, 118.0, 114.6, 112.9; HRMS (ESI): m/z\ncalculated for C H N O 467.1872 found 467.1896 [M+H]+.\n31 22 4\n4.1.5 N-(4-(5-bromo-1H-benzo[d]imidazol-2-yl)phenyl)-2-phenylquinazolin-4-amine (8e)\nOff-white solid; yield 80 %; mp:160–164 °C; FT-IR (cm−1): 3325, 3062, 1650, 1585, 780,\n710; 1H NMR (500 MHz, DMSO-d ): δ 10.60 (s, 1H), 9.98 (d, J = 8.9 Hz, 1H), 8.76–8.51 (m,\n6\n3H), 8.02 (t, J = 9.3 Hz, 2H), 7.98–7.85 (m, 4H), 7.82 (d, J = 8.9 Hz, 2H), 7.78 (d, J = 8.6\nHz, 1H), 7.75 (t, J = 4.7 Hz, 1H), 7.70–7.66 (m, 1H), 7.53 (d, J = 8.6, 1H); 13C NMR (125\nMHz, DMSO- d ): δ 165.5, 159.4, 158.2, 151.0, 143.0, 138.6, 133.9, 130.9, 130.5, 129.6,\n6",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 16,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "129.0, 128.8, 128.7, 128.4, 126.6, 123.6, 121.4, 121.3, 119.1, 118.5, 114.6; HRMS (ESI): m/z\ncalculated for C H N O 467.1872 found 467.1896 [M+H]+.\n31 22 4\n4.1.6 2-(3,4-dimethoxyphenyl)-N-(4-(5-nitro-1H-benzo[d]imidazol-2-yl)phenyl)quinazolin-4-\namine (8f)\nOff-white solid; yield 80 %; mp:160–164 °C; FT-IR (cm−1): 3325, 3062, 1650, 1585, 780,\n710; 1H NMR (500 MHz, DMSO-d ): δ 13.63 (s, 1H), 10.09-10.03 (m, 1H), 8.61 (s, 1H),\n6\n8.49-8.41 (d, 1H), 8.32 (s, 3H), 8.14 (d, J = 16.2 Hz, 2H), 8.00 (s, 1H), 7.89-7.80 (m, 2H),\n7.76 (s, 1H), 7.65-7.55 (m, 2H), 7.06-7.00 (m, 1H), 4.20–3.88 (m, 3H), 3.94–3.68 (m, 3H);\nf\n13C NMR (125 MHz, DMSO- d ): δ 163.4, 161.06, 159.2, 158.o5, 152.3, 149.6, 146.0, 140.3,\n6\no\n134.8, 133.5, 132.3, 128.6, 128.5, 127.7, 127.5, 126.6, 126.2, 122.8, 121.2, 115.1, 114.1,\nr\n106.3, 99.0, 56.5, 56.0; HRMS (ESI): m/z calculated for C H N O 467.1872 found\np 31 22 4\n467.1896 [M+H]+. -\ne\n4.1.7 N-(4-(5-chloro-1H-benzo[d]imidazol-2r-yl)phenyl)-2-(3,4-dimethoxyphenyl)quinazolin-\nP\n4-amine (8g)\nl\na\nOff-white solid; yield 80 %; mp:160–164 °C; FT-IR (cm−1): 3325, 3062, 1650, 1585, 780,\nn\n710; 1H NMR (500 MHz, DMSO-d ): δ 13.63 (s, 1H), 10.09-10.03 (m, 1H), 8.61 (s, 1H),\n6\nr\n8.49-8.41 (d, 1H), 8.32 u(s, 3H), 8.14 (d, J = 16.2 Hz, 2H), 8.00 (s, 1H), 7.89-7.80 (m, 2H),\n7.76 (s, 1H), 7.65-7o.55 (m, 2H), 7.06-7.00 (m, 1H), 4.20–3.88 (m, 3H), 3.94–3.68 (m, 3H);\n13C NMR (125 M J Hz, DMSO- d ): δ 163.6, 163.4, 161.6, 159.2, 152.3, 149.6, 146.0, 139.8,\n6\n134.8, 132.8, 132.3, 128.7, 128.1, 127.7, 126.6, 126.2, 122.7, 121.2, 118.8, 115.0, 114.1,\n113.8, 106.3, 99.0, 56.5, 56.0; HRMS (ESI): m/z calculated for C H N O 467.1872 found\n31 22 4\n467.1896 [M+H]+.\n4.1.8 N-(4-(1H-benzo[d]imidazol-2-yl)phenyl)-2-(4-chlorophenyl)quinazolin-4-amine (8h)\nOff-white solid; yield 80 %; mp:160–164 °C; FT-IR (cm−1): 3325, 3062, 1650, 1585, 780,\n710; 1H NMR (500 MHz, DMSO-d ): δ 10.57 (s, 1H), 10.03 (s, 1H), 8.60 (d, J = 8.4 Hz, 3H),\n6\n8.16 (d, J = 8.1 Hz, 2H), 8.06 (d, J = 8.1 Hz, 2H), 8.00 (d, J = 8.2 Hz, 2H), 7.94–7.88 (m,\n5H), 7.70–7.66 (m, 1H); 13C NMR (125 MHz, DMSO- d ): δ 164.4, 159.5, 158.3, 139.5,\n6\n135.8, 135.0, 133.7, 132.9, 130.7, 128.9, 128.8, 128.3, 126.4, 123.4, 123.1, 121.0, 118.8,\n114.4, 114.2; HRMS (ESI): m/z calculated for C H N O 467.1872 found 467.1896 [M+H]+.\n31 22 4",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 17,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "4.1.9 2-(4-chlorophenyl)-N-(4-(5-fluoro-1H-benzo[d]imidazol-2-yl)phenyl)quinazolin-4-\namine (8i)\nOff-white solid; yield 80 %; mp:160–164 °C; FT-IR (cm−1): 3325, 3062, 1650, 1585, 780,\n710; 1H NMR (500 MHz, DMSO-d ): δ 10.56 (s, 1H), 9.92 (s, 1H), 8.97 (s, 1H), 8.59 (d, J =\n6\n8.2 Hz, 1H), 8.46 (d, J = 6.2 Hz, 2H), 8.33–8.24 (m, 1H), 7.97 (d, J = 8.7 Hz, 2H), 7.87 (t, J\n= 6.0 Hz, 4H), 7.63 (d, J = 7.8 Hz, 1H), 7.52 (d, J = 6.8 Hz, 3H); 13C NMR (125 MHz,\nDMSO- d ): δ 159.5, 159.1, 158.3, 150.9, 139.8, 138.8, 135.8, 134.5, 134.2, 133.6, 130.7,\n6\n129.4, 128.8, 128.7, 128.5, 128.3, 126.3, 123.4, 123.1, 121.0, 114.4; HRMS (ESI): m/z\ncalculated for C H N O 467.1872 found 467.1896 [M+H]+. f\n31 22 4\no\no\n4.1.10 N-(4-(5-chloro-1H-benzo[d]imidazol-2-yl)phenyl)-2-(4-chlorophenyl)quinazolin-4-\nr\namine (8j)\np\n-\nOff-white solid; yield 80 %; mp:160–164 °C; eFT-IR (cm−1): 3325, 3062, 1650, 1585, 780,\n710; 1H NMR (500 MHz, DMSO-d ): δ 10.36r (s, 1H), 9.90 (s, 1H), 8.59 (d, J = 8.2 Hz, 1H),\n6\nP\n8.50–8.43 (m, 2H), 7.95 (d, J = 8.6 Hz, 4H), 7.88 (d, J = 3.7 Hz, 3H), 7.81 (d, J = 8.2 Hz,\n2H), 7.62 (d, J = 8.1 Hz, 1H), 7.53 (dl, J = 7.1 Hz, 2H); 13C NMR (125 MHz, DMSO- d ): δ\na 6\n162.4, 154.1, 149.2, 135.0, 133.6, 132.2, 130.8, 130.7, 128.8, 128.1, 127.9, 127.8, 127.5,\nn\n127.2, 126.8, 126.3, 125.7, r125.5, 125.3, 121.7; HRMS (ESI): m/z calculated for C\n31\nH\n22\nN\n4\nO\nu\n467.1872 found 467.1896 [M+H]+.\no\nJ\n4.1.11 4-((2-phenylquinazolin-4-yl)amino)-N-(2-(trifluoromethyl)-1H-benzo[d]imidazol-5-\nyl)benzamide (10a)\nOff-white solid; yield 80 %; mp:160–164 °C; FT-IR (cm−1): 3325, 3062, 1650, 1585, 780,\n710; 1H NMR (500 MHz, DMSO-d ): δ 11.38 (s, 1H), 11.33 (s, 1H), 8.47 (d, J = 5.2 Hz, 1H),\n6\n8.31 (t, J = 7.5 Hz, 1H), 8.23–8.12 (m, 1H), 8.03–7.86 (m, 2H), 7.76 (d, J = 7.6 Hz, 2H), 7.59\n(d, J = 7.7 Hz, 3H), 7.48 (t, J = 7.4 Hz, 1H), 7.36–7.28 (m, 1H), 7.19 (d, J = 7.6 Hz, 2H),\n6.91 (t, J = 7.7 Hz, 2H), 6.76 (t, J = 7.4 Hz, 1H); 13C NMR (125 MHz, DMSO- d ): δ 163.6,\n6\n159.5, 158.3, 150.9, 139.1, 138.8, 135.7, 135.0, 134.2, 133.6, 133.4, 133.0, 132.1, 131.9,\n130.7, 129.9, 128.9, 128.5, 128.3, 126.3, 123.4, 123.1, 120.5, 120.2, 114.4; HRMS (ESI): m/z\ncalculated for C H N O 467.1872 found 467.1896 [M+H]+.\n31 22 4\n4.1.12 N-(2-(4-bromo-2-fluorophenyl)-1H-benzo[d]imidazol-5-yl)-4-((2-phenylquinazolin-4-\nyl)amino)benzamide (10b)",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 18,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Off-white solid; yield 80 %; mp:160–164 °C; FT-IR (cm−1): 3325, 3062, 1650, 1585, 780,\n710; 1H NMR (500 MHz, DMSO-d ): δ 12.78 (s, 1H), 10.13 (s, 1H), 8.66 (d, J = 8.2 Hz, 1H),\n6\n8.59–8.51 (m, 1H), 8.49 (d, J = 6.8 Hz, 1H), 8.44 (s, 1H), 8.20 (d, J = 8.5 Hz, 2H), 8.07 (d, J\n= 8.6 Hz, 2H), 7.99 (d, J = 9.4 Hz, 2H), 7.89 (d, J = 6.9 Hz, 2H), 7.70 (d, J = 9.6 Hz, 2H),\n7.64–7.34 (m, 6H); 13C NMR (125 MHz, DMSO- d ): δ 162.7, 159.3, 158.3, 152.8, 150.7,\n6\n149.1, 135.0, 134.1, 133.2, 131.8, 131.1, 129.0, 129.0, 128.4, 128.2, 128.1, 127.8, 127.5,\n127.0, 126.8, 126.3, 124.1, 123.6, 122.4, 121.4, 114.5; HRMS (ESI): m/z calculated for\nC H N O 467.1872 found 467.1896 [M+H]+.\n31 22 4\n4.1.13 N-(2-(8-chloroquinolin-3-yl)-1H-benzo[d]imidazol-5-yl)-f4-((2-phenylquinazolin-4-\no\nyl)amino)benzamide (10c)\no\nr\nOff-white solid; yield 80 %; mp:160–164 °C; FT-IR (cm−1): 3325, 3062, 1650, 1585, 780,\np\n710; 1H NMR (500 MHz, DMSO-d\n6\n): δ 13.00 (s, 1H-), 12.54 (s, 1H), 10.09 (s, 1H), 8.64 (d, J\ne\n= 8.2 Hz, 1H), 8.52 (d, J = 6.0 Hz, 2H), 8.41–8.05 (m, 4H), 7.93 (s, 2H), 7.83 (d, J = 7.9 Hz,\nr\n1H), 7.68 (s, 2H), 7.56 (d, J = 6.7 Hz, 3HP), 7.50–7.26 (m, 2H), 7.09-7.00 (m, 2H), 6.67 (d, J\n= 8.0 Hz, 1H), 5.62 (s, 1H); 13C NMR (125 MHz, DMSO- d\n6\n): δ 165.9, 163.6, 159.5, 158.3,\nl\n150.9, 139.2, 138.9, 138.8, 135.7a, 135.5, 135.0, 134.2, 134.2, 133.7, 133.4, 133.0, 132.2,\nn\n131.9, 130.8, 130.7, 129.9, 128.9, 128.6, 128.3, 126.4, 123.4, 123.1, 120.5, 120.3, 120.2,\nr\n120.1, 114.4, 106.6. HRMS (ESI): m/z calculated for C H N O 467.1872 found 467.1896\nu 31 22 4\n[M+H]+.\no\nJ\n4.1.14 N-(2-(naphthalen-2-yl)-1H-benzo[d]imidazol-5-yl)-4-((2-phenylquinazolin-4-\nyl)amino)benzamide (10d)\nOff-white solid; yield 80 %; mp:160–164 °C; FT-IR (cm−1): 3325, 3062, 1650, 1585, 780,\n710; 1H NMR (500 MHz, DMSO-d ): δ 12.54 (s, 1H), 10.23 (d, J = 9.6 Hz, 1H), 8.65 (d, J =\n6\n8.4 Hz, 1H), 8.52–8.50 (m, 1H), 8.30 (d, J = 7.1 Hz, 2H), 8.21–8.16 (m, 4H), 7.95 (t, J = 4.4\nHz, 2H), 7.86–7.84 (m, 1H), 7.80–7.65 (m, 4H), 7.61–7.52 (m, 8H), 7.40–7.35 (m, 1H); 13C\nNMR (125 MHz, DMSO- d ): δ 167.1, 159.2, 157.9, 151.4, 151.2, 150.4, 149.0, 147.9, 146.8,\n6\n143.0, 142.6, 133.7, 133.1, 132.5, 131.2, 129.3, 128.9, 128.7, 128.5, 128.0, 127.8, 126.1,\n124.0, 123.5, 122.2, 122.0, 121.6, 120.3, 118.3, 114.3, 112.2, 111.9, 111.5; HRMS (ESI): m/z\ncalculated for C H N O 467.1872 found 467.1896 [M+H]+.\n31 22 4\n4.1.15 2-(thiophen-2-yl)-N-(2-(trifluoromethyl)-1H-benzo[d]imidazol-5-yl)quinazolin-4-\namine (11)",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 19,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Off-white solid; yield 80 %; mp:160–164 °C; FT-IR (cm−1): 3325, 3062, 1650, 1585, 780,\n710; 1H NMR (500 MHz, DMSO-d ): δ 12.32 (s, 1H), 8.22–8.11 (m, 1H), 7.89–7.80 (m, 1H),\n6\n7.71 (d, J = 7.9 Hz, 1H), 7.67–7.39 (m, 2H), 7.40 (t, J = 1.9 Hz, 1H), 7.26 (t, J = 13.6 Hz,\n1H), 7.17 (t, J = 7.8 Hz, 1H), 6.77 (d, J = 7.9, 1H), 5.36 (s, 2H); 13C NMR (125 MHz,\nDMSO- d ): δ 167.5, 159.4, 158.2, 151.0, 144.1, 138.5, 134.0, 130.9, 130.5, 129.0, 128.6,\n6\n128.4, 128.2, 127.8, 127.8, 126.7, 125.5, 123.6, 121.4, 114.5; HRMS (ESI): m/z calculated\nfor C H N O 467.1872 found 467.1896 [M+H]+.\n31 22 4\n4.2 Bacterial strains and media\nf\nThe gram positive and gram-negative pathogen panel of bacteoria consisted of Escherichia\no\ncoli (ATCC 25922), Klebsiella pneumoniae (BAA-1705), Acinetobacter baumannii\nr\n(BAA1605), Pseudomonas aeruginosa (ATCC 27853) and Staphylococcus aureus (ATCC\np\n29213). NRS199, NRS129, NRS186, NRS191, N-RS192, NRS193, NRS194, NRS198 are\ne\nMRSA strains while VRS1, VRS4, VRS12 are VRSA strains. These strains were obtained\nr\nfrom BEI/NARSA/ATCC (BiodefenseP and Emerging Infections Research Resources\nRepository/Network on Antimicrobial Resistance in Staphylococcus aureus/American Type\nl\nCulture Collection, USA) and rouatinely cultivated on Mueller-Hinton Agar (MHA). Prior to\nn\nthe experiment, a single colony was picked from MHA plate, inoculated in Mueller-Hinton\nr\ncation supplemented broth II (CA-MHB) and incubated overnight at 37 °C with shaking for\nu\n18–24 h to get the stoarter culture.\nJ\nM. tuberculosis H37Rv ATCC 27294 was cultured in Middlebrook 7H9 (Difco, Becton, NJ,\nUSA) media supplemented with 10% ADC (Bovine Serum Albumin, Dextrose, NaCl), 0.2%\nglycerol and 0.05% Tween-80 (ADC-Tween-80).\n4.2.1 Antibiotic susceptibility testing against pathogen panel consisting E. coli, S. aureus,\nK. pneuminiae, A. baumannii, and P. aeruginosa.\nAntibiotic susceptibility testing was carried out on the newly synthesized compounds by\ndetermining the Minimum Inhibitory Concentration (MIC) with reference to the standard\nCLSI guidelines [31, 32]. MIC is defined as the minimum concentration of compound at\nwhich visible bacterial growth is inhibited. Bacterial cultures were grown in Mueller-Hinton\ncation supplemented broth (CA-MHB). Optical density (OD ) of the cultures was measured,\n600\nfollowed by dilution for ~106 cfu/mL. This inoculum was added into a series of test wells in a\nmicrotitre plate that contained various concentrations of compound under test ranging from",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 20,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "64-4 µg/mL. Controls i.e., cells alone and media alone (without compound+cells) and\nlevofloxacin used as a reference standard. Plates were incubated at 37 °C for 16-18 h\nfollowed by observations of MIC values by the absence or presence of visible growth. For\neach compound, MIC determinations were performed independently thrice using duplicate\nsamples each time.\n4.2.2 Antibiotic susceptibility testing against pathogenic mycobacteria\nAntimycobacterial susceptibility testing was carried out on the newly synthesized compounds\nby using broth micro dilution assay [33]. 1g/100 mL stock solutions of test and control\nf\ncompounds were prepared in DMSO and stored in −20°C. oMycobacterial cultures were\no\ninoculated in Middlebrook 7H9 enriched (Difco, Becton, NJ, USA) media supplemented with\nr\n10% ADC-Tween-80 (Bovine Serum Albumin, Dextrose, 0.2% glycerol and 0.05% Tween-\np\n80) and OD\n600\nof the cultures was measured, follo-wed by dilution to achieve ~106 cfu/mL\ne\n[34]. The newly synthesized compounds were tested from 0.0064–0.00005 g/100 mL in two-\nr\nfold serial diluted fashion with 2.5 μL Pof each concentration added per well of a 96-well\nround bottom micro titre plate. Later, 9 7.5 μL of bacterial suspension was added to each well\nl\ncontaining the test compound aloang with appropriate controls. Presto blue (Thermo Fisher,\nn\nUSA) resazurin-based dye was used for the visualized identification of active compounds.\nr\nMIC of active compound was determined as lowest concentration of compound that inhibited\nu\nvisible growth afteor incubation period. For each compound, MIC determinations were\nreplicated thrice Jusing duplicate samples. The MIC plates were incubated at 37 °C for 7 days\nfor Mtb.\n4.2.3 Cell Cytotoxicity Assay\nThe active newly synthesized compounds were screened for their cell toxicity against Vero\ncells using MTT assay [35]. ~103 cells/well were seeded in 96 well plate and incubated at 37\n°C with an 5% CO atmosphere. After 24 h, compound was added ranging from 100–5 mg/L\n2\nand incubated for 72 h at 37 °C with 5% CO atmosphere. After the incubation period, MTT\n2\nwas added at 5 mg/L in each well, incubated at 37 °C for further 4 hours, residual medium\nwas discarded, 0.1 mL of DMSO was added to solubilise the formazan crystals and OD was\ntaken at 540 nm for the calculation of CC . CC is defined as the lowest concentration of\n50 50\ncompound which leads to a 50% reduction in cell viability. Doxorubicin was used as positive\ncontrol and each experiment was repeated in triplicate.",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 21,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "4.2.4 ADMET properties calculation\nADMET properties of the synthesized compounds were calculated using Qikprop program\n(Qikprop, version 6.5, Schrödinger, LLC, New York, NY, 2014). As can be seen below, the\npartition coefficient (QPlogPo/w), hydrogen bond donors (donor HB), hydrogen bond\nacceptors (acceptor HB), molecular weight (mol. Wt.) and percent human oral absorption\nexhibited satisfactory results. The compounds also followed Lipinski rule of five. ADMET\nproperties for Isoniazid and Rifampicin were also calculated and compared with the results of\nthe synthesized compounds.\nConflicts of interest f\no\nThe authors declare no conflicts of interest.\no\nAcknowledgements\nr\np\nS. M is thankful to Department of Pharmaceuticals, Ministry of Chemicals & Fertilizers,\n-\nGovt. of India, for the award of NIPER fellowship. This study was supported by the DST\ne\ngrant from Department of Science and Trechnology, Govt. of India to S.N and S.C.\nP\n(EMR/2017/000220).\nl\nReferences: a\nn\n1. J.L. Martínez, F. Barquero, Emergence and spread of antibiotic resistance: setting a\nu\nparameter space, Ups. J. Med. Sci. 119 (2014) 68-77.\no\n2. M. Woolhouse, C. Waugh, M.R. Perry, H. Nair, Global disease burden due to\nJ\nantibiotic resistanceestate of the evidence, J. Glob. Health 6 (2016).\n3. J. Vila, E. Saez-Lopez, J.R. Johnson, U. Romling, U. Dobrindt, R. Cant on, C.G.\nGiske, T. Naas, A. Carattoli, M. Martínez-Medina, Escherichia coli: an old friend\nwith new tidings, FEMS Microbiol. Rev. 40 (2016) 437–463.\n4. J.D. Pitout, Extraintestinal pathogenic Escherichia coli: an update on antimicrobial\nresistance, laboratory diagnosis and treatment, Expert Rev. Anti Infect. Ther. 10\n(2012) 1165-1176.\n5. P. Vikesland, E. Garner, S. Gupta, S. Kang, A. Maile-Moskowitz, N. Zhu, Differential\nDrivers of Antimicrobial Resistance across the World, Acc. Chem. Res. 52 (2019)\n916-924.\n6. J.O’NEILL, Tackling drug-resistant infections globally: final report and\nrecommendations, The review on antimicrobial resistance, (2016).",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 22,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "7. A.B. Brochado, A. Telzerow, J. Bobonis, M. Banzhaf, A. Mateus, J. Selkrig, E. Huth,\nS. Bassler, J.Z. Beas, M. Zietek, N. Ng, S. Foerster, B. Ezraty, B. Py, F. Barras, M.M.\nSavitski, P. Bork, S. GVttig, A. Typas, Species-specific activity of antibacterial drug\ncombinations, Nature 559 (2018) 259-263.\n8. Q. Xin, H. Shah, A. Nawaz, W.J. Xie, M.Z. Akram, A. Batool, L.Q. Tian, S.U. Jan, R.\nBoddula, B.D. Guo, Q. Liu, J.R. Gong, Antibacterial carbon-based nanomaterials,\nAdv. Mater. (2018) 1804838.\n9. X. Chen, J. Leng, K.P. Rakesh, N. Darshini, T. Shubhavathi, H.K. Vivek, N.\nMallesha, H.L. Qin, Synthesis and molecular docking studies of xanthone attached\nf\namino acids as potential antimicrobial and anti-inflamomatory agents, Med. Chem.\nCommun. 8 (2017) 1706-1719. o\nr\n10. M. Xu, P. Wu, F. Shen, J. Ji, K.P. Rakesh, Chalcone derivatives and their antibacterial\np\nactivities: current development, Bioorg. Chem. 91 (2019) 103113.\n-\ne\n11. a) L. Ravindar, S.N.A. Bukhari, K.P. Rakesh, H.M. Manukumar, H.K. Vivek, N.\nr\nMallesha, Z.Z. Xie, H.L. Qin, Aryl fluorosulfate analogues as potent antimicrobial\nP\nagents: SAR, cytotoxicity and docking studies, Bioorg. Chem. 81 (2018) 107-118. b)\nl\nC.J. Palomino, A. Maratin, Drug Resistance Mechanisms in Mycobacterium\ntuberculosis. Antibiotincs. 3 (2014) 317-340. c) K. Floyd, P. Glaziou, A. Zumla, M.\nr\nRaviglione, The global tuberculosis epidemic and progress in care, prevention, and\nu\nresearch: an overview in year 3 of the End TB era. Lancet Res Med. 6 (2018) 299-\no\n314. d) KJ.G. Sandhu, Tuberculosis: Current Situation, Challenges and Overview of its\nControl Programs in India. J Glob Infect Dis. 3 (2011) 143-150.\n12. https://www.who.int/en/news-room/fact-sheets/detail/tuberculosis.\n13. a) V. Dartoisa, E.C. Barry, A medicinal chemists guide to the unique difficulties of\nlead optimization for tuberculosis, Bioorg. Med. Chem. Lett. 23 (2013) 4741-4750. b)\nS. Chetty, M. Ramesh, S.A. Pillay, S.E.M. Soliman, Recent advancements in the\ndevelopment of anti-tuberculosis drugs. Bioorg. Med. Chem. Lett. 27 (2017) 370-386.\nc) B.V. Makane, S.V. Krishna, V. Krishna, B.M. Mahizhaveni, S. Misra, S. Chopra,\nD. Sriram, A.N.V. Dusthackeer, B.H. Rode, Synthesis and evaluation of a-aminoacyl\namides as antitubercular agents effective on drug resistant tuberculosis, Eur. J. Med.\nChem. 164 (2019) 665-677.\n14. H. Grundmann, M. Aires-De-Sousa, J. Boyce, E. Tiemersma, Emergence and\nresurgence of meticillin-resistant Staphylococcus aureus as a public-health threat,\nLancet 368 (2006) 874-885.",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 23,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "15. a) P. Li, B. Wang, X. Zhang, M.B. Batt, S.G. Besra, T. Zhang, C. Ma, D. Zhang, Z.\nLin, G. Li, H. Huang, Y. Lu, Identification of novel benzothiopyranone compounds\nagainst Mycobacterium tuberculosis through scaffold morphing from\nbenzothiazinones, Eur. J. Med. Chem. 160 (2018) 157-170. b) X. Yang, W. Wedajo,\nY. Yamada, L.S. Dahlroth, J.J. Neo, T. Dick, K.W. Chui, 1,3,5-triazaspiro [5.5]\nundeca-2,4-dienes as selective Mycobacterium tuberculosis dihydrofolate reductase\ninhibitors with potent whole cell activity, Eur. J. Med. Chem. 144 (2018) 262-276.\n16. J. Kunes, B.A. Ant, M. Pour, K. Waisser, S.M. Rek, J. Janota, Quinazoline derivatives\nwith antitubercular activity. Il Farmaco. 55 (2000) 725–729. b) K.M. Srivastav, M.S.\nf\nShantakumar, Design and synthesis of novel 2-Torichloromethyl-4-substituted\nquinazoline derivatives as anti-tubercular agents. Cohem Sci Trans. 2 (2013) 1056-\nr\n1062. c) S. Gatadi, J. Gour, M. Shukla, G. Kaul, A. Dasgupta, Y.V. Madhavi, S.\np\nChopra, S. Nanduri, Synthesis and evaluation of new quinazolin-4(3H)-one\n-\ne\nderivatives as potent antibacterial agents against multidrug resistant Staphylococcus\nr\naureus and Mycobacterium tuberculosis, Eur. J. Med. Chem. 175 (2019) 287-308. d)\nP\nT.S. Asundaria, S.N. Patel, C.K. Patel, Synthesis, characterization, and antimicrobial\nl\nstudies of novel 1,3,4-thiaadiazolium-5-thiolates. Med. Chem. Res. 21 (2012) 1199-\n1206. n\nr\n17. G.M. Nepomuceno, K.M. Chan, V. Huynh, K.S. Martin, J.T. Moore, T.E. Brien,\nu\nL.A.E. Pollo, F.J. Sarabia, C. Tadeus, Z. Yao, D.E. Anderson, J.B. Ames, J.T. Shaw,\no\nSynthesisJ and evaluation of quinazolines as inhibitors of the bacterial cell division\nprotein FtsZ. ACS Med. Chem. Lett. 63 (2015) 308-312. b) P.P. Kung, M.D. Casper,\nK.L. Cook, L.W. Lingardo, L.M. Risen, T.A. Vickers, R. Ranken, L.B. Blyn, J.R.\nWyatt, P.D. Cook, D.J. Ecker, Structure−activity relationships of novel 2-substituted\nquinazoline antibacterial agents, J. Med. Chem. 42 (1999) 4705-4713.\n18. V.G. Ugalea, S.B. Bari, Quinazolines: New horizons in anticonvulsant therapy, Eur. J.\nMed. Chem. 80 (2014) 447-501.\n19. a) K.S.V. Horn, X. Zhu, T. Pandharkar, S. Yang, B. Vesely, M. Vanaerschot, J.C.\nDujardin, S. Rijal, D.E. Kyle, M.Z. Wang, K.A. Werbovetz, R. Manetsch,\nAntileishmanial activity of a series of N2,N4-disubstituted quinazoline-2,4-diamines. J.\nMed. Chem. (57) 2014, 5141-5156. b) F. Hassanzadeh, E. Jafari, G.H. Hakimelahi,\nM.R. Khajouei, M. Jalali, G.A. Khodarahmi, Antibacterial, antifungal and cytotoxic\nevaluation of some new quinazolinone derivatives, Res Pharm Sci. 7 (2012) 87–94. c)\nR.P. Modh, E.D. Clercq, C. Pannecouque, K.H. Chikhalia, Design, synthesis,",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 24,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "antimicrobial activity and anti-HIV activity evaluation of novel hybrid quinazoline–\ntriazine derivatives, J Enzyme Inhib Med Chem. (2013) 1475-6374.\n20. D.B. Farag, N.A. Farag, A. Esmat, S.A. Abuelezz, E.A.S. Ibrahimd, D.A. El Ellae,\nSynthesis, 3D pharmacophore, QSAR and docking studies of novel quinazoline\nderivatives with nitric oxide release moiety as preferential COX-2 inhibitors, Med.\nChem. Commun. 6 (2015) 283-299. b) M. Alafeefya, A.A.K. Omar, A.A.\nDeebaKamal, E.H.E. TahirbNabila, A.A. jaberc, Synthesis, analgesic and anti-\ninflammatory evaluation of some novel quinazoline derivatives, Eur. J. Med. Chem.\n45 (2010) 4947-495. c) R.A. Smits, M. Adami, E.P. Istyastono, O.P. Zuiderveld,\nf\nC.M.E. Dam, F.J.J. Kanter, A. Jongejan, G. Coruzzi, R.o Leurs, I.J.P. Esch, Synthesis\nand QSAR of quinazoline sulfonamides as higholy potent human histamine H4\nr\nreceptor inverse agonists, J. Med. Chem. (53) 2010, 2390-2400.\np\n21. L.F. Hennequin, F.T. Boyle, J. Michael, W. Peter, R. Marsham, R. Kimbell, A.L.\n-\ne\nJackman, Quinazoline antifolates thymidylate synthase inhibitors: Lipophilic\nr\nanalogues with modification to the C2-methyl substituent, J. Med. Chem. 39 (1996)\nP\n695-704. b) M.K. Krapf, J. Gallus, M. Wiese, 4-Anilino-2-pyridylquinazolines and -\nl\npyrimidines as highly poatent and nontoxic inhibitors of breast cancer resistance\nprotein (ABCG2), J. Mned. Chem., 60 (2017) 4474-4495. c) J. Chen, Z. Sang, Y. Jiang\nr\nC. Yang, L. He, Design, synthesis, and biological evaluation of quinazoline\nu\nderivatives as dual HDAC1 and HDAC6 inhibitors for the treatment of cancer,\no\nChemicalJ biology and drug design 93 (2019) 232-241.\n22. R. Bouley, D. Ding, Z. Peng, M. Bastian, E. Lastochkin, W. Song, M.A. Suckow,\nV.A. Schroeder, W.R. Wolter, S. Mobashery, Structureeactivity relationship for the 4\n(3 H)-Quinazolinone antibacterials, J. Med. Chem. 59 (2016) 5011-5021.\n23. a) S. Gatadi, J. Gour, M. Shukla, G. Kaul, S. Das, A. Dasgupta, Y.V. Madhavi, S.\nChopra, S. Nanduri, Synthesis and evaluation of new 4-oxoquinazolin-3(4H)-\nyl)benzoic acid and benzamide derivatives as potent antibacterial agents effective\nagainst multidrug resistant Staphylococcus aureus, Bioorg. Chem. 83 (2018) 569e579;\n(b) S. Gatadi, J. Gour, G. Kaul, M. Shukla, A. Dasgupta, R. Akunuri, R. Tripathi,\nY.V. Madhavi, S. Chopra, S. Nanduri, Synthesis of new 3-phenylquinazolin-4(3H)-\none derivatives as potent antibacterial agents effective against methicillin- and\nvancomycin-resistant Staphylococcus aureus (MRSA and VRSA), Bioorg. Chem. 81\n(2018) 175-183.",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 25,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "24. S. Malasala, M.N. Ahmad, J. Gour, M. Shukla, G. Kaul, A. Akhir, S. Gatadi, Y.V.\nMadhavi, S. Chopra, S. Nanduri, Synthesis, biological evaluation and molecular\nmodelling insights of 2-arylquinazoline benzamide derivatives as anti-tubercular\nagents, J. Mol. Struct. 1218 (2020) 128493.\n25. a) L. Zhang, D. Addla, J. Ponmani, A. Wang, D. Xie, Y.N. Wang, S.L. Zhang, R.X.\nGeng, G.X. Cai, S. Li, C.H. Zhou, Discovery of membrane active benzimidazole\nquinolones-based topoisomerase inhibitors as potential DNA-binding antimicrobial\nagents, Eur. J. Med. Chem. 111 (2016) 160-182. b) F. Arjmand, B. Mohani, S.\nAhmad, Synthesis, antibacterial, antifungal activity and interaction of CT-DNA with a\nf\nnew benzimidazole derived Cu(II) complex, Eur. J. Moed. Chem. 40 (2005) 1103-\n1110. c) L. Zhang, D. Addla, J. Ponmani, A. Wang, oD. Xie, Y.N. Wang, S.L. Zhang,\nr\nR.X. Geng, G.X. Cai, S. Li, C.H. Zhou, Discovery of membrane active benzimidazole\np\nquinolones-based topoisomerase inhibitors as potential DNA-binding antimicrobial\n-\ne\nagents, Eur. J. Med. Chem. 111 (2016) 160-182.\nr\n26. K.F. Ansari, C. Lal, Synthesis, physicochemical properties and antimicrobial activity\nP\nof some new benzimidazole derivatives, Eur. J. Med. Chem. 44 (2009) 4028-4033; (c)\nl\nH.H. Gong, D. Addla, J.aS. Lv, C.H. Zhou, Heterocyclic Naphthalimides as New\nSkeleton Structure of Cnompounds with Increasingly Expanding Relational Medicinal\nr\nApplications, Curr. Top. Med. Chem. 16 (2016) 3304-3364. S.Q. Wen, P.\nu\nJeyakkumary, S.R. Avula, L. Zhang, C.H. Zhou, Discovery of novel berberine\no\nimidazoleJs as safe antimicrobial agents by down regulating ROS generation, Bioorg.\nMed. Chem. Lett. 26 (2016) 2768-2773; (e) S.F. Cui, L.P. Peng, H.Z. Zhang, S.\nRasheed, K.V. Kumar, C.H. Zhou, Novel hybrids of metronidazole and quinolones:\nsynthesis, bioactive evaluation, cytotoxicity, preliminary antimicrobial mechanism\nand effect of metal ions on their transportation by human serum albumin, Eur. J. Med.\nChem. 86 (2014) 318-334; (f) L. Zhang, K.V. Kumar, S. Rasheed, S.L. Zhang, R.X.\nGeng, C.H. Zhou, Design, synthesis, and antibacterial evaluation of novel\nazolylthioether quinolones as MRSA DNA intercalators, Med. Chem. Commun. 6\n(2015) 1303-1310.\n27. E.M.E. Dokla, N.S. Abutaleb, S.N. Milik, D. Li, K. Elbaz, M.W. Shalaby, R. Al-\nKaraki, M. Nasr, C.D. Klein, K.A.M. Abouzid, M.N. Seleem, Development of\nbenzimidazole-based derivatives as antimicrobial agents and their synergistic effect\nwith colistin against gram-negative bacteria, Eur. J. Med. Chem. 186 (2020) 111850.",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 26,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "28. M.S. Mustafa, V.S. Krishna, D. Sriram, O.U. Tan, Novel benzimidazole-acrylonitrile\nhybrids and their derivatives: Design, synthesis and antimycobacterial activity, Eur. J.\nMed. Chem. 188 (2020) 112010.\n29. D.A. Mitchison, Role of individual drugs in the chemotherapy of tuberculosis Role of\nindividual drugs in the chemotherapy of tuberculosis, Int J Tuberc Lung Dis. 4 (2000)\n796–806.\n30. a) N.Y. Kim, C.H. Cheon, Synthesis of quinazolinones from anthranilamides and\naldehydes via metal-free aerobic oxidation in DMSO. Tetfrahedron Lett. 55 (2014)\no\n2340-2344. b) K.M. Krapf, J. Gallus, A. Spindler, M. Wiese, Synthesis and biological\no\nevaluation of quinazoline derivatives- A SAR study of novel inhibitors of ABCG2.\nr\np\nEur. J. Med. Chem. 161 (2019) 506-525.\n-\n31. P.A. Wayne, Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria\ne\nThat Grow Aerobically, Approved Srtandard, ninth ed., CLSI document M07-A9,\nP\nClinical and Laboratory Standards Institute, 2012.\n32. J.H. Jorgensen, J.F. Hindler, Ll.B. Reller, M.P. Weinstein, New consensus guidelines\na\nfrom the clinical and laboratory standards institute for antimicrobial susceptibility\nn\ntesting of infrequently isolated or fastidious bacteria, Clin. Infect. Dis. 44 (2007) 280–\nr\nu\n286.\no\n33. a) M. Pandey, A.K. Singh, R. Thakare, S. Talwar, P. Karaulia, A. Dasgupta, S.\nJ\nChopra, A.K. Pandey, Diphenyleneiodonium chloride (DPIC) displays broad-\nspectrum bactericidal activity, Sci. Rep. 7 (2017) 11521; (b) I. Wiegand, K. Hilpert,\nR.E. Hancock, Agar and broth dilution methods to determine the minimal inhibitory\nconcentration (MIC) of antimicrobial substances, Nat. Protoc. 3 (2008) 163–175.\n34. B. Rivas-Santiago, C.E.R. Santiago, J.E. Castañeda-Delgado, J.C. León–Contreras,\nR.E. Hancock, R. Hernandez-Pando, Activity of LL-37, CRAMP and antimicrobial\npeptide-derived compounds E2, E6 and CP26 against Mycobacterium\ntuberculosis, Int. J. Antimicrob. Agents. 41 (2013) 143–148.\n35. S. Patel, N. Gheewala, A. Suthar, A. Shah, In-vitro cytotoxicity activity of Solanum\nnigrum extract against Hela cell line and Vero cell line, Int. J. Pharm. Pharm. Sci. 1\n(2009) 38–46.",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 27,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Synthesis and evaluation of new Quinazoline-benzimidazole hybrids as\npotent anti-microbial agents against multidrug resistant Staphylococcus\naureus and Mycobacterium tuberculosis\nSatyaveni Malasalaa, Md. Naiyaz Ahmadb, c, Ravikumar Akunuria, Manjulika Shuklab,\nGrace Kaulb, c, Arunava Dasguptab, c, Y.V Madhavia, Sidharth Choprab,c*, Srinivas Nanduria*.\naDepartment of Medicinal Chemistry, National Institute of Pharmaceutical Education and\nResearch (NIPER), Hyderabad-500 037, Telangana, India\nf\nbDivision of Microbiology, CSIR-Central Drug Research Institu o te, Sitapur Road, Sector 10,\nJanakipuram Extension, Lucknow-226031, Utotar Pradesh, India\nr\ncAcSIR, Ghaziabad, Sector 19, Kamla Nehru Nagar, Gphaziabad-201002, Uttar Pradesh, India\n-\ne\nHighlights: r\nP\n1. Series of new quinazoline-benzimidazole hybrids were designed, synthesized and\nl\nevaluated for antibacterial activity against ESKAP pathogens and pathogenic\na\nmycobacteria. n\n2. Compounds 8b, 8c, r8d, 8g, 8h, 8i and 10a displayed selective and potent inhibitory\nu\nactivity against Staphylococcus aureus.\no\n3. Compounds 8a, 8b, 8f, 8g, and 10c exhibited potent inhibitory activity against\nJ\ndifferent strains of Mycobacterium tuberculosis.\n4. The selected compounds were found to show less cytotoxicity towards Vero cells with\nfavorable selectivity index.\n5. The selected compounds were found to possess potent inhibitory activity against\nmultiple drug-resistant strains of S. aureus including VRSA.",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 28,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    },
+    {
+      "text": "Synthesis and evaluation of new Quinazoline-benzimidazole hybrids as potent\nanti-microbial agents against multidrug resistant Staphylococcus aureus and\nMycobacterium tuberculosis\nSatyaveni Malasalaa, Md. Naiyaz Ahmadb, Ravikumar Akunuria, Manjulika Shuklab,\nGrace Kaulb, Arunava Dasguptab, Y.V Madhavia, Sidharth Choprab*, Srinivas Nanduria*.\naDepartment of Medicinal Chemistry, National Institute of Pharmaceutical Education and\nResearch (NIPER), Hyderabad 500 037, Telanganfa, India\no\nbDivision of Microbiology, CSIR-Central Drug Research Inostitute, Sitapur Road, Sector 10,\nr\nJanakipuram Extension, Lucknow-226031, Uttar Pradesh, India\np\n-\nCorresponding author: Dr. Srinivas Nanduri, E-mail: nandurisrini92@gmail.com\ne\nr\nCo-corresponding author: Dr. Sidharth ChoPpra: skchopra007@gmail.com\nl\na\nn\nr\nu\nDeclaration of interests\no\nJ\nThe authors declare that they have no known competing financial interests or personal\nrelationships that could have appeared to influence the work reported in this paper.\nConflicts of interest\nThe authors declare no conflicts of interest.",
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 29,
+        "section": null,
+        "table_id": null,
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_text",
+        "confidence": 0.9
+      }
+    }
+  ],
+  "tables": [
+    {
+      "table_id": "p9_t2",
+      "rows": [
+        [
+          "S. No",
+          "Sample\ncode",
+          "E. coli\nATCC\n25922",
+          "S. aureus\nATCC\n29213",
+          "K. pneumoniae\nBAA 1705",
+          "A. baumannii\nBAA 1605",
+          "P. aeruginosa\nATCC 27853"
+        ],
+        [
+          "1",
+          "8a",
+          ">64",
+          ">64",
+          ">64",
+          ">64",
+          ">64"
+        ],
+        [
+          "2",
+          "8b",
+          ">64",
+          "8",
+          ">64",
+          ">64",
+          ">64"
+        ],
+        [
+          "3",
+          "8c",
+          ">64",
+          "8",
+          ">64",
+          ">64",
+          ">64"
+        ],
+        [
+          "4",
+          "8d",
+          ">64",
+          "4",
+          ">64",
+          ">64",
+          ">64"
+        ],
+        [
+          "5",
+          "8e",
+          ">64",
+          ">64",
+          ">64",
+          "f\n>64",
+          ">64"
+        ],
+        [
+          "6",
+          "8f",
+          ">64",
+          ">64",
+          ">64",
+          "o\n>64",
+          ">64"
+        ],
+        [
+          "7",
+          "8g",
+          ">64",
+          "16",
+          ">64",
+          ">64",
+          ">64"
+        ],
+        [
+          "8",
+          "8h",
+          ">64",
+          "4",
+          ">64",
+          "o\n>64",
+          ">64"
+        ],
+        [
+          "9",
+          "8i",
+          ">64",
+          "4",
+          ">64",
+          "r\n>64",
+          ">64"
+        ],
+        [
+          "10",
+          "8j",
+          ">64",
+          ">64",
+          "p\n>64",
+          ">64",
+          ">64"
+        ],
+        [
+          "11",
+          "10a",
+          ">64",
+          "32",
+          "-\n>64",
+          ">64",
+          ">64"
+        ],
+        [
+          "12",
+          "10b",
+          ">64",
+          "64",
+          ">64",
+          ">64",
+          ">64"
+        ],
+        [
+          "13",
+          "10c",
+          ">64",
+          ">64",
+          "e\n>64",
+          ">64",
+          ">64"
+        ],
+        [
+          "14",
+          "10d",
+          ">64",
+          ">64",
+          "r\n>64",
+          ">64",
+          ">64"
+        ],
+        [
+          "15",
+          "11",
+          ">64",
+          "64",
+          "P\n>64",
+          ">64",
+          ">64"
+        ],
+        [
+          "16",
+          "Levofloxacin",
+          "0.125",
+          "0.015",
+          "64",
+          "8",
+          "0.5"
+        ]
+      ],
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 9,
+        "section": null,
+        "table_id": "p9_t2",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p9_t3",
+      "rows": [
+        [
+          "S.No",
+          "Sample code",
+          "r\nu\nMtb H37Rv\nATCC 27294",
+          "M. abscessus\nATCC 19977",
+          "M. fortuitum\nATCC 6841",
+          "M. chelonae\nATCC 35752"
+        ],
+        [
+          "1",
+          "8a",
+          "8",
+          ">64",
+          ">64",
+          ">64"
+        ],
+        [
+          "2",
+          "o\n8b",
+          "32",
+          ">64",
+          "32",
+          "32"
+        ],
+        [
+          "3",
+          "J\n8c",
+          ">64",
+          ">64",
+          ">64",
+          ">64"
+        ],
+        [
+          "4",
+          "8d",
+          ">64",
+          ">64",
+          ">64",
+          "32"
+        ],
+        [
+          "5",
+          "8e",
+          "NT",
+          "NT",
+          "NT",
+          "NT"
+        ],
+        [
+          "6",
+          "8f",
+          "8",
+          ">64",
+          "4",
+          "8"
+        ],
+        [
+          "7",
+          "8g",
+          "32",
+          ">64",
+          ">64",
+          ">64"
+        ],
+        [
+          "8",
+          "8h",
+          "NT",
+          "NT",
+          "NT",
+          "NT"
+        ],
+        [
+          "9",
+          "8i",
+          "NT",
+          "NT",
+          "NT",
+          "NT"
+        ],
+        [
+          "10",
+          "8j",
+          "NT",
+          "NT",
+          "NT",
+          "NT"
+        ],
+        [
+          "11",
+          "10a",
+          "64",
+          ">64",
+          ">64",
+          ">64"
+        ],
+        [
+          "12",
+          "10b",
+          ">64",
+          ">64",
+          ">64",
+          ">64"
+        ],
+        [
+          "13",
+          "10c",
+          "16",
+          ">64",
+          ">64",
+          ">64"
+        ],
+        [
+          "14",
+          "10d",
+          "64",
+          ">64",
+          ">64",
+          ">64"
+        ],
+        [
+          "15",
+          "11",
+          "64",
+          ">64",
+          ">64",
+          ">64"
+        ],
+        [
+          "16",
+          "Isoniazid",
+          "0.03",
+          "NT",
+          "NT",
+          "NT"
+        ],
+        [
+          "17",
+          "Rifampicin",
+          "0.06",
+          "NT",
+          "NT",
+          "NT"
+        ],
+        [
+          "18",
+          "Streptomycin",
+          "1",
+          "NT",
+          "NT",
+          "NT"
+        ],
+        [
+          "19",
+          "Ethambutol",
+          "1",
+          "NT",
+          "NT",
+          "NT"
+        ],
+        [
+          "20",
+          "Levofloxacin",
+          "NT",
+          "1",
+          "0.03",
+          "0.03"
+        ]
+      ],
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 9,
+        "section": null,
+        "table_id": "p9_t3",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p10_t2",
+      "rows": [
+        [
+          "S. No",
+          "Sample code",
+          "S. aureus\nATCC 29213",
+          "CC\n50\n(µg/mL)",
+          "Selective index\n(CC /MIC)\n50"
+        ],
+        [
+          "1.",
+          "8a",
+          "8",
+          "100",
+          "12.5"
+        ],
+        [
+          "2.",
+          "8b",
+          "8",
+          "100",
+          "12.5"
+        ],
+        [
+          "3.",
+          "8c",
+          "8",
+          "80",
+          "10"
+        ],
+        [
+          "4.",
+          "8d",
+          "4",
+          "40",
+          "10"
+        ],
+        [
+          "5.",
+          "8f",
+          "8",
+          "100",
+          "12.5"
+        ],
+        [
+          "6.",
+          "8g",
+          "16",
+          ">100",
+          ">6.25"
+        ],
+        [
+          "7.",
+          "8h",
+          "4",
+          "50",
+          "12.5"
+        ],
+        [
+          "8.",
+          "8i",
+          "4",
+          "50",
+          "12.5"
+        ],
+        [
+          "9.",
+          "10c",
+          "16",
+          ">100",
+          ">6.25"
+        ]
+      ],
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 10,
+        "section": null,
+        "table_id": "p10_t2",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p12_t1",
+      "rows": [
+        [
+          "Strains",
+          "",
+          "Antibiotics resistant to",
+          "Details about the strain",
+          "MIC (µg/mL)",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "8b",
+          "8c",
+          "8h",
+          "8i",
+          "Levofloxacin",
+          "Meropenem",
+          "Vancomycin",
+          "Daptomycin",
+          "Methicillin"
+        ],
+        [
+          "MSSA",
+          "S. aureus\nATCC\n29213",
+          "None",
+          "",
+          "8",
+          "8",
+          "8",
+          "4",
+          "0.125",
+          "0.0625",
+          "1",
+          "1",
+          "1"
+        ],
+        [
+          "MRSA",
+          "NR 100",
+          "Methicillin, Ceftriaxone,\nMeropenem, Gentamycin\nand Linezolid",
+          "Resistant to tetracycline, contains mec subtype I\ncassette, Large variety of virulence factors",
+          "8",
+          "32",
+          "8",
+          "4",
+          "0.25",
+          "32",
+          "2",
+          "1",
+          ">64"
+        ],
+        [
+          "",
+          "NR 119",
+          "Methicillin, Ceftriaxone,\nMeropenem, Gentamycin\nand Linezolid",
+          "Contains mec subtype IV cassette, G2576T mutation in\ndomain V in one or more 23 S rRNA genes",
+          "8",
+          "8",
+          "32",
+          "4",
+          "16",
+          "64",
+          "2",
+          "1",
+          ">64"
+        ],
+        [
+          "",
+          "NR\n10129",
+          "Methicillin, Ceftriaxone,\nMeropenem",
+          "Also called as TCH60",
+          "8",
+          "16",
+          "8",
+          "o\n4",
+          "f\n0.25",
+          "4",
+          "1",
+          "0.5",
+          ">64"
+        ],
+        [
+          "",
+          "NR\n10198",
+          "Methicillin, Ceftriaxone,\nMeropenem",
+          "USA100 Community acquired-MRSA, Contains mec\ntype II cassette, Negative for PVL virulence factor",
+          "4",
+          "4",
+          "8",
+          "o\n8",
+          "8",
+          "4",
+          "1",
+          "0.5",
+          ">64"
+        ],
+        [
+          "",
+          "NR\n10192",
+          "Methicillin, Ceftriaxone,\nMeropenem",
+          "Community acquired-MRSA, Contains mec type II\ncassette, Negative for PVL virulence factor",
+          "8",
+          "32",
+          "r\np\n4",
+          "2",
+          "16",
+          "64",
+          "1",
+          "1",
+          ">64"
+        ],
+        [
+          "",
+          "NR\n10186",
+          "Methicillin, Ceftriaxone,\nMeropenem",
+          "USA 300 Community acquired-MRSA, Contains mec\ntype IV cassette, Positive for PVL virulence factor",
+          "8",
+          "-\ne\n8",
+          "16",
+          "4",
+          "8",
+          "8",
+          "1",
+          "0.5",
+          ">64"
+        ],
+        [
+          "",
+          "NR\n10193",
+          "Methicillin, Ceftriaxone,\nMeropenem",
+          "Community acquired-MRSA, Contains mec type II\ncassette, Negative for PVL virulence factor",
+          "r\n16",
+          "16",
+          "8",
+          "8",
+          "32",
+          "64",
+          "2",
+          "1",
+          ">64"
+        ],
+        [
+          "",
+          "NR\n10194",
+          "Methicillin, Ceftriaxone",
+          "Community acquired-MRSA, Contains mec type V\ncassette, Positive for PVL virulence factor",
+          "P\n8",
+          "8",
+          "8",
+          "4",
+          "0.125",
+          "1",
+          "1",
+          "0.5",
+          "32"
+        ],
+        [
+          "",
+          "NR\n10191",
+          "Methicillin, Ceftriaxone,\nMeropenem",
+          "l\na\nUSA 600 Community acquired-MRSA\nn\nContains mec type II cassette, Negative for PVL\nvirulence factor",
+          "16",
+          "16",
+          "8",
+          "8",
+          "32",
+          "64",
+          "2",
+          "1",
+          ">64"
+        ],
+        [
+          "VRSA",
+          "VRS1",
+          "Methicillin, Ceftriaxone,\nMeropenem, Gentamycin,\nVancomycin, Teicoplanin",
+          "r\nUSA100 and contains mec (subtuype II) and van A.,\nNegative for van B, van C1, van C2, van D, van E, PVL\nand arginine catabolic mobile element (ACME)",
+          "4",
+          "8",
+          "4",
+          "4",
+          "32",
+          "64",
+          ">64",
+          "1",
+          ">64"
+        ],
+        [
+          "",
+          "VRS4",
+          "Methicillin, Ceftriaxone,\nMeropenem, Vancomycin\nand Teicoplanin",
+          "o\nUSA100 and contains mJec (subtype II) and van A.\nNegative for van B, van C1, van C2, van D, van E, PVL\nand arginine catabolic mobile element (ACME)",
+          "8",
+          "8",
+          "8",
+          "2",
+          ">64",
+          "64",
+          ">64",
+          "0.5",
+          ">64"
+        ],
+        [
+          "",
+          "VRS12",
+          "Methicillin, Ceftriaxone,\nMeropenem, Vancomycin\nand Teicoplanin",
+          "NA*",
+          "8",
+          "16",
+          "8",
+          "4",
+          "32",
+          "16",
+          ">64",
+          "0.5",
+          ">64"
+        ]
+      ],
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 12,
+        "section": null,
+        "table_id": "p12_t1",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    },
+    {
+      "table_id": "p13_t1",
+      "rows": [
+        [
+          "Descriptors",
+          "Recommended\nvalues",
+          "8a",
+          "8b",
+          "8c",
+          "8d",
+          "8e",
+          "8f",
+          "8g",
+          "8h",
+          "e\n8i",
+          "-\n8j",
+          "10a",
+          "10b",
+          "10c",
+          "10d",
+          "11",
+          "Levofloxacin",
+          "Isoniazid",
+          "Rifampicin"
+        ],
+        [
+          "Molecular\nweight",
+          "130.0–725.0",
+          "458.47",
+          "",
+          "413.48",
+          "431.47",
+          "492.37",
+          "518.53",
+          "507.97",
+          "447.92",
+          "r\n465.91",
+          "465.37",
+          "524.50",
+          "629.49",
+          "618.09",
+          "582.66",
+          "411.40",
+          "361.37",
+          "137.141",
+          "820.978"
+        ],
+        [
+          "Dipole\nmoment",
+          "1.0–12.5",
+          "10.49",
+          "9.71",
+          "9.30",
+          "5.25",
+          "8.15",
+          "8.13",
+          "5.16",
+          "9.33",
+          "P\n7.32",
+          "7.33",
+          "7.79",
+          "9.61",
+          "8.30",
+          "5.25",
+          "4.15",
+          "5.33",
+          "3.32",
+          "4.33"
+        ],
+        [
+          "Total SASA",
+          "300–1000",
+          "969.54",
+          "899.24",
+          "789.81",
+          "819.49",
+          "773.04",
+          "909.35",
+          "721.15",
+          "l\n687.16",
+          "829.909",
+          "1005.33",
+          "855.54",
+          "979.24",
+          "1021.81",
+          "1011.49",
+          "653.04",
+          "587.16",
+          "329.909",
+          "1018.33"
+        ],
+        [
+          "No. of\nrotatable\nbonds",
+          "0–15",
+          "2",
+          "3",
+          "4",
+          "3",
+          "4",
+          "4",
+          "n\n4",
+          "a\n1",
+          "2",
+          "2",
+          "2",
+          "3",
+          "4",
+          "3",
+          "4",
+          "1",
+          "2",
+          "25"
+        ],
+        [
+          "Donor HB",
+          "0.0–6.0",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "r\n2",
+          "2",
+          "2",
+          "2",
+          "3",
+          "3",
+          "3",
+          "3",
+          "2",
+          "0",
+          "3",
+          "6"
+        ],
+        [
+          "Acceptor HB",
+          "2.0–20.0",
+          "5",
+          "4",
+          "4",
+          "4",
+          "4",
+          "6.5",
+          "u\n5.5",
+          "6.5",
+          "4",
+          "4",
+          "6.5",
+          "6.5",
+          "7.5",
+          "6.5",
+          "4",
+          "7.25",
+          "4.5",
+          "20.35"
+        ],
+        [
+          "QP\nPolarizability",
+          "13.0–70.0",
+          "44.20",
+          "44.42",
+          "46.05",
+          "46.08",
+          "48.52",
+          "o\n55.81",
+          "52.87",
+          "36.38",
+          "56.80",
+          "68.01",
+          "54.20",
+          "41.42",
+          "40.05",
+          "56.01",
+          "38.52",
+          "36.38",
+          "13.80",
+          "68.019"
+        ],
+        [
+          "QP logP o/w",
+          "2.0–6.5",
+          "8.08",
+          "7.66",
+          "9.81",
+          "7.54",
+          "5.08",
+          "J\n7.82",
+          "5.04",
+          "8.39",
+          "7.67",
+          "5.89",
+          "7.85",
+          "5.16",
+          "7.66",
+          "7.87",
+          "7.72",
+          "-0.39",
+          "-0.653",
+          "2.893"
+        ],
+        [
+          "QP log BB",
+          "−3.0 and 1.2",
+          "-1.01",
+          "-1.41",
+          "-0.513",
+          "-0.112",
+          "-0.940",
+          "-0.96",
+          "-0.137",
+          "-0.42",
+          "-0.87",
+          "-2.430",
+          "-1.39",
+          "-0.61",
+          "-1.01",
+          "-1.11",
+          "-1.07",
+          "-0.42",
+          "-0.87",
+          "-2.430"
+        ],
+        [
+          "Human Oral\nAbsorption",
+          "1–3",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "2",
+          "2",
+          "1"
+        ],
+        [
+          "Percent\nHuman Oral\nAbsorption",
+          "> 80% is high",
+          "91.49",
+          "100",
+          "100",
+          "100",
+          "100",
+          "79.59",
+          "100",
+          "100",
+          "100",
+          "100",
+          "100",
+          "100",
+          "100",
+          "100",
+          "100",
+          "48.823",
+          "66.30",
+          "33.90"
+        ],
+        [
+          "Rule of Five\nviolations",
+          "< 25% is low",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "2",
+          "2",
+          "2",
+          "2",
+          "1",
+          "0",
+          "0",
+          "3"
+        ]
+      ],
+      "source": {
+        "source_file": "j.ejmech.2020.112996.pdf",
+        "page": 13,
+        "section": null,
+        "table_id": "p13_t1",
+        "figure_id": null,
+        "row_index": null,
+        "extraction_method": "pdfplumber.extract_tables",
+        "confidence": 0.75
+      }
+    }
+  ]
+}

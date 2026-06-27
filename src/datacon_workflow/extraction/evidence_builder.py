@@ -29,7 +29,7 @@ def build_evidence_chunks(document: ParsedPdfDocument, context_characters: int =
         # Retain the complete block so a domain extractor can associate its
         # header, rows, footnotes, and column order without guessing across
         # unrelated snippets.
-        if re.search(r"\b(?:MRSA\s*)?MIC\b", block.text, re.I):
+        if re.search(r"\b(?:MRSA\s*)?MIC\b|\b(?:MSSA|MRSA|ASSM|ASRM)\b", block.text, re.I):
             chunks.append(EvidenceChunk(text=block.text, source=block.source, row_id="table_like_text"))
             continue
         for match in INTERESTING.finditer(block.text):

@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+import re
+
 from datacon_workflow.domains.benzimidazoles import BenzimidazoleRecord, MISSING_VALUE
 
 
@@ -17,5 +19,21 @@ def validate_records(records: list[BenzimidazoleRecord]) -> tuple[list[Benzimida
         if not record.evidence.evidence_text.strip():
             errors.append(f"record {index}: empty evidence text")
             continue
+        if not _target_value_supported_by_evidence(record):
+            errors.append(f"record {index}: target_value is not supported by evidence text: {record.target_value}")
+            continue
         accepted.append(record)
     return accepted, errors
+
+
+def _target_value_supported_by_evidence(record: BenzimidazoleRecord) -> bool:
+    """Reject hallucinated numeric values while allowing source ranges."""
+    evidence_text = record.evidence.evidence_text
+    for piece in record.target_value.split("-"):
+        value = piece.strip()
+        if not value:
+            return False
+        pattern = rf"(?<![\d.]){re.escape(value)}(?![\d.])"
+        if not re.search(pattern, evidence_text):
+            return False
+    return True

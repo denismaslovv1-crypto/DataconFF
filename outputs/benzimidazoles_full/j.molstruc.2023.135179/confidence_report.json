@@ -1,0 +1,32 @@
+{
+  "should_run_llm": true,
+  "confidence": "low",
+  "issues": [
+    {
+      "code": "no_parsed_tables",
+      "severity": "medium",
+      "message": "The PDF parser found no structured tables."
+    },
+    {
+      "code": "conflicting_rule_records",
+      "severity": "medium",
+      "message": "Validated rule records disagree for the same compound/type/bacteria key."
+    }
+  ],
+  "signals": {
+    "parsed_tables": 0,
+    "evidence_chunks": 15,
+    "table_evidence_chunks": 0,
+    "table_like_records": 0,
+    "raw_records": 117,
+    "validated_records": 117,
+    "validation_errors": 0,
+    "validation_rejection_ratio": 0.0,
+    "average_record_confidence": 0.75,
+    "evidence_page_count": 11,
+    "record_page_count": 4,
+    "evidence_page_coverage_ratio": 0.3636,
+    "missing_required_field_ratio": 0.0,
+    "conflict_count": 2
+  }
+}

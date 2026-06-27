@@ -1,0 +1,4954 @@
+[
+  {
+    "record": {
+      "compound_id": "1a",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-1",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-1"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1a",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-2",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-2"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1b",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-3",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-3"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1b",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-4",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-4"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1c",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-5",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-5"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1c",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-6",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-6"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1c",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-7",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-7"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1d",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "32",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-8",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-8"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1d",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "32",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-9",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-9"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1d",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-10",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-10"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1e",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-11",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-11"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1e",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-12",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-12"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1e",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-13",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-13"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1f",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-14",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-14"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1f",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-15",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-15"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1g",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-16",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-16"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1g",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "512",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-17",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-17"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1h",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-18",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-18"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1h",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-19",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-19"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1i",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-20",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-20"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1i",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-21",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-21"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1i",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "512",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-22",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-22"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1j",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-23",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-23"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1j",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-24",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-24"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1k",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-25",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-25"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1k",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-26",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-26"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1k",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-27",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-27"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1l",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-28",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-28"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1l",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-29",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-29"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1l",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-30",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-30"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1m",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-31",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-31"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1m",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-32",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-32"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1m",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-33",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-33"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1n",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-34",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-34"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1n",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-35",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-35"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1n",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "512",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-36",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-36"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1o",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-37",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-37"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1o",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "16",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-38",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-38"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1o",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "32",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-39",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-39"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1p",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-40",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-40"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1p",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-41",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-41"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1q",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-42",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-42"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1q",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-43",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-43"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1q",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-44",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-44"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1r",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-45",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-45"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1r",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-46",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-46"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1r",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-47",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-47"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1s",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-48",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-48"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1s",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "32",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-49",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-49"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1s",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-50",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-50"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1t",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-51",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-51"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1t",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-52",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-52"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1v",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-53",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-53"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1v",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-54",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-54"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1v",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-55",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-55"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1w",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-56",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-56"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1w",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-57",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-57"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1w",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-58",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-58"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2a",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-59",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-59"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2a",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-60",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-60"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2a",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-61",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-61"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2b",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-62",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-62"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2b",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-63",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-63"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2b",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "512",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-64",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-64"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2c",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-65",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-65"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2c",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-66",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-66"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2c",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-67",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-67"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2d",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "32",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-68",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-68"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2d",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "16",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-69",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-69"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2d",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "32",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-70",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-70"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2e",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-71",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-71"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2e",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-72",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-72"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2e",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-73",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-73"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2f",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-74",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-74"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2f",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-75",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-75"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2f",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-76",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-76"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2g",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-77",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-77"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2g",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-78",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-78"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2h",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-79",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-79"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2h",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "32",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-80",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-80"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2h",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-81",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-81"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2i",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-82",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-82"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2i",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-83",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-83"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2i",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-84",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-84"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2j",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-85",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-85"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2j",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-86",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-86"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2j",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-87",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-87"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2k",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-88",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-88"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2k",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-89",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-89"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2k",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-90",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-90"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2l",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-91",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-91"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2l",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "32",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-92",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-92"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2l",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-93",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-93"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2m",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-94",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-94"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2m",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-95",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-95"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2m",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-96",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-96"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2n",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-97",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-97"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2n",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-98",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-98"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2n",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-99",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-99"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2o",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "32",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-100",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-100"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2o",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "16",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-101",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-101"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2o",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "32",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-102",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-102"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2p",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-103",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-103"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2p",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-104",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-104"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2p",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-105",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-105"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2q",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-106",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-106"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2q",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-107",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-107"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2q",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-108",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-108"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2r",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-109",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-109"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2r",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-110",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-110"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2r",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-111",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-111"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2s",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-112",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-112"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2s",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-113",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-113"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2s",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-114",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-114"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2t",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-115",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-115"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2t",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "512",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-116",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-116"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2u",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-117",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-117"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2u",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-118",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-118"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2u",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-119",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-119"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2v",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-120",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-120"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2v",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-121",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-121"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2v",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-122",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-122"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2w",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-123",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-123"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2w",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-124",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-124"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2w",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-125",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-125"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3a",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-126",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-126"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3a",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-127",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-127"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3a",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-128",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-128"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3b",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-129",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-129"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3b",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-130",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-130"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3b",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-131",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-131"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3c",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-132",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-132"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3c",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-133",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-133"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3c",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-134",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-134"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3d",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-135",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-135"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3d",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "32",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-136",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-136"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3d",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-137",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-137"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3e",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-138",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-138"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3e",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-139",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-139"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3e",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-140",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-140"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3f",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-141",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-141"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3f",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "8",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-142",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-142"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3f",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "16",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-143",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-143"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3g",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-144",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-144"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3g",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "4",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-145",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-145"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3g",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "8",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-146",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-146"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3h",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-147",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-147"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3h",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-148",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-148"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3h",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-149",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-149"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3j",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-150",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-150"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3j",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-151",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-151"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3j",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-152",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-152"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3k",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-153",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-153"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3k",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "4",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-154",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-154"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3k",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "4",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-155",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-155"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3l",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "16",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-156",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-156"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3l",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "8",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-157",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-157"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "3l",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "16",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-158",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-158"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4a",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-159",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-159"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4a",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "32",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-160",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-160"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4a",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "32",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-161",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-161"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4b",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-162",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-162"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4b",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "32",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-163",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-163"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4b",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-164",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-164"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4c",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "16",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-165",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-165"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4c",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "4",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-166",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-166"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4c",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "8",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-167",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-167"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4d",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "32",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-168",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-168"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4d",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "32",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-169",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-169"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4d",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "32",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-170",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-170"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4e",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-171",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-171"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4e",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-172",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-172"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4e",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-173",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-173"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4f",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-174",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-174"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4f",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-175",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-175"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4f",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "256",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-176",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-176"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4g",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-177",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-177"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4g",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "8",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-178",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-178"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4g",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "16",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-179",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-179"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4h",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-180",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-180"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4h",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-181",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-181"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4h",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-182",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-182"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4i",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "32",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-183",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-183"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4i",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "32",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-184",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-184"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4i",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-185",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-185"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4j",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-186",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-186"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4j",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "8",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-187",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-187"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4j",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "8",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-188",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-188"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4k",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "Escherichia coli ATCC 25922",
+      "evidence_id": "rule-189",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-189"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4k",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "S. aureus ATCC 29213",
+      "evidence_id": "rule-190",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-190"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213->S. aureus ATCC 29213"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "4k",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "128",
+      "target_units": "mg/mL",
+      "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+      "evidence_id": "rule-191",
+      "warnings": [
+        "source:rule_extractor"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-191"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "1",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "2",
+      "target_units": "mm",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-192",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-192"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "3",
+      "target_units": "mm",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-193",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-193"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "1024",
+      "target_units": "mm",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-194",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-194"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "32",
+      "target_units": "mm",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-195",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-195"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "8-16",
+      "target_units": "mm",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-196",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-196"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "64",
+      "target_units": "mm",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-197",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-197"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "16",
+      "target_units": "mm",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-198",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-198"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "8-16",
+      "target_units": "mm",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-199",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-199"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  },
+  {
+    "record": {
+      "compound_id": "2",
+      "smiles": "NOT_DETECTED",
+      "target_type": "MIC",
+      "target_relation": "=",
+      "target_value": "32-64",
+      "target_units": "mm",
+      "bacteria": "E. coli",
+      "evidence_id": "rule-200",
+      "warnings": [
+        "source:rule_extractor",
+        "bacteria_normalized:Escherichia coli->E. coli"
+      ]
+    },
+    "evidence": null,
+    "merged_evidence_ids": [
+      "rule-200"
+    ],
+    "merged_evidence": [],
+    "duplicate_count": 1,
+    "warnings": [
+      "source:rule_extractor",
+      "bacteria_normalized:Escherichia coli->E. coli"
+    ]
+  }
+]

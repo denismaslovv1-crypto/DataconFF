@@ -1,0 +1,45 @@
+{
+  "input_records": 24,
+  "output_records": 24,
+  "exact_duplicates_merged": 0,
+  "records_with_normalized_fields": 24,
+  "conflict_count": 1,
+  "conflicts": [
+    {
+      "key": {
+        "compound_id": "2018",
+        "target_type": "MIC",
+        "bacteria": "S. aureus"
+      },
+      "rows": [
+        {
+          "compound_id": "2018",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "32-128",
+          "target_units": "um",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2018",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "4",
+          "target_units": "MM",
+          "bacteria": "S. aureus"
+        },
+        {
+          "compound_id": "2018",
+          "smiles": "NOT_DETECTED",
+          "target_type": "MIC",
+          "target_relation": "=",
+          "target_value": "4",
+          "target_units": "mm",
+          "bacteria": "S. aureus"
+        }
+      ]
+    }
+  ]
+}

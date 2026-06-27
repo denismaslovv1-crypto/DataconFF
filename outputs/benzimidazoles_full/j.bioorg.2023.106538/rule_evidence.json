@@ -1,0 +1,170 @@
+[
+  {
+    "text": "Cryptococcus neoformans\nstructural class of 4-(1,3-thiazol-2-yl)morpholine-benzimidazole hybrids as antimicrobial agents. The most\nMembrane disruption\npotent analog, 6g shows IC50 of 1.3 µM, 2.7 µM, 10.8 µM, 5.4 µM and 10.8 µM against Cryptococcus neoformans,\nCandida albicans, Candida parapsilosis, Escherichia coli and Staphylococcus aureus, respectively. Interestingly 6g\nexhibits selectivity towards the cryptococcal cells with fungicidal behavior. Propidium iodide uptake study\nshows permeabilization of pathogenic cells in the presence of 6g. Flow cytometric analysis confirms that cell\ndeath is predominantly",
+    "source": {
+      "source_file": "j.bioorg.2023.106538.pdf",
+      "page": 1,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "ns\nstructural class of 4-(1,3-thiazol-2-yl)morpholine-benzimidazole hybrids as antimicrobial agents. The most\nMembrane disruption\npotent analog, 6g shows IC50 of 1.3 µM, 2.7 µM, 10.8 µM, 5.4 µM and 10.8 µM against Cryptococcus neoformans,\nCandida albicans, Candida parapsilosis, Escherichia coli and Staphylococcus aureus, respectively. Interestingly 6g\nexhibits selectivity towards the cryptococcal cells with fungicidal behavior. Propidium iodide uptake study\nshows permeabilization of pathogenic cells in the presence of 6g. Flow cytometric analysis confirms that cell\ndeath is predominantly due to apoptosis. Moreover",
+    "source": {
+      "source_file": "j.bioorg.2023.106538.pdf",
+      "page": 1,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "S. Aaghaz et al. B i o o r g a n i c C h e m is t r y 136(2023)106538\nagents target the biosynthesis of ergosterol, a key component of the 2-yl) morpholine-benzimidazole hybrids (6a-o Fig.2) in 70–83% yield as\nfungal cell membrane. The increase in emergence of azole-resistance in illustrated in Scheme 1.\nfungus is associated with prophylactic use of azoles, apart from their\nusage for longer duration and as fungicides for crop protection in agri- 3. Evaluation of antimicrobial activity\nculture. Therefore, there is a need to develop new heterocyclic anti-\nfungal agents with high selectivity towards fungal sterol 14α- Antimicrobial screening was carried out against a panel of fungal\ndemethylase enzyme (CYP51) as an alternative treatment [13,14]. (C. neoformans, C. albicans, C. parapsilosis) and bacterial (E. coli and\nAzole antifungals act by direct coordination with nucleophilic ni- S. aureus) strains, and the results are summarized in Tables 1 and 2.\ntrogen of azole heterocyclic ring to the 6th ligand of the heme ferric ion Clinically used drugs amphotericin B and rifampicin were used as the\nthat leads to the interactions of azoles to CYP51 phospholipid structure standard drugs for the antimicrobial evaluation against fungal and\n[15,16]. CYP51 belongs to cytochrome P450 superfamily and is required bacterial strains, respectively. Some of the tested hybrids display sig-\nfor the biosynthesis of ergosterol in fungi and biosynthesis of cholesterol nificant activity against selected fungal and bacterial strains. Compound\nin mammals. Hence, fungal CYP51 is an important target for the azole 6b (R =p-OCH3, R1 =CH3) displays IC50 of 5.4 µM (MIC =9.8 µM), 10.8\ncontaining antifungal agents [17]. Numerous triazole-based antimycotic µM (MIC =19.6 µM and 43.2 µM (MIC =78.7 µM) against C. neoformans,\nagents have been reported in the literature, however most of them have C. albicans and C. parapsilosis, respectively. Similarly, compound 6h (R\nresistance and hepatic toxicity issues, particularly when they are used =m-OCH3, R1 =F) exhibits IC50 of 5.3 µM (MIC =9.7 µM) and 21.4 µM\nfor longer durations [18,19]. Several compounds that possess a benz- (MIC = 38.9 µM) against C. neoformans and C. albicans, respectively.\nimidazole ring system are well known for their antifungal activity [5- While compound 6j (R =m-OCH3, R1 =Br) exhibits IC50 of 4.6 µM (MIC\n7,16,20]. Whereas, 2-((5-(4-(6-fluoro-1H-benzimidazol-2-yl)phenyl)-4 = 8.4 µM), 18.6 µM (MIC = 33.9 µM) and 9.3 µM (MIC = 16.9 µM)\nmethyl-4H-1,2,4-triazol-3-yl)thio)-1-(4-fluorophenyl)ethan-1-one (BT- against C. neoformans, C. albicans and C. paropsilosis, respectively.\n23) is a scaffold that contains benimidazole and triazole rings, which Whereas, compound 6m (R = p-Cl, R1 = F) is active against\nexhibits IC50 value of 0.78 µg/mL against candida strains [21]. Another C. neoformans with IC50 value of 5.3 µM (MIC =9.6 µM). Interestingly,\nbenzimidazole derivative, S-2-(1-aminoisobutyl)-1-(3-chlorobenzyl) compound 6e (R =p-OCH3, R1 =Br) exhibits IC50s of 2.3 µM (MIC =4.2\nbenzimidazole (EMC120B12) exhibits antifungal activity against µM), 2.3 µM (MIC = 4.2 µM), 9.3 µM (MIC = 16.9 µM) against\ncandida species [5,22]. Additionally, thiazolyl-triazole Schiff bases C. neoformans, C. albicans and C. parapsilosis, respectively. This com-\n(TTBs) display similar MIC values to that of ketoconazole and flucona- pound was also active against E. coli and S. aureus with IC50 value of\nzole against various candida species [23]. Moreover, 5-(2,4-dichlor- 18.6 µM (MIC =33.9 µM) and 37.3 µM (MIC =67.8 µM), respectively.\nobenzylidene)-2-(naphthalen-1-ylamino)thiazol-4(5H)-one (DCBNAT), The most promising compound among the series is 6g (R =m-OCH3,\na thiazolin-4-one derivative is highly effective (MIC = 0.015 µg/mL) R1 =CH3) that exhibits IC50 of 1.3 µM (MIC =2.4 µM), 2.7 µM (MIC =\nagainst panel of pathogenic fungi [24] as shown in Fig. 1. This is in 4.9 µM) and 10.8 µM (MIC =19.6 µM) against C. neoformans, C. albicans\ncontinuation to our earlier studies on the design and synthesis of newer and C. parapsilosis, respectively. It also showed activity against E. coli\nantimicrobial agents [25-27] and also based on the above observations, (IC50 =5.4 µM, MIC =9.8 µM) and S. aureus (IC50 =10.8 µM, MIC =\nwe have incorporated both the benzimidazole and thiazole pharmaco- 19.6 µM). In vitro antimicrobial screening led to the identification of 6g\nphores in the present study to create a new structural class of hybrids. as a lead amongst these hybrids, and was taken up for the detailed\nTherefore, we herein report the synthesis, biological and mechanistic biological studies, such as cytotoxicity assay, time kill assay, flow\ninvestigation of 4-(1,3-thiazol-2-yl) morpholine-benzimidazole hybrids cytometry, confocal laser scanning microscopy and electron microscopy.\nas membrane active agents. The structure activity relationship indicates that the presence of the\nmethyl group at R1 position of the benzimidazole ring significantly en-\n2. Chemistry hances the antimicrobial activity as compared to the halo group. On the\nphenyl ring, we have incorporated methoxy and chloro substituent as it\nDesired benzoyl chloride (1a-c) upon reaction with ammonium contains a lone pair, which provides scope for the hydrogen bonding\nthiocyanate and morpholine at ambient temperature produced N- with the targets. It is observed that the methoxy substitution at meta\n(morpholine-4-carbonothioyl)benzamides (2a-c) in 84–87% yield. position of phenyl ring is required for optimal activity. Morpholine of-\nCompounds 2a-c upon reaction with ethyl bromoacetate in the presence fers a weak hydrogen bond acceptor ability via its oxygen, which makes\nof triethylamine (TEA) gives 3a-c in 73–79% yield. These upon sub- a unique combination and may also participate in hydrophobic in-\njecting to reduction in the presence of lithium aluminum hydride (LAH), teractions. Additionally, the morpholine ring itself has a balanced\nfollowed by oxidation using MnO2 to afford compounds 5a-c in 83–87% lipophilic-hydrophilic profile with desirable drug-like properties [28].\nyield. The latter compounds 5a-c upon reaction with o-phenylenedi- These hybrids also contain free nitrogen in imidazole and thiazole rings\namine in the presence of sodium metabisulfite produced 4-(1,3-thiazol- which further provides scope for the hydrogen bonding (Fig. 3). Azole\nFig. 1. Structure of BT-23, EMC120B12, TTSBs, DCBNAT and designed molecules.\n2",
+    "source": {
+      "source_file": "j.bioorg.2023.106538.pdf",
+      "page": 2,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "S. Aaghaz et al. B i o o r g a n i c C h e m is t r y 136(2023)106538\nFig. 2. Structure of synthesized compounds 6a-o.\np\nm\np\np m p\nReactionconditions\nScheme 1. Synthesis of 4-(1,3-thiazol-2-yl) morpholine-benzimidazole derivative (6a-o).\nantifungals act by direct coordination with nucleophilic nitrogen of 4. Cytotoxicity assay\nazole heterocyclic ring to the 6th ligand of the heme ferric ion that leads\nto the interactions of azoles to CYP51 phospholipid structure [15,16]. In vitro mammalian cell cytotoxicity of 6g was performed against the\nCYP51 is required for the biosynthesis of ergosterol in the fungi and human cancer cell line (HeLa) as well as normal human cell line (HEK-\nbiosynthesis of cholesterol in the mammals [17]. Hence, fungal CYP51 is 293) at different concentrations. Compound 6g did not exhibit any\nan important target for the azole containing antifungal agents. There- significant toxicity at its MIC value against both HeLa and HEK 293 cell\nfore, it could be concluded that imidazole and thiazole moieties are lines (Fig. 4, Table 3).\nessential for the activity.\n5. Time kill assay\nThe time interval that completely inhibits the growth of fungal cells\n3",
+    "source": {
+      "source_file": "j.bioorg.2023.106538.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "S. Aaghaz et al. B i o o r g a n i c C h e m is t r y 136(2023)106538\nTable 1\nIn vitro antifungal activity of 4-(1,3-thiazol-2-yl) morpholine-benzimidazole derivative (6a-o).\nComp. R R1 C. neofomans C. albicas C. parapsilosis\nIC5 [a 0 ] MIC[b] MFC[c] IC5 [a 0 ] MIC[b] MFC[c] IC5 [a 0 ] MIC[b] MFC[c]\n6a p-OCH3 H 44.8 81.6 81.6 44.8 81.6 81.6 44.8 81.6 81.6\n6b p-OCH3 CH3 5.4 9.8 9.8 10.8 19.6 19.6 43.2 78.7 78.7\n6c p-OCH3 F 10.7 19.4 19.4 21.4 38.9 38.9 85.7 155.9 NT\n6d p-OCH3 Cl 20.6 37.4 37.4 20.6 37.4 37.4 41.2 74.9 74.9\n6e p-OCH3 Br 2.3 4.2 4.2 2.3 4.2 4.2 9.3 16.9 16.9\n6f m-OCH3 H 44.8 81.6 81.6 44.8 81.6 81.6 89.7 163.1 NT\n6g m-OCH3 CH3 1.3 2.4 2.4 2.7 4.9 4.9 10.8 19.6 19.6\n6h m-OCH3 F 5.3 9.7 9.7 21.4 38.9 38.9 85.7 155.9 NT\n6i m-OCH3 Cl 10.3 18.7 18.7 20.6 37.4 37.4 41.2 74.9 74.9\n6j m-OCH3 Br 4.6 8.4 8.4 18.6 33.9 33.9 9.3 16.9 16.9\n6k p-Cl H 22.2 40.3 40.3 44.4 80.7 80.7 44.4 80.7 80.7\n6l p-Cl CH3 10.7 19.4 19.4 42.8 77.8 77.8 85.6 155.7 NT\n6m p-Cl F 5.3 9.6 9.6 42.5 77.2 77.2 85.0 154.5 NT\n6n p-Cl Cl 10.2 18.6 18.6 40.9 74.4 74.4 81.8 148.8 NT\n6o p-Cl Br 18.5 33.7 33.7 74.2 135.0 NT 74.2 135.0 NT\nAmphotericin B 0.59 1.0 1.0 0.59 1.0 1.0 0.59 1.0 1.0\n[a]. IC50 is the concentration in μM that leads to 50% inhibition of growth.\n[b]. MIC (Minimum Inhibitory Concentration) is the lowest test concentration (μM) at which there is no detectable growth.\n[c]. MFC (minimum fungicidal concentration) is the lowest test concentration (μM) that kills 100% of the organism.\nNT- Not Tested.\nTable 2\nIn vitro antibacterial activity of 4-(1,3-thiazol-2-yl) morpholine-benzimidazole derivative (6a-o).\nComp. R R1 E. coli S. aureus\nIC5 [a 0 ] MIC[b] MBC[c] IC5 [a 0 ] MIC[b] MBC[c]\n6a p-OCH3 H >89.7 >163.2 NT >89.7 >163.2 NT\n6b p-OCH3 CH3 86.5 157.4 NT >86.5 >157.4 NT\n6c p-OCH3 F >85.7 >155.9 NT >85.7 >155.9 NT\n6d p-OCH3 Cl 82.4 149.9 NT 82.4 149.9 NT\n6e p-OCH3 Br 18.6 33.9 33.9 37.3 67.8 67.8\n6f m-OCH3 H >89.7 163.2 NT >89.7 >163.2 NT\n6 g m-OCH3 CH3 5.4 9.8 9.8 10.8 19.6 19.6\n6 h m-OCH3 F 21.4 38.9 38.9 42.8 77.9 77.9\n6i m-OCH3 Cl 82.4 149.9 NT 82.4 149.9 NT\n6j m-OCH3 Br 74.6 135.7 NT 37.3 67.8 67.8\n6k p-Cl H 44.4 80.7 80.7 44.4 80.7 80.7\n6l p-Cl CH3 >85.6 >155.7 NT >85.6 >155.7 NT\n6m p-Cl F 42.5 77.2 77.2 42.5 77.2 77.2\n6n p-Cl Cl >81.8 >148.8 NT >81.8 >148.8 NT\n6o p-Cl Br >74.2 >135.0 NT >74.2 >135.0 NT\nRifampicin 1.3 2.4 2.43 2.6 4.8 4.8\n[a]. IC50 is the concentration in μM that leads to 50% inhibition of growth.\n[b]. MIC (Minimum Inhibitory Concentration) is the lowest test concentration (μM) at which there is no detectable growth.\n[c]. MBC (minimum bactericidal concentration) is the lowest test concentration (μM) that kills 100% of the organism.\nNT- Not Tested.\nFig. 3. Structure activity relationship.\n4",
+    "source": {
+      "source_file": "j.bioorg.2023.106538.pdf",
+      "page": 4,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "S. Aaghaz et al. B i o o r g a n i c C h e m is t r y 136(2023)106538\nFig. 6. Flow cytometry analysis on C. neoformans upon treatment with compound 6g. (a) Unstained cells, (b) cells +PI dye (c) cells +Annexin V-FITC dye, (d) Cells\n+PI dye +Annexin V-FITC dye (e) cells treated with 6g +PI dye +Annexin V-FITC dye.\ntreatment with6gat its MIC value produces irregular disrupted cell\nmembranes (Fig. 9).\n10. Scanning transmission electron microscopy (STEM) analysis\nSTEM analysis further verifies the morphological study carried out\nby SEM and TEM, as STEM produces high quality images for finer\nanalysis between untreated and treated cells. It is observed that, treat-\nment of cryptococcal cells with 6g exhibits broken cell wall and cyto-\nplasm that can be related to disrupted cell wall. Whereas, the untreated\nfungal cells show round shaped regular smooth cell wall and intact cell\nmembrane (Fig. 10).\n11. Probable mechanism of action of compound 6g\nFig. 7. Confocal images of C. neoformans cells to evaluate the effect of com-\nThe cell wall of C. neoformans is a complex structure that frequently\npound using PI dye. Image (a) control for PI dye, Image (b) after treatment\nwith 6g. remodels to modulate its arrangement and linking of its components that\nare required for cell division as well as growth [31-33]. The cryptococcal\ncell wall is a two-layered structure made up of α-1,3-glucan, β-1,3 and\n8. Cell morphology analysis by the scanning electron\nβ-1,6-glucan, chitin, chitosan, mannoproteins and other GPI (glyco-\nmicroscopy (SEM)\nsylphospatidyl inositol) anchored proteins [34,35]. The inner layer is\nprimarily made up of β-glucans and chitin organized as fibers parallel to\nSEM studies were performed to analyze the morphological differ-\nthe cytoplasm, whereas the outer layer is made up of α-glucan and\nences between the treated and untreated cells. The healthy fungal cells\nβ-glucan [35,36]. These components together maintains the cellular\nunder SEM investigation displays an oval shaped smooth surface with\nstructure and are responsible for spreading the infection [37]. The outer\nintact cell membrane. On the other hand, cryptococcal cells upon\ntreatment with 6g at its MIC (2.4 μM) exhibits disruption of cells with layer of the cell wall is anchored through the exopolysaccharide capsule,\nwhich is a requirement for the yeast’s pathogenicity [37-39]. The pri-\nirregular cell surface and formation of pore(s), which is responsible for\nmary functions of β-1,6-glucan are to maintain and arrange the cell wall\nthe rapid killing of cells (Fig. 8).\nvia associations with other cellular components, thereby aiding to the\nintegrity of the cryptococcal cell wall. The proper growth, morphology,\n9. Ultra-structure analysis by high-resolution transmission\nand viability of the cells are regulated by the genes such KRE5, KRE6,\nelectron microscopy (HRTEM)\nand SKN1, which are involved in the synthesis of β-1,6-glucan [39,40].\nAlteration of these genes exhibit significant changes in the cell wall\nHRTEM studies were conducted to analyze the ultrastructure of the\ncomposition, which causes the loss of pathogenicity in mammalian hosts\ntreated and untreated cryptococcal cells. HRTEM visualization of un-\n[40]. The β-1,3-glucan of cryptoccal cell is produced by β-1,3-glucan\ntreated cells displays round shaped smooth cell membranes due to\nsynthase gene (FKS1). The inhibition of β-1,3-glucan synthesis triggers\npresence of intact cell membranes. However, fungal cells upon\n6",
+    "source": {
+      "source_file": "j.bioorg.2023.106538.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "S. Aaghaz et al. B i o o r g a n i c C h e m is t r y 136(2023)106538\nFig. 8. SEM-based surface morphological study of C. neoformans cells to evaluate the effect of compound 6g. Image (a) represents surface morphology of untreated\ncells. Image (b) represents morphological study of C. neoformans cells treated with 6g. The scale bar for images is 3.0 µm.\nFig. 9. HRTEM-based morphological study of C. neoformans cells to evaluate the effect of compound 6g. Image (a) represents morphology of untreated cells. Image\n(b) represents morphological study of C. neoformans cells treated with 6g. The scale bar for images are 0.2 µm.\ncell death and abnormalities in cellular integrity [41]. Probably com- MIC value. Similarly, in TEM micrographs 6g has severe effect on the\npound 6g aggregates over the cell surface of the cryptococcal cell via C. neoformans cell wall and cell membrane as compared to the untreated\nnonspecific electrostatic interaction, due to the change in the chemical cells, which has the intact regular cell wall. Our results also indicate that\nshift over the cell surface, that may alter the synthesis of glucan unit, 6g alone may not be solely responsible forthe cell death of\nleading to the permeabilization of the cell membrane, shrinkage and C. neoformans, however, it is likely due to the effect on multiple targets,\npore(s) formation. Our results demonstrate that 6g inhibits the growth such as genetic material, phospholipid, intracellular enzymes etc. In\nof pathogenic bacterial and fungal strains with no cytotoxic effect view of the wide range of targets of fungal cells it is somewhat difficult to\nagainst human cell lines. We have observe that 6g has multiple targets determine which specific events lead to loss of viability of the\nthat result in rapid killing within 8 h in the time kill kinetic assay and C. neoformans cells. Therefore, 6g could be considered as a broad-\npermeabilization of C. neoformans cell membrane entry by PI dye up- spectrum antimicrobial agent and the mode of action in C. neoformans\ntake. Treatment of 6g results in remarkable effect on the C. neoformans is through the effect on multiple targets such as damage to the cell wall\ncell wall damage, as evident from the images of electron microscopy. In structure, entry into the cells through cell membrane permeability, ge-\nSEM and STEM images, a significant alteration on the cell surface netic material damage and accumulation of apoptosis. All these factors\nmorphology has been observed in the treated cryptococcal cells at its lead the lysis of the cell which is responsible for the rapid killing of the\n7",
+    "source": {
+      "source_file": "j.bioorg.2023.106538.pdf",
+      "page": 7,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "strains. The most promising compound ammonium thiocyanate (139.11 mmol) in the presence of acetone (60\n6g displays excellent activity against C. neoformans. This hybrid (6g) mL) at ambient temperature for 30 min produced 2a-c as per the re-\ncould be considered as an efficient inhibitor of Gram (-) E. coli infection. ported procedure [42].\nIt also exhibits good safety profile against HeLa and HEK293 cells, as it is\nnon-cytotoxic. Time kill kinetics assay shows that it is fungicidal and\n13.2. General procedure for the synthesis of compounds 3a-c\ncompletely kill the cryptococcal cells within 8 h. Propi",
+    "source": {
+      "source_file": "j.bioorg.2023.106538.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "S. Aaghaz et al. B i o o r g a n i c C h e m is t r y 136(2023)106538\n+\n2H] . 13.9. Flow cytometry study\nTo perform flow cytometry, C. neoformans cells were treated with\n13.6. Evaluation of antimicrobial activity\nlead compound at MIC value, followed by incubation for 8 h at 30\n◦C\nwith 150 rpm. Harvesting of cells were carried out by centrifugation at\nAntifungal strains [Candida albicans (NCCPF400034), Candida para-\n2000 rpm, was suspended in PBS and washed with PBS (three times).\npsilosis (NCCPF440002) and Cryptococcus neoformans (NCCPF250316)]\nZymolyase was added to the harvested cells for 1 h at ambient tem-\nand bacterial strains [Escherichia coli (MTCC2961) and Staphylococcus\nperature. Protoplast cells were stained by PI dye and FITC labelled\naureus (MTCC3160)] were procured from National Culture Collection of\nannexin V dye using Annexin V-FITC detection kit (Sigma-Aldrich, USA).\nPathogenic Fungi (NCCPF), Postgraduate Institute of Medical Education\nThe analysis of fungal cells were carried out by FACS Calibur (Becton-\nand Research (PGIMER), Chandigarh and Microbial Type Culture\nDickinson, San Jose, CA, USA) at excitation 488 nm (for FITC) and 560\nCollection and Gene Bank (MTCC), Institute of Microbial Technology\nnm (for PI) band filter [29]. About 1 lakh cells were counted for the\n(IMTECH), Chandigarh, India. Antimicrobial evaluation was carried out\nanalysis. The untreated fungal cells were used as the control.\nby following the guidelines by Clinical and Laboratory Standards Insti-\ntute protocol (CLSI M27-A3, M38-A2).\nProcedure: In RPMI-1640 medium (Sigma Aldrich, USA) fungal cells 13.10. Propidium iodide (PI) uptake\nwere grown overnight to a cell population of ~ 1 ×103 colony forming\nunits (CFU/mL). In 96-well flat-bottomed microtiter plates (Tarson, C. neoformans cells were grown in RPMI1640 media. Compound (at\nIndia) fungal cells and compounds were added, followed by incubation its MIC value) and PI dye (1.49 µM) were added and incubated for 1 h at\nfor 48 h at 30 ◦C. Later visual and optical density was measured to 30 ◦C with constant shaking of 150 rpm. Samples were harvested by\nanalyze the cells growth inhibition at 600 nm by microtiter plate reader. centrifugation and suspended in PBS. Both treated and untreated sample\nThe MIC value was calculated as the minimum concentration of drug at were prepared on glass slides by using cover slip and visualized on a\nwhich >99% fungal cells growth inhibition has been observed and IC50 confocal microscope (Olympus FluoviewTMFV3000 SPD; Olympus,\nis determined as the concentration of drug that causes 50% growth in- Tokyo, Japan) at a wavelength of >560 nm [49].\nhibition of fungal cells. Marketed drug amphotericin B was used as a\nstandard drug for the evaluation of antifungal activity [43-45].\n13.11. Electron microscopic study\nFor growing of bacterial strains Mueller-Hinton broth (MHB) was\nused. Cells were grown upto the cell density of ~ 1 ×105 CFU/mL. 100\nµL media and test compounds were added to each well of the 96-well flat To perform SEM study, overnight log phase grown (in RPMI 1640)\nfungal cells (~103) were taken, was added compound at MIC value and\nbottom microtiter plate (Tarson, India) followed by the addition of 100\nµL growth media containing bacterial cells (105 CFU/mL). Microtiter incubated for 8 h at 30 ◦C. Cells were harvested by centrifugation (150\nplate was allowed to incubate for 24 h at 37 ◦C without shaking. Finally rpm for 10 min.), was fixed with 2% glutaraldehyde in 0.1% phosphate\nbuffer for 1 h at ambient temperature, washed with PBS, was post fixed\ngrowth inhibition was measured visually as well as taking optical den-\nsity by microtiter plate reader at 600 nm [43,45,46].\nwith 1% OsO4in 0.1 M phosphate buffer for 1 h at 4 ◦C. Later, samples\nwere dehydrated with gradient solvent of ethanol (10%, 30%, 50%,\n70%, 90% and 100%). Samples were coated with an ion sputtering\n13.7. Cytotoxicity assay apparatus (Hitachi E-1010) and freeze dried by vacuum freeze dryer\n(Hitachi ES-2030). Finally, samples were visualized under scanning\nMammalian cell cytotoxicity was carried out against normal human electron microscope (Hitachi S-3400 N, Japan) [43,45,50,51].\nkidney cell line (HEK 293) and human cervical cancer cell line (HeLa) by For HRTEM study, samples after dehydration in gradient ethanol\nutilizing 3-(4,5)-dimethyl-thiazol-2-yl-2,5-diphenyl tetrazolium bro- were taken and embedded in embedding media at ambient temperature.\nmide (MTT) assay. DMEM medium supplemented with 10% Fetal Bovine Later, it was embedded in pure araldite (pure araldite mixture) at 50 ◦C\nSerum (FBS) were used to culture cells upto the cell density of 5 ×104/ in 500 µL tube and at last in pure aradilite mixture at 60 ◦C for 24–28 h.\nwell in a 96-well flat bottom microtiter plate at 37 ◦C for 18–22 h. Ultrathin and semithin section was cutted using ultramicrotome (Ul-\nCompound was added (at MIC and sub MIC concentration) in each well tramicrotome Lecia EM UC6) and placed on copper grid (3.05 mm\nand again incubated for additional 18 h at 37 ◦C. 20 µL MTT solution (5 diameter and 200 mesh), was stained with uranyl acetate or lead ace-\nmg/mL in PBS) was added followed by further incubation for another tate. The visualization was carried out under the HRTEM (FEI Technai\n3–4 h at 37 ◦C. Later120 µL of supernatant was removed from each well G2 F20, Netharlands) and analyzed at 120 KV [43,45,50,51].\nof the microtiter plate and added 100 µL of dimethylsulfoxide (DMSO). Note\nThe resulting suspension were mixed to dissolve the formazan crystals. Author declare no financial interest.\nFinally, percentage viability was calculated as the ratio of OD570nm of\ntreated cells to the OD570nm of untreated cells. 10% DMSO was used as\nDeclaration of Competing Interest\npositive control and untreated cells were used as negative control\nrespectively [43,47].\nThe authors declare that they have no known competing financial\ninterests or personal relationships that could have appeared to influence\n13.8. Time-kill kinetics assay the work reported in this paper.\nOvernight grown fungal cells (~1 ×103) in RPMI 1640 media were Data availability\ntaken and compound at MIC value was added, followed by incubation at\n30 ◦C with shaking at 150 rpm. 100 µL aliquots were taken and serially Data will be made available on request.\ndiluted 10 times in PBS at a predetermined time interval of 0, 4, 8, 12,\n16, 20 and 24 h. After making serial dilution at predetermined time it Acknowledgement\nwas plated on YEPD agar plate and further incubated for 48 h at 30 ◦C.\nLater, colony forming units was counted. Untreated cryptococcal cells Shams Aaghaz thanks Department of Pharmaceuticals, Government\nand amphotericin B were used as the cell growth control and positive of India, New Delhi for providing funding in the form of research\ncontrol, respectively [43,48]. fellowship.\n10",
+    "source": {
+      "source_file": "j.bioorg.2023.106538.pdf",
+      "page": 10,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "tion between annexin V and phosphatidylserine, Anal. Chem.\n81 (6) (2009) 2410–2413.\n[4] S. Aaghaz, V. Gohel, A. Kamal, Peptides as potential anticancer agents, Curr. Top.\nMed. Chem. 19 (17) (2019) 1491–1511. [30] B. Lee, J. Hwang, D. Lee, Antibacterial action of lactoferricin B like peptide against\nEscherichia coli: reactive oxygen species-induced apoptosis-like death, J. Appl.\n[5] P. Keller, C. Müller, I. Engelhardt, E. Hiller, K. Lemuth, H. Eickhoff, K.-\nMicrobiol. 129 (2) (2020) 287–295.\nH. Wiesmüller, A. Burger-Kentischer, F. Bracher, S. Rupp, An antifungal\n[31] T.L. Doering, How sweet it is! Cell wall bi",
+    "source": {
+      "source_file": "j.bioorg.2023.106538.pdf",
+      "page": 11,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "and TEM study, Mycopathologia 108 (1)\n(1989) 37–46.\n[26] I. Khan, S. Kanugala, M.A. Shareef, T. Ganapathi, A.B. Shaik, K.C. Shekar,\n[51] S. Shen, T. Zhang, Y. Yuan, S. Lin, J. Xu, H. Ye, Effects of cinnamaldehyde on\nA. Kamal, C.G. Kumar, Synthesis of new bis-pyrazole linked hydrazides and their in\nEscherichia coli and Staphylococcus aureus membrane, Food Control 47 (2015)\nvitro evaluation as antimicrobial and anti-biofilm agents: A mechanistic role on\n196–202.\n11",
+    "source": {
+      "source_file": "j.bioorg.2023.106538.pdf",
+      "page": 11,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "athologia 108 (1)\n(1989) 37–46.\n[26] I. Khan, S. Kanugala, M.A. Shareef, T. Ganapathi, A.B. Shaik, K.C. Shekar,\n[51] S. Shen, T. Zhang, Y. Yuan, S. Lin, J. Xu, H. Ye, Effects of cinnamaldehyde on\nA. Kamal, C.G. Kumar, Synthesis of new bis-pyrazole linked hydrazides and their in\nEscherichia coli and Staphylococcus aureus membrane, Food Control 47 (2015)\nvitro evaluation as antimicrobial and anti-biofilm agents: A mechanistic role on\n196–202.\n11",
+    "source": {
+      "source_file": "j.bioorg.2023.106538.pdf",
+      "page": 11,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  }
+]

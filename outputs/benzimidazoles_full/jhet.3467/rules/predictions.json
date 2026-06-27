@@ -1,0 +1,442 @@
+[
+  {
+    "compound_id": "BK-1",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "1.25",
+    "target_units": "mm",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "jhet.3467.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "BK-1",
+      "evidence_text": "InvitroantimicrobialandantioxidantevaluationMICvalues(μg/mL)ofcompounds(BK-1–11).\nCompounds B.subtilis S.aureus E.coli P.aeruginosa A.niger A.flavus M.purpureus DPPH NO\nBK-1 1.25 1.25 0.625 1.25 12.5 25.0 6.25 32.07 42.10",
+      "extraction_method": "benzimidazole.rule_extractor.target_antibacterial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "BK-1",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "0.625",
+    "target_units": "mm",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "jhet.3467.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "BK-1",
+      "evidence_text": "InvitroantimicrobialandantioxidantevaluationMICvalues(μg/mL)ofcompounds(BK-1–11).\nCompounds B.subtilis S.aureus E.coli P.aeruginosa A.niger A.flavus M.purpureus DPPH NO\nBK-1 1.25 1.25 0.625 1.25 12.5 25.0 6.25 32.07 42.10",
+      "extraction_method": "benzimidazole.rule_extractor.target_antibacterial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "BK-2",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "1.25",
+    "target_units": "mm",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "jhet.3467.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "BK-2",
+      "evidence_text": "InvitroantimicrobialandantioxidantevaluationMICvalues(μg/mL)ofcompounds(BK-1–11).\nCompounds B.subtilis S.aureus E.coli P.aeruginosa A.niger A.flavus M.purpureus DPPH NO\nBK-2 2.5 1.25 2.5 5.0 25.0 75.0 50.0 44.34 58.36",
+      "extraction_method": "benzimidazole.rule_extractor.target_antibacterial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "BK-2",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "2.5",
+    "target_units": "mm",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "jhet.3467.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "BK-2",
+      "evidence_text": "InvitroantimicrobialandantioxidantevaluationMICvalues(μg/mL)ofcompounds(BK-1–11).\nCompounds B.subtilis S.aureus E.coli P.aeruginosa A.niger A.flavus M.purpureus DPPH NO\nBK-2 2.5 1.25 2.5 5.0 25.0 75.0 50.0 44.34 58.36",
+      "extraction_method": "benzimidazole.rule_extractor.target_antibacterial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "BK-3",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "5.0",
+    "target_units": "mm",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "jhet.3467.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "BK-3",
+      "evidence_text": "InvitroantimicrobialandantioxidantevaluationMICvalues(μg/mL)ofcompounds(BK-1–11).\nCompounds B.subtilis S.aureus E.coli P.aeruginosa A.niger A.flavus M.purpureus DPPH NO\nBK-3 5.0 5.0 5.0 5.0 50.0 50.0 75.0 38.25 61.45",
+      "extraction_method": "benzimidazole.rule_extractor.target_antibacterial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "BK-3",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "5.0",
+    "target_units": "mm",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "jhet.3467.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "BK-3",
+      "evidence_text": "InvitroantimicrobialandantioxidantevaluationMICvalues(μg/mL)ofcompounds(BK-1–11).\nCompounds B.subtilis S.aureus E.coli P.aeruginosa A.niger A.flavus M.purpureus DPPH NO\nBK-3 5.0 5.0 5.0 5.0 50.0 50.0 75.0 38.25 61.45",
+      "extraction_method": "benzimidazole.rule_extractor.target_antibacterial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "BK-4",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "5.0",
+    "target_units": "mm",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "jhet.3467.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "BK-4",
+      "evidence_text": "InvitroantimicrobialandantioxidantevaluationMICvalues(μg/mL)ofcompounds(BK-1–11).\nCompounds B.subtilis S.aureus E.coli P.aeruginosa A.niger A.flavus M.purpureus DPPH NO\nBK-4 2.5 5.0 5.0 5.0 100 125 NA 35.17 76.54",
+      "extraction_method": "benzimidazole.rule_extractor.target_antibacterial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "BK-4",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "5.0",
+    "target_units": "mm",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "jhet.3467.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "BK-4",
+      "evidence_text": "InvitroantimicrobialandantioxidantevaluationMICvalues(μg/mL)ofcompounds(BK-1–11).\nCompounds B.subtilis S.aureus E.coli P.aeruginosa A.niger A.flavus M.purpureus DPPH NO\nBK-4 2.5 5.0 5.0 5.0 100 125 NA 35.17 76.54",
+      "extraction_method": "benzimidazole.rule_extractor.target_antibacterial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "BK-5",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "1.25",
+    "target_units": "mm",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "jhet.3467.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "BK-5",
+      "evidence_text": "InvitroantimicrobialandantioxidantevaluationMICvalues(μg/mL)ofcompounds(BK-1–11).\nCompounds B.subtilis S.aureus E.coli P.aeruginosa A.niger A.flavus M.purpureus DPPH NO\nBK-5 2.5 1.25 2.5 2.5 NA 150 125 44.54 81.45",
+      "extraction_method": "benzimidazole.rule_extractor.target_antibacterial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "BK-5",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "2.5",
+    "target_units": "mm",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "jhet.3467.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "BK-5",
+      "evidence_text": "InvitroantimicrobialandantioxidantevaluationMICvalues(μg/mL)ofcompounds(BK-1–11).\nCompounds B.subtilis S.aureus E.coli P.aeruginosa A.niger A.flavus M.purpureus DPPH NO\nBK-5 2.5 1.25 2.5 2.5 NA 150 125 44.54 81.45",
+      "extraction_method": "benzimidazole.rule_extractor.target_antibacterial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "BK-6",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "5.0",
+    "target_units": "mm",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "jhet.3467.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "BK-6",
+      "evidence_text": "InvitroantimicrobialandantioxidantevaluationMICvalues(μg/mL)ofcompounds(BK-1–11).\nCompounds B.subtilis S.aureus E.coli P.aeruginosa A.niger A.flavus M.purpureus DPPH NO\nBK-6 5.0 5.0 5.0 5.0 25.0 NA 12.5 22.45 46.10",
+      "extraction_method": "benzimidazole.rule_extractor.target_antibacterial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "BK-6",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "5.0",
+    "target_units": "mm",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "jhet.3467.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "BK-6",
+      "evidence_text": "InvitroantimicrobialandantioxidantevaluationMICvalues(μg/mL)ofcompounds(BK-1–11).\nCompounds B.subtilis S.aureus E.coli P.aeruginosa A.niger A.flavus M.purpureus DPPH NO\nBK-6 5.0 5.0 5.0 5.0 25.0 NA 12.5 22.45 46.10",
+      "extraction_method": "benzimidazole.rule_extractor.target_antibacterial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "BK-7",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "0.625",
+    "target_units": "mm",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "jhet.3467.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "BK-7",
+      "evidence_text": "InvitroantimicrobialandantioxidantevaluationMICvalues(μg/mL)ofcompounds(BK-1–11).\nCompounds B.subtilis S.aureus E.coli P.aeruginosa A.niger A.flavus M.purpureus DPPH NO\nBK-7 0.156 0.625 1.25 1.25 12.5 12.5 6.25 27.52 40.36",
+      "extraction_method": "benzimidazole.rule_extractor.target_antibacterial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "BK-7",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "1.25",
+    "target_units": "mm",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "jhet.3467.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "BK-7",
+      "evidence_text": "InvitroantimicrobialandantioxidantevaluationMICvalues(μg/mL)ofcompounds(BK-1–11).\nCompounds B.subtilis S.aureus E.coli P.aeruginosa A.niger A.flavus M.purpureus DPPH NO\nBK-7 0.156 0.625 1.25 1.25 12.5 12.5 6.25 27.52 40.36",
+      "extraction_method": "benzimidazole.rule_extractor.target_antibacterial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "BK-8",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "5.0",
+    "target_units": "mm",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "jhet.3467.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "BK-8",
+      "evidence_text": "InvitroantimicrobialandantioxidantevaluationMICvalues(μg/mL)ofcompounds(BK-1–11).\nCompounds B.subtilis S.aureus E.coli P.aeruginosa A.niger A.flavus M.purpureus DPPH NO\nBK-8 5.0 5.0 2.5 5.0 25.0 50.0 25.0 20.56 48.56",
+      "extraction_method": "benzimidazole.rule_extractor.target_antibacterial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "BK-8",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "2.5",
+    "target_units": "mm",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "jhet.3467.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "BK-8",
+      "evidence_text": "InvitroantimicrobialandantioxidantevaluationMICvalues(μg/mL)ofcompounds(BK-1–11).\nCompounds B.subtilis S.aureus E.coli P.aeruginosa A.niger A.flavus M.purpureus DPPH NO\nBK-8 5.0 5.0 2.5 5.0 25.0 50.0 25.0 20.56 48.56",
+      "extraction_method": "benzimidazole.rule_extractor.target_antibacterial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "BK-9",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "2.5",
+    "target_units": "mm",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "jhet.3467.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "BK-9",
+      "evidence_text": "InvitroantimicrobialandantioxidantevaluationMICvalues(μg/mL)ofcompounds(BK-1–11).\nCompounds B.subtilis S.aureus E.coli P.aeruginosa A.niger A.flavus M.purpureus DPPH NO\nBK-9 1.25 2.5 2.5 5.0 50.0 75.0 50.0 50.62 52.10",
+      "extraction_method": "benzimidazole.rule_extractor.target_antibacterial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "BK-9",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "2.5",
+    "target_units": "mm",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "jhet.3467.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "BK-9",
+      "evidence_text": "InvitroantimicrobialandantioxidantevaluationMICvalues(μg/mL)ofcompounds(BK-1–11).\nCompounds B.subtilis S.aureus E.coli P.aeruginosa A.niger A.flavus M.purpureus DPPH NO\nBK-9 1.25 2.5 2.5 5.0 50.0 75.0 50.0 50.62 52.10",
+      "extraction_method": "benzimidazole.rule_extractor.target_antibacterial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "BK-10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "2.5",
+    "target_units": "mm",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "jhet.3467.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "BK-10",
+      "evidence_text": "InvitroantimicrobialandantioxidantevaluationMICvalues(μg/mL)ofcompounds(BK-1–11).\nCompounds B.subtilis S.aureus E.coli P.aeruginosa A.niger A.flavus M.purpureus DPPH NO\nBK-10 2.5 2.5 0.156 0.312 75.0 100 125 63.85 88.10",
+      "extraction_method": "benzimidazole.rule_extractor.target_antibacterial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "BK-10",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "0.156",
+    "target_units": "mm",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "jhet.3467.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "BK-10",
+      "evidence_text": "InvitroantimicrobialandantioxidantevaluationMICvalues(μg/mL)ofcompounds(BK-1–11).\nCompounds B.subtilis S.aureus E.coli P.aeruginosa A.niger A.flavus M.purpureus DPPH NO\nBK-10 2.5 2.5 0.156 0.312 75.0 100 125 63.85 88.10",
+      "extraction_method": "benzimidazole.rule_extractor.target_antibacterial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "BK-11",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "2.5",
+    "target_units": "mm",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "jhet.3467.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "BK-11",
+      "evidence_text": "InvitroantimicrobialandantioxidantevaluationMICvalues(μg/mL)ofcompounds(BK-1–11).\nCompounds B.subtilis S.aureus E.coli P.aeruginosa A.niger A.flavus M.purpureus DPPH NO\nBK-11 2.5 2.5 1.25 1.25 50 75 100 58.35 85.64",
+      "extraction_method": "benzimidazole.rule_extractor.target_antibacterial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "BK-11",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "1.25",
+    "target_units": "mm",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "jhet.3467.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "BK-11",
+      "evidence_text": "InvitroantimicrobialandantioxidantevaluationMICvalues(μg/mL)ofcompounds(BK-1–11).\nCompounds B.subtilis S.aureus E.coli P.aeruginosa A.niger A.flavus M.purpureus DPPH NO\nBK-11 2.5 2.5 1.25 1.25 50 75 100 58.35 85.64",
+      "extraction_method": "benzimidazole.rule_extractor.target_antibacterial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  }
+]

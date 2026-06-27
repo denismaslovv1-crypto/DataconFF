@@ -1,0 +1,13 @@
+compound_id,smiles,target_type,target_relation,target_value,target_units,bacteria
+10,NOT_DETECTED,MIC,=,15,mm,S. aureus
+10,NOT_DETECTED,MIC,=,15,mm,E. coli
+4,NOT_DETECTED,MIC,=,312.5,um,E. coli
+4,NOT_DETECTED,MIC,=,312.5,um,S. aureus
+4,NOT_DETECTED,MIC,=,312.5,um,E. coli
+4,NOT_DETECTED,MIC,=,312.5,um,S. aureus
+4,NOT_DETECTED,MIC,=,6,um,E. coli
+4,NOT_DETECTED,MIC,=,6,um,S. aureus
+4,NOT_DETECTED,MIC,=,6,um,E. coli
+4,NOT_DETECTED,MIC,=,6,um,S. aureus
+8,NOT_DETECTED,MIC,=,3,um,S. aureus
+8,NOT_DETECTED,MIC,=,3,um,E. coli

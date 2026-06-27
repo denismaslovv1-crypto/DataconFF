@@ -1,0 +1,338 @@
+[
+  {
+    "text": "(A) E. coli DH52",
+    "source": {
+      "source_file": "j.ejmech.2016.01.052.pdf",
+      "page": 56,
+      "section": null,
+      "table_id": "p56_t2",
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_tables",
+      "confidence": 0.75
+    },
+    "row_id": "0"
+  },
+  {
+    "text": "ompounds exhibited good or even stronger antimicrobial activities in\ncomparison with reCference drugs. The most potent compound 15m was membrane active and did not\ntrigger the development of resistance in bacteria. It not only inhibited the formation of biofilms but also\nC\ndisrupted the established Staphylococcus aureus and Escherichia coli biofilms. It was able to inhibit the\nA\nrelaxation activity of E. coli topoisomerase IV at 10 µM concentration. Moreover, this compound also\nshowed low toxicity against mammalian cells. Molecular modeling and experimental investigation of\ncompound 15m with DNA suggested that thi",
+    "source": {
+      "source_file": "j.ejmech.2016.01.052.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "even stronger antimicrobial activities in\ncomparison with reCference drugs. The most potent compound 15m was membrane active and did not\ntrigger the development of resistance in bacteria. It not only inhibited the formation of biofilms but also\nC\ndisrupted the established Staphylococcus aureus and Escherichia coli biofilms. It was able to inhibit the\nA\nrelaxation activity of E. coli topoisomerase IV at 10 µM concentration. Moreover, this compound also\nshowed low toxicity against mammalian cells. Molecular modeling and experimental investigation of\ncompound 15m with DNA suggested that this compound could effe",
+    "source": {
+      "source_file": "j.ejmech.2016.01.052.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "e most potent compound 15m was membrane active and did not\ntrigger the development of resistance in bacteria. It not only inhibited the formation of biofilms but also\nC\ndisrupted the established Staphylococcus aureus and Escherichia coli biofilms. It was able to inhibit the\nA\nrelaxation activity of E. coli topoisomerase IV at 10 µM concentration. Moreover, this compound also\nshowed low toxicity against mammalian cells. Molecular modeling and experimental investigation of\ncompound 15m with DNA suggested that this compound could effectively bind with DNA to form a steady\n15m-DNA complex which might fur",
+    "source": {
+      "source_file": "j.ejmech.2016.01.052.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\nKeywords:\nQuinolone; Benzimidazole; anti-MRSA; DNA; Topoisomerase\nT\nP\nI\nR\nC\nS\nU\nN\nA\nM\nD\nE\nT\nP\nE\nC\nC\nA\n2",
+    "source": {
+      "source_file": "j.ejmech.2016.01.052.pdf",
+      "page": 4,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\nN-alkyl benzimidazoles 10a–h in high yields. N-Halobenzyl derivatives 12a–g were provided in\nquantitative yields by the reaction of o-phenylene diamine with a series of halobenzyl halides, and then\ntreatment with chloroacetic acid (Scheme 2). These prepared benzimidazole halides 8a–f, 10a–h and 12a–g\nrespectively were further coupled with the piperazine in quinolones 1a–b to smoothly pTroduce the target\nbenzimidazole-quinolone hybrids 13–16 (Scheme 3).\nP\nScheme2 I\nR\nScheme 3\nC\nThe -CH –NH- bridged benzimidazole quinolone hybrids 17a–b were conveniently prepared in the\n2\nyields of 29.4–31.5% via Mannich reaction starting from quinolonesS 1a–b and paraformaldehyde (Scheme\n4). Shiffbase-linked hybrids 18a–b were smoothly obtained in 3U9.5–41.4% yields by condensation reaction\nof N-formyl quinolone esters 4a–b with 2-aminobenzimidazole. However, these prepared esters 18a–b\nN\ncould not be hydrolyzed to produce desired target carboxyl derivatives, which might be related with the\nA\nbase-sensitive shiffbases (Scheme 4). It was also noteworthy that the direct reaction of N-formyl quinolone\n2 with 2-aminobenzimidazole via condensation wMas difficult to go.\nAll the newly synthesized compounds were characterized by 1H NMR, 13C NMR, IR, MS and HRMS\nspectra. Their spectral analyses were consistent with the assigned structures and the spectral data were\nD\ngiven in the experimental section.\nE\nScheme 4\nT\n2.2. Biological activity\nP\nAll the newly prepared compounds were evaluated for antimicrobial activities in vitro against four\nE\nGram-positive bacteria (Staphylococcus aureus ATCC25923, Methicillin-resistant Staphylococcus aureus\nN315, Bacillus subCtilis ATCC6633 and Micrococcus luteus ATCC4698), six Gram-negative bacteria\n(Escherichia coli DH52, Escherichia coli JM109, Shigella dysenteriae, Pseudomonas aeruginosa\nC\nATCC27853, Bacillus proteus ATCC13315 and Salmonella enterica ATCC14028) and five fungi (Candida\nA\nalbicans ATCC10231, Candida mycoderma ATCC9888, Candida utilis ATCC9950, Saccharomyces\ncerevisia ATCC9763 and Aspergillus flavus ATCC204304) using two-fold broth dilution method in 96-well\nmicrotest plates recommended by NCCLS [27]. The biological tests were carried out in triplicate. Minimal\ninhibitory concentration (MIC, µg/mL) was defined as the lowest concentration of the tested new\ncompounds that completely inhibited the growth of strains. Currently available antimicrobial drugs such as\n6",
+    "source": {
+      "source_file": "j.ejmech.2016.01.052.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\nchloromycin, norfloxacin, ciprofloxacin and fluconazole were used as standard drugs. Clinafloxacin, a\nnewly synthesized fluoroquinolone antimicrobial agent that has been demonstrated to be more active than\ncurrently available fluoroquinolones with expanded activity against most bacteria was also selected as\nstandard [10a]. T\nThe obtained results (depicted in Table 1 and supporting information: Table S1) revealed that most of the\nP\nprepared benzimidazole quinolones could effectively inhibit the growth of all the tested strains in vitro.\nI\nCompounds 13a and 13f with methylene linker between benzimidazole and the piperazine ring in\nR\nquinolone gave low MIC values in the range of 0.125–2 µg/mL which exhibited obvious stronger\nC\nantimicrobial efficacy in comparison with norfloxacin (MIC = 1–16 µg/mL) and ciprofloxacin (MIC =\n0.25–1 µg/mL). In contrast to this, the directly linked ones 6a–b S(MIC = 0.5–8 µg/mL), and CH\n2\nCH\n2\n(compounds 16a–b: MIC = 0.5–128 µg/mL), CH NH (compounds 17a–b: MIC = 0.25–16 µg/mL) orC=N\n2 U\n(compounds 18a–b: MIC = 2–128 µg/mL) bridged derivatives all gave generally bigger MIC values. This\nN\nfact that either the decrease or increase of the linker length was unfavorable for the bioactivity,\ndemonstrated the proper length of linker exerted an imAportant influence in enhancing bioactivity, and the\nmethylene linker was the most suitable one. Further, the replacement of one CH moiety in the CH CH\nM 2 2 2\nlinker (compounds 16a–b) by NH group (compounds 17a–b) was beneficial for the activity.\nThe introduction of chloro, fluoro, bromo or nitro group into the 5(6)-position of benzimidazole nucleus\nD\nresulted in lower activity and they contributed to the antibacterial activities in the order of chloro (cid:730) fluoro\n(cid:730) nitro (cid:730) bromo group. Among tEhem, chloro modified derivative 13h showed obvious increase in\ninhibiting the growth of pathogenTic bacterial strains (MIC = 0.25–0.5 µg/mL) in comparison with reference\ndrug chloromycin (MIC = 8–32 µg/mL) and superior to norfloxacin (MIC = 1–16 µg/mL), ciprofloxacin\nP\n(MIC = 1–2 µg/mL) and clinafloxacin (MIC = 0.25–1 µg/mL) respectively.\nE\nThe further structure–activity relationship demonstrated that the significant effect of the substituents at\nthe N-position of bCenzimidazoles on biological activity. Most of N-alkyl derivatives 14a–p displayed\nmoderate antibacterial activity against the tested bacteria. In comparison with other bacteria, they were\nC\nrelatively less sensitive to E. coli JM109 and S. aureus. Among all the alkyl derivatives, compounds 14e\nA\nand 14m with octyl group gave the best bioactivity with MIC values in the range of 0.5–32 µg/mL. The\nreplacement of octyl group by ethyl or propyl fragment resulted in low activity towards the tested strains.\nMoreover, when the alkyl substituents were extended to decyl, dodecyl and octadecyl groups, compounds\nshowed relatively weaker inhibitory activity. The short alkyl chains with poor lipophilicity and long alkyl\nones with high lipophilicity in these compounds might make them unfavorable to be delivered to the\n7",
+    "source": {
+      "source_file": "j.ejmech.2016.01.052.pdf",
+      "page": 9,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\nbinding sites.\nIn comparison with the alkyl derivatives 14a–p, most of halobenzyl ones 15a–n exerted relatively better\nactivities in inhibiting the growth of the tested strains. Notably, in this series of halobenzyl derivatives,\n2,4-dichlorobenzyl hybrid 15m gave the best antibacterial efficiencies with MIC valueTs of 0.0312 to 8\nµg/mL towards the corresponding bacteria. Noticeably, this compound demonstrated effective bioactivity\nP\nagainst M. luteus (MIC = 0.0625 µg/mL), B. proteus (MIC = 0.0312 µg/mL), and S. enterica (MIC =\nI\n0.0312 µg/mL) which were 128– and 1025–fold more potent than the reference drug chloromycin, and\nR\n32-fold more active than norfloxacin and ciprofloxacin. Particularly, it was even 8–, 16– and 8–fold more\nC\nactive than clinafloxacin. Besides, compound 15i with 3-chlorophenyl group also displayed fairly good\nantibacterial activities with the MIC values in the range of 0.125–8S µg/mL in comparison with reference\ndrug chloromycin (MIC = 8–32 µg/mL) and superior to norfloxacin (MIC = 1–16 µg/mL), ciprofloxacin\nU\n(MIC = 1–2 µg/mL) and clinafloxacin (MIC = 0.25–1 µg/mL) respectively. The replacement of\nN\nchlorobenzyl moiety by fluorobenzyl group (compounds 15j and 15k) resulted in unfavorable potency\nagainst all the tested strains at the concentrations of 0.A25–256 µg/mL. The substitution of chlorine atom in\ncompound 15m by nitro group to give derivative 15n was not beneficial for the antibacterial activities.\nM\nThese results manifested that 2,4-dichlorophenyl derivative 15m should be worthy to be further\ninvestigated as potential antimicrobial agent.\nD\nExcitedly, the directly linked benzimidazole hybrid 6b, methylene bridged ones 13f and 13h, halobenzyl\nderivatives 15a, 15f, 15i–j and 15mE, NH CH linked ones 17a–b all exhibited good biological activity\n2 2\nagainst MRSA with quite low MITC values of 0.125–0.5 µg/mL which were more active than chloromycin\n(MIC = 16 µg/mL), norfloxacin (MIC = 8 µg/mL), ciprofloxacin (MIC = 2 µg/mL) and clinafloxacin (MIC\nP\n= 1 µg/mL). Especially, methylene bridged 13f (MIC = 0.125 µg/mL), 15a (MIC = 0.125 µg/mL), 15f\nE\n(MIC = 0.125 µg/mL) and 15m (MIC = 0.125 µg/mL) exerted superior anti-MRSA activity to norfloxacin\n(MIC = 8 µg/mL), cCiprofloxacin (MIC = 2 µg/mL) and clinafloxacin (MIC = 1 µg/mL). These implied that\nthis new type of benzimidazole-quinolone hybrids should have the possibility to be developed as\nC\nanti-MRSA agents.\nA\nIn addition, the in vitro antifungal evaluation were also evaluated for these prepared benzimidazole\nquinolone hybrids and revealed that they exhibited moderate antifungal activities against most of the tested\nfungal strains (supporting information).\nTable 1\n2.3 Bactericidal kinetic assay\n8",
+    "source": {
+      "source_file": "j.ejmech.2016.01.052.pdf",
+      "page": 10,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\nIn order to understand the antibacterial potency of the prepared compounds, time−kill kinetics\nexperiments of highly active benzimidazole quinolone hybrid 15m against MRSA were performed. As\nshown in Figure 3, it revealed more than 3 log (CFU/mL) reduction in the number of viable bacteria within\nan hour at a concentration of 6 × MIC. The result manifested that this compound had Trapid-bactericidal\nactivity.\nP\nFigure 3\nI\nR\n2.4 Antibiofilm activity\nC\nBacteria with biofilms are inherently insensitive to antimicrobial agents and they are much more resistant\nto conventional antibiotic treatment [7]. Moreover, biofilms account for more than 80% of microbial\nS\ninfections in humans. Compound with the ability not only to inhibit bacterial biofilm formation but also to\nU\ndisperse established biofilms would be an ideal agent to tackle infections caused by bacteria. Both\nN\nGram-positive MRSA and Gram-negative E. coli with biofilms are known to cause many infections in\nhumans. Hence the ability of compound 15m to inhibAit both MRSA and E. coli DH52 biofilm formation\nwas evaluated. Further, the ability of target compound to disperse established MRSA and E. coli DH52\nM\nbiofilms was also investigated.\n2.4.1 Biofilm inhibition D\nCompound 15m was found to be an effective inhibitor for both MRSA and E. coli DH52 biofilm\nE\nformation. The IC (the concentration of the compounds that inhibits 50% biofilm development) values of\n50\nT\n15m against MRSA and E. coli DH52 biofilm formation were found to be 0.125 and 0.25 µg/mL,\nP\nrespectively (Figure 4), which made it a promising antibiofilm agent.\nE Figure 4\nC\n2.4.2 Biofilm disruption\nC\nCompound 15m was selected to evaluate the efficiency to eradicate the established MRSA and E. coli\nDH52 biofAilms. Matured MRSA biofilm (developed for 24 h) having an initial count of 11.8 log CFU/mL\n10\nof bacteria was treated at four different concentrations (0.125, 0.25, 1 and 2 µg/mL). After the treatment,\nthe cell viabilities in biofims decreased to 10.5, 9.6, 5, and 0.1 log CFU/mL at 0.125, 0.25, 1 and 2 µg/mL,\n10\nwhereas cell viability in untreated biofilm increased to 13.6 log CFU/mL. Thus, the EC (the\n10 50\nconcentration of compound that reduces 50% bacterial titer of a preformed biofilm) value of the biocide\nwas 0.76 µg/mL. More importantly, the biocide at the highest tested concentration (2 µg/mL) showed about\n9",
+    "source": {
+      "source_file": "j.ejmech.2016.01.052.pdf",
+      "page": 11,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\nzero cell viability in 24 h MRSA biofilm indicating nearly complete eradication of established biofilm\n(Figure 5A). Matured E. coli biofilm (developed for 48 h) having an initial count of 16.2 log CFU/mL of\n10\nbacteria was similarly treated at four different concentrations (0.25, 0.5, 2, and 4 µg/mL respectively). After\nthe treatment, the cell viabilities in biofims for the different concentrations decreased to 1T2.2, 10.1, 7.2, and\n3.6 log CFU/mL at 0.25, 0.5, 2, and 4 µg/mL respectively (Figure 5B). Thus, the EC value of compound\n10 50\nP\n15m was 1.5 µg/mL. Moreover, this compound was able to reduce viable bacteria even in 48 h grown\nI\nmatured E. coli biofilm. The above results clearly indicated the biocide ability to disperse the biofilms and\nR\nhence to kill the microorganism present in the biofilm.\nC\nFigure 5\nS\n2.5 Bacterial membrane permeabilization\nU\nNatural and synthetic membrane active antibacterial agents offer a hope to solve the problem of bacterial\nN\nresistance as the membrane-active nature imparts low propensity for the development of resistance. The\nability of compound 15m to permeabilize the bacteriaAl cell membrane was studied using propidium iodide\n(PI) (supporting information). This dye can pass through the membrane of compromised bacterial cells and\nM\nfluoresces upon binding to the DNA [28,29]. As can be seen from Figure 6A and Figure 6B, the tested\ncompound was efficient in permeabilizing the membranes of both Gram-positive (MRSA) and\nD\nGram-negative (E. coli DH52) bacteria.\nEFigure 6\nT\n2.6 Resistance study\nP\nThe high-level resistance of norfloxacin to MRSA strains was observed, so we investigated the ability of\nMRSA to develop drug rEesistance against the most potent compound 15m. We exposed a standard strain of\nMRSA towards increasing concentrations of compound 15m from sub-MIC for sustained passages and\nC\ndetermined the MIC values of compound 15m for each passage of MRSA. The freshly diluted MRSA\nC\nstrains (1.0 · 105 CFU) in the broth medium in the presence of 0.08 µg/mL (2/3 MIC) of compound 15m\nA\nwere cultured at 37 ºC for 12 h on a shaker bed at 90 rpm, and tested its sensitivity to 0.125 µg/mL (the\noriginal MIC) of compound 15m for each passage of MRSA. After 12 passages in the presence of\ntwo-thirds of the MIC of compound 15m, bacterial resistance to the original MIC of compound 15m (0.125\nµg/mL) did not emerge, and the MIC values just changed between 0.125 µg/mL and 0.5 µg/mL. To make\ncomparative analysis, parallel cultures were exposed to 2-fold dilutions of norfloxacin as a positive control.\nBy contrast, MRSA quickly developed resistance to norfloxacin, showing resistance to the original MIC (8\n10",
+    "source": {
+      "source_file": "j.ejmech.2016.01.052.pdf",
+      "page": 12,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\nµg/mL) after 6 passages. This assay indicated that bacteria MRSA did not develop resistance easily against\ncompound 15m as they did against norfloxacin [30].\n2.7 Inhibition of DNA Relaxation Activity of EcTopo IV.\nT\nThe DNA relaxation assay was done for the newly synthesized compound 15m. In this experiment,\nP\nsuperhelical plasmid DNA was incubated with EcTopo IV at increasing concentrations of the prepared\nI\ncompound (1, 5, 10, 25, and 50 µM) and DNA relaxation products were then resolved by gel\nR\nelectrophoresis on 1% agarose gel. Compound 15m was able to inhibit the relaxation activity of EcTopo IV\nC\nat 10 µM concentration (Figure S1, supporting information).\n2.8 Cytotoxicity. S\nU\nThe cytotoxic activities of compound 15m were tested by Cell Counting Kit-8 (CCK8) method. The in\nvitro cytotoxicity was evaluated in HEK293 (human embrNyonic kidney 293) cells. As shown in Figure 7,\ncompound 15m showed relative low toxicity to normal human embryonic kidney cells at high\nA\nconcentration, and the IC value was 106 µg/mL.\n50\nM\nFigure 7\n2.9 Molecular modeling\nD\nTo rationalize the observed antibacterial activity and understand the possible mechanism of the target\nE\nbenzimidazole quinolones, a flexible ligand receptor docking investigation was undertaken. The crystal\nT\nstructure data (topoisomerase IV–DNA complex) were obtained from the protein data bank (PDB code:\nNA1059), which was represePntative target to investigate the antibacterial mechanism of quinolones [5,31].\nTarget compound 15m and clinafloxacin were selected to dock with the topoisomerase IV–DNA complex.\nE\nAccording to the docking evaluation, hybrid 15m possessed high total score (14.30) even superior to\nC\nclinafloxacin (score: 12.45) against topoisomerase IV–DNA complex. Interactions of compound 15m and\nclinafloxacin wCith topoisomerase IV–DNA receptor were shown in Figure 8(i-iii). The docking result of\ncompoundA 15m with topoisomerase IV–DNA complex might rationalize the possible antibacterial\nmechanism. The carboxyl group of this molecule was in close vicinity to the residue Arg117 of the\ntopoisomerase IV–DNA complex. The prepared molecule 15m could also form hydrogen bonds with Ser79\nof topoisomerase IV–DNA complex through the hydrogen atom of carboxyl group. Furthermore,\ncompound 15m could intercalate into superhelical DNA of the enzyme–DNA complex (Figure 8 (iii) and\nsupporting information: Figure S2). This cooperative binding might be beneficial to stabilize the\n11",
+    "source": {
+      "source_file": "j.ejmech.2016.01.052.pdf",
+      "page": 13,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\nquinolone–DNA enzyme complex, which might be responsible for the strong inhibitory efficacy of\ncompound 15m against MRSA. Since clinafloxacin suffered the exposed severe side effects including\nphototoxicity and photohemolysis, these benzimidazole quinolones are worthy to be further investigated as\npotential candidates for infective chemotherapy. T\nFigure 8\nP\n2.10 Interactions with DNA I\nR\nBased on the good activities of target compounds and the high score results of molecular modeling, the\nC\nincorporation of benzimidazole might improve the interaction between target compounds and DNA of\ntopoisomerase IV–DNA complexes. So the interaction between the most active compound 15m and calf\nS\nthymus DNA (CT DNA, a DNA model with medical importance, low cost and ready availability properties)\nU\nwas evaluated to further explore the preliminary antimicrobial mechanism. In contrast to this interaction\nN\nbetween compound 15m and DNA, the reference drug norfloxacin was employed to investigate the\ninteraction with CT DNA. A\nFigure 9\nM\nWith a fixed concentration of DNA, UV–vis absorption spectra were recorded with the increasing\namount of compound 15m. As shown in FDigure 9, UV–vis spectra displayed that the maximum absorption\npeak of DNA at 260 nm exhibited proportional increase and slight red shift with the increasing\nE\nconcentration of compound 15m. Meanwhile the phenomenon displayed that the absorption value of\nT\nsimply sum of free DNA and free compound 15m was a little greater than the measured value of\n15m–DNA complex. These meant a weak hypochromic effect existed between DNA and compound 15m.\nP\nFurthermore, the intercalation of the aromatic chromophore of compound 15m into the helix and the strong\nE\noverlap of π-π* states of the large π-conjugated system with the electronic states of DNA bases were\nC\nconsistent with the observed spectral changes [32,33].\nOn the basisC of variations in the absorption spectra of DNA upon binding to 15m, equation (1) can be\nutilized to calculate the binding constant (K).\nA\nA0 ξ ξ 1\n= C + C · (1)\nA- A0 ξ - ξ ξ - ξ K[Q]\nD- C C D- C C\nA0 and A represent the absorbance of DNA in the absence and presence of compound 15m at 260 nm, ξ\nC\nand ξ - are the absorption coefficients of compound 15m and 15m–DNA complex respectively. The plot\nD C\nof A0/(A-A0) versus 1/[compound 15m] is constructed by using the absorption titration data and linear\n12",
+    "source": {
+      "source_file": "j.ejmech.2016.01.052.pdf",
+      "page": 14,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\nfitting (Figure 10), yielding the binding constant, K = 4.30 ×104 L/mol, R = 0.999, SD = 0.24 (R is the\ncorrelation coefficient. SD is standard deviation).\nFigure 10\nT\nAs shown in Figure 11, there were some differences between norfloxacin and compound 15m. The\nhyperchromism of DNA–norfloxacin complex was observed. With the gradually incPreasing concentration\nof compound 15m or norfloxacin, the DNA–compound 15m complex showed obvIiously stronger spectral\nR\nchange than DNA–norfloxacin complex, which suggested the new benzimidazole quinolone gave better\ninteraction with DNA. Therefore, this type of interaction with DNA might improve binding ability between\nC\nthese compounds and topo–DNA complex.\nS\nFigure 11\nU\n3. Conclusion\nN\nIn conclusion, a series of benzimidazole quinolones were successfully synthesized by a convenient and\nA\nefficient procedure. Their structures were confirmed by 1H NMR, 13C NMR, MS, IR and HRMS spectra.\nThe in vitro antimicrobial evaluation revealed Mthat most of the synthesized compounds exhibited good\nbioactivities against the tested bacterial strains especially against MRSA even superior to reference drugs.\nStructure–activity relationship indicated Dthat lengths of linker exerted obvious influence in enhancing\nbioactivity, and the methylene linker was the most active one. The prepared compound 15m showed\nE\nsignificant inhibition against all the tested bacterial strains with low inhibitory concentrations (MIC =\nT\n0.0312–8 µg/mL). Additionally, it not only inhibited the formation of biofilm but also dispersed the\nestablished bacterial biofilms. Further, it also displayed low toxicity against mammalian cells and did not\nP\ntrigger development of resistance in bacteria. Thus, this membrane-active antibacterial compound could be\nE\npotentially used as therapeutic agent to treat bacterial infections caused by multidrug-resistant bacteria.\nC\nMoreover, the most active compound 15m was able to inhibit the relaxation activity of E. coli\ntopoisomerase CIV at 10 µM concentration. Further molecular modeling indicated the good antibacterial\nactivity of the prepared compound 15m against quinolone-resistant bacterial strains and the possible\nA\nmechanism might be explained by the noncovalent interaction between compound 15m and topo IV–DNA\ncomplex, especially these hydrogen bonds between molecule and Ser79 (resistance mutation region of topo\nIV–DNA complex). The preliminary interactive investigations of compound 15m with CT DNA revealed\nthat it gave better interaction with DNA than norfloxacin, which might improve binding ability between\nthis compound with topo IV–DNA complex.\n13",
+    "source": {
+      "source_file": "j.ejmech.2016.01.052.pdf",
+      "page": 15,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\npiperazine N-CH ), 3.27 (s, 4H, piperazine N-CH ), 1.46 (t, J = 6.9 Hz, 3H, CH CH ) ppm; 13C NMR (151\n2 2 2 3\nMHz, DMSO-d ) δ: 175.7, 163.2, 161.2, 154.5, 152.7, 149.2, 145.9, 143.6, 136.7, 129.3, 124.9, 121.1,\n6\n113.4, 112.1, 111.9, 107.2, 50.4, 49.6, 49.2, 45.0, 14.1 ppm; MS (m/z): 477 [M+H]+; HRMS (TOF) calcd.\nfor C 25 H 26 FN 6 O 3 : [M+H]+, 477.2050; found, 477.2050. T\n4.1.56. 1-Methyl-7-(4-((1H-benzimidazol-2-ylimino)methyl)piperazin-1-yl)-1-cyclopropyl-6-\nP\nfluoro-4-oxo-1,4-dihydroquinoline-3-carboxylate (18b) I\nCompound 18b was prepared according to the procedure described for cRompound 18a starting from\n2-aminobenzimidazole (0.368 g, 0.003 mol), compound 4b (1.000 g, 0.003 mol) and copper sulfate (0.075\nC\ng, 0.0003 mol). The target compound 18b (0.578 g) was obtained as white solid. Yield: 39.5%; mp:\n171- 172 °C; IR (KBr, cm-1) ν: 3028 (aromatic C-H), 2953, 2890 ( S CH ,CH ), 1715 (C=O), 1631, 1556,\n3 2\n1536, 1505, 1440 (aromatic frame); 1H NMR (600 MHz, DMSUO-d ) δ: 13.32 (s, 1H, benzimidazole-NH),\n6\n9.01 (s, 1H, N=CH), 8.12 (s, 1H, quinolone 2-H), 8.01 (d, J = 12.9 Hz, 1H, quinolone 5-H), 7.51 (s, 2H,\nN\nbenzimidazole 4,7-H), 7.23 (d, J = 6.4 Hz, 1H, quinolone 8-H), 7.11 (s, 2H, benzimidazole 5,6-H), 5.77 (s,\nA\n1H, cyclopropyl-CH), 3.63 (s, 3H, OCH ), 3.35 (s, 4H, piperazine N-CH ), 3.28 (s, 4H, piperazine N-CH ),\n3 2 2\n1.39 (d, J = 5.9 Hz, 2H, cyclopropyl-CH ), 1.2M6 (s, 2H, cyclopropyl-CH ) ppm; 13C NMR (151 MHz,\n2 2\nDMSO-d ) δ: 176.2, 163.3, 162.4, 155.3, 152.4, 148.6, 146.9, 144.1, 137.4, 128.4, 125.4, 122.3, 113.5,\n6\n112.4, 110.9, 106.1, 50.5, 49.4, 49.0, 45.D4, 14.5 ppm; MS (m/z): 489 [M+H]+; HRMS (TOF) calcd. for\nC H FN O : [M+H]+, 489.2050; found, 489.2053.\n26 26 6 3\nE\n4.2. Antibacterial and antifungal assays\nT\nMinimal inhibitory concentration (MIC, µg/mL) is defined as the lowest concentration of target\nP\ncompounds that completely inhibited the growth of bacteria, by means of standard two-fold serial dilution\nE\nmethod in 96-well microtest plates according to the NCCLS. The tested microorganism strains were\nC\nprovided by the School of Pharmaceutical Sciences, Southwest University and the College of Pharmacy,\nThird Military Medical University. Chloromycin, norfloxacin, ciprofloxacin, clinafloxacin and fluconazole\nC\nwere used as standard drugs. To ensure that the solvent had no effect on bacterial growth, a control test was\nA\nperformed with tested medium supplemented with DMSO at the same dilutions used in the experiment. All\nthe bacteria and fungi growth were monitored visually and spectrophotometrically, and all the experiments\nwere performed in triplicate.\n4.3. Bactericidal kinetic assay.\n40",
+    "source": {
+      "source_file": "j.ejmech.2016.01.052.pdf",
+      "page": 42,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\nThe rate of bactericidal activity, that is, the rate at which the compounds killed bacteria was evaluated by\nperforming time-kill kinetics. Briefly, MRSA bacterium was grown in suitable growth medium at 37 ºC for\n6 h and diluted in respective media. Compound 15m was added to the bacterial solution (MRSA of\napproximately 1.8 × 105 CFU/mL) at concentrations of 6 × MIC in a 96-well plate. ThTe plate was then\nincubated at 37 ºC. At different time intervals (0, 60, 90, 120, 150, 180, 210 and 240 min), 20 µL of\nP\naliquots from the solution were taken out and serially diluted (10-fold serial dilution) in 0.9% saline. Then\nI\n20 µL of the dilutions was plated on respective agar plates and incubated at 37 ºC for 24 h. The bacterial\nR\ncolonies were counted, and results are represented in logarithmic scale: log (CFU/mL) vs time (in min).\n10\nC\n4.4. Antibiofilm activity.\nS\n4.4.1. Biofilm inhibition assay.\nU\nMidlog phase bacteria (MRSA and E. coli DH52, 6 h grown culture) were diluted to a concentration of\nN\n105 CFU/mL in suitable broths supplemented with 1% glucose and NaCl. Compound 15m was serially\nA\ndiluted (2-fold), and 25 µL of these serial dilutions was added to the wells of a 96-well plate. Then 75 µL of\nbacterial suspension (~105 CFU/mL) was addeMd into the wells containing biocide solutions. A similar\nexperiment was performed by taking 75 µL of the bacterial suspension (~105 CFU/mL) and 25 µL of sterile\nwater as control. The plates were then incubated under stationary conditions for 24 h. After incubation, the\nD\nmedium was removed and washed a single time with 1 × PBS (phosphate buffer saline). Then 0.1% crystal\nE\nviolet (CV) solution (100 µL) was added into the wells and allowed to incubate for 30 min. Crystal violet\nsolution was then discarded, and Tthe plates were washed with 1× PBS. The residual was solubilized with\n200 µL of 95% ethanol solution and diluted 10-fold. The OD at 540 nm was then recorded using a plate\nP\nreader. Biofilm inhibition was quantified by considering 100% biofilm formation in the case of nontreated\nE\ncontrol.\nC\n4.4.2. Biofilm disruption assay.\nC\nBacteria (MRSA and E. coli DH52) (6 h grown, midlog phase) were suspended to 105 CFU/mL into\nA\nsuitable broths (nutrient media supplemented with 1% glucose and NaCl for MRSA and M9 media\nsupplemented with 0.02% casamino acid and 0.5% glycerol for E. coli). The well plates containing 100 µL\nof these suspensions were then incubated under stationary conditions (for about 24 h for MRSA and 48 h\nfor E. coli). After incubation, the medium was removed and washed with 1× PBS single time. Compound\n15m (100 µL at various concentrations) was then added to the wells containing established bacterial\n41",
+    "source": {
+      "source_file": "j.ejmech.2016.01.052.pdf",
+      "page": 43,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\nbiofilms and allowed to incubate for 24 h. A control was made where 100 µL of medium was added instead\nof test compound. After 24 h, medium was discarded and planktonic cells were removed by washing with\n1× PBS. Then 100 µL of trypsin−EDTA solution was added to the treated biofilm to dissolve. Cell\nsuspension of biofilms was then assessed by plating serial 10-fold dilutions on suitable agTar plates. After 24\nh of incubation, bacterial colonies were counted, and cell viability was expressed as log (CFU/mL) along\n10\nP\nwith the control.\nI\nR\n4.5. Inner membrane permeabilization assay.\nC\nThe 6 h grown culture (mid log phase) of MRSA and E. coli were harvested (3500 rpm, 5 min), washed,\nand resuspended in 5 mM glucose and 5 mM HEPES buffer (pH 7.2) in 1:1 ratio. Then an amount of 10 µL\nS\nof test compound 15m (12 × MIC) was added to a cuvette containing 2 mL of bacterial suspension and 10\nU\nµM propidium iodide (PI). Fluorescence was monitored at excitation wavelength of 535 nm (slit width of\nN\n10 nm) and emission wavelength of 617 nm (slit width of 5 nm). As a measure of inner membrane\npermeabilization, the uptake of PI was monitored byA the increase in fluorescence for 15 min. A control\nexperiment was performed by treating the preincubated bacterial and dye solution only with water (10 µL).\nM\n4.6. Cytotoxicity.\nD\nToxicity of compound 15m toward HEK293 cells was determined by using Cell Counting Kit-8 (CCK8,\nYeasen Company) based on WST-8 (4-(3-(2-methoxy-4-nitrophenyl)-2-(4-nitrophenyl)-2H-\nE\ntetraz-ol-3-ium-5-yl)benzene-1,3-disulfonate) reduction assay following literature procedures [37]. The\nT\nHEK293 cells (5000 cells per well) were seeded into 96-well plates. The cells were then incubated in a\nculture medium containing cPompound 15m with a particular concentration for 24 h. After that, 10 mL of\nCCK8 was added to eacEh well. After 4 h, the unreacted dye was removed by aspiration. The OD values\nwere spectrophotometrically measured in an ELISA plate reader (model 550, Bio-Rad) at a wavelength of\nC\n450 nm. The cell survival was expressed as follows: cell viability = (OD treated/OD control) × 100%.\nC\n4.7. Relaxation assay of EcTopo IV.\nA\nEcTopo IV was diluted with a buffer of 10 mM Tris-Ac, pH 7.5, 50 mM KCl, 35 mM (NH ) SO , 1 mM\n4 2 4\nDTT, 0.1 mM EDTA and 50% glycerin. Compound 15m was added to 1 µL of the diluted enzyme present\nin 20 µL volume before addition of 12 µL of the same buffer containing 6 µL of supercoiled PUC19-T\nDNA. The mixture was incubated at 37 °C for 2 h before termination of the reaction and analyzed by\nagarose gel electrophoresis as described previously. The ethidium bromide stained gel was photographed\n42",
+    "source": {
+      "source_file": "j.ejmech.2016.01.052.pdf",
+      "page": 44,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\nLists of tables, figures and schemes captions\nTable 1 Antibacterial data as MIC (µg/mL) for target compounds 6, 13–18.\nFig. 1 Design of novel benzimidazole quinolones.\nT\nFig. 2 X-ray single-crystal structure of compound 2.\nFig. 3 Time−kill kinetics of compound 15m (6 × MIC) against MRSA. The data oPbtained are from two\nindependent experiments performed in triplicate. I\nR\nFig. 4 Antibiofilm activity of compound 15m: (A) E. coli DH52 cell viability in presence of compound\n15m at different concentrations and (B) MRSA cell viability in presence of compound 15m at different\nC\nconcentrations.\nS\nFig. 5 Biofilm disruption by compound 15m: (A, B) cell viability in biofilms of MRSA and E. coli DH52,\nU\nrespectively, obtained by plating and counting the viable bacteria after treating with different concentrations\nof compound 15m.\nN\nFig. 6. Mechanism of antibacterial action of compound 15m at concentrations of 12 × MIC: (A) membrane\nA\npermeabilization of E. coli DH52; (B) membrane permeabilization of MRSA.\nM\nFig. 7. Relative cell viabilities of compound 15m in HEK293 cells.\nFig. 8(i) Three-dimensional conformation of compound 15m docked in topoisomerase IV–DNA complex\n(i). D\nFig. 8(ii) Three-dimensional conformation of clinafloxacin docked in topoisomerase IV–DNA complex (ii)\nE\nFig. 8(iii) Three-dimensional conformation of 15m docked in topoisomerase IV–DNA complex (iii)\nT\nFig. 9 UV absorption spectra of DNA with different concentrations of compound 15m (pH = 7.4, T = 298\nK). Inset: comparison of absoPrption at 260 nm between the 15m–DNA complex and the sum values of free\nDNA and free compound 15m. c(DNA) = 8.32 × 10-5 mol/L, and c(compound 15m) = 0–1.2 × 10-5 mol/L\nE\nfor curves a–g respectively at increment of 0.2 × 10-5.\nC\nFig. 10 The plot of A0/(A-A0) versus 1/[compound 15m].\nFig. 11 CompaCrison of absorption at 260 nm between the DNA–norfloxacin complex and the sum values of\nfree DNA Aand free norfloxacin. c(DNA) = 7.61 × 10-5 mol/L, and c(norfloxacin) = 0–2 × 10-5 mol/L at\nincrement of 0.4 × 10-5.\nScheme 1 Synthesis of benzimidazole quinolones 6a–b.\nScheme 2 Synthesis of chloroalkyl benzimidazoles 8, 10 and 12.\nScheme 3 Synthesis of benzimidazole quinolones 13–16.\nScheme 4 Synthesis of benzimidazole quinolones 17–18.\n47",
+    "source": {
+      "source_file": "j.ejmech.2016.01.052.pdf",
+      "page": 49,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\nTable 1. Antibacterial data as MIC (µg/mL)a,b for target compounds 6, 13–18.\nGram-positive bacteria Gram-negative bacteria\nCompds S. B. M. E. coli E. coli S. P. B. S.\nMRSA\naureus subtilis luteus DH52 JM109 dysenteriae aeruginosa proteus enterica\n6a 4 – 0.58 2 – 2 – 0.23 4 – 0.58 2 – 8 – 4 – 0.58 2 – 0.23 T 1 – 0.12 2 – 0.23\n0.23 0.23 1.15\n6b 0.5 – 1 – 2 – 0.23 1 – 0.12 1 – 2 – 0.5 – 0.05 0.5 – P 0.05 2 – 0.23 1 – 0.12\n0.05 0.12 0.12 0.23\n13a 1 0 – . 0 0 5 .1 2 2 – 1 – 0.12 1 – 0.12 0.5 – 4 – 2 – 0.23 1 I – 0.12 0.5 – 0.5 –\n0.23 0.05 0.58 R 0.05 0.05\n13b 16 – 16 – 8 – 1.15 0.5 – 16 – 32 – 8 – 1.15 4 – 0.58 2 – 0.23 8 – 1.15\n1.73 1.73 0.05 1.73 3.46\nC\n13c 1 – 0.12 2 – 16 – 1 – 0.12 0.5 – 2 – 1 – 0.12 1 – 0.12 0.5 – 0.5 –\n0.23 1.73 0.05 0.23 0.05 0.05\n13d 32 – 64 – 8 – 1.15 2 – 0.23 16 – 16 – S 16 – 1.73 2 – 0.23 4 – 0.58 8 – 1.15\n3.46 6.35 1.73 1.73\nU\n13e 8 – 1.15 16 – 8 – 1.15 1 – 0.12 8 – 32 – 4 – 0.58 2 – 0.23 2 – 0.23 4 – 0.58\n1.73 1.15 3.46\n13f 0.125 – 0.25 – 0.125 – 0.125 – 0.125 N 0.5 – 1 – 0.12 0.5 – 0.05 0.125 – 0.125 –\n0.01 0.02 0.01 0.01 – 0.01 0.05 0.01 0.01\n13g 2 – 0.23 4 – 0.5 – 2 – 0.23 A1 – 4 – 2 – 0.23 2 – 0.23 1 – 0.12 1 – 0.12\n0.58 0.05 0.12 0.58\n13h 0.5 – 0.5 – 0.5 – 0.25 – M 0.5 – 0.5 – 0.5 – 0.05 0.5 – 0.05 0.5 – 0.5 –\n0.05 0.05 0.05 0.02 0.05 0.05 0.05 0.05\n13i 4 – 0.58 64 – 16 – 16 – 8 – 32 – 16 – 1.73 1 – 0.12 8 – 1.15 4 – 0.58\n6.35 1.73 1.73 1.15 3.46\nD\n13j 2 – 0.23 16 – 8 – 1.15 8 – 1.15 4 – 8 – 4 – 0.58 0.5 – 0.05 4 – 0.58 4 – 0.58\n1.73 0.58 1.15\n14a 8 – 1.15 128 – 2 – 0.23 E4 – 0.58 4 32 – 128 – 32 – 3.46 1 – 0.12 0.5 –\n68.65 – 0.58 3.46 68.65 0.05\n14b 16 – 256 – 2 – T 0.23 8 – 1.15 32 – 128 – 32 – 3.46 32 – 3.46 128 – 16 –\n1.73 137.29 3.46 68.65 68.65 1.73\nP\n14c 64 – 512 – 32 – 16 – 8 – 128 – 128 – 64 – 6.35 8 – 1.15 256 –\n6.35 49.65 3.46 1.73 1.15 68.65 68.65 137.29\nE\n14d 32 – 256 – 16 – 4 – 0.58 4 – 64 – 32 – 3.46 16 – 1.73 4 – 0.58 8 – 1.15\n3.46 C137.29 1.73 0.58 6.35\n14e 2 – 0.23 32 – 32 – 4 – 0.58 8 – 32 – 16 – 1.73 2 – 0.23 4 – 0.58 4 – 0.58\nC3.46 3.46 1.15 3.46\n14f A8 – 1.15 3\n3\n2\n.4\n–\n6\n4 – 0.58 1\n1\n6\n.7\n–\n3\n0\n0\n.\n.\n5\n0 5\n– 3\n3\n2\n.4\n–\n6\n8 – 1.15 4 – 0.58 8 – 1.15 8 – 1.15\n256 – 128 – 128 – 256 – 256 – 512 – 256 – 256 – 256 – 256 –\n14g\n137.29 68.65 68.65 137.29 137.29 49.65 137.29 137.29 137.29 137.29\n14h 128 – 256 – 128 – 128 – 256 – 256 – 256 – 256 – 256 – 256 –\n68.65 137.29 68.65 68.65 137.29 137.29 137.29 137.29 137.29 137.29\n14i 1 6 2 8 8 .6 – 5 1 2 3 5 7 6 . 2 – 9 0 0 . . 5 0 5 – 2 – 0.23 0 2 . 2 – 3 1 6 2 8 8 .6 – 5 8 – 1.15 2 – 0.23 0 0 . . 5 0 5 – 0 0 . . 5 0 5 –\n48",
+    "source": {
+      "source_file": "j.ejmech.2016.01.052.pdf",
+      "page": 50,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\n17a 0.5 – 2 – 8 – 1.15 4 – 0.58 1 – 16 – 0.5 – 0.05 1 – 0.12 8 – 1.15 2 – 0.23\n0.05 0.23 0.12\n17b 0.25 – 1 – 1 – 0.12 1 – 0.12 1 – 4 – 0.25 – 0.01 0.5 – 0.05 1 – 0.12 1 – 0.12\n0.01 0.12 0.12 0.58\n18a 128 – 64 – 4 – 0.58 32 – 32 – 64 – 64 – 6.35 8 – 1.15 32 – 16 –\n68.65 6.35 3.46 3.46 6.35 3.46 1.73\nT\n18b 64 – 32 – 2 – 0.23 4 – 0.58 8 – 8 – 8 – 1.15 2 – 0.23 4 – 0.58 4 – 0.58\n6.35 3.46 1.15 1.15\nP\nChloromycin 16 – 16 – 32 – 8 – 1.15 32 – 32 – 16 – 1.73 32I – 3.46 32 – 32 –\n1.73 1.73 3.46 3.46 3.46 3.46 3.46\nR\nNorfloxacin 8 – 1.15 2 – 4 – 0.58 2 – 0.23 1 – 1 – 16 – 1.73 16 – 1.73 8 – 1.15 4 – 0.58\n0.23 0.12 0.12\nC\nCiprofloxacin 2 – 0.23 0.5 – 2 – 0.23 2 – 0.23 2 – 2 – 2 – 0.23 1 – 0.12 2 – 0.23 1 – 0.12\n0.05 0.23 0.23\nS\nClinafloxacin 1 – 0.12 0 0 . . 5 0 5 – 0 0 . . 5 0 5 – 0 0 . . 5 0 5 – 0 0 . . 5 0 5 – 0 0 . . 5 0 5 – 0.5 – 0.05 0.5 – 0.05 0 0 . . 5 0 5 – 0 0 .2 .0 5 1 –\nU\na Minimum inhibitory concentrations were determined by micro broth dilution method for microdilution plates.\nb MRSA, Methicillin-Resistant Staphylococcus aureus N315; S. aureus, Staphylococcus aureus ATCC25923; B. subtilis, Bacillus subtilis\nATCC6633; M. luteus, Micrococcus luteus ATCC4698; E. coli DH52, EschNerichia coli DH52; E. coli JM109, Escherichia coli JM109; S.\ndysenteriae, Shigella dysenteriae; P. aeruginosa, Pseudomonas aeruginosa ATCC27853; B. proteus, Bacillus proteus ATCC13315; S.\nenterica, Salmonella enterica ATCC14028.\nA\nM\nD\nE\nT\nP\nE\nC\nC\nA\n50",
+    "source": {
+      "source_file": "j.ejmech.2016.01.052.pdf",
+      "page": 52,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\nFig. 3. Time−kill kinetics of compound 15m (6 × MIC) against MRSA. The data obtained are from two\nindependent experiments performed in triplicate.\n14\n12\nT\n10\nP\n8\nI\n6 R\n4\n60 90 120 150 180 210 24C0\nS\nU\nN\nA\nM\nD\nE\nT\nP\nE\nC\nC\nA\n53\n)Lm/UFC(goL\nControl\nCompound 15m\nTime (min)",
+    "source": {
+      "source_file": "j.ejmech.2016.01.052.pdf",
+      "page": 55,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\nFig. 4. Antibiofilm activity of compound 15m: (A) E. coli DH52 cell viability in presence of compound\n15m at different concentrations and (B) MRSA cell viability in presence of compound 15m at different\nconcentrations.\n100 (A) T\n80 P\n60 I\nR\n40\nC 20\n0 S 1 0.1225 0.253 0.54 15 26 47 88 196 3120 6141\n1\n1282\nU\nN\nA\nM\nD\nE\nT\nP\nE\nC\nC\nA\n54\nnoitamroF\nmlifoiB\nfo\n%\n100 E. coli DH52\n80\n60\n40\n20\n0\nControl\nConcentration of compounds m((((mmm g/mL))))\n1 2 3 4 5 6 7\n(A)\n0.5\nnoitamroF\nmlifoiB\nfo\n%\n(B) MRSA\nControl 0.0312 0.062 15 0.125 0.25 1\nConcentration of compounds m((((mmm g/mL))))\n(B)",
+    "source": {
+      "source_file": "j.ejmech.2016.01.052.pdf",
+      "page": 56,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\nFig. 5. Biofilm disruption by compound 15m: (A, B) cell viability in biofilms of MRSA and E. coli DH52,\nrespectively, obtained by plating and counting the viable bacteria after treating with different concentrations\nof compound 15m.\n14\nT\n12\n10 P\n8\nI\n6\nR\n4\n2 C\n0\n1 2 3 4 5 6 S\nU\nN\nA\nM\nD\nE\nT\nP\nE\nC\nC\nA\n55\nMRSA\n))))Lm/UFC\n01 goL((((\nmlifoib\nni\nytilibaiv\nlleC\n18\n16\n14\n12\n10\n8\n6\n4\n2\n0\nPreincubated N(oB n-t ) reated MI C 2 × ― MI C 8 × MI C 16 × ― MI C 1 2 3 4 5 6\n(A)\nE. coli DH52 ))))Lm/UFC\n01 goL((((\nmlifoib\nni\nytilibaiv\nlleC\nPreincubated N(oB n-t ) reated MI C 2 × ― MI C 8 × MI C 16 × ― MI C\n(B)",
+    "source": {
+      "source_file": "j.ejmech.2016.01.052.pdf",
+      "page": 57,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\nFig. 6. Mechanism of antibacterial action of compound 15m at concentrations of 12 × MIC: (A) membrane\npermeabilization of E. coli DH52; (B) membrane permeabilization of MRSA.\n2500 T\nControl\n2000 Compound 15m\nP\n1500\nI\n1000 R\n500\nC\n0\n0 15 30 45 60 75 90 105 120 135\nTime (min)\nS\nU\nN\nA\nM\nD\nE\nT\nP\nE\nC\nC\nA\n56\n).u.a(\nytisnetni\necnecseroulF\n1800\n1500\n1200\n900\n600\n300\n0\n0 15 30 45 60 75 90 105 120 135\n(A)\nControl\nCompound 15m\n).u\n.a(\nytisnetni\necnecseroulF\nTime (min)\n(B)",
+    "source": {
+      "source_file": "j.ejmech.2016.01.052.pdf",
+      "page": 58,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\n► Prepared quinolones gave strong antimicrobial activity and broad spectrum.\n► Some compounds exhibited strong anti-MRSA activity.\n► Inducing bacterial resistance by target compound was much slower than clinical drugs.\n► Molecular modeling with DNA rationalized the high antibacterial activity.\n► Interactions of compound and DNA indicated a possible interaction mechanism.\nT\nP\nI\nR\nC\nS\nU\nN\nA\nM\nD\nE\nT\nP\nE\nC\nC\nA",
+    "source": {
+      "source_file": "j.ejmech.2016.01.052.pdf",
+      "page": 70,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  }
+]

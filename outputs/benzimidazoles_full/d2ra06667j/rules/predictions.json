@@ -1,0 +1,4002 @@
+[
+  {
+    "compound_id": "1a",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1a",
+      "evidence_text": "35.81)1:dic(1.45\n42.44)1:dic(1.98\n69.02)1:dic(2.18\n50.31)1:dic(2.52\n31.50)1:dic(1.34\n512\n512\n128\n64\n—\n—\n—\n1a\n1",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1a",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1a",
+      "evidence_text": "35.81)1:dic(1.45\n42.44)1:dic(1.98\n69.02)1:dic(2.18\n50.31)1:dic(2.52\n31.50)1:dic(1.34\n512\n512\n128\n64\n—\n—\n—\n1a\n1",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1b",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1b",
+      "evidence_text": "78.93)1:dic(2.86\n>100\n67.12)1:dic(1.63\n>100\n51.46)1:dic(6.27\n256\n256\n128\n64\n—\n—\n—\n1b\n2",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1b",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1b",
+      "evidence_text": "78.93)1:dic(2.86\n>100\n67.12)1:dic(1.63\n>100\n51.46)1:dic(6.27\n256\n256\n128\n64\n—\n—\n—\n1b\n2",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1c",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1c",
+      "evidence_text": "28.90)1:dic(1.54\n35.01)1:dic(2.47\n55.76)1:dic(2.05\n52.16)1:dic(3.02\n37.50)1:dic(1.60\n—\n—\n256\n128\n64\n—\n128\n1c\n3",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1c",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1c",
+      "evidence_text": "28.90)1:dic(1.54\n35.01)1:dic(2.47\n55.76)1:dic(2.05\n52.16)1:dic(3.02\n37.50)1:dic(1.60\n—\n—\n256\n128\n64\n—\n128\n1c\n3",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1c",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1c",
+      "evidence_text": "28.90)1:dic(1.54\n35.01)1:dic(2.47\n55.76)1:dic(2.05\n52.16)1:dic(3.02\n37.50)1:dic(1.60\n—\n—\n256\n128\n64\n—\n128\n1c\n3",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1d",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "32",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1d",
+      "evidence_text": "6.43)1:dic(1.35\n10.41)1:dic(1.06\n11.08)1:dic(1.44\n9.83)1:dic(1.56\n7.45)1:dic(1.72\n256\n256\n64\n32\n32\n—\n32\n1d\n4",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1d",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "32",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1d",
+      "evidence_text": "6.43)1:dic(1.35\n10.41)1:dic(1.06\n11.08)1:dic(1.44\n9.83)1:dic(1.56\n7.45)1:dic(1.72\n256\n256\n64\n32\n32\n—\n32\n1d\n4",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1d",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1d",
+      "evidence_text": "6.43)1:dic(1.35\n10.41)1:dic(1.06\n11.08)1:dic(1.44\n9.83)1:dic(1.56\n7.45)1:dic(1.72\n256\n256\n64\n32\n32\n—\n32\n1d\n4",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1e",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1e",
+      "evidence_text": "63.78)1:dic(2.67\n>100\n>100\n68.95)1:dic(2.54\n>100\n—\n—\n128\n64\n—\n—\n64\n1e\n5",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1e",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1e",
+      "evidence_text": "63.78)1:dic(2.67\n>100\n>100\n68.95)1:dic(2.54\n>100\n—\n—\n128\n64\n—\n—\n64\n1e\n5",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1e",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1e",
+      "evidence_text": "63.78)1:dic(2.67\n>100\n>100\n68.95)1:dic(2.54\n>100\n—\n—\n128\n64\n—\n—\n64\n1e\n5",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1f",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1f",
+      "evidence_text": "43.59)1:dic(2.64\n>100\n>100\n50.05)1:dic(2.81\n44.06)1:dic(4.73\n—\n—\n256\n128\n—\n—\n—\n1f\n6",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1f",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1f",
+      "evidence_text": "43.59)1:dic(2.64\n>100\n>100\n50.05)1:dic(2.81\n44.06)1:dic(4.73\n—\n—\n256\n128\n—\n—\n—\n1f\n6",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1g",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1g",
+      "evidence_text": ">100\n25.07)1:dic(1.43\n>100\n>100\n43.08)1:dic(2.97\n—\n—\n512\n256\n—\n—\n—\n1g\n7",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1g",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "512",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1g",
+      "evidence_text": ">100\n25.07)1:dic(1.43\n>100\n>100\n43.08)1:dic(2.97\n—\n—\n512\n256\n—\n—\n—\n1g\n7",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1h",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1h",
+      "evidence_text": "31.93)1:dic(2.77\n29.38)1:dic(1.89\n59.25)1:dic(2.65\n48.26)1:dic(4.02\n42.51)1:dic(2.24\n512\n512\n256\n128\n—\n—\n—\n1h\n8",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1h",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1h",
+      "evidence_text": "31.93)1:dic(2.77\n29.38)1:dic(1.89\n59.25)1:dic(2.65\n48.26)1:dic(4.02\n42.51)1:dic(2.24\n512\n512\n256\n128\n—\n—\n—\n1h\n8",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1i",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1i",
+      "evidence_text": "26.07)1:dic(1.66\n>100\n68.03)1:dic(3.14\n>100\n35.82)1:dic(3.36\n—\n—\n512\n256\n256\n—\n256\n1i\n9",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1i",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1i",
+      "evidence_text": "26.07)1:dic(1.66\n>100\n68.03)1:dic(3.14\n>100\n35.82)1:dic(3.36\n—\n—\n512\n256\n256\n—\n256\n1i\n9",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1i",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "512",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1i",
+      "evidence_text": "26.07)1:dic(1.66\n>100\n68.03)1:dic(3.14\n>100\n35.82)1:dic(3.36\n—\n—\n512\n256\n256\n—\n256\n1i\n9",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1j",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1j",
+      "evidence_text": "50.53)1:dic(2.85\n15.37)1:dic(0.97\n>100\n35.94)1:dic(2.34\n68.26)1:dic(3.01\n—\n—\n256\n256\n—\n—\n—\n1j\n10",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1j",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1j",
+      "evidence_text": "50.53)1:dic(2.85\n15.37)1:dic(0.97\n>100\n35.94)1:dic(2.34\n68.26)1:dic(3.01\n—\n—\n256\n256\n—\n—\n—\n1j\n10",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1k",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1k",
+      "evidence_text": "6.81)1:dic(1.23\n7.25)1:dic(1.41\n5.10)1:dic(1.43\n12.83)1:dic(2.45\n8.94)1:dic(1.66\n512\n512\n128\n64\n128\n—\n64\n1k\n11",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1k",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1k",
+      "evidence_text": "6.81)1:dic(1.23\n7.25)1:dic(1.41\n5.10)1:dic(1.43\n12.83)1:dic(2.45\n8.94)1:dic(1.66\n512\n512\n128\n64\n128\n—\n64\n1k\n11",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1k",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1k",
+      "evidence_text": "6.81)1:dic(1.23\n7.25)1:dic(1.41\n5.10)1:dic(1.43\n12.83)1:dic(2.45\n8.94)1:dic(1.66\n512\n512\n128\n64\n128\n—\n64\n1k\n11",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1l",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1l",
+      "evidence_text": ">100\n73.80)1:dic(2.55\n>100\n>100\n83.02)1:dic(3.59\n—\n—\n128\n64\n64\n—\n64\n1l\n12",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1l",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1l",
+      "evidence_text": ">100\n73.80)1:dic(2.55\n>100\n>100\n83.02)1:dic(3.59\n—\n—\n128\n64\n64\n—\n64\n1l\n12",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1l",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1l",
+      "evidence_text": ">100\n73.80)1:dic(2.55\n>100\n>100\n83.02)1:dic(3.59\n—\n—\n128\n64\n64\n—\n64\n1l\n12",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1m",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1m",
+      "evidence_text": "66.38)1:dic(2.31\n53.05)1:dic(2.07\n29.67)1:dic(1.24\n88.13)1:dic(2.45\n64.22)1:dic(2.97\n512\n256\n256\n128\n64\n—\n256\n1m\n13",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1m",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1m",
+      "evidence_text": "66.38)1:dic(2.31\n53.05)1:dic(2.07\n29.67)1:dic(1.24\n88.13)1:dic(2.45\n64.22)1:dic(2.97\n512\n256\n256\n128\n64\n—\n256\n1m\n13",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1m",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1m",
+      "evidence_text": "66.38)1:dic(2.31\n53.05)1:dic(2.07\n29.67)1:dic(1.24\n88.13)1:dic(2.45\n64.22)1:dic(2.97\n512\n256\n256\n128\n64\n—\n256\n1m\n13",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1n",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1n",
+      "evidence_text": "28.78)1:dic(1.95\n79.05)1:dic(3.96\n51.38)1:dic(2.55\n25.47)1:dic(1.43\n47.13)1:dic(4.69\n—\n—\n512\n256\n—\n—\n256\n1n\n14",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1n",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1n",
+      "evidence_text": "28.78)1:dic(1.95\n79.05)1:dic(3.96\n51.38)1:dic(2.55\n25.47)1:dic(1.43\n47.13)1:dic(4.69\n—\n—\n512\n256\n—\n—\n256\n1n\n14",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1n",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "512",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1n",
+      "evidence_text": "28.78)1:dic(1.95\n79.05)1:dic(3.96\n51.38)1:dic(2.55\n25.47)1:dic(1.43\n47.13)1:dic(4.69\n—\n—\n512\n256\n—\n—\n256\n1n\n14",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1o",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1o",
+      "evidence_text": "37.44)1:dic(2.08\n21.56)1:dic(1.19\n33.18)1:dic(1.71\n36.59)1:dic(1.14\n40.05)1:dic(1.32\n64\n64\n32\n16\n64\n—\n64\n1o\n15",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1o",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "16",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1o",
+      "evidence_text": "37.44)1:dic(2.08\n21.56)1:dic(1.19\n33.18)1:dic(1.71\n36.59)1:dic(1.14\n40.05)1:dic(1.32\n64\n64\n32\n16\n64\n—\n64\n1o\n15",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1o",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "32",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1o",
+      "evidence_text": "37.44)1:dic(2.08\n21.56)1:dic(1.19\n33.18)1:dic(1.71\n36.59)1:dic(1.14\n40.05)1:dic(1.32\n64\n64\n32\n16\n64\n—\n64\n1o\n15",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1p",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1p",
+      "evidence_text": "42.66)1:dic(2.79\n50.34)1:dic(3.81\n24.41)1:dic(1.12\n>100\n39.03)1:dic(3.28\n512\n512\n64\n64\n—\n—\n—\n1p\n16",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1p",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1p",
+      "evidence_text": "42.66)1:dic(2.79\n50.34)1:dic(3.81\n24.41)1:dic(1.12\n>100\n39.03)1:dic(3.28\n512\n512\n64\n64\n—\n—\n—\n1p\n16",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1q",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1q",
+      "evidence_text": "21.89)1:dic(2.42\n23.45)1:dic(1.27\n27.22)1:dic(2.35\n26.89)1:dic(1.38\n21.04)1:dic(2.87\n512\n512\n256\n128\n64\n—\n128\n1q\n17",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1q",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1q",
+      "evidence_text": "21.89)1:dic(2.42\n23.45)1:dic(1.27\n27.22)1:dic(2.35\n26.89)1:dic(1.38\n21.04)1:dic(2.87\n512\n512\n256\n128\n64\n—\n128\n1q\n17",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1q",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1q",
+      "evidence_text": "21.89)1:dic(2.42\n23.45)1:dic(1.27\n27.22)1:dic(2.35\n26.89)1:dic(1.38\n21.04)1:dic(2.87\n512\n512\n256\n128\n64\n—\n128\n1q\n17",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1r",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1r",
+      "evidence_text": "61.52)1:dic(3.29\n50.51)1:dic(2.04\n>100\n29.07)1:dic(1.66\n37.49)1:dic(2.36\n512\n256\n128\n64\n64\n—\n64\n1r\n18",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1r",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1r",
+      "evidence_text": "61.52)1:dic(3.29\n50.51)1:dic(2.04\n>100\n29.07)1:dic(1.66\n37.49)1:dic(2.36\n512\n256\n128\n64\n64\n—\n64\n1r\n18",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1r",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1r",
+      "evidence_text": "61.52)1:dic(3.29\n50.51)1:dic(2.04\n>100\n29.07)1:dic(1.66\n37.49)1:dic(2.36\n512\n256\n128\n64\n64\n—\n64\n1r\n18",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1s",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1s",
+      "evidence_text": "8.15)1:dic(0.94\n7.66)1:dic(1.05\n13.20)1:dic(1.07\n8.40)1:dic(1.13\n9.79)1:dic(0.78\n256\n256\n64\n32\n64\n—\n64\n1s\n19",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1s",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "32",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1s",
+      "evidence_text": "8.15)1:dic(0.94\n7.66)1:dic(1.05\n13.20)1:dic(1.07\n8.40)1:dic(1.13\n9.79)1:dic(0.78\n256\n256\n64\n32\n64\n—\n64\n1s\n19",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1s",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1s",
+      "evidence_text": "8.15)1:dic(0.94\n7.66)1:dic(1.05\n13.20)1:dic(1.07\n8.40)1:dic(1.13\n9.79)1:dic(0.78\n256\n256\n64\n32\n64\n—\n64\n1s\n19",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1t",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1t",
+      "evidence_text": ">100\n>100\n>100\n>100\n>100\n—\n—\n256\n128\n—\n—\n—\n1t\n20",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1t",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1t",
+      "evidence_text": ">100\n>100\n>100\n>100\n>100\n—\n—\n256\n128\n—\n—\n—\n1t\n20",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1v",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1v",
+      "evidence_text": ">100\n87.72)1:dic(3.71\n>100\n>100\n70.61)1:dic(2.93\n—\n—\n256\n128\n64\n—\n64\n1v\n22",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1v",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1v",
+      "evidence_text": ">100\n87.72)1:dic(3.71\n>100\n>100\n70.61)1:dic(2.93\n—\n—\n256\n128\n64\n—\n64\n1v\n22",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1v",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1v",
+      "evidence_text": ">100\n87.72)1:dic(3.71\n>100\n>100\n70.61)1:dic(2.93\n—\n—\n256\n128\n64\n—\n64\n1v\n22",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1w",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1w",
+      "evidence_text": ">100\n31.25)1:dic(2.09\n>100\n>100\n87.72)1:dic(3.46\n—\n—\n256\n128\n—\n—\n128\n1w\n23",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1w",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1w",
+      "evidence_text": ">100\n31.25)1:dic(2.09\n>100\n>100\n87.72)1:dic(3.46\n—\n—\n256\n128\n—\n—\n128\n1w\n23",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1w",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "1w",
+      "evidence_text": ">100\n31.25)1:dic(2.09\n>100\n>100\n87.72)1:dic(3.46\n—\n—\n256\n128\n—\n—\n128\n1w\n23",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2a",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2a",
+      "evidence_text": "36.70)1:dic(2.11\n46.49)1:dic(2.33\n>100\n64.94)1:dic(2.80\n95.58)1:dic(4.23\n—\n512\n256\n64\n256\n—\n64\n2a\n24",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2a",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2a",
+      "evidence_text": "36.70)1:dic(2.11\n46.49)1:dic(2.33\n>100\n64.94)1:dic(2.80\n95.58)1:dic(4.23\n—\n512\n256\n64\n256\n—\n64\n2a\n24",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2a",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2a",
+      "evidence_text": "36.70)1:dic(2.11\n46.49)1:dic(2.33\n>100\n64.94)1:dic(2.80\n95.58)1:dic(4.23\n—\n512\n256\n64\n256\n—\n64\n2a\n24",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2b",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2b",
+      "evidence_text": "18.47)1:dic(0.98\n48.31)1:dic(2.41\n25.62)1:dic(1.62\n27.11)1:dic(1.48\n28.91)1:dic(2.55\n256\n256\n512\n256\n—\n—\n256\n2b\n25",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2b",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2b",
+      "evidence_text": "18.47)1:dic(0.98\n48.31)1:dic(2.41\n25.62)1:dic(1.62\n27.11)1:dic(1.48\n28.91)1:dic(2.55\n256\n256\n512\n256\n—\n—\n256\n2b\n25",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2b",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "512",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2b",
+      "evidence_text": "18.47)1:dic(0.98\n48.31)1:dic(2.41\n25.62)1:dic(1.62\n27.11)1:dic(1.48\n28.91)1:dic(2.55\n256\n256\n512\n256\n—\n—\n256\n2b\n25",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2c",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2c",
+      "evidence_text": "34.92)1:dic(1.66\n29.94)1:dic(1.69\n57.24)1:dic(2.13\n27.47)1:dic(2.05\n30.65)1:dic(1.59\n—\n—\n128\n64\n—\n—\n64\n2c\n26",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2c",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2c",
+      "evidence_text": "34.92)1:dic(1.66\n29.94)1:dic(1.69\n57.24)1:dic(2.13\n27.47)1:dic(2.05\n30.65)1:dic(1.59\n—\n—\n128\n64\n—\n—\n64\n2c\n26",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2c",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2c",
+      "evidence_text": "34.92)1:dic(1.66\n29.94)1:dic(1.69\n57.24)1:dic(2.13\n27.47)1:dic(2.05\n30.65)1:dic(1.59\n—\n—\n128\n64\n—\n—\n64\n2c\n26",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2d",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "32",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2d",
+      "evidence_text": "39.36)1:dic(1.72\n14.41)1:dic(1.02\n50.81)1:dic(2.54\n60.24)1:dic(2.70\n56.74)1:dic(2.42\n32\n32\n32\n16\n16\n—\n32\n2d\n27",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2d",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "16",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2d",
+      "evidence_text": "39.36)1:dic(1.72\n14.41)1:dic(1.02\n50.81)1:dic(2.54\n60.24)1:dic(2.70\n56.74)1:dic(2.42\n32\n32\n32\n16\n16\n—\n32\n2d\n27",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2d",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "32",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2d",
+      "evidence_text": "39.36)1:dic(1.72\n14.41)1:dic(1.02\n50.81)1:dic(2.54\n60.24)1:dic(2.70\n56.74)1:dic(2.42\n32\n32\n32\n16\n16\n—\n32\n2d\n27",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2e",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2e",
+      "evidence_text": ">100\n45.05)1:dic(2.01\n>100\n34.39)1:dic(1.53\n>100\n—\n—\n64\n64\n128\n—\n128\n2e\n28",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2e",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2e",
+      "evidence_text": ">100\n45.05)1:dic(2.01\n>100\n34.39)1:dic(1.53\n>100\n—\n—\n64\n64\n128\n—\n128\n2e\n28",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2e",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2e",
+      "evidence_text": ">100\n45.05)1:dic(2.01\n>100\n34.39)1:dic(1.53\n>100\n—\n—\n64\n64\n128\n—\n128\n2e\n28",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2f",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2f",
+      "evidence_text": "34.59)1:dic(1.75\n>100\n>100\n52.57)1:dic(1.86\n43.57)1:dic(1.98\n—\n—\n256\n128\n128\n—\n64\n2f\n29",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2f",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2f",
+      "evidence_text": "34.59)1:dic(1.75\n>100\n>100\n52.57)1:dic(1.86\n43.57)1:dic(1.98\n—\n—\n256\n128\n128\n—\n64\n2f\n29",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2f",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2f",
+      "evidence_text": "34.59)1:dic(1.75\n>100\n>100\n52.57)1:dic(1.86\n43.57)1:dic(1.98\n—\n—\n256\n128\n128\n—\n64\n2f\n29",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2g",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2g",
+      "evidence_text": "61.08)1:dic(2.94\n76.22)1:dic(2.44\n>100\n13.23)1:dic(0.94\n27.40)1:dic(1.39\n—\n—\n256\n128\n—\n—\n—\n2g\n30",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2g",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2g",
+      "evidence_text": "61.08)1:dic(2.94\n76.22)1:dic(2.44\n>100\n13.23)1:dic(0.94\n27.40)1:dic(1.39\n—\n—\n256\n128\n—\n—\n—\n2g\n30",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2h",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2h",
+      "evidence_text": "32.75)1:dic(1.55\n51.62)1:dic(2.28\n54.89)1:dic(3.60\n>100\n77.11)1:dic(2.88\n—\n—\n64\n32\n—\n—\n64\n2h\n31",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2h",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "32",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2h",
+      "evidence_text": "32.75)1:dic(1.55\n51.62)1:dic(2.28\n54.89)1:dic(3.60\n>100\n77.11)1:dic(2.88\n—\n—\n64\n32\n—\n—\n64\n2h\n31",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2h",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2h",
+      "evidence_text": "32.75)1:dic(1.55\n51.62)1:dic(2.28\n54.89)1:dic(3.60\n>100\n77.11)1:dic(2.88\n—\n—\n64\n32\n—\n—\n64\n2h\n31",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2i",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2i",
+      "evidence_text": "19.43)1:dic(1.21\n>100\n38.62)1:dic(2.25\n>100\n80.35)1:dic(3.67\n—\n—\n128\n64\n64\n—\n64\n2i\n32",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2i",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2i",
+      "evidence_text": "19.43)1:dic(1.21\n>100\n38.62)1:dic(2.25\n>100\n80.35)1:dic(3.67\n—\n—\n128\n64\n64\n—\n64\n2i\n32",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2i",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2i",
+      "evidence_text": "19.43)1:dic(1.21\n>100\n38.62)1:dic(2.25\n>100\n80.35)1:dic(3.67\n—\n—\n128\n64\n64\n—\n64\n2i\n32",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2j",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2j",
+      "evidence_text": "15.67)1:dic(2.20\n6.76)1:dic(0.83\n18.04)1:dic(1.63\n31.85)1:dic(1.90\n26.14)1:dic(1.78\n512\n512\n256\n128\n64\n—\n128\n2j\n33",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2j",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2j",
+      "evidence_text": "15.67)1:dic(2.20\n6.76)1:dic(0.83\n18.04)1:dic(1.63\n31.85)1:dic(1.90\n26.14)1:dic(1.78\n512\n512\n256\n128\n64\n—\n128\n2j\n33",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2j",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2j",
+      "evidence_text": "15.67)1:dic(2.20\n6.76)1:dic(0.83\n18.04)1:dic(1.63\n31.85)1:dic(1.90\n26.14)1:dic(1.78\n512\n512\n256\n128\n64\n—\n128\n2j\n33",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2k",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2k",
+      "evidence_text": "9.75)1:dic(1.25\n10.37)1:dic(1.04\n4.37)1:dic(1.09\n6.69)1:dic(1.67\n8.93)1:dic(1.11\n256\n256\n128\n64\n64\n—\n64\n2k\n34",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2k",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2k",
+      "evidence_text": "9.75)1:dic(1.25\n10.37)1:dic(1.04\n4.37)1:dic(1.09\n6.69)1:dic(1.67\n8.93)1:dic(1.11\n256\n256\n128\n64\n64\n—\n64\n2k\n34",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2k",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2k",
+      "evidence_text": "9.75)1:dic(1.25\n10.37)1:dic(1.04\n4.37)1:dic(1.09\n6.69)1:dic(1.67\n8.93)1:dic(1.11\n256\n256\n128\n64\n64\n—\n64\n2k\n34",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2l",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2l",
+      "evidence_text": "69.28)1:dic(2.50\n19.31)1:dic(1.35\n>100\n>100\n95.34)1:dic(4.16\n128\n128\n64\n32\n64\n—\n64\n2l\n35",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2l",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "32",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2l",
+      "evidence_text": "69.28)1:dic(2.50\n19.31)1:dic(1.35\n>100\n>100\n95.34)1:dic(4.16\n128\n128\n64\n32\n64\n—\n64\n2l\n35",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2l",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2l",
+      "evidence_text": "69.28)1:dic(2.50\n19.31)1:dic(1.35\n>100\n>100\n95.34)1:dic(4.16\n128\n128\n64\n32\n64\n—\n64\n2l\n35",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2m",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2m",
+      "evidence_text": "52.47)1:dic(2.19\n48.68)1:dic(2.61\n23.70)1:dic(1.39\n55.08)1:dic(2.44\n59.76)1:dic(3.31\n512\n512\n128\n64\n64\n—\n64\n2m\n36",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2m",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2m",
+      "evidence_text": "52.47)1:dic(2.19\n48.68)1:dic(2.61\n23.70)1:dic(1.39\n55.08)1:dic(2.44\n59.76)1:dic(3.31\n512\n512\n128\n64\n64\n—\n64\n2m\n36",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2m",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2m",
+      "evidence_text": "52.47)1:dic(2.19\n48.68)1:dic(2.61\n23.70)1:dic(1.39\n55.08)1:dic(2.44\n59.76)1:dic(3.31\n512\n512\n128\n64\n64\n—\n64\n2m\n36",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2n",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2n",
+      "evidence_text": "34.90)1:dic(1.89\n22.34)1:dic(1.85\n50.63)1:dic(2.50\n15.58)1:dic(0.99\n26.86)1:dic(2.73\n256\n256\n256\n128\n128\n—\n128\n2n\n37",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2n",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2n",
+      "evidence_text": "34.90)1:dic(1.89\n22.34)1:dic(1.85\n50.63)1:dic(2.50\n15.58)1:dic(0.99\n26.86)1:dic(2.73\n256\n256\n256\n128\n128\n—\n128\n2n\n37",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2n",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2n",
+      "evidence_text": "34.90)1:dic(1.89\n22.34)1:dic(1.85\n50.63)1:dic(2.50\n15.58)1:dic(0.99\n26.86)1:dic(2.73\n256\n256\n256\n128\n128\n—\n128\n2n\n37",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2o",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "32",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2o",
+      "evidence_text": "33.21)1:dic(2.13\n38.97)1:dic(1.69\n45.01)1:dic(1.64\n>100\n>100\n64\n64\n32\n16\n16\n—\n32\n2o\n38",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2o",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "16",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2o",
+      "evidence_text": "33.21)1:dic(2.13\n38.97)1:dic(1.69\n45.01)1:dic(1.64\n>100\n>100\n64\n64\n32\n16\n16\n—\n32\n2o\n38",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2o",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "32",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2o",
+      "evidence_text": "33.21)1:dic(2.13\n38.97)1:dic(1.69\n45.01)1:dic(1.64\n>100\n>100\n64\n64\n32\n16\n16\n—\n32\n2o\n38",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2p",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2p",
+      "evidence_text": "47.94)1:dic(2.56\n93.28)1:dic(2.58\n19.20)1:dic(2.08\n>100\n71.39)1:dic(3.18\n256\n256\n64\n64\n128\n—\n256\n2p\n39",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2p",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2p",
+      "evidence_text": "47.94)1:dic(2.56\n93.28)1:dic(2.58\n19.20)1:dic(2.08\n>100\n71.39)1:dic(3.18\n256\n256\n64\n64\n128\n—\n256\n2p\n39",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2p",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2p",
+      "evidence_text": "47.94)1:dic(2.56\n93.28)1:dic(2.58\n19.20)1:dic(2.08\n>100\n71.39)1:dic(3.18\n256\n256\n64\n64\n128\n—\n256\n2p\n39",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2q",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2q",
+      "evidence_text": "19.87)1:dic(1.15\n26.22)1:dic(1.88\n10.46)1:dic(1.44\n17.59)1:dic(2.23\n18.62)1:dic(2.29\n512\n512\n256\n128\n64\n—\n64\n2q\n40",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2q",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2q",
+      "evidence_text": "19.87)1:dic(1.15\n26.22)1:dic(1.88\n10.46)1:dic(1.44\n17.59)1:dic(2.23\n18.62)1:dic(2.29\n512\n512\n256\n128\n64\n—\n64\n2q\n40",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2q",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2q",
+      "evidence_text": "19.87)1:dic(1.15\n26.22)1:dic(1.88\n10.46)1:dic(1.44\n17.59)1:dic(2.23\n18.62)1:dic(2.29\n512\n512\n256\n128\n64\n—\n64\n2q\n40",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2r",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2r",
+      "evidence_text": "58.33)1:dic(1.88\n24.34)1:dic(1.65\n47.69)1:dic(2.40\n31.52)1:dic(2.55\n35.07)1:dic(1.09\n256\n256\n128\n64\n64\n—\n64\n2r\n41",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2r",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2r",
+      "evidence_text": "58.33)1:dic(1.88\n24.34)1:dic(1.65\n47.69)1:dic(2.40\n31.52)1:dic(2.55\n35.07)1:dic(1.09\n256\n256\n128\n64\n64\n—\n64\n2r\n41",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2r",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2r",
+      "evidence_text": "58.33)1:dic(1.88\n24.34)1:dic(1.65\n47.69)1:dic(2.40\n31.52)1:dic(2.55\n35.07)1:dic(1.09\n256\n256\n128\n64\n64\n—\n64\n2r\n41",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2s",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2s",
+      "evidence_text": "20.02)1:dic(1.53\n26.97)1:dic(1.42\n39.01)1:dic(2.31\n36.78)1:dic(2.24\n21.40)1:dic(1.49\n—\n—\n128\n64\n64\n—\n128\n2s\n42",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2s",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2s",
+      "evidence_text": "20.02)1:dic(1.53\n26.97)1:dic(1.42\n39.01)1:dic(2.31\n36.78)1:dic(2.24\n21.40)1:dic(1.49\n—\n—\n128\n64\n64\n—\n128\n2s\n42",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2s",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2s",
+      "evidence_text": "20.02)1:dic(1.53\n26.97)1:dic(1.42\n39.01)1:dic(2.31\n36.78)1:dic(2.24\n21.40)1:dic(1.49\n—\n—\n128\n64\n64\n—\n128\n2s\n42",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2t",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2t",
+      "evidence_text": ">100\n>100\n>100\n>100\n78.95)1:dic(3.77\n—\n—\n512\n256\n—\n—\n—\n2t\n43",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2t",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "512",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2t",
+      "evidence_text": ">100\n>100\n>100\n>100\n78.95)1:dic(3.77\n—\n—\n512\n256\n—\n—\n—\n2t\n43",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2u",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2u",
+      "evidence_text": ">100\n>100\n>100\n>100\n>100\n512\n512\n256\n256\n256\n—\n128\n2u\n44",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2u",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2u",
+      "evidence_text": ">100\n>100\n>100\n>100\n>100\n512\n512\n256\n256\n256\n—\n128\n2u\n44",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2u",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2u",
+      "evidence_text": ">100\n>100\n>100\n>100\n>100\n512\n512\n256\n256\n256\n—\n128\n2u\n44",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2v",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2v",
+      "evidence_text": "55.08)1:dic(2.78\n83.64)1:dic(3.81\n51.06)1:dic(4.12\n89.01)1:dic(2.96\n68.37)1:dic(3.47\n—\n—\n128\n64\n64\n—\n128\n2v\n45",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2v",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2v",
+      "evidence_text": "55.08)1:dic(2.78\n83.64)1:dic(3.81\n51.06)1:dic(4.12\n89.01)1:dic(2.96\n68.37)1:dic(3.47\n—\n—\n128\n64\n64\n—\n128\n2v\n45",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2v",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2v",
+      "evidence_text": "55.08)1:dic(2.78\n83.64)1:dic(3.81\n51.06)1:dic(4.12\n89.01)1:dic(2.96\n68.37)1:dic(3.47\n—\n—\n128\n64\n64\n—\n128\n2v\n45",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2w",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2w",
+      "evidence_text": "47.05)1:dic(2.28\n28.39)1:dic(2.17\n54.65)1:dic(3.35\n74.62)1:dic(2.53\n52.63)1:dic(2.43\n—\n—\n128\n64\n64\n—\n64\n2w\n46",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2w",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2w",
+      "evidence_text": "47.05)1:dic(2.28\n28.39)1:dic(2.17\n54.65)1:dic(3.35\n74.62)1:dic(2.53\n52.63)1:dic(2.43\n—\n—\n128\n64\n64\n—\n64\n2w\n46",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2w",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "2w",
+      "evidence_text": "47.05)1:dic(2.28\n28.39)1:dic(2.17\n54.65)1:dic(3.35\n74.62)1:dic(2.53\n52.63)1:dic(2.43\n—\n—\n128\n64\n64\n—\n64\n2w\n46",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table_vertical",
+      "confidence": 0.8
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3a",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3a",
+      "evidence_text": "1 3a 64 — 128 64 128 512 512 58.92(cid:1)3.59 73.14(cid:1)3.91 79.03(cid:1)3.30 67.39(cid:1)3.69 51.28(cid:1)3.11",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3a",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3a",
+      "evidence_text": "1 3a 64 — 128 64 128 512 512 58.92(cid:1)3.59 73.14(cid:1)3.91 79.03(cid:1)3.30 67.39(cid:1)3.69 51.28(cid:1)3.11",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3a",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3a",
+      "evidence_text": "1 3a 64 — 128 64 128 512 512 58.92(cid:1)3.59 73.14(cid:1)3.91 79.03(cid:1)3.30 67.39(cid:1)3.69 51.28(cid:1)3.11",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3b",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3b",
+      "evidence_text": "2 3b 64 512 64 64 64 256 256 66.07(cid:1)3.43 40.81(cid:1)2.87 50.03(cid:1)2.99 44.48(cid:1)3.03 47.16(cid:1)2.94",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3b",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3b",
+      "evidence_text": "2 3b 64 512 64 64 64 256 256 66.07(cid:1)3.43 40.81(cid:1)2.87 50.03(cid:1)2.99 44.48(cid:1)3.03 47.16(cid:1)2.94",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3b",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3b",
+      "evidence_text": "2 3b 64 512 64 64 64 256 256 66.07(cid:1)3.43 40.81(cid:1)2.87 50.03(cid:1)2.99 44.48(cid:1)3.03 47.16(cid:1)2.94",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3c",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3c",
+      "evidence_text": "3 3c 128 — 64 128 128 512 512 53.76(cid:1)3.65 31.24(cid:1)2.46 37.02(cid:1)1.95 50.38(cid:1)3.05 31.12(cid:1)2.21",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3c",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3c",
+      "evidence_text": "3 3c 128 — 64 128 128 512 512 53.76(cid:1)3.65 31.24(cid:1)2.46 37.02(cid:1)1.95 50.38(cid:1)3.05 31.12(cid:1)2.21",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3c",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3c",
+      "evidence_text": "3 3c 128 — 64 128 128 512 512 53.76(cid:1)3.65 31.24(cid:1)2.46 37.02(cid:1)1.95 50.38(cid:1)3.05 31.12(cid:1)2.21",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3d",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3d",
+      "evidence_text": "4 3d 64 — 64 32 64 256 256 36.84(cid:1)3.12 43.86(cid:1)2.82 34.09(cid:1)2.67 32.60(cid:1)2.44 29.13(cid:1)2.37",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3d",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "32",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3d",
+      "evidence_text": "4 3d 64 — 64 32 64 256 256 36.84(cid:1)3.12 43.86(cid:1)2.82 34.09(cid:1)2.67 32.60(cid:1)2.44 29.13(cid:1)2.37",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3d",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3d",
+      "evidence_text": "4 3d 64 — 64 32 64 256 256 36.84(cid:1)3.12 43.86(cid:1)2.82 34.09(cid:1)2.67 32.60(cid:1)2.44 29.13(cid:1)2.37",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3e",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3e",
+      "evidence_text": "5 3e 128 — — 64 256 — — 47.18(cid:1)4.65 35.01(cid:1)2.36 40.18(cid:1)2.70 31.65(cid:1)2.14 41.91(cid:1)2.50",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3e",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3e",
+      "evidence_text": "5 3e 128 — — 64 256 — — 47.18(cid:1)4.65 35.01(cid:1)2.36 40.18(cid:1)2.70 31.65(cid:1)2.14 41.91(cid:1)2.50",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3e",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3e",
+      "evidence_text": "5 3e 128 — — 64 256 — — 47.18(cid:1)4.65 35.01(cid:1)2.36 40.18(cid:1)2.70 31.65(cid:1)2.14 41.91(cid:1)2.50",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3f",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3f",
+      "evidence_text": "6 3f 64 256 128 8 16 64 — 49.91(cid:1)3.05 52.47(cid:1)2.09 62.35(cid:1)3.14 42.78(cid:1)2.55 36.94(cid:1)2.69",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3f",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "8",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3f",
+      "evidence_text": "6 3f 64 256 128 8 16 64 — 49.91(cid:1)3.05 52.47(cid:1)2.09 62.35(cid:1)3.14 42.78(cid:1)2.55 36.94(cid:1)2.69",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3f",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "16",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3f",
+      "evidence_text": "6 3f 64 256 128 8 16 64 — 49.91(cid:1)3.05 52.47(cid:1)2.09 62.35(cid:1)3.14 42.78(cid:1)2.55 36.94(cid:1)2.69",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3g",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3g",
+      "evidence_text": "7 3g 64 256 32 4 8 — — 19.95(cid:1)3.08 27.08(cid:1)1.89 22.25(cid:1)2.01 18.37(cid:1)2.54 20.96(cid:1)2.42",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3g",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "4",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3g",
+      "evidence_text": "7 3g 64 256 32 4 8 — — 19.95(cid:1)3.08 27.08(cid:1)1.89 22.25(cid:1)2.01 18.37(cid:1)2.54 20.96(cid:1)2.42",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3g",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "8",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3g",
+      "evidence_text": "7 3g 64 256 32 4 8 — — 19.95(cid:1)3.08 27.08(cid:1)1.89 22.25(cid:1)2.01 18.37(cid:1)2.54 20.96(cid:1)2.42",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3h",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3h",
+      "evidence_text": "8 3h 64 — 64 64 64 128 256 33.76(cid:1)3.22 21.12(cid:1)1.61 40.15(cid:1)1.90 48.64(cid:1)2.38 29.03(cid:1)2.78",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3h",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3h",
+      "evidence_text": "8 3h 64 — 64 64 64 128 256 33.76(cid:1)3.22 21.12(cid:1)1.61 40.15(cid:1)1.90 48.64(cid:1)2.38 29.03(cid:1)2.78",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3h",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3h",
+      "evidence_text": "8 3h 64 — 64 64 64 128 256 33.76(cid:1)3.22 21.12(cid:1)1.61 40.15(cid:1)1.90 48.64(cid:1)2.38 29.03(cid:1)2.78",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3j",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3j",
+      "evidence_text": "10 3j 128 — 64 256 256 — — 40.72(cid:1)3.98 43.29(cid:1)2.63 24.76(cid:1)1.81 33.02(cid:1)1.99 28.89(cid:1)1.60",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3j",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3j",
+      "evidence_text": "10 3j 128 — 64 256 256 — — 40.72(cid:1)3.98 43.29(cid:1)2.63 24.76(cid:1)1.81 33.02(cid:1)1.99 28.89(cid:1)1.60",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3j",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3j",
+      "evidence_text": "10 3j 128 — 64 256 256 — — 40.72(cid:1)3.98 43.29(cid:1)2.63 24.76(cid:1)1.81 33.02(cid:1)1.99 28.89(cid:1)1.60",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3k",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3k",
+      "evidence_text": "11 3k 64 128 64 4 4 16 64 7.80(cid:1)0.53 8.32(cid:1)0.66 9.56(cid:1)0.79 7.44(cid:1)0.81 10.95(cid:1)0.45",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3k",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "4",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3k",
+      "evidence_text": "11 3k 64 128 64 4 4 16 64 7.80(cid:1)0.53 8.32(cid:1)0.66 9.56(cid:1)0.79 7.44(cid:1)0.81 10.95(cid:1)0.45",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3k",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "4",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3k",
+      "evidence_text": "11 3k 64 128 64 4 4 16 64 7.80(cid:1)0.53 8.32(cid:1)0.66 9.56(cid:1)0.79 7.44(cid:1)0.81 10.95(cid:1)0.45",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3l",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "16",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3l",
+      "evidence_text": "12 3l 16 256 16 8 16 32 32 10.05(cid:1)0.76 7.48(cid:1)0.54 8.56(cid:1)0.83 9.67(cid:1)1.02 8.95(cid:1)0.49",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3l",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "8",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3l",
+      "evidence_text": "12 3l 16 256 16 8 16 32 32 10.05(cid:1)0.76 7.48(cid:1)0.54 8.56(cid:1)0.83 9.67(cid:1)1.02 8.95(cid:1)0.49",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3l",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "16",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "3l",
+      "evidence_text": "12 3l 16 256 16 8 16 32 32 10.05(cid:1)0.76 7.48(cid:1)0.54 8.56(cid:1)0.83 9.67(cid:1)1.02 8.95(cid:1)0.49",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4a",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4a",
+      "evidence_text": "13 4a 256 — 128 32 32 — — 38.77(cid:1)2.35 30.11(cid:1)1.92 22.24(cid:1)2.60 48.81(cid:1)1.56 9.04(cid:1)0.88",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4a",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "32",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4a",
+      "evidence_text": "13 4a 256 — 128 32 32 — — 38.77(cid:1)2.35 30.11(cid:1)1.92 22.24(cid:1)2.60 48.81(cid:1)1.56 9.04(cid:1)0.88",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4a",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "32",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4a",
+      "evidence_text": "13 4a 256 — 128 32 32 — — 38.77(cid:1)2.35 30.11(cid:1)1.92 22.24(cid:1)2.60 48.81(cid:1)1.56 9.04(cid:1)0.88",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4b",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4b",
+      "evidence_text": "14 4b 64 — 64 32 64 512 512 63.45(cid:1)3.11 >100 71.09(cid:1)2.84 85.97(cid:1)3.24 59.55(cid:1)2.74",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4b",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "32",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4b",
+      "evidence_text": "14 4b 64 — 64 32 64 512 512 63.45(cid:1)3.11 >100 71.09(cid:1)2.84 85.97(cid:1)3.24 59.55(cid:1)2.74",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4b",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4b",
+      "evidence_text": "14 4b 64 — 64 32 64 512 512 63.45(cid:1)3.11 >100 71.09(cid:1)2.84 85.97(cid:1)3.24 59.55(cid:1)2.74",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4c",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "16",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4c",
+      "evidence_text": "15 4c 16 64 16 4 8 16 32 3.22(cid:1)0.53 2.39(cid:1)0.54 5.66(cid:1)0.72 4.83(cid:1)0.64 3.90(cid:1)0.51",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4c",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "4",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4c",
+      "evidence_text": "15 4c 16 64 16 4 8 16 32 3.22(cid:1)0.53 2.39(cid:1)0.54 5.66(cid:1)0.72 4.83(cid:1)0.64 3.90(cid:1)0.51",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4c",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "8",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4c",
+      "evidence_text": "15 4c 16 64 16 4 8 16 32 3.22(cid:1)0.53 2.39(cid:1)0.54 5.66(cid:1)0.72 4.83(cid:1)0.64 3.90(cid:1)0.51",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4d",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "32",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4d",
+      "evidence_text": "16 4d 32 — 32 32 32 128 128 >100 83.25(cid:1)4.43 80.50(cid:1)3.85 78.92(cid:1)2.34 64.45(cid:1)4.11",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4d",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "32",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4d",
+      "evidence_text": "16 4d 32 — 32 32 32 128 128 >100 83.25(cid:1)4.43 80.50(cid:1)3.85 78.92(cid:1)2.34 64.45(cid:1)4.11",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4d",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "32",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4d",
+      "evidence_text": "16 4d 32 — 32 32 32 128 128 >100 83.25(cid:1)4.43 80.50(cid:1)3.85 78.92(cid:1)2.34 64.45(cid:1)4.11",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4e",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4e",
+      "evidence_text": "17 4e 128 — 64 64 64 32 64 27.24(cid:1)1.48 28.54(cid:1)1.07 43.12(cid:1)2.36 35.05(cid:1)2.89 24.43(cid:1)1.78",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4e",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4e",
+      "evidence_text": "17 4e 128 — 64 64 64 32 64 27.24(cid:1)1.48 28.54(cid:1)1.07 43.12(cid:1)2.36 35.05(cid:1)2.89 24.43(cid:1)1.78",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4e",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4e",
+      "evidence_text": "17 4e 128 — 64 64 64 32 64 27.24(cid:1)1.48 28.54(cid:1)1.07 43.12(cid:1)2.36 35.05(cid:1)2.89 24.43(cid:1)1.78",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4f",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4f",
+      "evidence_text": "18 4f 128 — 128 128 256 — — 17.74(cid:1)1.37 21.87(cid:1)2.02 29.01(cid:1)2.46 31.74(cid:1)2.33 19.65(cid:1)1.85",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4f",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4f",
+      "evidence_text": "18 4f 128 — 128 128 256 — — 17.74(cid:1)1.37 21.87(cid:1)2.02 29.01(cid:1)2.46 31.74(cid:1)2.33 19.65(cid:1)1.85",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4f",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4f",
+      "evidence_text": "18 4f 128 — 128 128 256 — — 17.74(cid:1)1.37 21.87(cid:1)2.02 29.01(cid:1)2.46 31.74(cid:1)2.33 19.65(cid:1)1.85",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4g",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4g",
+      "evidence_text": "19 4g 64 128 8 8 16 256 256 6.74(cid:1)0.61 8.11(cid:1)0.70 7.86(cid:1)0.69 8.45(cid:1)0.90 7.89(cid:1)0.73",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4g",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "8",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4g",
+      "evidence_text": "19 4g 64 128 8 8 16 256 256 6.74(cid:1)0.61 8.11(cid:1)0.70 7.86(cid:1)0.69 8.45(cid:1)0.90 7.89(cid:1)0.73",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4g",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "16",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4g",
+      "evidence_text": "19 4g 64 128 8 8 16 256 256 6.74(cid:1)0.61 8.11(cid:1)0.70 7.86(cid:1)0.69 8.45(cid:1)0.90 7.89(cid:1)0.73",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4h",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4h",
+      "evidence_text": "20 4h 64 512 64 64 64 64 64 47.88(cid:1)4.13 74.17(cid:1)3.63 59.78(cid:1)2.50 41.03(cid:1)2.15 38.49(cid:1)3.25",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4h",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4h",
+      "evidence_text": "20 4h 64 512 64 64 64 64 64 47.88(cid:1)4.13 74.17(cid:1)3.63 59.78(cid:1)2.50 41.03(cid:1)2.15 38.49(cid:1)3.25",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4h",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4h",
+      "evidence_text": "20 4h 64 512 64 64 64 64 64 47.88(cid:1)4.13 74.17(cid:1)3.63 59.78(cid:1)2.50 41.03(cid:1)2.15 38.49(cid:1)3.25",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4i",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "32",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4i",
+      "evidence_text": "21 4i 32 256 64 32 64 128 128 34.34(cid:1)3.22 28.46(cid:1)2.54 20.20(cid:1)1.93 17.61(cid:1)1.64 23.75(cid:1)2.15",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4i",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "32",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4i",
+      "evidence_text": "21 4i 32 256 64 32 64 128 128 34.34(cid:1)3.22 28.46(cid:1)2.54 20.20(cid:1)1.93 17.61(cid:1)1.64 23.75(cid:1)2.15",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4i",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4i",
+      "evidence_text": "21 4i 32 256 64 32 64 128 128 34.34(cid:1)3.22 28.46(cid:1)2.54 20.20(cid:1)1.93 17.61(cid:1)1.64 23.75(cid:1)2.15",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4j",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4j",
+      "evidence_text": "22 4j 64 256 64 8 8 32 64 5.53(cid:1)0.80 9.02(cid:1)0.68 6.24(cid:1)0.57 7.33(cid:1)0.64 4.95(cid:1)0.79",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4j",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "8",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4j",
+      "evidence_text": "22 4j 64 256 64 8 8 32 64 5.53(cid:1)0.80 9.02(cid:1)0.68 6.24(cid:1)0.57 7.33(cid:1)0.64 4.95(cid:1)0.79",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4j",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "8",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4j",
+      "evidence_text": "22 4j 64 256 64 8 8 32 64 5.53(cid:1)0.80 9.02(cid:1)0.68 6.24(cid:1)0.57 7.33(cid:1)0.64 4.95(cid:1)0.79",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4k",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "Escherichia coli ATCC 25922",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4k",
+      "evidence_text": "23 4k 128 — 128 128 128 512 512 55.45(cid:1)3.32 60.51(cid:1)4.72 41.46(cid:1)4.04 39.18(cid:1)2.62 34.66(cid:1)2.01",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4k",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MSSA, Methicillin-susceptible strains of Staphylococcus aureus ATCC 29213",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4k",
+      "evidence_text": "23 4k 128 — 128 128 128 512 512 55.45(cid:1)3.32 60.51(cid:1)4.72 41.46(cid:1)4.04 39.18(cid:1)2.62 34.66(cid:1)2.01",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4k",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "mg/mL",
+    "bacteria": "MRSA, Methicillin-resistant strains of Staphylococcus aureus ATCC 43300",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4k",
+      "evidence_text": "23 4k 128 — 128 128 128 512 512 55.45(cid:1)3.32 60.51(cid:1)4.72 41.46(cid:1)4.04 39.18(cid:1)2.62 34.66(cid:1)2.01",
+      "extraction_method": "benzimidazole.rule_extractor.antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "1",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "2",
+    "target_units": "mm",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 2,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "RSCAdvances Paper\nFig.1 Severaldrugcompoundscontaining1H-benzimidazolemoiety.\nubendazole), antiviral (maribavir), antiparasitic (cyclo- Fig.2 RationalstudydesignofN,2,6-trisubstituted1H-benzimidazole derivatives(MIC–minimalinhibitoryconcentration).\nbendazole, luxabendazole, and cambendazole), antidiabetic\n(rivoglitazone), analgesic (clonitrazene), especially antifungal\n(systemic fungicide, e.g. benomyl) and anticancer (antimitotic\nderivatives of Dokla et al., 2020 (MIC on E. coli strain of 2 mg\nagent, e.g. nocodazole, PARP inhibitor, e.g. veliparib).21 mL −1) share three common essential structural features:\nFurthermore, the potency of drugs like carbendazim,22 and\naplanarbenzimidazolemoiety,C-2aromaticsubstitution,and\ndovitinib containing benzimidazole moiety has been recog-\nN-1 substitution.28 Moreover, the C-6 position with different\nnizedagainstvarioustypesofcancercelllines(Fig.1).23\nsubstituents such as –H and –CH were designed in order to\n1H-Benzimidazole structures with different substituents at 3\nexaminetheireffectsonantimicrobialandanticanceractivities\npositions C-2 and C-5/6 can be synthesized by different\n(Fig.2).\nmethods. However, the most efficient syntheses are the\nMechanistically,onepharmacologicalactivitycanbelinked\ncondensationofo-phenylenediamineswithcarboxylicacids(or\nto one or more different receptors.2,29 A receptor may also be\ntheirderivativessuchasnitriles,chlorides,andorthoesters)in\ninvolved in different biological activities. Furthermore, the\nthepresenceofanacidorwithaldehydesusingsodiummeta-\nmechanismofactiononthecellmembraneandtheinhibition\nbisulte (Na S O ).1,5 In addition, N-1 substituent 1H-benz-\n2 2 5 of important enzymes present in both microbial and cancer\nimidazole derivatives can be introduced by N-alkylation with\ncells may confer dual antibacterial, antifungal, and antitumor\nsubstituted halides in the presence of a base.24 Our study\neffects. A good example is dihydrofolate reductase (DHFR)\nhighlights the use of the green and environmentally-friendly\nwhich is a potential receptor for both antitumor and antimi-\nchemical method as using microwaves in the whole synthesis\ncrobial activities.21,30 This could be due to the similarity of\nprocessof1H-benzimidazolederivatives.\nDHFRfrombacteria,fungi,andthecancercellline.Therefore,\nRationaleandstructure-baseddesignofnewantimicrobialand\ntheinsilicostudieswerethepotentialapproachtoconrmthe\nanticancer agents: Structure–activity relationship studies of the\nligand–targetinteractioninmanydifferentreceptors.Inrecent\nbenzimidazoleringsystemsuggestedthattheN-1,C-2,andC-6\nyears there has been signicant progress to improve the\npositions are important for biological activities.25,26 Especially,\nreceptor exibility in docking,31–33 in silico studies are able to\ntheN-1positioncanincreaseanticanceractivitywhenattached\nrankthecompoundpotencyorpreciselypredictthetargetaer\ntodifferentsubstituents,forexample,benzylgroupssimilarto\nhavingexperimentalinvitroresults.\nclemizole and candesartan drugs. As part of our ongoing\nThe development of antibiotic resistance in microorgan-\nresearch, we were interested in designing N-substituted benz-\nisms,aswellascancerresistance,hasresultedinresearchand\nimidazoles which were presented in many biologically active\ndevelopmentinsearchofnewantibioticsandanticancerdrugs\ncompounds.24,27 Our designed derivatives and Dovitinib anti-\ntomaintainaneffectivedrugsupplyatalltimes.Itisimportant\ncancer drug, Benomyl antifungal drug, and antibacterial\nto nd out newer, safer, and more effective antibiotics and\n400 | RSCAdv.,2023,13,399–420 ©2023TheAuthor(s).PublishedbytheRoyalSocietyofChemistry\n.MP\n20:44:4\n6202/62/6\nno\ndedaolnwoD\n.2202\nrebmeceD\n32 no\ndehsilbuP\n.elcitrA\nsseccA\nnepO\n.ecneciL\ndetropnU\n0.3\nlaicremmoCnoN-noitubirttA\nsnommoC\nevitaerC\na\nrednu\ndesnecil\nsi\nelcitra\nsihT\nView Article Online",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "3",
+    "target_units": "mm",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Paper RSCAdvances\nanticancerdrugswithmultipleeffects,especiallyshowinggood yieldhasincreasedrangingbetween3to20%withmicrowave\nanticancer and anti-microbial activities. Thisis very benecial assistance (Table 2). The synthesized compounds possess\nfor cancer patients due to their weakened immunity and physical–chemicalpropertiesoffragments(M.Wtaround250)\nsusceptibilitytomicrobialattack.Therefore,thepurposeofthis or lead-like (M. Wt around 350) that follow Lipinski's rules\nstudy is to synthesize novel N,2,6-trisubstituted 1H-benzimid- whichisanexcellentstartingpointforfurtherdevelopment.34,35\nazolederivativeswithvarioussubstituentsatpositionsN-1,C-2, Especially,sixteenderivatives(3b–3d,3g,3j,and4a–4k)arenew\nand C-6 and evaluation of their antibacterial, antifungal, and compounds.\nanticanceractivitiesincontinuationofourrecentstudy.4 Structures of synthesized compounds were assigned using\nIR,1HNMR,13CNMR,andmassspectroscopies.InIRspectra,\nthe medium absorbance band of the aromatic ring (n 1520–\n2. Results and discussion\n1395cm\n−1region),aswellasastrongabsorbancebandofimine\n2.1. Chemistry\n(C]N)ofimidazolenucleusof1H-benzimidazolederivatives(n\n1650–1510cm −1region),wereobserved.Inaddition,in1HNMR\nThebenzene-1,2-diaminederivativeswitha4-Hor4-CH group\n3 spectraofcompounds1and2inDMSOcharacteristicchemical\nare the starting material for the preparation of N,2,6-trisubsti-\nshis of NH protons of 1H-benzimidazole (singlet in the\ntuted 1H-benzimidazole derivatives. The process of synthetic\nd13.35–12.30ppmregion)andaromaticprotons(inthed9.35–\nresearchconsistsoftwosteps(Scheme1).Firstly,aseriesof2,6-\n6.70 ppm region) were observed. On the other hand, 1H NMR\ndisubstituted1H-benzimidazolederivatives(1a–1wand2a–2w)\nspectra of compounds 3 and 4 revealed the appearance of\nhave been synthesized by condensing benzene-1,2-diamine\nasingletinthe5.80–4.85ppmregionofthe–CH –CH]CH or–\nderivatives with substituted aromatic aldehydes using conven- 2 2\nCH –Ar group. Furthermore, the C]N group (d 153.5–142.5\ntional heating and microwave-assisted methods. Forty-six 2\nppm) and the –CH –CH]CH or –CH –Ar group (d 48.0–45.5 derivatives have been synthesized in good to excellent yields 2 2 2\nppm)wereidentiedinthe13CNMRspectrumofcompounds3\nwiththereuxmethod(75to93%)andexcellentyieldswiththe\nand4.Finally,massspectrashowedthemolecularionpeakM\nmicrowave-assistedmethod(90to99%).Thereactiontimehas\n(m/z)ofcompounds1–4whichhelpedtoconrmthehypothe-\nbeen dramatically reduced, as using conventional heating the\nsizedstructure.\nreaction is carried out in 6–12 h compared with 10–15 min\nheating in the microwave. In addition, the reaction yield has\nincreasedrangingbetween6to17%withmicrowaveassistance 2.2. Invitroantibacterialandantifungalactivities\n(Table 1). Secondly, a series of N,2,6-trisubstituted 1H-benz-\nAntimicrobial activities (exhibited by MIC values) including imidazolederivatives(3a–3land4a–4k)havebeensynthesized\nantibacterialactivitiesagainsttwostrainsofGram-negative(EC byreacting2,6-disubstituted1H-benzimidazolederivativeswith\n– Escherichia coli and PA – Pseudomonas aeruginosa) and three\nsubstitutedhalidesusingconventionalheatingandmicrowave-\nstrains of Gram-positive (SF – Streptococcus faecalis, MSSA,\nassisted methods. Compounds 3a–3l showed about 2 times\nMRSA)andantifungalactivities(CA–CandidaalbicansandAN–\nhigheryieldsthancompounds4a–4k.Twenty-threederivatives\nAspergillusniger)ofallsynthesizedcompoundsaresummarized\nhave been synthesized in moderate to good yields with the\nin Tables 3 and 4. In antimicrobial evaluation, a series of 2,6-\nreuxmethod(35to86%)andmoderatetoexcellentyieldswith\ndisubstituted 1H-benzimidazole derivatives were inactive\nthemicrowave-assistedmethod(46to98%).Thereactiontime\nagainst Gram-negative strain PA (MIC $ 1024 mg mL −1).\nalso has been dramatically reduced, as using conventional\nCompounds 1a–1n, 1p–1w, 2a–2c, 2e–2n, and 2p–2w showed\nheatingthereactioniscarriedoutin12–24hcomparedwith20–\nweaktomoderateactivitiesagainst4strainsofbacteria(EC,SF,\n60 min heating in the microwave. Furthermore, the reaction\nMSSA,andMRSA)and2strainsoffungi(MIC$32mgmL −1).\nCompound1o(4-methylthio)showedgoodantibacterialactivi-\ntiesagainsttheGram-positivestrainsMSSAandMRSAwithMIC\nrangingbetween16to32mgmL −1ascomparedtociprooxacin\n(Cipro, MIC = 8–16 mg mL −1), but showed moderate activities\nagainst the strains EC, SF, CA, and AN (MIC 64 mg mL −1). In\naddition, compounds 2d (3,4-dichloro) and 2o (4-methylthio)\nshowed good antibacterial activities against the Gram-positive\nstrains SF, MSSA, and MRSA with MIC of 16, 16, and 32 mg\nmL\n−1,respectivelyascomparedtoCipro(MIC=8–16mgmL −1).\nHowever,thesecompoundsshowedmoderateactivitiesagainst\nthe strains EC, CA, and AN (MIC 32–64 mg mL −1). The results\nsuggested that the 4-methylthio group of the aromatic ring at\nposition 2 of the 1H-benzimidazole scaffold enhanced anti-\nbacterialactivitiesagainstMSSAandMRSAstrains.\nWithantimicrobialactivitiesofseriesofN,2,6-trisubstituted\nScheme1 SynthesisofN,2,6-trisubstituted1H-benzimidazolederiv- 1H-benzimidazolederivatives,compounds3a–3e,3h–3j,4a,4b,\natives(MW:microwaveirradiation,EtOH:ethanol). 4d–4f,4h,4i,and4kshowedweaktomoderateactivitiesagainst\n©2023TheAuthor(s).PublishedbytheRoyalSocietyofChemistry RSCAdv.,2023,13,399–420 | 401\n.MP\n20:44:4\n6202/62/6\nno\ndedaolnwoD\n.2202\nrebmeceD\n32\nno\ndehsilbuP\n.elcitrA\nsseccA\nnepO\n.ecneciL\ndetropnU\n0.3\nlaicremmoCnoN-noitubirttA\nsnommoC\nevitaerC\na\nrednu\ndesnecil\nsi\nelcitra\nsihT\nView Article Online",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "1024",
+    "target_units": "mm",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Paper RSCAdvances\nanticancerdrugswithmultipleeffects,especiallyshowinggood yieldhasincreasedrangingbetween3to20%withmicrowave\nanticancer and anti-microbial activities. Thisis very benecial assistance (Table 2). The synthesized compounds possess\nfor cancer patients due to their weakened immunity and physical–chemicalpropertiesoffragments(M.Wtaround250)\nsusceptibilitytomicrobialattack.Therefore,thepurposeofthis or lead-like (M. Wt around 350) that follow Lipinski's rules\nstudy is to synthesize novel N,2,6-trisubstituted 1H-benzimid- whichisanexcellentstartingpointforfurtherdevelopment.34,35\nazolederivativeswithvarioussubstituentsatpositionsN-1,C-2, Especially,sixteenderivatives(3b–3d,3g,3j,and4a–4k)arenew\nand C-6 and evaluation of their antibacterial, antifungal, and compounds.\nanticanceractivitiesincontinuationofourrecentstudy.4 Structures of synthesized compounds were assigned using\nIR,1HNMR,13CNMR,andmassspectroscopies.InIRspectra,\nthe medium absorbance band of the aromatic ring (n 1520–\n2. Results and discussion\n1395cm\n−1region),aswellasastrongabsorbancebandofimine\n2.1. Chemistry\n(C]N)ofimidazolenucleusof1H-benzimidazolederivatives(n\n1650–1510cm −1region),wereobserved.Inaddition,in1HNMR\nThebenzene-1,2-diaminederivativeswitha4-Hor4-CH group\n3 spectraofcompounds1and2inDMSOcharacteristicchemical\nare the starting material for the preparation of N,2,6-trisubsti-\nshis of NH protons of 1H-benzimidazole (singlet in the\ntuted 1H-benzimidazole derivatives. The process of synthetic\nd13.35–12.30ppmregion)andaromaticprotons(inthed9.35–\nresearchconsistsoftwosteps(Scheme1).Firstly,aseriesof2,6-\n6.70 ppm region) were observed. On the other hand, 1H NMR\ndisubstituted1H-benzimidazolederivatives(1a–1wand2a–2w)\nspectra of compounds 3 and 4 revealed the appearance of\nhave been synthesized by condensing benzene-1,2-diamine\nasingletinthe5.80–4.85ppmregionofthe–CH –CH]CH or–\nderivatives with substituted aromatic aldehydes using conven- 2 2\nCH –Ar group. Furthermore, the C]N group (d 153.5–142.5\ntional heating and microwave-assisted methods. Forty-six 2\nppm) and the –CH –CH]CH or –CH –Ar group (d 48.0–45.5 derivatives have been synthesized in good to excellent yields 2 2 2\nppm)wereidentiedinthe13CNMRspectrumofcompounds3\nwiththereuxmethod(75to93%)andexcellentyieldswiththe\nand4.Finally,massspectrashowedthemolecularionpeakM\nmicrowave-assistedmethod(90to99%).Thereactiontimehas\n(m/z)ofcompounds1–4whichhelpedtoconrmthehypothe-\nbeen dramatically reduced, as using conventional heating the\nsizedstructure.\nreaction is carried out in 6–12 h compared with 10–15 min\nheating in the microwave. In addition, the reaction yield has\nincreasedrangingbetween6to17%withmicrowaveassistance 2.2. Invitroantibacterialandantifungalactivities\n(Table 1). Secondly, a series of N,2,6-trisubstituted 1H-benz-\nAntimicrobial activities (exhibited by MIC values) including imidazolederivatives(3a–3land4a–4k)havebeensynthesized\nantibacterialactivitiesagainsttwostrainsofGram-negative(EC byreacting2,6-disubstituted1H-benzimidazolederivativeswith\n– Escherichia coli and PA – Pseudomonas aeruginosa) and three\nsubstitutedhalidesusingconventionalheatingandmicrowave-\nstrains of Gram-positive (SF – Streptococcus faecalis, MSSA,\nassisted methods. Compounds 3a–3l showed about 2 times\nMRSA)andantifungalactivities(CA–CandidaalbicansandAN–\nhigheryieldsthancompounds4a–4k.Twenty-threederivatives\nAspergillusniger)ofallsynthesizedcompoundsaresummarized\nhave been synthesized in moderate to good yields with the\nin Tables 3 and 4. In antimicrobial evaluation, a series of 2,6-\nreuxmethod(35to86%)andmoderatetoexcellentyieldswith\ndisubstituted 1H-benzimidazole derivatives were inactive\nthemicrowave-assistedmethod(46to98%).Thereactiontime\nagainst Gram-negative strain PA (MIC $ 1024 mg mL −1).\nalso has been dramatically reduced, as using conventional\nCompounds 1a–1n, 1p–1w, 2a–2c, 2e–2n, and 2p–2w showed\nheatingthereactioniscarriedoutin12–24hcomparedwith20–\nweaktomoderateactivitiesagainst4strainsofbacteria(EC,SF,\n60 min heating in the microwave. Furthermore, the reaction\nMSSA,andMRSA)and2strainsoffungi(MIC$32mgmL −1).\nCompound1o(4-methylthio)showedgoodantibacterialactivi-\ntiesagainsttheGram-positivestrainsMSSAandMRSAwithMIC\nrangingbetween16to32mgmL −1ascomparedtociprooxacin\n(Cipro, MIC = 8–16 mg mL −1), but showed moderate activities\nagainst the strains EC, SF, CA, and AN (MIC 64 mg mL −1). In\naddition, compounds 2d (3,4-dichloro) and 2o (4-methylthio)\nshowed good antibacterial activities against the Gram-positive\nstrains SF, MSSA, and MRSA with MIC of 16, 16, and 32 mg\nmL\n−1,respectivelyascomparedtoCipro(MIC=8–16mgmL −1).\nHowever,thesecompoundsshowedmoderateactivitiesagainst\nthe strains EC, CA, and AN (MIC 32–64 mg mL −1). The results\nsuggested that the 4-methylthio group of the aromatic ring at\nposition 2 of the 1H-benzimidazole scaffold enhanced anti-\nbacterialactivitiesagainstMSSAandMRSAstrains.\nWithantimicrobialactivitiesofseriesofN,2,6-trisubstituted\nScheme1 SynthesisofN,2,6-trisubstituted1H-benzimidazolederiv- 1H-benzimidazolederivatives,compounds3a–3e,3h–3j,4a,4b,\natives(MW:microwaveirradiation,EtOH:ethanol). 4d–4f,4h,4i,and4kshowedweaktomoderateactivitiesagainst\n©2023TheAuthor(s).PublishedbytheRoyalSocietyofChemistry RSCAdv.,2023,13,399–420 | 401\n.MP\n20:44:4\n6202/62/6\nno\ndedaolnwoD\n.2202\nrebmeceD\n32\nno\ndehsilbuP\n.elcitrA\nsseccA\nnepO\n.ecneciL\ndetropnU\n0.3\nlaicremmoCnoN-noitubirttA\nsnommoC\nevitaerC\na\nrednu\ndesnecil\nsi\nelcitra\nsihT\nView Article Online",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "32",
+    "target_units": "mm",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Paper RSCAdvances\nanticancerdrugswithmultipleeffects,especiallyshowinggood yieldhasincreasedrangingbetween3to20%withmicrowave\nanticancer and anti-microbial activities. Thisis very benecial assistance (Table 2). The synthesized compounds possess\nfor cancer patients due to their weakened immunity and physical–chemicalpropertiesoffragments(M.Wtaround250)\nsusceptibilitytomicrobialattack.Therefore,thepurposeofthis or lead-like (M. Wt around 350) that follow Lipinski's rules\nstudy is to synthesize novel N,2,6-trisubstituted 1H-benzimid- whichisanexcellentstartingpointforfurtherdevelopment.34,35\nazolederivativeswithvarioussubstituentsatpositionsN-1,C-2, Especially,sixteenderivatives(3b–3d,3g,3j,and4a–4k)arenew\nand C-6 and evaluation of their antibacterial, antifungal, and compounds.\nanticanceractivitiesincontinuationofourrecentstudy.4 Structures of synthesized compounds were assigned using\nIR,1HNMR,13CNMR,andmassspectroscopies.InIRspectra,\nthe medium absorbance band of the aromatic ring (n 1520–\n2. Results and discussion\n1395cm\n−1region),aswellasastrongabsorbancebandofimine\n2.1. Chemistry\n(C]N)ofimidazolenucleusof1H-benzimidazolederivatives(n\n1650–1510cm −1region),wereobserved.Inaddition,in1HNMR\nThebenzene-1,2-diaminederivativeswitha4-Hor4-CH group\n3 spectraofcompounds1and2inDMSOcharacteristicchemical\nare the starting material for the preparation of N,2,6-trisubsti-\nshis of NH protons of 1H-benzimidazole (singlet in the\ntuted 1H-benzimidazole derivatives. The process of synthetic\nd13.35–12.30ppmregion)andaromaticprotons(inthed9.35–\nresearchconsistsoftwosteps(Scheme1).Firstly,aseriesof2,6-\n6.70 ppm region) were observed. On the other hand, 1H NMR\ndisubstituted1H-benzimidazolederivatives(1a–1wand2a–2w)\nspectra of compounds 3 and 4 revealed the appearance of\nhave been synthesized by condensing benzene-1,2-diamine\nasingletinthe5.80–4.85ppmregionofthe–CH –CH]CH or–\nderivatives with substituted aromatic aldehydes using conven- 2 2\nCH –Ar group. Furthermore, the C]N group (d 153.5–142.5\ntional heating and microwave-assisted methods. Forty-six 2\nppm) and the –CH –CH]CH or –CH –Ar group (d 48.0–45.5 derivatives have been synthesized in good to excellent yields 2 2 2\nppm)wereidentiedinthe13CNMRspectrumofcompounds3\nwiththereuxmethod(75to93%)andexcellentyieldswiththe\nand4.Finally,massspectrashowedthemolecularionpeakM\nmicrowave-assistedmethod(90to99%).Thereactiontimehas\n(m/z)ofcompounds1–4whichhelpedtoconrmthehypothe-\nbeen dramatically reduced, as using conventional heating the\nsizedstructure.\nreaction is carried out in 6–12 h compared with 10–15 min\nheating in the microwave. In addition, the reaction yield has\nincreasedrangingbetween6to17%withmicrowaveassistance 2.2. Invitroantibacterialandantifungalactivities\n(Table 1). Secondly, a series of N,2,6-trisubstituted 1H-benz-\nAntimicrobial activities (exhibited by MIC values) including imidazolederivatives(3a–3land4a–4k)havebeensynthesized\nantibacterialactivitiesagainsttwostrainsofGram-negative(EC byreacting2,6-disubstituted1H-benzimidazolederivativeswith\n– Escherichia coli and PA – Pseudomonas aeruginosa) and three\nsubstitutedhalidesusingconventionalheatingandmicrowave-\nstrains of Gram-positive (SF – Streptococcus faecalis, MSSA,\nassisted methods. Compounds 3a–3l showed about 2 times\nMRSA)andantifungalactivities(CA–CandidaalbicansandAN–\nhigheryieldsthancompounds4a–4k.Twenty-threederivatives\nAspergillusniger)ofallsynthesizedcompoundsaresummarized\nhave been synthesized in moderate to good yields with the\nin Tables 3 and 4. In antimicrobial evaluation, a series of 2,6-\nreuxmethod(35to86%)andmoderatetoexcellentyieldswith\ndisubstituted 1H-benzimidazole derivatives were inactive\nthemicrowave-assistedmethod(46to98%).Thereactiontime\nagainst Gram-negative strain PA (MIC $ 1024 mg mL −1).\nalso has been dramatically reduced, as using conventional\nCompounds 1a–1n, 1p–1w, 2a–2c, 2e–2n, and 2p–2w showed\nheatingthereactioniscarriedoutin12–24hcomparedwith20–\nweaktomoderateactivitiesagainst4strainsofbacteria(EC,SF,\n60 min heating in the microwave. Furthermore, the reaction\nMSSA,andMRSA)and2strainsoffungi(MIC$32mgmL −1).\nCompound1o(4-methylthio)showedgoodantibacterialactivi-\ntiesagainsttheGram-positivestrainsMSSAandMRSAwithMIC\nrangingbetween16to32mgmL −1ascomparedtociprooxacin\n(Cipro, MIC = 8–16 mg mL −1), but showed moderate activities\nagainst the strains EC, SF, CA, and AN (MIC 64 mg mL −1). In\naddition, compounds 2d (3,4-dichloro) and 2o (4-methylthio)\nshowed good antibacterial activities against the Gram-positive\nstrains SF, MSSA, and MRSA with MIC of 16, 16, and 32 mg\nmL\n−1,respectivelyascomparedtoCipro(MIC=8–16mgmL −1).\nHowever,thesecompoundsshowedmoderateactivitiesagainst\nthe strains EC, CA, and AN (MIC 32–64 mg mL −1). The results\nsuggested that the 4-methylthio group of the aromatic ring at\nposition 2 of the 1H-benzimidazole scaffold enhanced anti-\nbacterialactivitiesagainstMSSAandMRSAstrains.\nWithantimicrobialactivitiesofseriesofN,2,6-trisubstituted\nScheme1 SynthesisofN,2,6-trisubstituted1H-benzimidazolederiv- 1H-benzimidazolederivatives,compounds3a–3e,3h–3j,4a,4b,\natives(MW:microwaveirradiation,EtOH:ethanol). 4d–4f,4h,4i,and4kshowedweaktomoderateactivitiesagainst\n©2023TheAuthor(s).PublishedbytheRoyalSocietyofChemistry RSCAdv.,2023,13,399–420 | 401\n.MP\n20:44:4\n6202/62/6\nno\ndedaolnwoD\n.2202\nrebmeceD\n32\nno\ndehsilbuP\n.elcitrA\nsseccA\nnepO\n.ecneciL\ndetropnU\n0.3\nlaicremmoCnoN-noitubirttA\nsnommoC\nevitaerC\na\nrednu\ndesnecil\nsi\nelcitra\nsihT\nView Article Online",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "8-16",
+    "target_units": "mm",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Paper RSCAdvances\nanticancerdrugswithmultipleeffects,especiallyshowinggood yieldhasincreasedrangingbetween3to20%withmicrowave\nanticancer and anti-microbial activities. Thisis very benecial assistance (Table 2). The synthesized compounds possess\nfor cancer patients due to their weakened immunity and physical–chemicalpropertiesoffragments(M.Wtaround250)\nsusceptibilitytomicrobialattack.Therefore,thepurposeofthis or lead-like (M. Wt around 350) that follow Lipinski's rules\nstudy is to synthesize novel N,2,6-trisubstituted 1H-benzimid- whichisanexcellentstartingpointforfurtherdevelopment.34,35\nazolederivativeswithvarioussubstituentsatpositionsN-1,C-2, Especially,sixteenderivatives(3b–3d,3g,3j,and4a–4k)arenew\nand C-6 and evaluation of their antibacterial, antifungal, and compounds.\nanticanceractivitiesincontinuationofourrecentstudy.4 Structures of synthesized compounds were assigned using\nIR,1HNMR,13CNMR,andmassspectroscopies.InIRspectra,\nthe medium absorbance band of the aromatic ring (n 1520–\n2. Results and discussion\n1395cm\n−1region),aswellasastrongabsorbancebandofimine\n2.1. Chemistry\n(C]N)ofimidazolenucleusof1H-benzimidazolederivatives(n\n1650–1510cm −1region),wereobserved.Inaddition,in1HNMR\nThebenzene-1,2-diaminederivativeswitha4-Hor4-CH group\n3 spectraofcompounds1and2inDMSOcharacteristicchemical\nare the starting material for the preparation of N,2,6-trisubsti-\nshis of NH protons of 1H-benzimidazole (singlet in the\ntuted 1H-benzimidazole derivatives. The process of synthetic\nd13.35–12.30ppmregion)andaromaticprotons(inthed9.35–\nresearchconsistsoftwosteps(Scheme1).Firstly,aseriesof2,6-\n6.70 ppm region) were observed. On the other hand, 1H NMR\ndisubstituted1H-benzimidazolederivatives(1a–1wand2a–2w)\nspectra of compounds 3 and 4 revealed the appearance of\nhave been synthesized by condensing benzene-1,2-diamine\nasingletinthe5.80–4.85ppmregionofthe–CH –CH]CH or–\nderivatives with substituted aromatic aldehydes using conven- 2 2\nCH –Ar group. Furthermore, the C]N group (d 153.5–142.5\ntional heating and microwave-assisted methods. Forty-six 2\nppm) and the –CH –CH]CH or –CH –Ar group (d 48.0–45.5 derivatives have been synthesized in good to excellent yields 2 2 2\nppm)wereidentiedinthe13CNMRspectrumofcompounds3\nwiththereuxmethod(75to93%)andexcellentyieldswiththe\nand4.Finally,massspectrashowedthemolecularionpeakM\nmicrowave-assistedmethod(90to99%).Thereactiontimehas\n(m/z)ofcompounds1–4whichhelpedtoconrmthehypothe-\nbeen dramatically reduced, as using conventional heating the\nsizedstructure.\nreaction is carried out in 6–12 h compared with 10–15 min\nheating in the microwave. In addition, the reaction yield has\nincreasedrangingbetween6to17%withmicrowaveassistance 2.2. Invitroantibacterialandantifungalactivities\n(Table 1). Secondly, a series of N,2,6-trisubstituted 1H-benz-\nAntimicrobial activities (exhibited by MIC values) including imidazolederivatives(3a–3land4a–4k)havebeensynthesized\nantibacterialactivitiesagainsttwostrainsofGram-negative(EC byreacting2,6-disubstituted1H-benzimidazolederivativeswith\n– Escherichia coli and PA – Pseudomonas aeruginosa) and three\nsubstitutedhalidesusingconventionalheatingandmicrowave-\nstrains of Gram-positive (SF – Streptococcus faecalis, MSSA,\nassisted methods. Compounds 3a–3l showed about 2 times\nMRSA)andantifungalactivities(CA–CandidaalbicansandAN–\nhigheryieldsthancompounds4a–4k.Twenty-threederivatives\nAspergillusniger)ofallsynthesizedcompoundsaresummarized\nhave been synthesized in moderate to good yields with the\nin Tables 3 and 4. In antimicrobial evaluation, a series of 2,6-\nreuxmethod(35to86%)andmoderatetoexcellentyieldswith\ndisubstituted 1H-benzimidazole derivatives were inactive\nthemicrowave-assistedmethod(46to98%).Thereactiontime\nagainst Gram-negative strain PA (MIC $ 1024 mg mL −1).\nalso has been dramatically reduced, as using conventional\nCompounds 1a–1n, 1p–1w, 2a–2c, 2e–2n, and 2p–2w showed\nheatingthereactioniscarriedoutin12–24hcomparedwith20–\nweaktomoderateactivitiesagainst4strainsofbacteria(EC,SF,\n60 min heating in the microwave. Furthermore, the reaction\nMSSA,andMRSA)and2strainsoffungi(MIC$32mgmL −1).\nCompound1o(4-methylthio)showedgoodantibacterialactivi-\ntiesagainsttheGram-positivestrainsMSSAandMRSAwithMIC\nrangingbetween16to32mgmL −1ascomparedtociprooxacin\n(Cipro, MIC = 8–16 mg mL −1), but showed moderate activities\nagainst the strains EC, SF, CA, and AN (MIC 64 mg mL −1). In\naddition, compounds 2d (3,4-dichloro) and 2o (4-methylthio)\nshowed good antibacterial activities against the Gram-positive\nstrains SF, MSSA, and MRSA with MIC of 16, 16, and 32 mg\nmL\n−1,respectivelyascomparedtoCipro(MIC=8–16mgmL −1).\nHowever,thesecompoundsshowedmoderateactivitiesagainst\nthe strains EC, CA, and AN (MIC 32–64 mg mL −1). The results\nsuggested that the 4-methylthio group of the aromatic ring at\nposition 2 of the 1H-benzimidazole scaffold enhanced anti-\nbacterialactivitiesagainstMSSAandMRSAstrains.\nWithantimicrobialactivitiesofseriesofN,2,6-trisubstituted\nScheme1 SynthesisofN,2,6-trisubstituted1H-benzimidazolederiv- 1H-benzimidazolederivatives,compounds3a–3e,3h–3j,4a,4b,\natives(MW:microwaveirradiation,EtOH:ethanol). 4d–4f,4h,4i,and4kshowedweaktomoderateactivitiesagainst\n©2023TheAuthor(s).PublishedbytheRoyalSocietyofChemistry RSCAdv.,2023,13,399–420 | 401\n.MP\n20:44:4\n6202/62/6\nno\ndedaolnwoD\n.2202\nrebmeceD\n32\nno\ndehsilbuP\n.elcitrA\nsseccA\nnepO\n.ecneciL\ndetropnU\n0.3\nlaicremmoCnoN-noitubirttA\nsnommoC\nevitaerC\na\nrednu\ndesnecil\nsi\nelcitra\nsihT\nView Article Online",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "mm",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Paper RSCAdvances\nanticancerdrugswithmultipleeffects,especiallyshowinggood yieldhasincreasedrangingbetween3to20%withmicrowave\nanticancer and anti-microbial activities. Thisis very benecial assistance (Table 2). The synthesized compounds possess\nfor cancer patients due to their weakened immunity and physical–chemicalpropertiesoffragments(M.Wtaround250)\nsusceptibilitytomicrobialattack.Therefore,thepurposeofthis or lead-like (M. Wt around 350) that follow Lipinski's rules\nstudy is to synthesize novel N,2,6-trisubstituted 1H-benzimid- whichisanexcellentstartingpointforfurtherdevelopment.34,35\nazolederivativeswithvarioussubstituentsatpositionsN-1,C-2, Especially,sixteenderivatives(3b–3d,3g,3j,and4a–4k)arenew\nand C-6 and evaluation of their antibacterial, antifungal, and compounds.\nanticanceractivitiesincontinuationofourrecentstudy.4 Structures of synthesized compounds were assigned using\nIR,1HNMR,13CNMR,andmassspectroscopies.InIRspectra,\nthe medium absorbance band of the aromatic ring (n 1520–\n2. Results and discussion\n1395cm\n−1region),aswellasastrongabsorbancebandofimine\n2.1. Chemistry\n(C]N)ofimidazolenucleusof1H-benzimidazolederivatives(n\n1650–1510cm −1region),wereobserved.Inaddition,in1HNMR\nThebenzene-1,2-diaminederivativeswitha4-Hor4-CH group\n3 spectraofcompounds1and2inDMSOcharacteristicchemical\nare the starting material for the preparation of N,2,6-trisubsti-\nshis of NH protons of 1H-benzimidazole (singlet in the\ntuted 1H-benzimidazole derivatives. The process of synthetic\nd13.35–12.30ppmregion)andaromaticprotons(inthed9.35–\nresearchconsistsoftwosteps(Scheme1).Firstly,aseriesof2,6-\n6.70 ppm region) were observed. On the other hand, 1H NMR\ndisubstituted1H-benzimidazolederivatives(1a–1wand2a–2w)\nspectra of compounds 3 and 4 revealed the appearance of\nhave been synthesized by condensing benzene-1,2-diamine\nasingletinthe5.80–4.85ppmregionofthe–CH –CH]CH or–\nderivatives with substituted aromatic aldehydes using conven- 2 2\nCH –Ar group. Furthermore, the C]N group (d 153.5–142.5\ntional heating and microwave-assisted methods. Forty-six 2\nppm) and the –CH –CH]CH or –CH –Ar group (d 48.0–45.5 derivatives have been synthesized in good to excellent yields 2 2 2\nppm)wereidentiedinthe13CNMRspectrumofcompounds3\nwiththereuxmethod(75to93%)andexcellentyieldswiththe\nand4.Finally,massspectrashowedthemolecularionpeakM\nmicrowave-assistedmethod(90to99%).Thereactiontimehas\n(m/z)ofcompounds1–4whichhelpedtoconrmthehypothe-\nbeen dramatically reduced, as using conventional heating the\nsizedstructure.\nreaction is carried out in 6–12 h compared with 10–15 min\nheating in the microwave. In addition, the reaction yield has\nincreasedrangingbetween6to17%withmicrowaveassistance 2.2. Invitroantibacterialandantifungalactivities\n(Table 1). Secondly, a series of N,2,6-trisubstituted 1H-benz-\nAntimicrobial activities (exhibited by MIC values) including imidazolederivatives(3a–3land4a–4k)havebeensynthesized\nantibacterialactivitiesagainsttwostrainsofGram-negative(EC byreacting2,6-disubstituted1H-benzimidazolederivativeswith\n– Escherichia coli and PA – Pseudomonas aeruginosa) and three\nsubstitutedhalidesusingconventionalheatingandmicrowave-\nstrains of Gram-positive (SF – Streptococcus faecalis, MSSA,\nassisted methods. Compounds 3a–3l showed about 2 times\nMRSA)andantifungalactivities(CA–CandidaalbicansandAN–\nhigheryieldsthancompounds4a–4k.Twenty-threederivatives\nAspergillusniger)ofallsynthesizedcompoundsaresummarized\nhave been synthesized in moderate to good yields with the\nin Tables 3 and 4. In antimicrobial evaluation, a series of 2,6-\nreuxmethod(35to86%)andmoderatetoexcellentyieldswith\ndisubstituted 1H-benzimidazole derivatives were inactive\nthemicrowave-assistedmethod(46to98%).Thereactiontime\nagainst Gram-negative strain PA (MIC $ 1024 mg mL −1).\nalso has been dramatically reduced, as using conventional\nCompounds 1a–1n, 1p–1w, 2a–2c, 2e–2n, and 2p–2w showed\nheatingthereactioniscarriedoutin12–24hcomparedwith20–\nweaktomoderateactivitiesagainst4strainsofbacteria(EC,SF,\n60 min heating in the microwave. Furthermore, the reaction\nMSSA,andMRSA)and2strainsoffungi(MIC$32mgmL −1).\nCompound1o(4-methylthio)showedgoodantibacterialactivi-\ntiesagainsttheGram-positivestrainsMSSAandMRSAwithMIC\nrangingbetween16to32mgmL −1ascomparedtociprooxacin\n(Cipro, MIC = 8–16 mg mL −1), but showed moderate activities\nagainst the strains EC, SF, CA, and AN (MIC 64 mg mL −1). In\naddition, compounds 2d (3,4-dichloro) and 2o (4-methylthio)\nshowed good antibacterial activities against the Gram-positive\nstrains SF, MSSA, and MRSA with MIC of 16, 16, and 32 mg\nmL\n−1,respectivelyascomparedtoCipro(MIC=8–16mgmL −1).\nHowever,thesecompoundsshowedmoderateactivitiesagainst\nthe strains EC, CA, and AN (MIC 32–64 mg mL −1). The results\nsuggested that the 4-methylthio group of the aromatic ring at\nposition 2 of the 1H-benzimidazole scaffold enhanced anti-\nbacterialactivitiesagainstMSSAandMRSAstrains.\nWithantimicrobialactivitiesofseriesofN,2,6-trisubstituted\nScheme1 SynthesisofN,2,6-trisubstituted1H-benzimidazolederiv- 1H-benzimidazolederivatives,compounds3a–3e,3h–3j,4a,4b,\natives(MW:microwaveirradiation,EtOH:ethanol). 4d–4f,4h,4i,and4kshowedweaktomoderateactivitiesagainst\n©2023TheAuthor(s).PublishedbytheRoyalSocietyofChemistry RSCAdv.,2023,13,399–420 | 401\n.MP\n20:44:4\n6202/62/6\nno\ndedaolnwoD\n.2202\nrebmeceD\n32\nno\ndehsilbuP\n.elcitrA\nsseccA\nnepO\n.ecneciL\ndetropnU\n0.3\nlaicremmoCnoN-noitubirttA\nsnommoC\nevitaerC\na\nrednu\ndesnecil\nsi\nelcitra\nsihT\nView Article Online",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "16",
+    "target_units": "mm",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Paper RSCAdvances\nanticancerdrugswithmultipleeffects,especiallyshowinggood yieldhasincreasedrangingbetween3to20%withmicrowave\nanticancer and anti-microbial activities. Thisis very benecial assistance (Table 2). The synthesized compounds possess\nfor cancer patients due to their weakened immunity and physical–chemicalpropertiesoffragments(M.Wtaround250)\nsusceptibilitytomicrobialattack.Therefore,thepurposeofthis or lead-like (M. Wt around 350) that follow Lipinski's rules\nstudy is to synthesize novel N,2,6-trisubstituted 1H-benzimid- whichisanexcellentstartingpointforfurtherdevelopment.34,35\nazolederivativeswithvarioussubstituentsatpositionsN-1,C-2, Especially,sixteenderivatives(3b–3d,3g,3j,and4a–4k)arenew\nand C-6 and evaluation of their antibacterial, antifungal, and compounds.\nanticanceractivitiesincontinuationofourrecentstudy.4 Structures of synthesized compounds were assigned using\nIR,1HNMR,13CNMR,andmassspectroscopies.InIRspectra,\nthe medium absorbance band of the aromatic ring (n 1520–\n2. Results and discussion\n1395cm\n−1region),aswellasastrongabsorbancebandofimine\n2.1. Chemistry\n(C]N)ofimidazolenucleusof1H-benzimidazolederivatives(n\n1650–1510cm −1region),wereobserved.Inaddition,in1HNMR\nThebenzene-1,2-diaminederivativeswitha4-Hor4-CH group\n3 spectraofcompounds1and2inDMSOcharacteristicchemical\nare the starting material for the preparation of N,2,6-trisubsti-\nshis of NH protons of 1H-benzimidazole (singlet in the\ntuted 1H-benzimidazole derivatives. The process of synthetic\nd13.35–12.30ppmregion)andaromaticprotons(inthed9.35–\nresearchconsistsoftwosteps(Scheme1).Firstly,aseriesof2,6-\n6.70 ppm region) were observed. On the other hand, 1H NMR\ndisubstituted1H-benzimidazolederivatives(1a–1wand2a–2w)\nspectra of compounds 3 and 4 revealed the appearance of\nhave been synthesized by condensing benzene-1,2-diamine\nasingletinthe5.80–4.85ppmregionofthe–CH –CH]CH or–\nderivatives with substituted aromatic aldehydes using conven- 2 2\nCH –Ar group. Furthermore, the C]N group (d 153.5–142.5\ntional heating and microwave-assisted methods. Forty-six 2\nppm) and the –CH –CH]CH or –CH –Ar group (d 48.0–45.5 derivatives have been synthesized in good to excellent yields 2 2 2\nppm)wereidentiedinthe13CNMRspectrumofcompounds3\nwiththereuxmethod(75to93%)andexcellentyieldswiththe\nand4.Finally,massspectrashowedthemolecularionpeakM\nmicrowave-assistedmethod(90to99%).Thereactiontimehas\n(m/z)ofcompounds1–4whichhelpedtoconrmthehypothe-\nbeen dramatically reduced, as using conventional heating the\nsizedstructure.\nreaction is carried out in 6–12 h compared with 10–15 min\nheating in the microwave. In addition, the reaction yield has\nincreasedrangingbetween6to17%withmicrowaveassistance 2.2. Invitroantibacterialandantifungalactivities\n(Table 1). Secondly, a series of N,2,6-trisubstituted 1H-benz-\nAntimicrobial activities (exhibited by MIC values) including imidazolederivatives(3a–3land4a–4k)havebeensynthesized\nantibacterialactivitiesagainsttwostrainsofGram-negative(EC byreacting2,6-disubstituted1H-benzimidazolederivativeswith\n– Escherichia coli and PA – Pseudomonas aeruginosa) and three\nsubstitutedhalidesusingconventionalheatingandmicrowave-\nstrains of Gram-positive (SF – Streptococcus faecalis, MSSA,\nassisted methods. Compounds 3a–3l showed about 2 times\nMRSA)andantifungalactivities(CA–CandidaalbicansandAN–\nhigheryieldsthancompounds4a–4k.Twenty-threederivatives\nAspergillusniger)ofallsynthesizedcompoundsaresummarized\nhave been synthesized in moderate to good yields with the\nin Tables 3 and 4. In antimicrobial evaluation, a series of 2,6-\nreuxmethod(35to86%)andmoderatetoexcellentyieldswith\ndisubstituted 1H-benzimidazole derivatives were inactive\nthemicrowave-assistedmethod(46to98%).Thereactiontime\nagainst Gram-negative strain PA (MIC $ 1024 mg mL −1).\nalso has been dramatically reduced, as using conventional\nCompounds 1a–1n, 1p–1w, 2a–2c, 2e–2n, and 2p–2w showed\nheatingthereactioniscarriedoutin12–24hcomparedwith20–\nweaktomoderateactivitiesagainst4strainsofbacteria(EC,SF,\n60 min heating in the microwave. Furthermore, the reaction\nMSSA,andMRSA)and2strainsoffungi(MIC$32mgmL −1).\nCompound1o(4-methylthio)showedgoodantibacterialactivi-\ntiesagainsttheGram-positivestrainsMSSAandMRSAwithMIC\nrangingbetween16to32mgmL −1ascomparedtociprooxacin\n(Cipro, MIC = 8–16 mg mL −1), but showed moderate activities\nagainst the strains EC, SF, CA, and AN (MIC 64 mg mL −1). In\naddition, compounds 2d (3,4-dichloro) and 2o (4-methylthio)\nshowed good antibacterial activities against the Gram-positive\nstrains SF, MSSA, and MRSA with MIC of 16, 16, and 32 mg\nmL\n−1,respectivelyascomparedtoCipro(MIC=8–16mgmL −1).\nHowever,thesecompoundsshowedmoderateactivitiesagainst\nthe strains EC, CA, and AN (MIC 32–64 mg mL −1). The results\nsuggested that the 4-methylthio group of the aromatic ring at\nposition 2 of the 1H-benzimidazole scaffold enhanced anti-\nbacterialactivitiesagainstMSSAandMRSAstrains.\nWithantimicrobialactivitiesofseriesofN,2,6-trisubstituted\nScheme1 SynthesisofN,2,6-trisubstituted1H-benzimidazolederiv- 1H-benzimidazolederivatives,compounds3a–3e,3h–3j,4a,4b,\natives(MW:microwaveirradiation,EtOH:ethanol). 4d–4f,4h,4i,and4kshowedweaktomoderateactivitiesagainst\n©2023TheAuthor(s).PublishedbytheRoyalSocietyofChemistry RSCAdv.,2023,13,399–420 | 401\n.MP\n20:44:4\n6202/62/6\nno\ndedaolnwoD\n.2202\nrebmeceD\n32\nno\ndehsilbuP\n.elcitrA\nsseccA\nnepO\n.ecneciL\ndetropnU\n0.3\nlaicremmoCnoN-noitubirttA\nsnommoC\nevitaerC\na\nrednu\ndesnecil\nsi\nelcitra\nsihT\nView Article Online",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "8-16",
+    "target_units": "mm",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Paper RSCAdvances\nanticancerdrugswithmultipleeffects,especiallyshowinggood yieldhasincreasedrangingbetween3to20%withmicrowave\nanticancer and anti-microbial activities. Thisis very benecial assistance (Table 2). The synthesized compounds possess\nfor cancer patients due to their weakened immunity and physical–chemicalpropertiesoffragments(M.Wtaround250)\nsusceptibilitytomicrobialattack.Therefore,thepurposeofthis or lead-like (M. Wt around 350) that follow Lipinski's rules\nstudy is to synthesize novel N,2,6-trisubstituted 1H-benzimid- whichisanexcellentstartingpointforfurtherdevelopment.34,35\nazolederivativeswithvarioussubstituentsatpositionsN-1,C-2, Especially,sixteenderivatives(3b–3d,3g,3j,and4a–4k)arenew\nand C-6 and evaluation of their antibacterial, antifungal, and compounds.\nanticanceractivitiesincontinuationofourrecentstudy.4 Structures of synthesized compounds were assigned using\nIR,1HNMR,13CNMR,andmassspectroscopies.InIRspectra,\nthe medium absorbance band of the aromatic ring (n 1520–\n2. Results and discussion\n1395cm\n−1region),aswellasastrongabsorbancebandofimine\n2.1. Chemistry\n(C]N)ofimidazolenucleusof1H-benzimidazolederivatives(n\n1650–1510cm −1region),wereobserved.Inaddition,in1HNMR\nThebenzene-1,2-diaminederivativeswitha4-Hor4-CH group\n3 spectraofcompounds1and2inDMSOcharacteristicchemical\nare the starting material for the preparation of N,2,6-trisubsti-\nshis of NH protons of 1H-benzimidazole (singlet in the\ntuted 1H-benzimidazole derivatives. The process of synthetic\nd13.35–12.30ppmregion)andaromaticprotons(inthed9.35–\nresearchconsistsoftwosteps(Scheme1).Firstly,aseriesof2,6-\n6.70 ppm region) were observed. On the other hand, 1H NMR\ndisubstituted1H-benzimidazolederivatives(1a–1wand2a–2w)\nspectra of compounds 3 and 4 revealed the appearance of\nhave been synthesized by condensing benzene-1,2-diamine\nasingletinthe5.80–4.85ppmregionofthe–CH –CH]CH or–\nderivatives with substituted aromatic aldehydes using conven- 2 2\nCH –Ar group. Furthermore, the C]N group (d 153.5–142.5\ntional heating and microwave-assisted methods. Forty-six 2\nppm) and the –CH –CH]CH or –CH –Ar group (d 48.0–45.5 derivatives have been synthesized in good to excellent yields 2 2 2\nppm)wereidentiedinthe13CNMRspectrumofcompounds3\nwiththereuxmethod(75to93%)andexcellentyieldswiththe\nand4.Finally,massspectrashowedthemolecularionpeakM\nmicrowave-assistedmethod(90to99%).Thereactiontimehas\n(m/z)ofcompounds1–4whichhelpedtoconrmthehypothe-\nbeen dramatically reduced, as using conventional heating the\nsizedstructure.\nreaction is carried out in 6–12 h compared with 10–15 min\nheating in the microwave. In addition, the reaction yield has\nincreasedrangingbetween6to17%withmicrowaveassistance 2.2. Invitroantibacterialandantifungalactivities\n(Table 1). Secondly, a series of N,2,6-trisubstituted 1H-benz-\nAntimicrobial activities (exhibited by MIC values) including imidazolederivatives(3a–3land4a–4k)havebeensynthesized\nantibacterialactivitiesagainsttwostrainsofGram-negative(EC byreacting2,6-disubstituted1H-benzimidazolederivativeswith\n– Escherichia coli and PA – Pseudomonas aeruginosa) and three\nsubstitutedhalidesusingconventionalheatingandmicrowave-\nstrains of Gram-positive (SF – Streptococcus faecalis, MSSA,\nassisted methods. Compounds 3a–3l showed about 2 times\nMRSA)andantifungalactivities(CA–CandidaalbicansandAN–\nhigheryieldsthancompounds4a–4k.Twenty-threederivatives\nAspergillusniger)ofallsynthesizedcompoundsaresummarized\nhave been synthesized in moderate to good yields with the\nin Tables 3 and 4. In antimicrobial evaluation, a series of 2,6-\nreuxmethod(35to86%)andmoderatetoexcellentyieldswith\ndisubstituted 1H-benzimidazole derivatives were inactive\nthemicrowave-assistedmethod(46to98%).Thereactiontime\nagainst Gram-negative strain PA (MIC $ 1024 mg mL −1).\nalso has been dramatically reduced, as using conventional\nCompounds 1a–1n, 1p–1w, 2a–2c, 2e–2n, and 2p–2w showed\nheatingthereactioniscarriedoutin12–24hcomparedwith20–\nweaktomoderateactivitiesagainst4strainsofbacteria(EC,SF,\n60 min heating in the microwave. Furthermore, the reaction\nMSSA,andMRSA)and2strainsoffungi(MIC$32mgmL −1).\nCompound1o(4-methylthio)showedgoodantibacterialactivi-\ntiesagainsttheGram-positivestrainsMSSAandMRSAwithMIC\nrangingbetween16to32mgmL −1ascomparedtociprooxacin\n(Cipro, MIC = 8–16 mg mL −1), but showed moderate activities\nagainst the strains EC, SF, CA, and AN (MIC 64 mg mL −1). In\naddition, compounds 2d (3,4-dichloro) and 2o (4-methylthio)\nshowed good antibacterial activities against the Gram-positive\nstrains SF, MSSA, and MRSA with MIC of 16, 16, and 32 mg\nmL\n−1,respectivelyascomparedtoCipro(MIC=8–16mgmL −1).\nHowever,thesecompoundsshowedmoderateactivitiesagainst\nthe strains EC, CA, and AN (MIC 32–64 mg mL −1). The results\nsuggested that the 4-methylthio group of the aromatic ring at\nposition 2 of the 1H-benzimidazole scaffold enhanced anti-\nbacterialactivitiesagainstMSSAandMRSAstrains.\nWithantimicrobialactivitiesofseriesofN,2,6-trisubstituted\nScheme1 SynthesisofN,2,6-trisubstituted1H-benzimidazolederiv- 1H-benzimidazolederivatives,compounds3a–3e,3h–3j,4a,4b,\natives(MW:microwaveirradiation,EtOH:ethanol). 4d–4f,4h,4i,and4kshowedweaktomoderateactivitiesagainst\n©2023TheAuthor(s).PublishedbytheRoyalSocietyofChemistry RSCAdv.,2023,13,399–420 | 401\n.MP\n20:44:4\n6202/62/6\nno\ndedaolnwoD\n.2202\nrebmeceD\n32\nno\ndehsilbuP\n.elcitrA\nsseccA\nnepO\n.ecneciL\ndetropnU\n0.3\nlaicremmoCnoN-noitubirttA\nsnommoC\nevitaerC\na\nrednu\ndesnecil\nsi\nelcitra\nsihT\nView Article Online",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "32-64",
+    "target_units": "mm",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "d2ra06667j.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Paper RSCAdvances\nanticancerdrugswithmultipleeffects,especiallyshowinggood yieldhasincreasedrangingbetween3to20%withmicrowave\nanticancer and anti-microbial activities. Thisis very benecial assistance (Table 2). The synthesized compounds possess\nfor cancer patients due to their weakened immunity and physical–chemicalpropertiesoffragments(M.Wtaround250)\nsusceptibilitytomicrobialattack.Therefore,thepurposeofthis or lead-like (M. Wt around 350) that follow Lipinski's rules\nstudy is to synthesize novel N,2,6-trisubstituted 1H-benzimid- whichisanexcellentstartingpointforfurtherdevelopment.34,35\nazolederivativeswithvarioussubstituentsatpositionsN-1,C-2, Especially,sixteenderivatives(3b–3d,3g,3j,and4a–4k)arenew\nand C-6 and evaluation of their antibacterial, antifungal, and compounds.\nanticanceractivitiesincontinuationofourrecentstudy.4 Structures of synthesized compounds were assigned using\nIR,1HNMR,13CNMR,andmassspectroscopies.InIRspectra,\nthe medium absorbance band of the aromatic ring (n 1520–\n2. Results and discussion\n1395cm\n−1region),aswellasastrongabsorbancebandofimine\n2.1. Chemistry\n(C]N)ofimidazolenucleusof1H-benzimidazolederivatives(n\n1650–1510cm −1region),wereobserved.Inaddition,in1HNMR\nThebenzene-1,2-diaminederivativeswitha4-Hor4-CH group\n3 spectraofcompounds1and2inDMSOcharacteristicchemical\nare the starting material for the preparation of N,2,6-trisubsti-\nshis of NH protons of 1H-benzimidazole (singlet in the\ntuted 1H-benzimidazole derivatives. The process of synthetic\nd13.35–12.30ppmregion)andaromaticprotons(inthed9.35–\nresearchconsistsoftwosteps(Scheme1).Firstly,aseriesof2,6-\n6.70 ppm region) were observed. On the other hand, 1H NMR\ndisubstituted1H-benzimidazolederivatives(1a–1wand2a–2w)\nspectra of compounds 3 and 4 revealed the appearance of\nhave been synthesized by condensing benzene-1,2-diamine\nasingletinthe5.80–4.85ppmregionofthe–CH –CH]CH or–\nderivatives with substituted aromatic aldehydes using conven- 2 2\nCH –Ar group. Furthermore, the C]N group (d 153.5–142.5\ntional heating and microwave-assisted methods. Forty-six 2\nppm) and the –CH –CH]CH or –CH –Ar group (d 48.0–45.5 derivatives have been synthesized in good to excellent yields 2 2 2\nppm)wereidentiedinthe13CNMRspectrumofcompounds3\nwiththereuxmethod(75to93%)andexcellentyieldswiththe\nand4.Finally,massspectrashowedthemolecularionpeakM\nmicrowave-assistedmethod(90to99%).Thereactiontimehas\n(m/z)ofcompounds1–4whichhelpedtoconrmthehypothe-\nbeen dramatically reduced, as using conventional heating the\nsizedstructure.\nreaction is carried out in 6–12 h compared with 10–15 min\nheating in the microwave. In addition, the reaction yield has\nincreasedrangingbetween6to17%withmicrowaveassistance 2.2. Invitroantibacterialandantifungalactivities\n(Table 1). Secondly, a series of N,2,6-trisubstituted 1H-benz-\nAntimicrobial activities (exhibited by MIC values) including imidazolederivatives(3a–3land4a–4k)havebeensynthesized\nantibacterialactivitiesagainsttwostrainsofGram-negative(EC byreacting2,6-disubstituted1H-benzimidazolederivativeswith\n– Escherichia coli and PA – Pseudomonas aeruginosa) and three\nsubstitutedhalidesusingconventionalheatingandmicrowave-\nstrains of Gram-positive (SF – Streptococcus faecalis, MSSA,\nassisted methods. Compounds 3a–3l showed about 2 times\nMRSA)andantifungalactivities(CA–CandidaalbicansandAN–\nhigheryieldsthancompounds4a–4k.Twenty-threederivatives\nAspergillusniger)ofallsynthesizedcompoundsaresummarized\nhave been synthesized in moderate to good yields with the\nin Tables 3 and 4. In antimicrobial evaluation, a series of 2,6-\nreuxmethod(35to86%)andmoderatetoexcellentyieldswith\ndisubstituted 1H-benzimidazole derivatives were inactive\nthemicrowave-assistedmethod(46to98%).Thereactiontime\nagainst Gram-negative strain PA (MIC $ 1024 mg mL −1).\nalso has been dramatically reduced, as using conventional\nCompounds 1a–1n, 1p–1w, 2a–2c, 2e–2n, and 2p–2w showed\nheatingthereactioniscarriedoutin12–24hcomparedwith20–\nweaktomoderateactivitiesagainst4strainsofbacteria(EC,SF,\n60 min heating in the microwave. Furthermore, the reaction\nMSSA,andMRSA)and2strainsoffungi(MIC$32mgmL −1).\nCompound1o(4-methylthio)showedgoodantibacterialactivi-\ntiesagainsttheGram-positivestrainsMSSAandMRSAwithMIC\nrangingbetween16to32mgmL −1ascomparedtociprooxacin\n(Cipro, MIC = 8–16 mg mL −1), but showed moderate activities\nagainst the strains EC, SF, CA, and AN (MIC 64 mg mL −1). In\naddition, compounds 2d (3,4-dichloro) and 2o (4-methylthio)\nshowed good antibacterial activities against the Gram-positive\nstrains SF, MSSA, and MRSA with MIC of 16, 16, and 32 mg\nmL\n−1,respectivelyascomparedtoCipro(MIC=8–16mgmL −1).\nHowever,thesecompoundsshowedmoderateactivitiesagainst\nthe strains EC, CA, and AN (MIC 32–64 mg mL −1). The results\nsuggested that the 4-methylthio group of the aromatic ring at\nposition 2 of the 1H-benzimidazole scaffold enhanced anti-\nbacterialactivitiesagainstMSSAandMRSAstrains.\nWithantimicrobialactivitiesofseriesofN,2,6-trisubstituted\nScheme1 SynthesisofN,2,6-trisubstituted1H-benzimidazolederiv- 1H-benzimidazolederivatives,compounds3a–3e,3h–3j,4a,4b,\natives(MW:microwaveirradiation,EtOH:ethanol). 4d–4f,4h,4i,and4kshowedweaktomoderateactivitiesagainst\n©2023TheAuthor(s).PublishedbytheRoyalSocietyofChemistry RSCAdv.,2023,13,399–420 | 401\n.MP\n20:44:4\n6202/62/6\nno\ndedaolnwoD\n.2202\nrebmeceD\n32\nno\ndehsilbuP\n.elcitrA\nsseccA\nnepO\n.ecneciL\ndetropnU\n0.3\nlaicremmoCnoN-noitubirttA\nsnommoC\nevitaerC\na\nrednu\ndesnecil\nsi\nelcitra\nsihT\nView Article Online",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "should_run_llm": false,
+  "confidence": "high",
+  "issues": [],
+  "signals": {
+    "parsed_tables": 0,
+    "evidence_chunks": 7,
+    "table_evidence_chunks": 0,
+    "table_like_records": 22,
+    "raw_records": 23,
+    "validated_records": 22,
+    "validation_errors": 1,
+    "validation_rejection_ratio": 0.0435,
+    "average_record_confidence": 0.85,
+    "evidence_page_count": 5,
+    "record_page_count": 1,
+    "evidence_page_coverage_ratio": 0.2,
+    "missing_required_field_ratio": 0.0435,
+    "conflict_count": 0
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "compound_id": "4a",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "5",
+    "target_units": "µg/mL",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "s11030-018-9828-1.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "MolecularDiversity\nTable4 Antioxidantactivityofcompounds(4a–j) were obtained as minimum inhibitory concentration (MIC)\nin μg/mL (Table 5). As observed from Table 5, com-\nCompound Scavengingactivity(IC50 μg/mL)\npounds 4b (3.125–6.25μg/mL) (Ar = 2-chlorophenyl), 4c\nDPPH H2O2\n(3.125–6.25μg/mL)(Ar=4-chlorophenyl) and4h(3.125–\n4a 14.45±1.04 15.61±0.54 6.25μg/mL) (Ar = 2-nitrophenyl) those have electron-\n4b 15.32±0.45 17.05±0.71 withdrawing nitro group and electronegative substituents\n4c 18.54±0.58 18.24±0.49 onthephenylringexhibitedmorepotentinhibitionagainst\n4d 14.08±0.42 16.52±1.20 bacterial strains. On the other hand, methyl and methoxy\n4e 10.04±1.10 11.19±0.60 substituents exhibited poor antimicrobial activity. It can be\n4f 08.52±0.57 10.18±0.75 concludedthatthenitrogroupandchlorosubstituentsonthe\n4g 09.25±0.85 10.76±0.42 phenylringhavestrongeffectonantibacterialactivity[31].\n4h 22.72±0.76 28.12±0.84 The same library was tested for the antifungal activity\n4i 24.40±0.29 23.25±0.93 against Candida albicans (ATCC 10231) and Aspergillus\n4j 21.07±0.40 18.53±0.75 niger (ATCC 9029). In Table 5, compounds 4b (Ar = 2-\nchlorophenyl), 4c (Ar = 4-chlorophenyl) and 4h (Ar =\nAA* 13.62±0.69 16.83±0.48\n2-nitrophenyl) were exhibited moderate antifungal activity\nBHT# 17.16±0.25 17.62±0.87\nwiththeMIC6.25,6.25−12.5and6.25μg/mL,respectively.\n*Ascorbicacid\nTheremainingcompoundsexhibitedpoorantifungalability.\n#Butylatedhydroxytoluene\nLowerIC50valuesindicatebetterradicalscavengingability\nConclusion\ntively.Therestofthecompoundsexhibitedleast-to-moderate\nantioxidant activity. It is obvious from the screening of\nIn summary, we synthesized a novel library of indole–\nantioxidant activity that the compounds with methyl and\nbenzimidazole-based 1,2,3-triazole derivatives under con-\nmethoxygroupsonthephenylringwerehighlyfavoredfor\nventionalandmicrowaveirradiationconditions.Themicrowave\nradicalscavengingactivity.\nirradiation method was proved to be highly efficient as the\nreactionscompletedwithhighyieldsinshortreactiontime.\nAntimicrobialactivity Allthetargetcompoundsweretestedforantimycobacterial\nactivity, and compounds 4b, 4h and 4i exhibited signifi-\nThe series 4a–j was tested for their antibacterial activity cantpotency.Theantioxidantactivityscreeningrevealedthat\nagainstgram-positiveStaphylococcusaureus(ATCC6538), compounds 4e, 4f and 4g were found to be potent radical\nBacillus subtilis (ATCC 6633) and gram-negative Proteus scavengingagents.Inaddition,theantimicrobialactivityof\nvulgaris (ATCC 29213), Escherichia coli (ATCC 11229). thetitlecompoundsdemonstratedthatcompounds4b,4cand\nGentamicin was used as standard, and the activity results 4hweremorepotentagainstpathogenicbacteriaandfungi.\nTable5 Antimicrobialactivity\nCompound Gram-positivebacteria Gram-negativebacteria Fungalstrains\n(MICinμg/mL)ofnewly\nsynthesizedcompounds B.subtilis S.aureus E.coli P.vulgaris A.niger C.albicans\n4a 25 25 50 25 12.5 25\n4b 3.125 6.25 6.25 6.25 6.25 6.25\n4c 6.25 3.125 6.25 6.25 12.5 6.25\n4d 50 25 25 12.5 50 12.5\n4e 25 50 25 25 50 50\n4f 50 50 50 25 100 50\n4g 12.5 12.5 25 50 50 100\n4h 3.125 3.125 3.125 6.25 6.25 6.25\n4i 50 25 50 50 25 25\n4j 12.5 12.5 25 12.5 25 50\nGentamicin 1.56 1.56 1.56 3.125 – –\nFluconazole – – – – 3.125 1.56\nDMSO – – – – – –\n123",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4a",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "5",
+    "target_units": "µg/mL",
+    "bacteria": "S.aureus",
+    "evidence": {
+      "source_file": "s11030-018-9828-1.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "MolecularDiversity\nTable4 Antioxidantactivityofcompounds(4a–j) were obtained as minimum inhibitory concentration (MIC)\nin μg/mL (Table 5). As observed from Table 5, com-\nCompound Scavengingactivity(IC50 μg/mL)\npounds 4b (3.125–6.25μg/mL) (Ar = 2-chlorophenyl), 4c\nDPPH H2O2\n(3.125–6.25μg/mL)(Ar=4-chlorophenyl) and4h(3.125–\n4a 14.45±1.04 15.61±0.54 6.25μg/mL) (Ar = 2-nitrophenyl) those have electron-\n4b 15.32±0.45 17.05±0.71 withdrawing nitro group and electronegative substituents\n4c 18.54±0.58 18.24±0.49 onthephenylringexhibitedmorepotentinhibitionagainst\n4d 14.08±0.42 16.52±1.20 bacterial strains. On the other hand, methyl and methoxy\n4e 10.04±1.10 11.19±0.60 substituents exhibited poor antimicrobial activity. It can be\n4f 08.52±0.57 10.18±0.75 concludedthatthenitrogroupandchlorosubstituentsonthe\n4g 09.25±0.85 10.76±0.42 phenylringhavestrongeffectonantibacterialactivity[31].\n4h 22.72±0.76 28.12±0.84 The same library was tested for the antifungal activity\n4i 24.40±0.29 23.25±0.93 against Candida albicans (ATCC 10231) and Aspergillus\n4j 21.07±0.40 18.53±0.75 niger (ATCC 9029). In Table 5, compounds 4b (Ar = 2-\nchlorophenyl), 4c (Ar = 4-chlorophenyl) and 4h (Ar =\nAA* 13.62±0.69 16.83±0.48\n2-nitrophenyl) were exhibited moderate antifungal activity\nBHT# 17.16±0.25 17.62±0.87\nwiththeMIC6.25,6.25−12.5and6.25μg/mL,respectively.\n*Ascorbicacid\nTheremainingcompoundsexhibitedpoorantifungalability.\n#Butylatedhydroxytoluene\nLowerIC50valuesindicatebetterradicalscavengingability\nConclusion\ntively.Therestofthecompoundsexhibitedleast-to-moderate\nantioxidant activity. It is obvious from the screening of\nIn summary, we synthesized a novel library of indole–\nantioxidant activity that the compounds with methyl and\nbenzimidazole-based 1,2,3-triazole derivatives under con-\nmethoxygroupsonthephenylringwerehighlyfavoredfor\nventionalandmicrowaveirradiationconditions.Themicrowave\nradicalscavengingactivity.\nirradiation method was proved to be highly efficient as the\nreactionscompletedwithhighyieldsinshortreactiontime.\nAntimicrobialactivity Allthetargetcompoundsweretestedforantimycobacterial\nactivity, and compounds 4b, 4h and 4i exhibited signifi-\nThe series 4a–j was tested for their antibacterial activity cantpotency.Theantioxidantactivityscreeningrevealedthat\nagainstgram-positiveStaphylococcusaureus(ATCC6538), compounds 4e, 4f and 4g were found to be potent radical\nBacillus subtilis (ATCC 6633) and gram-negative Proteus scavengingagents.Inaddition,theantimicrobialactivityof\nvulgaris (ATCC 29213), Escherichia coli (ATCC 11229). thetitlecompoundsdemonstratedthatcompounds4b,4cand\nGentamicin was used as standard, and the activity results 4hweremorepotentagainstpathogenicbacteriaandfungi.\nTable5 Antimicrobialactivity\nCompound Gram-positivebacteria Gram-negativebacteria Fungalstrains\n(MICinμg/mL)ofnewly\nsynthesizedcompounds B.subtilis S.aureus E.coli P.vulgaris A.niger C.albicans\n4a 25 25 50 25 12.5 25\n4b 3.125 6.25 6.25 6.25 6.25 6.25\n4c 6.25 3.125 6.25 6.25 12.5 6.25\n4d 50 25 25 12.5 50 12.5\n4e 25 50 25 25 50 50\n4f 50 50 50 25 100 50\n4g 12.5 12.5 25 50 50 100\n4h 3.125 3.125 3.125 6.25 6.25 6.25\n4i 50 25 50 50 25 25\n4j 12.5 12.5 25 12.5 25 50\nGentamicin 1.56 1.56 1.56 3.125 – –\nFluconazole – – – – 3.125 1.56\nDMSO – – – – – –\n123",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4a",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "5",
+    "target_units": "µg/mL",
+    "bacteria": "E.coli",
+    "evidence": {
+      "source_file": "s11030-018-9828-1.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "MolecularDiversity\nTable4 Antioxidantactivityofcompounds(4a–j) were obtained as minimum inhibitory concentration (MIC)\nin μg/mL (Table 5). As observed from Table 5, com-\nCompound Scavengingactivity(IC50 μg/mL)\npounds 4b (3.125–6.25μg/mL) (Ar = 2-chlorophenyl), 4c\nDPPH H2O2\n(3.125–6.25μg/mL)(Ar=4-chlorophenyl) and4h(3.125–\n4a 14.45±1.04 15.61±0.54 6.25μg/mL) (Ar = 2-nitrophenyl) those have electron-\n4b 15.32±0.45 17.05±0.71 withdrawing nitro group and electronegative substituents\n4c 18.54±0.58 18.24±0.49 onthephenylringexhibitedmorepotentinhibitionagainst\n4d 14.08±0.42 16.52±1.20 bacterial strains. On the other hand, methyl and methoxy\n4e 10.04±1.10 11.19±0.60 substituents exhibited poor antimicrobial activity. It can be\n4f 08.52±0.57 10.18±0.75 concludedthatthenitrogroupandchlorosubstituentsonthe\n4g 09.25±0.85 10.76±0.42 phenylringhavestrongeffectonantibacterialactivity[31].\n4h 22.72±0.76 28.12±0.84 The same library was tested for the antifungal activity\n4i 24.40±0.29 23.25±0.93 against Candida albicans (ATCC 10231) and Aspergillus\n4j 21.07±0.40 18.53±0.75 niger (ATCC 9029). In Table 5, compounds 4b (Ar = 2-\nchlorophenyl), 4c (Ar = 4-chlorophenyl) and 4h (Ar =\nAA* 13.62±0.69 16.83±0.48\n2-nitrophenyl) were exhibited moderate antifungal activity\nBHT# 17.16±0.25 17.62±0.87\nwiththeMIC6.25,6.25−12.5and6.25μg/mL,respectively.\n*Ascorbicacid\nTheremainingcompoundsexhibitedpoorantifungalability.\n#Butylatedhydroxytoluene\nLowerIC50valuesindicatebetterradicalscavengingability\nConclusion\ntively.Therestofthecompoundsexhibitedleast-to-moderate\nantioxidant activity. It is obvious from the screening of\nIn summary, we synthesized a novel library of indole–\nantioxidant activity that the compounds with methyl and\nbenzimidazole-based 1,2,3-triazole derivatives under con-\nmethoxygroupsonthephenylringwerehighlyfavoredfor\nventionalandmicrowaveirradiationconditions.Themicrowave\nradicalscavengingactivity.\nirradiation method was proved to be highly efficient as the\nreactionscompletedwithhighyieldsinshortreactiontime.\nAntimicrobialactivity Allthetargetcompoundsweretestedforantimycobacterial\nactivity, and compounds 4b, 4h and 4i exhibited signifi-\nThe series 4a–j was tested for their antibacterial activity cantpotency.Theantioxidantactivityscreeningrevealedthat\nagainstgram-positiveStaphylococcusaureus(ATCC6538), compounds 4e, 4f and 4g were found to be potent radical\nBacillus subtilis (ATCC 6633) and gram-negative Proteus scavengingagents.Inaddition,theantimicrobialactivityof\nvulgaris (ATCC 29213), Escherichia coli (ATCC 11229). thetitlecompoundsdemonstratedthatcompounds4b,4cand\nGentamicin was used as standard, and the activity results 4hweremorepotentagainstpathogenicbacteriaandfungi.\nTable5 Antimicrobialactivity\nCompound Gram-positivebacteria Gram-negativebacteria Fungalstrains\n(MICinμg/mL)ofnewly\nsynthesizedcompounds B.subtilis S.aureus E.coli P.vulgaris A.niger C.albicans\n4a 25 25 50 25 12.5 25\n4b 3.125 6.25 6.25 6.25 6.25 6.25\n4c 6.25 3.125 6.25 6.25 12.5 6.25\n4d 50 25 25 12.5 50 12.5\n4e 25 50 25 25 50 50\n4f 50 50 50 25 100 50\n4g 12.5 12.5 25 50 50 100\n4h 3.125 3.125 3.125 6.25 6.25 6.25\n4i 50 25 50 50 25 25\n4j 12.5 12.5 25 12.5 25 50\nGentamicin 1.56 1.56 1.56 3.125 – –\nFluconazole – – – – 3.125 1.56\nDMSO – – – – – –\n123",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  }
+]

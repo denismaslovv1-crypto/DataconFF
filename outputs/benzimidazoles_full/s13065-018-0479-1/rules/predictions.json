@@ -1,0 +1,482 @@
+[
+  {
+    "compound_id": "4a",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "µg/mL",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "s13065-018-0479-1.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4a",
+      "evidence_text": "Table 1 Antimicrobial screening results of compounds 4a–f and 6a–f presented as MIC (μg/mL)\nBc Sa Pa Ec Ab Ca\n4a 64 64 256 128 128 128",
+      "extraction_method": "benzimidazole.rule_extractor.abbreviated_antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4a",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "µg/mL",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "s13065-018-0479-1.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4a",
+      "evidence_text": "Table 1 Antimicrobial screening results of compounds 4a–f and 6a–f presented as MIC (μg/mL)\nBc Sa Pa Ec Ab Ca\n4a 64 64 256 128 128 128",
+      "extraction_method": "benzimidazole.rule_extractor.abbreviated_antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4b",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "µg/mL",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "s13065-018-0479-1.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4b",
+      "evidence_text": "Table 1 Antimicrobial screening results of compounds 4a–f and 6a–f presented as MIC (μg/mL)\nBc Sa Pa Ec Ab Ca\n4b 128 128 128 128 256 256",
+      "extraction_method": "benzimidazole.rule_extractor.abbreviated_antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4b",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "µg/mL",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "s13065-018-0479-1.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4b",
+      "evidence_text": "Table 1 Antimicrobial screening results of compounds 4a–f and 6a–f presented as MIC (μg/mL)\nBc Sa Pa Ec Ab Ca\n4b 128 128 128 128 256 256",
+      "extraction_method": "benzimidazole.rule_extractor.abbreviated_antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4c",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "µg/mL",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "s13065-018-0479-1.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4c",
+      "evidence_text": "Table 1 Antimicrobial screening results of compounds 4a–f and 6a–f presented as MIC (μg/mL)\nBc Sa Pa Ec Ab Ca\n4c 256 128 256 64 256 256",
+      "extraction_method": "benzimidazole.rule_extractor.abbreviated_antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4c",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "µg/mL",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "s13065-018-0479-1.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4c",
+      "evidence_text": "Table 1 Antimicrobial screening results of compounds 4a–f and 6a–f presented as MIC (μg/mL)\nBc Sa Pa Ec Ab Ca\n4c 256 128 256 64 256 256",
+      "extraction_method": "benzimidazole.rule_extractor.abbreviated_antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4d",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "µg/mL",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "s13065-018-0479-1.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4d",
+      "evidence_text": "Table 1 Antimicrobial screening results of compounds 4a–f and 6a–f presented as MIC (μg/mL)\nBc Sa Pa Ec Ab Ca\n4d 256 128 256 64 256 256",
+      "extraction_method": "benzimidazole.rule_extractor.abbreviated_antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4d",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "µg/mL",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "s13065-018-0479-1.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4d",
+      "evidence_text": "Table 1 Antimicrobial screening results of compounds 4a–f and 6a–f presented as MIC (μg/mL)\nBc Sa Pa Ec Ab Ca\n4d 256 128 256 64 256 256",
+      "extraction_method": "benzimidazole.rule_extractor.abbreviated_antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4e",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "µg/mL",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "s13065-018-0479-1.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4e",
+      "evidence_text": "Table 1 Antimicrobial screening results of compounds 4a–f and 6a–f presented as MIC (μg/mL)\nBc Sa Pa Ec Ab Ca\n4e 256 128 256 64 256 256",
+      "extraction_method": "benzimidazole.rule_extractor.abbreviated_antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4e",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "µg/mL",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "s13065-018-0479-1.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4e",
+      "evidence_text": "Table 1 Antimicrobial screening results of compounds 4a–f and 6a–f presented as MIC (μg/mL)\nBc Sa Pa Ec Ab Ca\n4e 256 128 256 64 256 256",
+      "extraction_method": "benzimidazole.rule_extractor.abbreviated_antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4f",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "512",
+    "target_units": "µg/mL",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "s13065-018-0479-1.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4f",
+      "evidence_text": "Table 1 Antimicrobial screening results of compounds 4a–f and 6a–f presented as MIC (μg/mL)\nBc Sa Pa Ec Ab Ca\n4f 512 512 256 256 512 512",
+      "extraction_method": "benzimidazole.rule_extractor.abbreviated_antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4f",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "µg/mL",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "s13065-018-0479-1.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "4f",
+      "evidence_text": "Table 1 Antimicrobial screening results of compounds 4a–f and 6a–f presented as MIC (μg/mL)\nBc Sa Pa Ec Ab Ca\n4f 512 512 256 256 512 512",
+      "extraction_method": "benzimidazole.rule_extractor.abbreviated_antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "6a",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "32",
+    "target_units": "µg/mL",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "s13065-018-0479-1.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "6a",
+      "evidence_text": "Table 1 Antimicrobial screening results of compounds 4a–f and 6a–f presented as MIC (μg/mL)\nBc Sa Pa Ec Ab Ca\n6a 32 32 64 64 64 32",
+      "extraction_method": "benzimidazole.rule_extractor.abbreviated_antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "6a",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "µg/mL",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "s13065-018-0479-1.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "6a",
+      "evidence_text": "Table 1 Antimicrobial screening results of compounds 4a–f and 6a–f presented as MIC (μg/mL)\nBc Sa Pa Ec Ab Ca\n6a 32 32 64 64 64 32",
+      "extraction_method": "benzimidazole.rule_extractor.abbreviated_antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "6b",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "µg/mL",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "s13065-018-0479-1.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "6b",
+      "evidence_text": "Table 1 Antimicrobial screening results of compounds 4a–f and 6a–f presented as MIC (μg/mL)\nBc Sa Pa Ec Ab Ca\n6b 64 64 64 64 128 128",
+      "extraction_method": "benzimidazole.rule_extractor.abbreviated_antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "6b",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "µg/mL",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "s13065-018-0479-1.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "6b",
+      "evidence_text": "Table 1 Antimicrobial screening results of compounds 4a–f and 6a–f presented as MIC (μg/mL)\nBc Sa Pa Ec Ab Ca\n6b 64 64 64 64 128 128",
+      "extraction_method": "benzimidazole.rule_extractor.abbreviated_antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "6c",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "µg/mL",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "s13065-018-0479-1.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "6c",
+      "evidence_text": "Table 1 Antimicrobial screening results of compounds 4a–f and 6a–f presented as MIC (μg/mL)\nBc Sa Pa Ec Ab Ca\n6c 128 64 128 32 256 256",
+      "extraction_method": "benzimidazole.rule_extractor.abbreviated_antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "6c",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "32",
+    "target_units": "µg/mL",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "s13065-018-0479-1.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "6c",
+      "evidence_text": "Table 1 Antimicrobial screening results of compounds 4a–f and 6a–f presented as MIC (μg/mL)\nBc Sa Pa Ec Ab Ca\n6c 128 64 128 32 256 256",
+      "extraction_method": "benzimidazole.rule_extractor.abbreviated_antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "6d",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "µg/mL",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "s13065-018-0479-1.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "6d",
+      "evidence_text": "Table 1 Antimicrobial screening results of compounds 4a–f and 6a–f presented as MIC (μg/mL)\nBc Sa Pa Ec Ab Ca\n6d 128 64 128 32 256 256",
+      "extraction_method": "benzimidazole.rule_extractor.abbreviated_antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "6d",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "32",
+    "target_units": "µg/mL",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "s13065-018-0479-1.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "6d",
+      "evidence_text": "Table 1 Antimicrobial screening results of compounds 4a–f and 6a–f presented as MIC (μg/mL)\nBc Sa Pa Ec Ab Ca\n6d 128 64 128 32 256 256",
+      "extraction_method": "benzimidazole.rule_extractor.abbreviated_antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "6e",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "64",
+    "target_units": "µg/mL",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "s13065-018-0479-1.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "6e",
+      "evidence_text": "Table 1 Antimicrobial screening results of compounds 4a–f and 6a–f presented as MIC (μg/mL)\nBc Sa Pa Ec Ab Ca\n6e 128 64 128 32 256 256",
+      "extraction_method": "benzimidazole.rule_extractor.abbreviated_antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "6e",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "32",
+    "target_units": "µg/mL",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "s13065-018-0479-1.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "6e",
+      "evidence_text": "Table 1 Antimicrobial screening results of compounds 4a–f and 6a–f presented as MIC (μg/mL)\nBc Sa Pa Ec Ab Ca\n6e 128 64 128 32 256 256",
+      "extraction_method": "benzimidazole.rule_extractor.abbreviated_antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "6f",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "256",
+    "target_units": "µg/mL",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "s13065-018-0479-1.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "6f",
+      "evidence_text": "Table 1 Antimicrobial screening results of compounds 4a–f and 6a–f presented as MIC (μg/mL)\nBc Sa Pa Ec Ab Ca\n6f 256 256 128 128 256 256",
+      "extraction_method": "benzimidazole.rule_extractor.abbreviated_antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "6f",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "128",
+    "target_units": "µg/mL",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "s13065-018-0479-1.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": "table_like_text",
+      "row_id": "6f",
+      "evidence_text": "Table 1 Antimicrobial screening results of compounds 4a–f and 6a–f presented as MIC (μg/mL)\nBc Sa Pa Ec Ab Ca\n6f 256 256 128 128 256 256",
+      "extraction_method": "benzimidazole.rule_extractor.abbreviated_antimicrobial_table",
+      "confidence": 0.85
+    },
+    "validation_status": "valid"
+  }
+]

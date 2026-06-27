@@ -1,332 +1,133 @@
-# Datacon Extraction
+# DataCon ChemX Benzimidazoles Extraction
 
-RAG-assisted workspace for chemical data extraction, dataset preparation, and future molecule selection workflows.
+This repository contains a reproducible ChemX information extraction workflow
+for the DataCon final task. It focuses on the `Benzimidazoles` domain and turns
+scientific PDFs into ChemX-compatible prediction CSV files, then evaluates them
+with the repository's local evaluator.
 
-The current priority is:
-
-1. Build a local RAG memory layer over project Markdown notes and reusable examples.
-2. Build a universal PDF extraction MVP.
-3. Preserve raw extraction results with source provenance.
-4. Add chemical record extraction, normalization, and validation.
-
-## Project Layout
+The final submitted path is deterministic and rules-only:
 
 ```text
-project_docs/         Architecture, roadmap, decisions, parser plans.
-methodology_notes/    Notes about chemical data, RAG, PDF extraction, validation.
-molecule_facts/       Factual molecule and dataset records.
-code_examples/        Reusable extraction examples and drafts.
-src/rag_core/         Local RAG indexing and retrieval layer.
-src/pdf_extraction/   PDF parser MVP and optional structure-recognition interfaces.
-rag_index/            Generated local RAG/Chroma indexes.
-tests/                Unit tests for core project utilities.
+PDF -> parser -> evidence -> rule extraction -> normalization -> validation -> ChemX CSV -> evaluation -> Streamlit UI
 ```
 
-Logical groups:
+RAG, LLM fallback, multi-agent workflows, MolScribe, DECIMER, YOLO, OCR stacks,
+and full image-based structure recognition are not required for the final
+rules-only result.
+
+## Final Result
+
+The final saved full Benzimidazoles rules-only run is:
 
 ```text
-core/            src/rag_core, src/pdf_extraction, config, tests, project docs.
-examples/        code_examples and reusable parser drafts.
-artifacts/       data and rag_index working outputs.
-external_tools/  local optional environments and wrappers for MolScribe, DECIMER, OSRA, RxnScribe, YOLO.
+outputs/benzimidazoles_full/
 ```
 
-## Python environments
+It completed 31/31 locally available PDFs and produced:
 
-This project uses separate local Python environments. They are not stored in Git; recreate them locally.
+| Metric | Value |
+|---|---:|
+| Predictions | 2247 |
+| Ground-truth rows | 1721 |
+| Local evaluator Macro-F1 | 0.4622 |
+| Published single-agent baseline | 0.217 |
 
-Main project:
+This exceeds the published single-agent baseline under the repository's local
+evaluator. The evaluator is an approximation of benchmark behavior, not a claim
+of official scorer parity.
+
+Key extraction improvements in the final path:
+
+- source-backed `target_units` extraction from table titles, headers, and
+  compact OCR forms such as `µmolmL−1`, `µg mL−1`, and `mg L−1`;
+- table-like antibacterial MIC extraction for compound IDs such as `BK-1` to
+  `BK-11`, keeping only supported `S. aureus` and `E. coli` columns;
+- compact antimicrobial MIC table extraction for headers such as
+  `Bc Sa Pa Ec Ab Ca`, keeping the supported `Sa` and `Ec` columns;
+- evidence-aware export deduplication: records with the same ChemX values are
+  merged only when they come from the same `evidence_id`, while repeated
+  mentions from distinct evidence contexts are preserved;
+- metric/reporting safeguards for PDF-stem ground-truth matching and
+  metric-only canonicalization of numeric values and bacteria aliases.
+
+See [RESULTS.md](RESULTS.md) for field metrics and caveats.
+
+## Installation
+
+Create the repository-local environment:
 
 ```powershell
 .\setup_project_env.cmd
-.\.venv\Scripts\python.exe -m pytest
 ```
 
-MolScribe:
+Install the final public requirements in the repository environment if needed:
 
 ```powershell
-.\setup_molscribe_env.cmd
-.\.venv-molscribe\Scripts\python.exe scripts\run_molscribe_one.py --image path\to\image.png --allow-download
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
 ```
 
-Optional external structure tools:
+Use only the repository-local interpreter for project commands:
 
 ```powershell
-.\setup_external_envs.cmd
+.\.venv\Scripts\python.exe
 ```
 
-This creates/updates MolScribe and DECIMER environments. DECIMER is intentionally separate because it is a heavy detector stack.
+## Full Rules-Only Run
 
-Do not use plain python, py, system Python, or Codex runtime.
-Always call the interpreter explicitly.
-
-## Local RAG
-
-Create the project virtual environment with the documented setup script before running commands:
+Run the reproducible full Benzimidazoles rules-only workflow:
 
 ```powershell
-.\.venv\Scripts\python.exe -m pip install -e .
-```
-
-Build the index:
-
-```powershell
-.\.venv\Scripts\python.exe -m rag_core build --root . --index-dir rag_index
-```
-
-Query the notes:
-
-```powershell
-.\.venv\Scripts\python.exe -m rag_core query "PDF table extraction provenance" --index-dir rag_index --top-k 5
-```
-
-The retriever returns only relevant chunks with collection, source file, heading, line range, and score.
-
-## Vector RAG For Methodology Notes
-
-The vector layer is prepared for OpenAI-compatible embedding APIs and ChromaDB.
-Here "OpenAI-compatible" means the project uses the OpenAI Python SDK against a provider that exposes the same `/embeddings` API shape. The embeddings do not have to come from OpenAI; in the default config they come from OpenRouter.
-
-Install vector dependencies:
-
-```powershell
-scripts/install_vector_deps.ps1
-```
-
-Copy `.env.example` to `.env`, then fill:
-
-```env
-OPENMODEL_API_KEY=your_openmodel_key
-OPENROUTER_API_KEY=your_openrouter_key
-```
-
-The default model config is in [config/rag_models.json](config/rag_models.json):
-
-- text requests: `deepseek-v4-flash` through `https://api.openmodel.ai/v1`
-- embeddings: `nvidia/llama-nemotron-embed-vl-1b-v2:free` through `https://openrouter.ai/api/v1`
-
-Build a Chroma vector DB from `methodology_notes`:
-
-```powershell
-scripts/vector.ps1 build
-```
-
-Query the vector DB:
-
-```powershell
-scripts/vector.ps1 query "PDF table extraction with source provenance"
-```
-
-Generated vector files are stored in `rag_index/vector_chroma/`.
-Use `-Collection molecule_facts` later when factual molecule records become large enough to justify semantic search. This uses the same `rag_core`; it is not a separate RAG system.
-
-## PDF Extraction
-
-Parse all PDFs from `data/pdf_raw` into raw JSON and CSV:
-
-```powershell
-.\.venv\Scripts\python.exe -m pdf_extraction
-```
-
-Outputs are written to:
-
-```text
-data/pdf_parsed/
-  chemical_records.csv
-  *.raw.json
-```
-
-The parser keeps provenance for extracted values:
-
-```text
-source_file -> page -> section/table/figure -> extraction_method -> confidence
-```
-
-Optional image/structure stages are configured through JSON:
-
-```powershell
-.\.venv\Scripts\python.exe -m pdf_extraction --tool-config config/pdf_tools.example.json
-```
-
-The example config is safe by default: YOLO, MolScribe, OSRA, and RxnScribe tools are present but disabled. Enable them only after installing the corresponding local tools/checkpoints.
-
-Optional local dependencies:
-
-```powershell
-pip install -e .[pdf-images]
-pip install -e .[yolo]
-```
-
-External tools:
-
-- MolScribe: molecule image -> SMILES/MOL.
-- OSRA: molecule image/PDF -> SMILES.
-- RxnScribe: reaction diagram -> reactants, conditions, products. The repository is not vendored here; only the optional command interface is kept.
-- YOLO/DocLayout-YOLO: figure/molecule crop detection before recognition.
-
-### Structure recognition quality rules
-
-MolScribe can return wildcard SMILES for generic scaffolds with `R`, `R1`, `R2`, `Ar`, or other variable substituent labels. Examples include:
-
-```text
-*C(=O)C(C)C(=O)COC(C)=O
-*C.*C.*C.CC=C(c1cccnc1)N(N=CCNC1CCCC1)c1ccccn1
-```
-
-These are not final molecule structures. They are retained as scaffold/template records, but the parser marks them as:
-
-```text
-is_generic_structure=True
-generic_structure_reason=wildcard_atom_in_smiles
-validation_status=generic_structure_unresolved
-```
-
-Generic scaffold records must not resolve a compound label and must not be treated as final dataset molecules. They can only be converted into final molecules after separate evidence links substituent definitions from tables or text, for example `R1 = ...`, `R2 = ...`, or `Ar = ...`.
-
-Figure text such as binding values is a separate extraction target, not part of structure recognition. Text near a structure should become property records, for example:
-
-```text
-ORL1 binding IC50 = 350 nM
-GTPγS antagonism IC50 = 480 nM
-hERG binding IC50 = 23 nM
-```
-
-The future agent/LLM layer may compare scaffold, substituent tables, figure text, and candidate SMILES, but it must not invent missing substituents without source evidence.
-
-### Manual PyMuPDF molecule crop workflow
-
-Before adding YOLO, use a manual crop loop to verify that MolScribe works on molecule fragments from real PDFs:
-
-```powershell
-.\.venv\Scripts\python.exe scripts\render_pdf_pages.py `
-  --pdf "data\pdf_raw\article.pdf" `
-  --pages 1-3 `
-  --zoom 2 `
-  --output-dir "data\pdf_pages\article"
-```
-
-Open a rendered page PNG, choose a molecule bounding box in pixel coordinates, then crop that PDF region:
-
-```powershell
-.\.venv\Scripts\python.exe scripts\crop_pdf_region.py `
-  --pdf "data\pdf_raw\article.pdf" `
-  --page 2 `
-  --bbox "120,300,420,620" `
-  --bbox-units pixels `
-  --zoom 2 `
-  --output "data\molecule_crops\article_p002_mol001.png"
-```
-
-The crop command writes a sidecar JSON with source file, page, bbox, method, and confidence. Use the same `--zoom` value that was used for page rendering when the bbox is measured from the PNG.
-
-Run MolScribe on the crop:
-
-```powershell
-.\.venv-molscribe\Scripts\python.exe scripts\run_molscribe_one.py `
-  --image "data\molecule_crops\article_p002_mol001.png" `
-  --allow-download `
-  --output "data\molecule_crops\article_p002_mol001.molscribe.json"
-```
-
-After the normal PDF pipeline has produced `data/pdf_parsed/<article>.raw.json`, import the crop recognition result into the parsed JSON and CSV outputs:
-
-```powershell
-.\.venv\Scripts\python.exe scripts\import_molscribe_crop.py `
-  --output-dir "data\pdf_parsed" `
-  --sidecar "data\molecule_crops\article_p002_mol001.png.json" `
-  --molscribe-json "data\molecule_crops\article_p002_mol001.molscribe.json" `
-  --figure-id "Figure 1" `
-  --compound-label "1" `
-  --caption "Figure 1. Biological profiles of lead compound 1." `
-  --min-confidence 0.5
-```
-
-### Automatic DECIMER segmentation workflow
-
-DECIMER Segmentation is kept in a separate environment because it is a heavy ML detector:
-
-```powershell
-.\setup_decimer_env.cmd
-```
-
-Then run the automatic parser:
-
-```powershell
-.\parse_pdf_auto.cmd "data\pdf_raw\article.pdf" 1-3
-```
-
-To process every PDF in `data/pdf_raw` and rebuild the shared CSV files:
-
-```powershell
-.\parse_pdf_auto_all.cmd
-```
-
-To limit all PDFs to selected pages while testing:
-
-```powershell
-.\parse_pdf_auto_all.cmd data\pdf_raw 1-3
-```
-
-This runs:
-
-```text
-base PDF pipeline -> page rendering -> DECIMER structure crops -> MolScribe -> import into raw JSON/CSV
-```
-
-Outputs are written under:
-
-```text
-data/pdf_pages/
-data/molecule_crops_auto/
-data/pdf_parsed/
-```
-
-## ChemX Benzimidazoles workflow
-
-The deterministic ChemX workflow reuses the PDF parser, selects evidence around
-MIC/pMIC and target bacteria, preserves raw candidates and provenance, then
-normalizes, validates, and exports the strict benchmark schema:
-
-```text
-compound_id,smiles,target_type,target_relation,target_value,target_units,bacteria
-```
-
-Run it for one PDF (the ground-truth CSV is optional; supply it to calculate
-metrics). The repository includes a locally available ChemX example:
-
-```powershell
-.\.venv\Scripts\python.exe scripts\run_domain.py `
-  --domain benzimidazoles `
-  --pdf data\chemx\benzimidazoles\pdfs\janupally2014.pdf `
+.\.venv\Scripts\python.exe scripts\run_benzimidazoles_full.py `
+  --pdf-dir data\chemx\benzimidazoles\pdfs `
   --ground-truth data\chemx\benzimidazoles\ground_truth.csv `
-  --output-dir outputs\benzimidazoles\janupally
+  --output-dir outputs\benzimidazoles_full `
+  --llm-mode never
 ```
 
-Outputs are written to `outputs/benzimidazoles/`: `predictions.csv` contains
-only the ChemX target columns, while `predictions.json`, `parsed/*.raw.json`,
-and `evidence.json` retain provenance. Evaluate an existing prediction file:
+The command writes per-article artifacts and merged outputs under the selected
+output directory.
 
-```powershell
-.\.venv\Scripts\python.exe scripts\evaluate_domain.py `
-  --domain benzimidazoles `
-  --predictions outputs\benzimidazoles\janupally\predictions.csv `
-  --output-dir outputs\benzimidazoles\janupally `
-  --ground-truth data\chemx\benzimidazoles\ground_truth.csv
+Important output files:
+
+```text
+predictions.csv              ChemX-compatible merged prediction rows
+metrics.json                 aggregate local evaluation metrics
+field_metrics.csv            field-level precision, recall, and F1
+article_summary.csv          per-PDF status, prediction counts, and metrics
+run_manifest.json            reproducibility metadata
 ```
 
-### Current checked result
+## Streamlit Review UI
 
-On `janupally2014.pdf` (DOI `10.1016/j.bmc.2014.09.008`), the deterministic
-table-like text parser exports 82 validated MIC records.  It achieved Macro-F1
-`0.8554` using the 82 ground-truth rows belonging to that article; this is a
-per-article smoke-test result, not a score for the full 1,721-row ChemX split.
-The parser preserves unvalidated raw candidates separately and excludes
-unitless prose matches from the prediction CSV.
-
-The optional review UI uses Streamlit. It deliberately is not installed by this
-repository; install it manually in the repository `.venv` if a UI run is
-needed, then start it with:
+Run the local review UI:
 
 ```powershell
 .\.venv\Scripts\python.exe -m streamlit run app.py
 ```
+
+The final UI has three review modes:
+
+- `Saved Full-Run Results`: load an existing output directory and inspect
+  aggregate metrics, article summaries, field metrics, zero-row/low-row PDFs,
+  predictions, and downloads.
+- `Run Single Article`: select or upload one PDF, run the rules-only
+  Benzimidazoles workflow with corrected PDF-stem evaluation, and inspect
+  predictions, validation errors, field metrics, evidence, and provenance.
+- `Run Full Dataset`: run the documented full rules-only command after explicit
+  confirmation, then load the resulting output directory in the saved-results
+  view.
+
+## Limitations
+
+- Scope is one ChemX domain: `Benzimidazoles`.
+- The final public run is rules-only; no LLM calls are used.
+- SMILES remain unresolved and are exported as `NOT_DETECTED`.
+- Full image/structure recognition is not used.
+- The local evaluator is approximate and should be interpreted as a local
+  reproducibility metric.
+- Recall remains limited, and performance is uneven across PDFs.
+
+## Public Documentation
+
+- [ARCHITECTURE.md](ARCHITECTURE.md)
+- [RESULTS.md](RESULTS.md)

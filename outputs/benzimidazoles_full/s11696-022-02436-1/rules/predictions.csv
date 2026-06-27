@@ -1,0 +1,46 @@
+compound_id,smiles,target_type,target_relation,target_value,target_units,bacteria
+0,NOT_DETECTED,MIC,=,0.013,µmol/mL,Staphylococcus aureus
+0,NOT_DETECTED,MIC,=,0.013,µmol/mL,"E.
+coli"
+0,NOT_DETECTED,MIC,=,0.013,µmol/mL,Escherichia coli
+0,NOT_DETECTED,MIC,=,0.013,µmol/mL,Staphylococcus aureus
+0,NOT_DETECTED,MIC,=,0.013,µmol/mL,Escherichia coli
+0,NOT_DETECTED,MIC,=,0.013,µmol/mL,Escherichia coli
+0,NOT_DETECTED,MIC,=,0.013,µmol/mL,Staphylococcus aureus
+0,NOT_DETECTED,MIC,=,0.013,µmol/mL,Escherichia coli
+0,NOT_DETECTED,MIC,=,0.026,µmol/mL,Staphylococcus aureus
+0,NOT_DETECTED,MIC,=,0.026,µmol/mL,"E.
+coli"
+0,NOT_DETECTED,MIC,=,0.026,µmol/mL,Escherichia coli
+0,NOT_DETECTED,MIC,=,0.026,µmol/mL,Staphylococcus aureus
+0,NOT_DETECTED,MIC,=,0.026,µmol/mL,Escherichia coli
+0,NOT_DETECTED,MIC,=,0.026,µmol/mL,Escherichia coli
+0,NOT_DETECTED,MIC,=,0.026,µmol/mL,Staphylococcus aureus
+0,NOT_DETECTED,MIC,=,0.026,µmol/mL,Escherichia coli
+0,NOT_DETECTED,MIC,=,0.030,µmol/mL,Staphylococcus aureus
+0,NOT_DETECTED,MIC,=,0.030,µmol/mL,"E.
+coli"
+0,NOT_DETECTED,MIC,=,0.030,µmol/mL,Escherichia coli
+0,NOT_DETECTED,MIC,=,0.030,µmol/mL,Staphylococcus aureus
+0,NOT_DETECTED,MIC,=,0.030,µmol/mL,Escherichia coli
+0,NOT_DETECTED,MIC,=,0.030,µmol/mL,Escherichia coli
+0,NOT_DETECTED,MIC,=,0.030,µmol/mL,Staphylococcus aureus
+0,NOT_DETECTED,MIC,=,0.030,µmol/mL,Escherichia coli
+0,NOT_DETECTED,MIC,=,0.0260,µmol/mL,Staphylococcus aureus
+0,NOT_DETECTED,MIC,=,0.0260,µmol/mL,"E.
+coli"
+0,NOT_DETECTED,MIC,=,0.0260,µmol/mL,Escherichia coli
+0,NOT_DETECTED,MIC,=,0.0260,µmol/mL,Staphylococcus aureus
+0,NOT_DETECTED,MIC,=,0.0260,µmol/mL,Escherichia coli
+0,NOT_DETECTED,MIC,=,0.0260,µmol/mL,Escherichia coli
+0,NOT_DETECTED,MIC,=,0.0260,µmol/mL,Staphylococcus aureus
+0,NOT_DETECTED,MIC,=,0.0260,µmol/mL,Escherichia coli
+0,NOT_DETECTED,MIC,=,5,µmol/mL,Staphylococcus aureus
+0,NOT_DETECTED,MIC,=,5,µmol/mL,"E.
+coli"
+0,NOT_DETECTED,MIC,=,5,µmol/mL,Escherichia coli
+0,NOT_DETECTED,MIC,=,5,µmol/mL,Staphylococcus aureus
+0,NOT_DETECTED,MIC,=,5,µmol/mL,Escherichia coli
+0,NOT_DETECTED,MIC,=,5,µmol/mL,Escherichia coli
+0,NOT_DETECTED,MIC,=,5,µmol/mL,Staphylococcus aureus
+0,NOT_DETECTED,MIC,=,5,µmol/mL,Escherichia coli

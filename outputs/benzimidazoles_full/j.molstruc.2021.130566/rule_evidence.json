@@ -1,0 +1,240 @@
+[
+  {
+    "text": "le history: Urea/thiourea derivatives with heteroaromatic scaffolds such as indole, benzimidazole, and benzothia-\nReceived 12 February 2021 zole were designed, synthesized, and evaluated for their potential antimicrobial activity in vitro assays\nRevised 22 April 2021 to establish against B. cereus, S. aureus, E. coli , and P. aeruginosa . Our results indicate that compounds are\nAccepted 23 April 2021\nonly active in gram-positive bacteria. Molecular docking studies were carried out for the most efficient\nAvailable online 7 May 2021\ncompounds to understand the interactions with proteins involved in pepti",
+    "source": {
+      "source_file": "j.molstruc.2021.130566.pdf",
+      "page": 1,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "Urea/thiourea derivatives with heteroaromatic scaffolds such as indole, benzimidazole, and benzothia-\nReceived 12 February 2021 zole were designed, synthesized, and evaluated for their potential antimicrobial activity in vitro assays\nRevised 22 April 2021 to establish against B. cereus, S. aureus, E. coli , and P. aeruginosa . Our results indicate that compounds are\nAccepted 23 April 2021\nonly active in gram-positive bacteria. Molecular docking studies were carried out for the most efficient\nAvailable online 7 May 2021\ncompounds to understand the interactions with proteins involved in peptidoglycan",
+    "source": {
+      "source_file": "j.molstruc.2021.130566.pdf",
+      "page": 1,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "F. Lafzi, D. Kilic, M. Yildiz et al. Journal of Molecular Structure 1241 (2021) 130566\nchloride 32 was treated with sodium azide in aqueous tetrahy-\ndrofuran to give acyl azide 33 , which was subjected to the ther-\nmal decomposition. Despite heating in toluene in a sealed tube at\n110 °C for 24 h, the acyl azide 33 was recovered without degra-\ndation. Surprisingly, when 33 was heated in the presence of ( S )-\n1-phenylethylamine ( 31 ) under the same reaction conditions, the\namide 35 was obtained as a sole product via nucleophilic acyl sub-\nstitution. To confirm the structure of 35 as a chemical, a simi-\nlar reaction of acyl chloride 32 with amine 34 led to product 35 .\nUnfortunately, all efforts to synthesize the urea/thiourea 23 and\n24 failed ( Scheme 7 ). After this attempted synthesis, we turned\nour attention to synthesize their other analogs 39 and 40 . In this\ncontext, amine 38 was prepared in three-step from commercially\nScheme 6. Synthesis of urea/thiourea 21 / 22 . available 2-iodoaniline ( 36 ), as described in the literature [ 34 , 35 ].\nTreatment of 2-aminoindole 38 with isocyanate 2a in THF/NaH at\nroom temperature resulted in the desired urea 39 in a low yield\n(25%) ( Scheme 8 ). When 38 and thioisocyanate 2b were treated\nsis of intermediate 27 , by a Curtius rearrangement. In practice,\nunder the same reaction conditions, no reaction was observed and\nthe present synthesis of urea/thiourea 21 and 22 was executed\nthe starting materials were recovered. Using bases such as NaOMe,\nstraightforwardly, without any unexpected difficulties. Compounds\n21 and 22 were readily prepared in three steps from commercially\nLDA, KF-Al\n2\nO\n3\n, and n -BuLi also did not influence the reaction. The\nreaction of 39 with a Lawesson’s reagent did not allow to the for-\navailable indole-3-carboxylic acid ( 25 ) using a literature procedure\nmation of the corresponding thiourea 40 .\n[ 32 , 33 ] in high yields. Curtius rearrangement of indole-3-carboxylic\nacid ( 25 ) using diphenylphosphoryl azide (DPPA) and Et\n3\nN in re-\nfluxing benzene, followed by in situ trapping with benzyl alcohol, 2.2. Antibacterial activity and molecular docking\nproduced the corresponding carbamate 26 . Catalytic hydrogenation\nof the benzyl group of 26 on Pd/C in methanol, followed by decar- Antibacterial activity of the synthesized compounds against\nboxylation, yielded 3-aminoindole ( 27 ). Since the amine 27 has not Gram-positive ( S. aureus and B. cereus ) and Gram-negative bacteria\nbeen purified, used directly in the next step without additional pu- ( E. coli and P. aeruginosa ) was determined using disc diffusion as-\nrification to provide the urea/thiourea 21 (71%) and 22 (73%). say. The compounds ( 8 - 11 , 13 , 16 - 18 , 20 - 21 , and 39 ) indicated only\nHowever, carbamate 29 was synthesized from indole-2- an antibacterial effect against Gram-positive bacteria. Besides, a\ncarboxylic acid ( 28 ) via Curtius rearrangement ( Scheme 7 ). After microwell dilution assay was carried out for the compounds form-\ncatalytic hydrogenation of 29 , amine 30 was not purified. Although ing the inhibition zone against S. aureus and B. cereus . The min-\n30 used directly in the next step with no additional purification, imum inhibitory concentration (MIC) values obtained as a result\nthis approach did not work in the synthesis of urea/thiourea 23 of the assay were determined for all compounds and presented in\nand 24 . In the case of ( S )-1-phenylethyl isocyanate ( 2a ), while ( S )- Table 1 . The MIC values for the compounds 9 , 16 , and 20 for both\n1-phenylethylamine ( 31 ) was obtained as a meaningful product S. aureus and B. cereus were determined as 62.5 μg/mL. Also, the\nvia hydrolysis of the isocyanate 2a , the desired product 23 was MIC value of compound 17 for B. cereus was 62.5 μg/mL. Interest-\nnot obtained. All conditions experimented upon thioisocyanate re- ingly, all compounds were effective only on Gram-positive, which\nsulted in recovered starting material 2b . After the failed synthe- may be related to the low penetration of the compounds into the\nsis via carbamate 29 , we focused our attention on the construc- outer membrane of Gram-negative bacteria.\ntion of the indole-isocyanate skeleton 28 with the corresponding The antibacterial effect of 2-guanidino-benzimidazole-urea\nacid 34 ( Scheme 7 ). For this purpose, the acid 28 initially re- derivative 9 was found to be more effective when compared\nacted with thionyl chloride to convert acyl chloride 32 . The acyl with the other thiourea derivatives ( 10 and 11 ). In addition, the\nScheme 7. Synthesis attempts of urea/thiourea 23 / 24 .\n3",
+    "source": {
+      "source_file": "j.molstruc.2021.130566.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "disrupted. Therefore, the inter-\naction between the most active synthesized compounds and these\ntwo enzymes that play an important role in peptidoglycan syn-\nthesis has been determined through molecular docking studies.\nFig. 1. Pharmacophoric features of target compounds.\nThe crystal structures of S. aureus membrane-bound transglycosy-\nlase in complex with moenomycin (PDB ID: 3VMR) and S. aureus\npenicillin-binding protein 3 (PBP3) in complex with cefotaxime\n(PDB ID: 3VSL) were selected from the protein database for in sil-\nthiourea derivatives ( 10 and 11 ) with R - or ( S )-configuration ex-\nico stud",
+    "source": {
+      "source_file": "j.molstruc.2021.130566.pdf",
+      "page": 4,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "these\ntwo enzymes that play an important role in peptidoglycan syn-\nthesis has been determined through molecular docking studies.\nFig. 1. Pharmacophoric features of target compounds.\nThe crystal structures of S. aureus membrane-bound transglycosy-\nlase in complex with moenomycin (PDB ID: 3VMR) and S. aureus\npenicillin-binding protein 3 (PBP3) in complex with cefotaxime\n(PDB ID: 3VSL) were selected from the protein database for in sil-\nthiourea derivatives ( 10 and 11 ) with R - or ( S )-configuration ex-\nico studies [ 40 , 41 ]. In our current study, molecular docking was\nhibited similar antibacterial",
+    "source": {
+      "source_file": "j.molstruc.2021.130566.pdf",
+      "page": 4,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "n 141,\nThe N -substituted 2-aminobenzimidazole 13 was more effective\nLys 140, and Asp 127 residue. Compound 9 formed hydrogen bonds\nthan the N -substituted 2-guanidobenzimidazole 8 against Gram-\nwith the Val 223, Asn 141, Lys 140, and Asn 224 residue and pi-\npositive bacteria. It was concluded that S. aureus was more resis-\ncation interaction with Arg 148. The compound 16 formed hydro-\ntant against the compounds ( 13 and 17 ), and B. cereus was more\ngen bonds with the Val 223, Asn 141, and Lys 140. Lastly, com-\nresistant against the compounds ( 10 , 11 , and 21 ). On the other\npound 20 made hydrogen bo",
+    "source": {
+      "source_file": "j.molstruc.2021.130566.pdf",
+      "page": 4,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "F. Lafzi, D. Kilic, M. Yildiz et al. Journal of Molecular Structure 1241 (2021) 130566\nTable 1\nThe MICs of the most active compounds in μg/mL.\nAntibacterial Activity MIC in μg/mL\nCompound Gram-positive Gram-negative\nno Structure S. aureus B. cereus E. coli P. aeruginosa\n8 > 1000 > 1000 - -\n9 62.5 62.5 - -\n10 > 1000 - - -\n11 > 1000 - - -\n13 500 250 - -\n16 62.5 62.5 - -\n17 250 62.5 - -\n18 > 1000 > 1000 - -\n20 62.5 62.5 - -\n21 > 1000 - - -\n39 > 1000 > 1000 - -\nChl 7.8 7.8 - -\nChl: Chloramphenicol, (-): Not determined\nThe residues Ser 227, Asn 224, Asn 141, Gln 137, Ser 132, Gln The residues Ser 227, Asn 224, Asn 141, Gln 137, Ser 132, Gln\n129, Thr 122, Asn 185, Asn 179, Asn 146, Ser 149, and Gln 136 129, and Thr 122 procuded polar interactions with compound 9 ,\nmade polar interactions with moenomycin, while the residues Tyr while the residues Tyr 181, Ile 180, Pro 226, Ala 225, Val 223, Tyr\n181, Ile 180, Pro 226, Ala 225, Val 223, Tyr 176, Val 128, Ala 118, 176, Val 128, Ala 118, Tyr 187 and Leu 119 formed hydrophobic\nTyr 187, Leu 119, Val 228 and Val 138 created hydrophobic inter- interactions. In addition, in the binding site, positive and negative\nactions. Furthermore, in the moenomycin binding site, positive and charge interactions were determined with Lys 140, Arg 148, Lys 153\nnegative charge interactions were found with Arg 126, Lys 153, Arg and Asp 127, Asp 145, and Glu 100 residues, respectively.\n152, Lys 140, Arg 148, and Asp 127, Glu 100, Glu 156, Asp 147, Asp The residues Ser 227, Asn 224, Asn 141, Gln 137, Ser 132, Gln\n145, Asp 184 residues, respectively. 129 Thr 122 and Asn 179 created polar interactions with com-\n5",
+    "source": {
+      "source_file": "j.molstruc.2021.130566.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "F. Lafzi, D. Kilic, M. Yildiz et al. Journal of Molecular Structure 1241 (2021) 130566\nFig. 3. 2D and 3D docking pose showing interaction for the compound MOE in the binding site of Staphylococcus aureus membrane-bound transglycosylase crystal structure\n(PDB ID:3VMR).\nFig. 4. 2D and 3D docking pose showing interaction for the compound 9 in the binding site of Staphylococcus aureus membrane-bound transglycosylase crystal structure\n(PDB ID:3VMR).\npound 16 , while the residues Tyr 181, Ile 180, Pro 22",
+    "source": {
+      "source_file": "j.molstruc.2021.130566.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "cture 1241 (2021) 130566\nFig. 3. 2D and 3D docking pose showing interaction for the compound MOE in the binding site of Staphylococcus aureus membrane-bound transglycosylase crystal structure\n(PDB ID:3VMR).\nFig. 4. 2D and 3D docking pose showing interaction for the compound 9 in the binding site of Staphylococcus aureus membrane-bound transglycosylase crystal structure\n(PDB ID:3VMR).\npound 16 , while the residues Tyr 181, Ile 180, Pro 226, Val 223, poses of moenomycin, 9 , 16 , and 20 compounds in the transglyco-\nTyr 176, Val128, Tyr 187, Met 99 and Tyr 144 made hydrophobic sylase as two and three dimensions, resp",
+    "source": {
+      "source_file": "j.molstruc.2021.130566.pdf",
+      "page": 6,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "F. Lafzi, D. Kilic, M. Yildiz et al. Journal of Molecular Structure 1241 (2021) 130566\nFig. 5. 2D and 3D docking pose showing interaction for the compound 16 in the binding site of Staphylococcus aureus membrane-bound transglycosylase crystal structure\n(PDB ID:3VMR).\nFig. 6. 2D and 3D docking pose showing interaction for the compound 20 in the binding site of Staphylococcus aureus membrane-bound transglycosylase crystal structure\n(PDB ID:3VMR).\nThe residues Thr 621, Ser 392, Gln 524, Ser 429, Asn",
+    "source": {
+      "source_file": "j.molstruc.2021.130566.pdf",
+      "page": 7,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "cture 1241 (2021) 130566\nFig. 5. 2D and 3D docking pose showing interaction for the compound 16 in the binding site of Staphylococcus aureus membrane-bound transglycosylase crystal structure\n(PDB ID:3VMR).\nFig. 6. 2D and 3D docking pose showing interaction for the compound 20 in the binding site of Staphylococcus aureus membrane-bound transglycosylase crystal structure\n(PDB ID:3VMR).\nThe residues Thr 621, Ser 392, Gln 524, Ser 429, Asn 450, Ser 2.3. In silico ADME\n448, Thr 619, and Thr 603 caused polar interactions with com-\npound 16 , while the residues Pro 660, Ala 622, Ile 522, and Tyr 430 The ability to absorb",
+    "source": {
+      "source_file": "j.molstruc.2021.130566.pdf",
+      "page": 7,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "F. Lafzi, D. Kilic, M. Yildiz et al. Journal of Molecular Structure 1241 (2021) 130566\nFig. 7. 2D and 3D docking pose showing interaction for the Cefotaxime in the active site of Staphylococcus aureus transpeptidase domain crystal structure (PDB ID:3VSL).\nFig. 8. 2D and 3D docking pose showing interaction for the compound 9 in the active site of Staphylococcus aureus transpeptidase domain crystal structure (PDB ID:3VSL).\nFig. 9. 2D and 3D docking pose showing interaction for the compound 16 in t",
+    "source": {
+      "source_file": "j.molstruc.2021.130566.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "Molecular Structure 1241 (2021) 130566\nFig. 7. 2D and 3D docking pose showing interaction for the Cefotaxime in the active site of Staphylococcus aureus transpeptidase domain crystal structure (PDB ID:3VSL).\nFig. 8. 2D and 3D docking pose showing interaction for the compound 9 in the active site of Staphylococcus aureus transpeptidase domain crystal structure (PDB ID:3VSL).\nFig. 9. 2D and 3D docking pose showing interaction for the compound 16 in the active site of Staphylococcus aureus transpeptidase crystal structure (PDB ID:3VSL).\n8",
+    "source": {
+      "source_file": "j.molstruc.2021.130566.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "main crystal structure (PDB ID:3VSL).\nFig. 8. 2D and 3D docking pose showing interaction for the compound 9 in the active site of Staphylococcus aureus transpeptidase domain crystal structure (PDB ID:3VSL).\nFig. 9. 2D and 3D docking pose showing interaction for the compound 16 in the active site of Staphylococcus aureus transpeptidase crystal structure (PDB ID:3VSL).\n8",
+    "source": {
+      "source_file": "j.molstruc.2021.130566.pdf",
+      "page": 8,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "F. Lafzi, D. Kilic, M. Yildiz et al. Journal of Molecular Structure 1241 (2021) 130566\nFig. 10. 2D and 3D docking pose showing interaction for the compound 20 in the active site of Staphylococcus aureus transpeptidase crystal structure (PDB ID:3VSL)\nTable 2\nADME prediction within Qikprop.\nPercent of Human Rule of Five Rule of Three\nCompounds #stars QPlogBB QPlogPo/w QPlogHERG QPPCaco QPPMDCK QPlogKp QPlogKhsa Oral Absorption (Lipinski rule) (Jorgensen rule)\nAcceptable < 25 poor, < 25 poor, > 80% i",
+    "source": {
+      "source_file": "j.molstruc.2021.130566.pdf",
+      "page": 9,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "designed, synthesized, and screened for their antimicro-\nbrain barrier, which ensures that these molecules have low or no bial properties. It was found that all synthesized compounds indi-\ncentral nervous system side effects. It is seen that the predicted cated the antibacterial effect only against S. aureus and B. cereus.\ncentral nervous system activity values of all the compounds are Besides, the docking results revealed that these compounds are\ninactive or low. The logKp values representing the predicted skin predicted to have antimicrobial effects by disrupting the process of\npermeability are in th",
+    "source": {
+      "source_file": "j.molstruc.2021.130566.pdf",
+      "page": 9,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "F. Lafzi, D. Kilic, M. Yildiz et al. Journal of Molecular Structure 1241 (2021) 130566\n4.2.26. (S)-1-(3-Cyano-1H-indol-2-yl)-3-(1-phenylethyl)urea ( 39 ) from the Protein Database (PDB: 3VMR, 3VSL) for molecular dock-\nTo a stirred solution of 2-amino-1 H -indole-3-carbonitrile (1.0 g, ing studies [ 40 , 41 ]. The biomolecule structures were pretreated us-\n6.36 mmol) in THF (10 mL) NaH (55-60%) (254 mg, 6.36 mmol) ing the Protein Preparation Wizard to optimize the hydrogen bond-\nwas added and after stirring of the mixture for 15 min, ( S )-(1- ing network and remove possible crystallographic artifacts. While\nisocyanatoethyl)benzene (936 mg, 6.36 mmol) was added to reac- Glide XP was used for 3VMR protein structure, the Schrödinger\ntion mixture. The mixture was stirred at room temperature for 12 CovDock algorithm used both Glide and Prime were used for 3VSL\nh. Solvent was evaporated and the residue was diluted with EtOAc protein. The original ligand (cefotaxime) of the 3VSL protein struc-\nand washed with water (3 ×20 mL). The combined organic layer ture is covalently bound to Ser 392, and as a result, the connec-\nwas dried over Na\n2\nSO\n4\nand concentrated under reduced pressure tion between the ligand and Ser 392 is removed before minimiza-\nto give desired product 39 (500 mg, 25%) as a red solid (Mp: 174- tion. Molecular docking studies were performed using the covalent\n175 °C). 1 H-NMR (400 MHz, CDCl\n3\n): δ 10.87 (s, 1H), 8.93 (s, 1H), docking protocol.\n7.49-7.37 (m, 5H), 7.37-7.11 (m, 4H), 6.33 (d, J = 7.0 Hz, 1H), 5.00 (p,\nJ = 7.0 Hz, 1H), 1.60 (d, J = 7.0 Hz, 3H). 13 C-NMR (100 MHz, CDCl 3 ): 4.5. In silico ADME\nδ\n153.9, 147.0, 143.5, 131.4, 128.8, 127.5, 125.8, 125.4, 122.3, 122.2,\n118.0, 117.4, 111.5, 65.7, 50.2, 22.9. HPLC (OJ column; hexane/2- Some ADME properties (QpLogPo/w, QPLogHERG, QPPCaco,\npropanol = 80/20; flow rate 1.0 mL/ min; T = 25 °C; 254 nm): t R - QpLogBB, QPPMDCK, QPlogKp, QpLogKksa, Percent Human oral ab-\n(-) = 1.0 min. Enantiomeric rate: ( + ) = 0.0 and (-) = 100.0. sorption, and Lipinski’s five rules) for synthesized compounds (8-\n13, 16-18, 20-21, and 39) were determined by computational meth-\nods using Qikprop.\n4.3. Antibacterial assay\nThe antibacterial activity of synthesized compounds was indi- Author contributions\nvidually tested against Escherichia coli ATCC 25922, Pseudomonas\naeruginosa ATCC 9027, Bacillus cereus ATCC 33019, and Staphylococ- F.L. synthesized and chemically characterized the compounds.\ncus aureus ATCC 29213. Microorganisms were cultured using Nutri- D.K. and M.Y. performed the molecular docking and antimicro-\nent agar for 24 h at 37 °C. The compounds were dissolved with 15% bial studies, respectively. N.S. designed and supervised the research\nDMSO to prepare stock solutions of concentration 20 0 0 μg/mL. study.\nDeclaration of Competing Interest\n4.3.1. Disk diffusion assay\nThe antibacterial activity of the synthesized compounds was\nThe authors declare that they have no known competing finan-\nscreened with the disk diffusion assay [43] . A hundred μL of bac-\ncial interests or personal relationships that could have appeared to\nteria suspensions (containing 10 8 colony-forming-unit/mL bacteria)\ninfluence the work reported in this paper.\nwere spread on the nutrient agar plate. The disks (6 mm in diam-\neter) were placed on the plate and impregnated with 10 μL of the\nAcknowledgments\nsolution (300 μg the compound per disk). DMSO was used as a\nnegative control. Ampicillin (10 μg per disk) was used as a positive\nThis work was supported by the Research Fund of the Ataturk\ncontrol. The plates were incubated for 24 h at 37 °C. The antibac-\nUniversity; Project Numbers: 2012-146, FBA-2020-8419 and the\nterial activity was determined by measuring the diameter of the\nScientific and Technological Research Council of Turkey (TÜB I˙TAK);\ninhibition zone. The assays were performed three times.\nProject No: 111T998\n4.3.2. Microwell dilution assay References\nMinimum inhibitory concentration (MIC) values of the com-\npounds forming the inhibition zone against microorganisms were [1] A.R. Jennings , D.Y. Son , Tetrahedron 71 (2015) 3990–3999 .\n[2] N.K. Rana , R. Unhale , V.K. Singh , Tetrahedron Lett. 53 (2012) 2121–2124 .\ndetermined using a microwell dilution assay [44] . The solutions of\n[3] F. Lafzi , H. Kilic , G. Tanriver , Ö.N. Avcı, S. Catak , N. Saracoglu , Synth. Commun.\nmicroorganisms were prepared using bacteria cultures incubated 49 (2019) 3510–3527 .\nfor 12 h and adjusted to 0.5 McFarland standard turbidity. The [4] M.C. Gimeno , R.P. Herrera , Cryst. Growth Des. 16 (9) (2016) 5091–5099 .\n[5] M.-O.M. Piepenbrock , G.O. Lloyd , N. Clarke , J.W. Steed , Chem. Commun. 23\ncompounds with different concentrations (ranging from 7.8 to 500\n(2008) 2644–2646 .\nμg/mL) were prepared from the stock solution with 2-fold serial [6] M.-O.M. Piepenbrock , G.O. Lloyd , N. Clarke , J.W. Steed , Chem. Rev. 110 (2009)\ndilutions. For the assay, 5 μL of bacteria solution, 95 μL of Tryp- 1960–2004 .\n[7] S.V. Ryabukhin , A.S. Plaskon , E.N. Ostapchuk , D.M. Volochnyuk , A .A . Tolmachev ,\ntic Soy Broth, and 100 μL of the compound solution were added\nSynth. (2007) 417–427 2007 .\nto each well. The 96-well plates were incubated at 37 °C for 24 [8] T.K. Venkatachalam , C. Mao , F.M. Uckun , Bioorg. Med. Chem. 12 (2004)\nh. Chloramphenicol at a concentration ranged from 7.8 to 500 4275–4284 .\n[9] J. Lee , S.-U. Kang , H.-K. Choi , J. Lee , J.-O. Lim , M.-J. Kil , M.-K. Jin , K.-P. Kim ,\nμg/mL was used as standard antibacterial agents for positive con-\nJ.-H. Sung , S.-J. Chung , H.-J. Ha , Y.-H. Kim , L.V. Pearce , R. Tran , D.J. Lundberg ,\ntrol. The wells containing only microorganism solution and Tryptic Y. Wang , P.M.Blumberg A.Toth , Bioorg. Med. Chem. Lett. 14 (2004) 2291–2297 .\nSoy Broth were used as a negative control. After incubated, micro- [10] S.A. Khan , N. Singh , K. Saleem , Eur. J. Med. Chem. 43 (2008) 2272–2277 .\nbial growth in Tryptic Soy Broth was monitored at 600 nm by the [11] A.P. Keche , G.D. Hatnapure , R.H. Tale , A.H. Rodge , S.S. Birajdar , V.M. Kamble ,\nmicroplate reader (Thermo Scientific TM Multiskan TM GO Microplate [12]\nB\nS.\ni o\nS\no\na\nr\ne\ng\ne\n.\nd\nM\n, N\ned\n.\n.\nR\nC\na\nh\nsh\ne\ni\nm\nd ,\n.\nP\nL\n.\ne\nG\nt\n.\nt .\nJ o\n2\nn\n2\ne\n(\ns\n2\n,\n0\nM\n12\n.\n)\nA l\n3\ni\n4\n,\n4\nR\n5\n.\n–\nH\n3\nu\n4\ns\n4\nsa\n8\ni\n.\nn , Eur. J. Med. Chem. 45 (2010)\nSpectrophotometer). To confirm the growth, the samples in clear 1323–1331 .\nwells were inoculated on nutrient agar. [13] R. Pingaew , N. Sinthupoom , P. Mandi , V. Prachayasittikul , R. Cherdtrakulkiat ,\nS. Prachayasittikul , S. Ruchirawat , V. Prachayasittikul , Med. Chem. Res. 26\n(2017) 3136–3148 .\n[14] K.M. Khan , S. Saeed , M. Ali , M. Gohar , J. Zahid , A. Khan , S. Perveen , M.I. Choud-\n4.4. Molecular docking modeling\nhary , Bioorg. Med. Chem. 17 (2009) 2447–2451 .\n[15] S. Abuzar , S. Sharma , Indian J. Chem. Sect B. 20 (1981) 230–233 .\nMolecular modeling was done using the Schrödinger Maestro [16] A. Piskac , I. Fejtova , Veterinarni medicina 25 (1980) 739–742 .\n[17] A. Ricci , C. Bertoletti. Plant Biol. 11 (2009) 262–272 .\nsoftware package. The molecules ( 9 , 16 , and 20 ) were prepared us-\n[18] N. Ulusoy , E. Gursu , S. Ozkirimli , A.C. Ekinci , I. Dikici , Indian J. Chem. 42B\ning the LigPrep module. The crystal structures were downloaded (2003) 2853–2857 .\n13",
+    "source": {
+      "source_file": "j.molstruc.2021.130566.pdf",
+      "page": 13,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  }
+]

@@ -1,0 +1,4 @@
+Confidence: low; LLM ran: False; status=skipped
+Rule records: 481; LLM records: 0
+Predictions: outputs\benzimidazoles_full_dedup_fix\antibiotics12071220\predictions.csv
+Macro-F1: 0.0642

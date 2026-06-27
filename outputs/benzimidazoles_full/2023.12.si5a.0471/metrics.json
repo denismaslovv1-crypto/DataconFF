@@ -1,0 +1,58 @@
+{
+  "macro_f1": 0.18666666666666668,
+  "field_metrics": [
+    {
+      "field": "compound_id",
+      "precision": 0.2,
+      "recall": 0.05,
+      "f1": 0.08000000000000002,
+      "true_positive": 3
+    },
+    {
+      "field": "smiles",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "true_positive": 0
+    },
+    {
+      "field": "target_type",
+      "precision": 1.0,
+      "recall": 0.25,
+      "f1": 0.4,
+      "true_positive": 15
+    },
+    {
+      "field": "target_relation",
+      "precision": 1.0,
+      "recall": 0.25,
+      "f1": 0.4,
+      "true_positive": 15
+    },
+    {
+      "field": "target_value",
+      "precision": 0.06666666666666667,
+      "recall": 0.016666666666666666,
+      "f1": 0.02666666666666667,
+      "true_positive": 1
+    },
+    {
+      "field": "target_units",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "true_positive": 0
+    },
+    {
+      "field": "bacteria",
+      "precision": 1.0,
+      "recall": 0.25,
+      "f1": 0.4,
+      "true_positive": 15
+    }
+  ],
+  "prediction_count": 15,
+  "ground_truth_count": 60,
+  "benchmark_pdf_ids": null,
+  "benchmark_pdf_name": "2023.12.si5a.0471"
+}

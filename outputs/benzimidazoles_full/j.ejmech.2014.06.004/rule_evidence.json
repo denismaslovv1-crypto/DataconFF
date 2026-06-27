@@ -1,0 +1,310 @@
+[
+  {
+    "text": "Entry | -R | Clog P a | Minimum inhibitory concentration (MIC) µg/mL",
+    "source": {
+      "source_file": "j.ejmech.2014.06.004.pdf",
+      "page": 37,
+      "section": null,
+      "table_id": "p37_t1",
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_tables",
+      "confidence": 0.75
+    },
+    "row_id": "0"
+  },
+  {
+    "text": "b Ec: Escherichia coli (MTCC-443); Pa: Pseudomonas aeruginosa (MTCC-1688);",
+    "source": {
+      "source_file": "j.ejmech.2014.06.004.pdf",
+      "page": 37,
+      "section": null,
+      "table_id": "p37_t1",
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_tables",
+      "confidence": 0.75
+    },
+    "row_id": "26"
+  },
+  {
+    "text": "D\nc Sa: Staphylococcus aureus (MTCC-96), Sp: Streptococcus pyogenes (MTCC-442).",
+    "source": {
+      "source_file": "j.ejmech.2014.06.004.pdf",
+      "page": 37,
+      "section": null,
+      "table_id": "p37_t1",
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_tables",
+      "confidence": 0.75
+    },
+    "row_id": "27"
+  },
+  {
+    "text": "Entry | -R | Clog P a | MIC (µg/mL) b | IC (µg/mL) c\n50",
+    "source": {
+      "source_file": "j.ejmech.2014.06.004.pdf",
+      "page": 39,
+      "section": null,
+      "table_id": "p39_t1",
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_tables",
+      "confidence": 0.75
+    },
+    "row_id": "0"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\n1 Synthesis, antibacterial and antitubercular activities of benzimidazole bearing\n2 substituted 2-pyridone motifs\n3 N C Desai*, N R Shihory, G M Kotadiya, Priyanka Desai\nT\n4 Division of Medicinal Chemistry, Department of Chemistry\n5 (UGC NON-SAP & DST-FIST Sponsored),\nP\n6 Mahatma Gandhi Campus, Maharaja Krishnakumarsinhji Bhavnagar University,\nI\n7 Bhavnagar 364 002, India\nR\n8 E-mail: dnisheeth@rediffmail.com,\n9 Telefax: +91 278 2439852 C\n10\nS\nU\n11 Abstract\nN\n12 A series of benzimidazole bearing 2-pyridoAnes 5a-r were synthesized and evaluated for\n13 their in vitro antibacterial and antitubercular a M ctivity. Further, all compounds were examined for\n14 their cytotoxic study on VERO cell line and characterized by well-known spectral techniques. It\nD\n15 was observed that the compounds 5h, 5i, 5k, 5q and 5r were found to possess significant broad\nE\n16 spectrum antibacterial activity (12.5-100 µg/mL of MIC), while compounds 5g-5i, 5k and 5l\nT\n17 proved to be the most potent antitubercular activity in range of 2.76-20.4 µM of MIC at low level\nP\n18 of cytotoxicity, indicating good selectivity. From SAR studies, lipophilic profile of compounds\nE\n19 was remarkably vitaCl for antibacterial activity, while MIC values of antitubercular could not be\n20 directly correlatCe with lipophilicity.\nA\n21 Keywords: Antibacterial activity; Antitubercular activity; Benzimidazole; Cytotoxicity; MABA\n22 assay; 2-Pyridone\n23\n24\n1",
+    "source": {
+      "source_file": "j.ejmech.2014.06.004.pdf",
+      "page": 4,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\n25 1. Introduction\n26 The current first-line tuberculosis drug treatment is more than 40 years old and consists\n27 primarily of rifampicin and isoniazid. These antibiotics are drug-susceptible and Trequire longer\n28 time and large number of doses, which are multi-drug resistant (MDR) andP extensively drug\nI\n29 resistant (XDR) to tuberculosis strains [1-3]. However, the rapid increase of multi-drug-resistant\nR\n30 tuberculosis (MDR-TB) (resistant to at least isoniazid and rifampicin) and extensively drug-\nC\n31 resistant tuberculosis (XDR-TB) (resistant to isoniazid, rifampicin in addition to\nS\n32 fluoroquinolone, kanamycin, amikacin or capreomycin amoUng second line anti-TB drugs) has led\n33 to an urgent need for the identification of new drug Ntargets and the growth of novel anti-TB\n34 drugs. Furthermore, The most commonly encountAered antibiotic-resistant bacteria, methicillin-\n35 resistant Staphylococcus aureus (MRSA), has M a major impact on infections in both hospitals and\n36 community settings [4,5]. Unfortunately, as antibiotic resistant organisms have become more\nD\n37 commonplace, the pipeline for the discovery of new antimicrobial agents has decreased [6].\nE\n38 Thus, there is a pressing need for new antimicrobial agents that are capable of treating resistant\nT\n39 bacterial strains.\nP\nE\n40 Moreover, dihydrofolate reductase (DHFR) catalyzes the NADPH-dependent reduction\nC\n41 of dihydrofolate to tetrahydrofolate that is essential for DNA synthesis. Inhibition of its activity\nC\n42 leads to arrest of DNA synthesis and hence cell death [7]. Mycobacterium tuberculosis DHFR is\nA\n43 an attractive novel drug target for developing anti-tuberculosis drugs. To overcome this problem,\n44 we have synthesized a series of benzimidazole bearing 2-pyridones by replacing the pyrazole\n45 motif in our previously synthesized compounds NCD [8] and screened them for their\n1-20\n46 antibacterial property. In this attempt, we got excellent antibacterial results. Antibacterial studies\n2",
+    "source": {
+      "source_file": "j.ejmech.2014.06.004.pdf",
+      "page": 5,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\n70 2-pyridone derivatives comprising of the above aforementioned moieties in single molecular\n71 framework in order to investigate their in vitro antibacterial and antitubercular activity. In\n72 continuation to this, in our present communication, we have synthesized benzimidazole bearing\nT\n73 2-pyridones 5a-r and evaluated for their in vitro antibacterial and antitubercular activity. In\nP\n74 addition, cytotoxicity studies were also conducted in VERO cell lines to evaluate the ability of\nI\nR\n75 these compounds to inhibit the cell growth. Most active compounds 5h, 5q and 5r were also\nC\n76 screened against MRSA strain.\nS\n77 {Insert Figure 1 here}\nU\nN\n78 2. Results and discussion\nA\n79 2.1. Chemistry\nM\n80 We have synthesized new analogue s in which 2-pyridone motif is connected to the\nD\n81 benzimidazole system. The synthetic strategies adopted for the synthesis of target benzimidazole\nE\n82 bearing 2-pyridone derivatives 5a-r are depicted in Schemes 1 and 2. In Scheme 1, condensation\nT\n83 of 1-(1H-benzo[d]imidazol-2-yl)ethanone 1 with equimolar quantity of cyanoacetic acid\nP\n84 hydrazide in refluxing 1,4-dioxane afforded a single product, that was identified as N'-(1-(1H-\nE\n85 benzo[d]imidazol-2C-yl)ethylidene)-2-cyanoacetohydrazide 2. The elemental analysis and spectral\n86 data were in Caccordance with the proposed N'-(1-(1H-benzo[d]imidazol-2-yl)ethylidene)-2-\n87 cyanoacetoAhydrazide 2 structure. The IR spectrum of 2 showed strong absorption bands at 2248\n88 and 1681 cm-1 were due to cyanide and carbonyl group, respectively. Its 1H NMR spectrum apart\n89 from the expected aromatic signals, showed two new singlets at d 3.38 and 8.92 ppm assigned to\n90 the reactive methylene protons and proton of secondary amine attached with carbonyl group\n91 respectively. The 13C NMR spectrum displayed nine carbon signals, the most important signals\n4",
+    "source": {
+      "source_file": "j.ejmech.2014.06.004.pdf",
+      "page": 7,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\n115 agreement with its proposed structure. Similarly, the spectral values for all the compounds and\n116 C, H, N analysis are presented in the experimental part.\n117 {Insert Scheme 1 here} T\nP\n118 A plausible mechanistic pathway for the formation of compounds 5a-r is suggested in\nI\nR\n119 Scheme 2. Firstly, hydrazone (A) underwent Michael addition with Knoevenagel product (B)\nC\n120 and furnished the intermediate (C), which further experienced intramolecular nucleophilic attack\n121 on cyanide carbon followed by annulation to yield intermed S iate (D). The intermediate (D)\nU\n122 transformed to compound (E) by intramolecular electron transfer to nitrogen atom. In the last\nN\n123 step, intermediate (E) was transformed to targeted compounds by intermolecular nucleophilic\nA\n124 attack on carbonyl carbon of different aromatic aldehydes.\nM\n125 {Insert Scheme 2 here}\nD\n126 2.2. Biological Evaluation\nE\nT\n127 2.2.1. Antibacterial activity\nP\n128 The intermediateEs 2, 4 and target compounds 5a-r were investigated for their in vitro\n129 antibacterial activityC against two gram-positive and two gram-negative bacteria and the yeast like\n130 pathogenic funCgus Candida albicans using conventional broth-dilution method [34,35].\n131 Minimum A inhibitory concentration (MIC) is defined as the concentration of the compound\n132 required to obtain complete inhibition of bacterial growth. MICs of the synthesized compounds\n133 were compared with ciprofloxacin and chloramphenicol and the results were depicted in Table 1.\n134 The antibacterial activity assessed (Table 1) for analogues 2, 4 and 5a-r against several strains\n135 flaunted good activity. From the bioassay, it was observed that the final analogues 5a-r with the\n6",
+    "source": {
+      "source_file": "j.ejmech.2014.06.004.pdf",
+      "page": 9,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\n159 bromine exerted highest inhibition against all the bacterial strains and showed highest efficacy\n160 against S. aureus at 12.5 µg/mL of MIC as compared to standards ciprofloxacin (50 µg/mL, Clog\n161 P = -0.7252) and chloramphenicol (50 µg/mL, Clog P = 1.293). In addition, compound 5q (Clog\nT\n162 P = 3.9272) with higher lipophilicity flaunted potential inhibitory action against E. coli and S.\nP\n163 pyogenes at MIC of 25 µg/mL. Moreover, the above mentioned derivative 5q displayed excellent\nI\nR\n164 inhibition against P. aeruginosa at 25 µg/mL of MIC. Furthermore, among the second line active\nC\n165 compounds, 5h (3-Cl, Clog P = 3.7772) and 5r (4-Br, Clog P = 3.9272) indicated MIC of 50\nS\n166 µg/mL, in which more lipophilic compound 5r showed better results against both E. coli and S.\nU\n167 pyogenes. In addition, the above mentioned derivatives 5h and 5r were also found to\nN\n168 demonstrate excellent efficacy against S. aureus at 25 µg/mL of MIC and analogue 5r also\nA\n169 demonstrated MIC of 50 µg/mL against P. aeruginosa. Derivatives 5e (3-F, Clog P = 3.2072)\nM\n170 with fluoro, 5g (2-Cl, Clog P = 3.7772) with chloro and 5k (3-CH , Clog P = 3.5632) with\n3\n171 methyl group to the aromatic nucleus D bequeathed appreciable potency towards E. coli at 100\n172 µg/mL of MIC, in which compouEnd 5g showing highest lipophilicity gave better results.\nT\n173 Compound 5h (3-Cl, Clog P = 3.7772) with electron withdrawing chlorine substituent indicated\nP\n174 diminished activity at 62.5 µg/mL of MIC against P. aeruginosa. Another analogue 5i (4-Cl,\nE\n175 Clog P = 3.7772) with chlorine and 5k (3-CH , Clog P = 3.5632) endowed with electron\n3\nC\n176 donating methyl group exerted MIC of 100 µg/mL against P. aeruginosa as compared to\nC\n177 standard ciprofloxacin (25 µg/mL, Clog P = -0.7252) and chloramphenicol (50 µg/mL, Clog P =\nA\n178 1.293) antibiotics. Derivative 5g (2-Cl, Clog P = 3.7772) displayed more potency against S.\n179 aureus than E. coli at MIC of 50 µg/mL and diminished activity at MIC of 62.5 µg/mL against S.\n180 pyogenes. Final derivatives 5c (3-OH, Clog P = 3.2982), 5e (3-F, Clog P = 3.2072), 5k (3-CH ,\n3\n181 Clog P = 3.5632) and 5m (3-OCH , Clog P = 3.4082) displayed remarkable inhibitory effects at\n3\n8",
+    "source": {
+      "source_file": "j.ejmech.2014.06.004.pdf",
+      "page": 11,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\n182 MIC of 100 µg/mL against S. aureus. Among them compound 5k contemplated same action\n183 against S. pyogenes. In addition, compound 5i (4-Cl, Clog P = 3.7772) exhibited activity at MIC\n184 of 50 and 62.5 µg/mL against S. pyogenes and S. aureus respectively. Moreover, compound 5e\nT\n185 possessing fluorine atom at 3rd position of phenyl ring increased the potency and showed\nP\n186 inhibition at 62.5 µg/mL of MIC against S. pyogenes. Furthermore, the inhibitory activity of all\nI\nR\n187 the synthesized compounds against C. albicans was rather lower than their antibacterial activity,\nC\n188 only compound 5q (3-Br, MIC = 250 µg/mL) exhibited moderate activity as compared to\nS\n189 standard ketoconazole.\nU\n190 {Insert Table 1 hNere}\nA\n191 Furthermore, the most active compounds 5h, 5q and 5r against S. aureus and S. pyogenes\nM\n192 (MIC = 12.5-50 µg/mL) were also tested against methicillin-resistant S. aureus (MRSA isolate\n193 ATCC 43300) and results are given inD Table 2. Compound 5r exhibited more potent activity\n194 than the standard drugs against methEicillin-resistant S. aureus. Compound 5r, with MIC value of\n195 6.25 µg/mL against MRSA shTowed four-fold more potency than ciprofloxacin (MIC = 25\n196 µg/mL) and eight-fold morPe activity than chloramphenicol (MIC = 50 µg/mL). In addition,\nE\n197 compound 5q endowed with bromo group showed two-fold more inhibition at MIC value of 12.5\nC\n198 µg/mL than ciprofloxacin and four-fold higher potency than chloramphenicol against MRSA.\nC\n199 A {Insert Table 2 here}\n200 2.2.2. Antitubercular activity\n201 The encouraging results from the antibacterial studies impelled us to go for the screening\n202 of title compounds for their in vitro antitubercular activity. Intermediates (2 and 4) and all the\n9",
+    "source": {
+      "source_file": "j.ejmech.2014.06.004.pdf",
+      "page": 12,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\n203 final compounds along with the standard drug for comparison were firstly evaluated for their\n204 activity against the Mycobacterium tuberculosis H Rv strain in Middlebrook 7H12 medium\n37\n205 using Microplate Alamar Blue Assay (MABA) MIC method [36]. The drug in clinical use,\nT\n206 isoniazid was used as a reference drug. The results of actual MICs of tested compounds were\nP\n207 reported in Table 3. It was observed that final analogues 5a-r displayed superior anti-tubercular\nI\nR\n208 activity compared to both the intermediates (2 and 4). Among the eighteen synthesized\nC\n209 compounds, compounds 5g-5i, 5k and 5l endowed with inductively electron withdrawing\nS\n210 chlorine and electron donating methyl groups afforded maximum MICs ranging from 0.85 to\nU\n211 6.28 µg/mL against Mycobacterium tuberculosis. For final derivatives, introduction of chlorine\nN\n212 substituent in 5g-5i was tolerated, 3-chloro yielding the best activity (3-Cl > 4-Cl > 2-Cl).\nA\n213 Furthermore, among the second line active compounds, 5k and 5l brandished MICs in range of\nM\n214 2.07-6.28 µg/mL, in which compound 5k having methyl in meta position showed better result at\n215 MIC of 2.07 µg/mL whereas compo D und 5l displayed inhibition at MIC of 6.28 µg/mL.\n216 Compound 5h (3-Cl) possessed higEhest inhibition at MIC of 0.85 µg/mL amongst all the tested\nT\n217 derivatives as compared to standard isoniazid, while their ortho and para derivatives 5i (4-Cl)\nP\n218 and 5g (2-Cl) showed MICs of 1.79 and 2.65 µg/mL respectively. Here, we have discussed and\nE\n219 compared antitubercular activity based on first line drug Isoniazid (0.24 µg/mL, Clog P = -\nC\n220 0.668). From the antitubercular activity results, it may be concluded that final derivatives 5a-o\nC\n221 were mixdly active and no specific relationship was observed in case of Clog P or lipophilicity\nA\n222 verses antitubercular activity profiles.\n223 2.2.3. Cytotoxicity study\n224 After having identified numerous active antibacterial and antimycobacterial\n225 benzimidazole bearing 2-pyridones, the next step was to examine the toxicity of the drug\n10",
+    "source": {
+      "source_file": "j.ejmech.2014.06.004.pdf",
+      "page": 13,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\n248 antibacterial activity was considerably affected by substitution pattern on the phenyl ring and\n249 lipophilic profile of the compounds. It is believed that the strong lipophilic character of the\n250 molecule plays an essential role in producing antibacterial effect. These properties are seen as an\nT\n251 important parameter related to membrane permeation in biological system. Many processes of\nP\n252 drug disposition depend on the capability to cross membranes and hence there is a high\nI\nR\n253 correlation with measures of lipophilicity. Lipophilicity plays a major role in determining where\nC\n254 drugs are distributed within the body after adsorption and as a consequence how rapidly they are\nS\n255 metabolized and excreted. In this context, the presence of lipophilic moiety would be important\nU\n256 for such activity. In case of antibacterial activity, some analogues of this series were found to\nN\n257 have even more potency than the standard drug ‘chloramphenicol’ while some of them exhibited\nA\n258 comparable potency. Compounds 5h, 5i, 5k, 5q and 5r bearing Cl, Br, CH groups were found to\n3\nM\n259 be most potent antibacterial agents due to its high lipophilicity. Among them, compound 5q\n260 endowed with inductively electron with D drawing bromine at meta position emerged as the most\n261 effective antibacterial agent at MICE of 12.5 µg/mL. The MIC values of these novel compounds\nT\n262 confirmed that the presence of bromine, chlorine and methyl substituent at meta position gave\nP\n263 rise to better pharmacological potency rather than the same substituent present at ortho or para\nE\n264 positions. Whereas, the opposite trend was observed for antitubercular activity results and there\nC\n265 was no specific relationship observed between MIC profiles versus lipophilicity. Among the\nC\n266 eighteen synthesized compounds, 5g-5i, 5k and 5l endowed with inductively electron\nA\n267 withdrawing chlorine and electron donating methyl group illustrated maximum MICs in the\n268 range of 0.85 to 6.28 µg/mL against Mycobacterium tuberculosis. Out of them, 3-chloro yielded\n269 the best activity at MIC of 0.85 µg/mL as compared to first line drug isoniazid (0.24 µg/mL).\n270 3. Conclusion\n12",
+    "source": {
+      "source_file": "j.ejmech.2014.06.004.pdf",
+      "page": 15,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\n271 The focal point of the current work was on the development of new bioactive based on\n272 benzimidazole clubbed 2-pyridone compact system with the hope of generating new bioactive\n273 chemical entities that could be useful as potent antibacterial and antitubercular agents. Many of\nT\n274 the synthesized motifs (5h, 5i, 5k, 5q and 5r), possessing atom/group such as bromo, chloro and\nP\n275 methyl at meta or para positions were identified as the most compelling antibacterial agents.\nI\nR\n276 Albeit, it was observed that the strong lipophilic character of the molecule plays an imperative\nC\n277 role in producing antibacterial effect. Compounds 5g-5i, 5k and 5l came out as the most\nS\n278 promising antitubercular agents. In addition, the relationship between activity profiles and\nU\n279 lipophilicity of the newer analogues was also discussed in which higher lipophilic compounds\nN\n280 showed higher bioactivities, while, in case of antitubercular activity, there was no specific\nA\n281 relationship observed between MIC profiles versus lipophilicity. Moreover, the potent\nM\n282 antibacterial and antitubercular activity of most active compounds 5g-5i, 5k, 5l, 5q and 5r were\n283 accompanied with relatively low level o D f cytotoxicity. Consequently, the degree of activity and\n284 the encouraging physicochemical Eparameters displayed by a novel innovative structural\nT\n285 combination system of benzimidazole and 2-oxopyridine rings make such compounds a\nP\n286 privileged structure to achieve more active derivatives in ongoing studies. Synthesized\nE\n287 compounds were screened against C. albicans, but it was our observation that none of the\nC\n288 compounds exhibited significant activity against this fungi.\nC\n289 4. ExperimAental\n290 4.1. General Methods\n291 All reactions except those in aqueous media were carried out by standard techniques for\n292 the exclusion of moisture. Melting points were determined on an electro thermal melting point\n13",
+    "source": {
+      "source_file": "j.ejmech.2014.06.004.pdf",
+      "page": 16,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "Anal. Calcd. for C H BrN O : C, 57.53; H, 2.83; N, 18.51. Found: C, 57.60; H, 2.87; N, 18.58.\n29 17 8 3\nC\n551 4.5. BiologiAcal assay\n552 4.5.1. Antibacterial assay\n553 Antibacterial studies of newly synthesized compounds 5a-r were carried out against the\n554 representative panel of bacteria such as Staphylococcus aureus MTCC-96, Streptococcus\n25",
+    "source": {
+      "source_file": "j.ejmech.2014.06.004.pdf",
+      "page": 28,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": null
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\n555 pyogenes MTCC-442, Escherichia coli MTCC-443, Pseudomonas aeruginosa MTCC-1688 and\n556 methicillin-resistant S. aureus (MRSA isolate ATCC 43300). Antifungal activity was carried out\n557 against the yeast-like pathogenic fungus Candida albicans MTCC 227. All MTCC and ATCC\nT\n558 cultures were collected from Institute of Microbial Technology, Chandigarh. The activity of\nP\n559 compounds was determined as per National Committee for Clinical Laboratory Standards\nI\nR\n560 (NCCLS) protocol using Mueller Hinton Broth (Becton Dickinson, USA). Primary screening\nC\n561 was done first for antibacterial activity in six sets against E. coli, S. aureus, P. aeruginosa and S.\nS\n562 pyogenes at different concentrations of 1000, 500, 250 µg/mL. The compounds found to be\nU\n563 active in primary screening were similarly diluted to obtain 200, 125, 100, 62.5, 50, 25, 12.5 and\nN\n564 6.25 µg/mL concentrations for secondary screening to test in a second set of dilution against all\nA\n565 microorganisms. Inoculum size for test strain was adjusted to 106 CFU/mL (Colony Forming\nM\n566 Unit per milliliter) by comparing the turbidity (turbidimetric method). Mueller Hinton Broth was\n567 used as nutrient medium to grow and d D ilute the compound suspension for test organisms. 2%\n568 DMSO was used as a diluent/veEhicle to obtain the desired concentration of synthesized\nT\n569 compounds and standard drugs to test upon standard microbial strains. Synthesized compounds\nP\n570 were diluted to 1000 µg/mL concentration, as stock solution. The control tube containing no\nE\n571 antibiotic was immediately subcultured [before inoculation] by spreading a loopful evenly over a\nC\n572 quarter of plate in a suitable medium for the growth of test organisms. The culture tubes were\nC\n573 then incubated for 24 h at 37 °C and the growth was monitored visually and\nA\n574 spectrophotometrically. Ten µg/mL suspensions were further inoculated on an appropriate media\n575 and growth was noted after 24 h and 48 h. The lowest concentration (highest dilution) required to\n576 arrest the growth of bacteria was regarded as minimum inhibitory concentration (MIC) i.e. the\n577 amount of growth from the control tube before incubation (which represents the original\n26",
+    "source": {
+      "source_file": "j.ejmech.2014.06.004.pdf",
+      "page": 29,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\n578 inoculum) was compared. Solvent had no influence on strain growth. The result of this was\n579 greatly affected by the size of the inoculums. The test mixture should contain 106 CFU/mL\n580 organisms. DMSO and sterilized distilled water were used as negative control while\nT\n581 chloramphenicol (1 U strength) was used as positive control. Standard drugs used in the present\nP\n582 study were ‘ciprofloxacin’ and ‘chloramphenicol’ for evaluating antibacterial activity.\nI\nR\n583 4.5.2. Antitubercular assay\nC\n584 Antitubercular activity was determined using the mo S dified radiometric 7H12 broth\nU\n585 (BACTEC 12B system) in which stock solutions as test compounds were prepared in\nN\n586 dimethylsulfoxide (DMSO) at a concentration of 12.8 mM and the final test concentrations\nA\n587 ranged from 39.42 to 0.15 µg/mL. Controls received 50 µL DMSO. INH was included as a\nM\n588 positive drug control. INH was solubilized and diluted in DMSO and added to BACTEC-12\n589 broth to achieve a range of concentrationD for determination of minimum inhibitory concentration\n590 (MIC, lowest concentration inhibitinEg ≥ 90% of the inoculums, MIC value of INH is 0.24 µg/mL\n591 at 95% inhibition of H Rv straiTn). M. tuberculosis H Rv strain (ATCC 27294) was cultured at\n37 37\n592 37 ˚C in 100 ml of MiddlePbrook 7H9 broth (Difco, Detroit, Mich.) supplemented with 0.2%\nE\n593 (vol/vol) glycerol, 10% (vol/vol) OADC (oleic acid, albumin, dextrose, catalase) and 0.05%\nC\n594 (vol/vol) Tween 80. The complete medium was referred to as 7H9GC-Tween. Cultures were\nC\n595 incubated in 500-ml nephelometer flasks on a rotary shaker at 150 rpm and 37 °C until they\nA\n596 reached an optical density of 0.4 to 0.5 at 550 nm. Bacteria were washed and suspended in 20 ml\n597 of phosphate-buffered saline and passed through an 8-mm pore size filter to eliminate clumps.\n598 The filtrates were aliquoted, stored at 280 °C and used within 30 days. Cultures were prepared\n599 and an appropriate dilution performed such that a BACTEC-12B vial inoculated with 0.1 mL\n600 would reach a growth index (GI) of 999 in five days. Antimicrobial susceptibility testing was\n27",
+    "source": {
+      "source_file": "j.ejmech.2014.06.004.pdf",
+      "page": 30,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\n601 performed in black, clear-bottomed, 96-well microplates in order to minimize background\n602 fluorescence. Outer perimeter wells were filled with sterile water to prevent dehydration in\n603 experimental wells. Initial drug dilutions were prepared in either dimethyl sulfoxide or distilled\nT\n604 deionized water and subsequent two fold dilutions were performed in 0.1 ml of 7H9GC (no\nP\n605 Tween 80) in the microplates. BACTEC 12B-passaged inocula were initially diluted 1:2 in\nI\nR\n606 7H9GC, and 0.1 ml was added to wells. Subsequent determination of bacterial titers yielded 1 ×\nC\n607 106 CFU/mL in plate wells for H Rv. Frozen inocula were initially diluted 1:20 in BACTEC\n37\nS\n608 12B medium followed by a 1:50 dilution in 7H9GC. Addition of 1/10 mL to wells resulted in\nU\n609 final bacterial titers of 2.0 × 105 for H Rv. Wells containing drug only were used to detect auto\n37\nN\n610 fluorescence of compounds. Cultures were incubated at 37 °C and the Growth of Inhibition (GI)\nA\n611 determined daily until control cultures achieved a GI of 999. Assays were usually completed in\nM\n612 5-8 days. Percent inhibition was defined as 1-(GI of test sample/GI of control) 100. The lowest\n613 drug concentration effecting an inhibitio D n of ≥ 90% was considered the MIC.\nE\n614 4.5.3. Cytotoxicity assay\nT\n615 VERO cells were cuPltured in Dulbecco Modified Eagle Medium (DMEM) containing 2\nE\n616 mM Na CO supplemented with 10% (v/v) foetal bovine serum (FBS). The cells were incubated\n2 3\nC\n617 at 37 °C under 5% CO and 95% air in a humidified atmosphere until confluent and then diluted\n2\nC\n618 with phosphate-buffered saline to 106 cells/mL. Stock solutions were prepared in dimethyl\nA\n619 sulfoxide (DMSO) and further dilutions were made with fresh culture medium. The\n620 concentration of DMSO in the final culture medium was 1%, which had no effect on the cell\n621 viability. In a transparent 96-well plate (Falcon Micro test 96), three fold serial dilutions of the\n622 macrolide stock solutions resulted in final concentrations of 31.53 to 0.12 µg/mL in a final\n623 volume of 200 µL. After incubation at 37 °C for 72 h, medium was removed and monolayer was\n28",
+    "source": {
+      "source_file": "j.ejmech.2014.06.004.pdf",
+      "page": 31,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\n646 L. Zijenah, S. Logan, R. McNerney, A. Zumla, K. Sarda, P. Nahid, M. Hoelscher, M.\n647 Pletschette, Z.A. Memish, P. Kim, R. Hafner, S. Cole, G.B. Migliori, M. Maeurer, M.\n648 Schito, A. Zumla, Lancet Infect. Dis. 13 (2013) 529-539.\nT\n649 [4] P.C. Appelbaum, MRSA - the tip of the iceberg, Clin. Microbiol. Infect. 12 (2006) 3-10.\nP\n650 [5] W.R. Bishai, N. Zetola, J.S. Francis, E.L. Nuermberger, Lancet Infect. Dis. 5 (2005) 275-\nI\nR\n651 286.\nC\n652 [6] C. Walsh, Nature 406 (2000) 775-781.\nS\n653 [7] A. Argyrou, M.W. Vetting, B. Aladegbami, J.S. Blanchard, Nat. Struct. Biol.\nU\n654 doi:10.1038/nsmb1089.\nN\n655 [8] N.C. Desai, K.M. Rajpara, V.V. Joshi, Bioorg. Med. Chem. Lett. 23 (2013) 2714-2717.\nA\n656 [9] Y. Bansal, O. Silakari, Bioorg. Med. Chem. 20 (2012) 6208-6236.\nM\n657 [10] K.F. Ansari, C. Lal, Eur. J. Med. Chem. 44 (2009) 4028-4033.\n658 [11] H. Goker, C. Kus, D.W. Boykin D , S. Yildiz, N. Altanlar, Bioorg. Med. Chem. 10 (2002)\n659 2589-2596. E\nT\n660 [12] Z. Kazimierczuk, J.A. Upcroft, P. Upcroft, A. Gorska, B. Starosciak, A. Laudy, Acta\nP\n661 Biochim. Pol. 49 (2002) 185-195.\nE\n662 [13] A. Patil, S. Ganguly, S. Surana, Rasayan J. Chem. 1 (2008) 447-460.\nC\n663 [14] A. K. Dubey, P. K. Sanyal, Online Vet. J. 5 (2010) 63.\nC\n664 [15] P. Naik, P. Murumkar, R. Giridhar, M.R. Yadav, Bioorg. Med. Chem. 18 (2010) 8418-\nA\n665 8456.\n666 [16] W.W. Mederski, D. Dorsch, S. Anzali, J. Gleitz, B. Cezanne, C. Tsaklakidis, Bioorg.\n667 Med. Chem. Lett. 14 (2004) 3763-3769.\n30",
+    "source": {
+      "source_file": "j.ejmech.2014.06.004.pdf",
+      "page": 33,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\n711\n712\nT\n713\nP\nI\n714 Captions\nR\n715 Figure 1 Structural relevance of title compounds 5a-r with previoCusly synthesized compounds\n716 NCD S\n1-20\nU\n717 Scheme 1 Synthetic route for the preparation of title compounds 5a-r\nN\nA\n718 Scheme 2 Plausible mechanistic pathway for the synthesis of compounds 5a-r\nM\n719 Table 1 Results of in vitro antibacterial screening of tested compounds\nD\n720 Table 2 Inhibitory activity (MIC, µg/mL) of compounds 5h, 5q and 5r against methicillin\nE\n721 resistant S. aureus\nT\n722 Table 3 Results of antitubercPular and cytotoxic activities of the tested compounds\nE\n723\nC\nC\nA\n33",
+    "source": {
+      "source_file": "j.ejmech.2014.06.004.pdf",
+      "page": 36,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\nTable 1 Results of in vitro antibacterial screening of tested compounds\nMinimum inhibitory concentration (MIC) µg/mL\nEntry -R Clog P a Gram-negative b Gram-positive c\nEc Pa Sa Sp T\n2 -- 0.7220 >1000 >1000 1000 1000\n4 -- 1.4772 500 500 500 500\nP\n5a -H 3.0642 500 500 500 500\n5b -2-OH 3.2982 500 500 500 I250\n5c -3-OH 3.2982 500 250 100 R500\n5d -4-OH 3.2982 250 500 500 250\n5e -3-F 3.2072 100 250 100 125\nC\n5f -4-F 3.2072 250 250 250 100\n5g -2-Cl 3.7772 100 125 50 62.5\n5h -3-Cl 3.7772 50 62.5 S25 50\n5i -4-Cl 3.7772 100 100 62.5 50\n5j -2-CH 3.5632 250 250 U125 100\n3\n5k -3-CH 3.5632 100 100 100 100\n3\n5l -4-CH 3.5632 250 250 250 125\n3 N\n5m -3-OCH 3.4082 250 500 100 250\n3\n5n -4-OCH 3.4082 500 500 250 250\n3 A\n5o -3-NO 2.8072 250 500 250 500\n2\n5p -4-NO 2.8072 1000 1000 500 500\n2\n5q -3-Br 3.9272 25 M25 12.5 25\n5r -4-Br 3.9272 50 50 25 50\nCiprofloxacin -0.7252 25 25 50 50\nChloramphenicol 1.293 50 50 50 50\nD\na Clog P calculated using the ChemBioDraw Ultra, version 12.0, software by Cambridge Soft;\nb Ec: Escherichia coli (MTCC-443); Pa: Pseudomonas aeruginosa (MTCC-1688);\nc Sa: Staphylococcus aureus (MTCCE-96), Sp: Streptococcus pyogenes (MTCC-442).\nT\nP\nE\nC\nC\nA",
+    "source": {
+      "source_file": "j.ejmech.2014.06.004.pdf",
+      "page": 37,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\nTable 2 Inhibitory activity (MIC, µg/mL) of compounds 5h, 5q and 5r against methicillin-resistant S. aureus\nEntry MRSA a\n5h >50 T\n5q 12.5\n5r 6.25 P\nCiprofloxacin 25\nChloramphenicol 50 I\nR\na Methicillin-resistant S. aureus (ATCC 43300)\nC\nS\nU\nN\nA\nM\nD\nE\nT\nP\nE\nC\nC\nA",
+    "source": {
+      "source_file": "j.ejmech.2014.06.004.pdf",
+      "page": 38,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  },
+  {
+    "text": "ACCEPTED MANUSCRIPT\nTable 3 Results of antitubercular and cytotoxic activities of the tested compounds\nEntry -R Clog P a MIC (µg/mL) b IC (µg/mL) c\n50\nT\n2 -- 0.7220 >39.42 n.d.\n4 -- 1.4772 >39.42 n.d. P\n5a -H 3.0642 35.23 17.61\nI\n5b -2-OH 3.2982 31.62 19.83\n5c -3-OH 3.2982 30.18 17.00 R\n5d -4-OH 3.2982 30.85 13.73\n5e -3-F 3.2072 25.37 23.65 C\n5f -4-F 3.2072 27.10 24.76\n5g -2-Cl 3.7772 2.65 >39.42\nS\n5h -3-Cl 3.7772 0.85 >39.42\n5i -4-Cl 3.7772 1.79 >39.42\nU\n5j -2-CH 3.5632 9.17 34.55\n3\n5k -3-CH 3.5632 2.07 >39.42\n3\n5l -4-CH 3.5632 6.28 N>39.42\n3\n5m -3-OCH 3.4082 17.98 24.22\n3\n5n -4-OCH\n3\n3.4082 23.46 A25.39\n5o -3-NO 2.8072 28.33 27.63\n2\n5p -4-NO 2.8072 32.21 16.05\n2 M\n5q -3-Br 3.9272 10.28 >39.42\n5r -4-Br 3.9272 13.79 >39.42\nIsoniazid -0.668 0.24 --\na Clog P calculated using the ChemBioDrDaw Ultra, version 12.0, software by\nCambridge Soft;\nb Minimum inhibitory concentration against H Rv strain of M. Tuberculosis (µg/mL);\nc Measurement of cytotoxic activity in VER E O 3 7 cell lines: 50% inhibitory concentrations\n(µg/mL);\nT\nn.d. not determined.\nP\nE\nC\nC\nA",
+    "source": {
+      "source_file": "j.ejmech.2014.06.004.pdf",
+      "page": 39,
+      "section": null,
+      "table_id": null,
+      "figure_id": null,
+      "row_index": null,
+      "extraction_method": "pdfplumber.extract_text",
+      "confidence": 0.9
+    },
+    "row_id": "table_like_text"
+  }
+]

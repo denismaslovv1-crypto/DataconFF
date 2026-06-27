@@ -1,0 +1,302 @@
+[
+  {
+    "compound_id": "2",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "0.95",
+    "target_units": "µgml-1",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "ja.2017.70.pdf",
+      "page": 2,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Coumarin–benzimidazolehybridsasaantimicrobialagents\nLRSinghetal\n2\nFigure1 Somepotentcoumarin,benzimidazoleantibacterialcompoundsandgeneralstructureofoursynthesizedcoumarin–benzimidazoleconjugates.Afull\ncolorversionofthisfigureisavailableatTheJournalofAntibioticsjournalonline.\ninterestingmultiplebiologicalactivities,highselectivity.Theseadvan- between salicylaldehyde and ethyl acetoacetate in the presence of\ntages have made hybrid molecules a rationally attractive source for catalytic amount ofpiperidine gaveintermediate 8, which on further\ncurrent drug discovery. Benzimidazole is an important heterocyclic bromination in dry chloroform resulted in the formation of com-\npharmacophore structure with a very strong application in the pound9.28Further,thenucleophilicsubstitutiononcompound9with\nsynthesis of drug-like molecules.22,23 Literature review indicates that benzimidazoleinacetonitrileatroomtemperaturegavecompound10.\nmanyderivativesofbenzimidazolehavebeensuccessfullydevelopedas Subsequently, condensation of compound 10 with hydroxyl amine\nclinical drugs and have been widely used in the treatment of various hydrogenchlorideinethanolunderrefluxconditionsgavecompound\ndiseases. Recent work indicated that benzimidazoles (4 and 5, 11.29 Finally, the targeted conjugates (12–22) were achieved by\nFigure1)possess muchpotential toinhibitthe growthofbacteria.22 etherification of compound 11 with different substituted benzyl\nEven though, hybrid approach has given excellent results in the halides in DMSO and potassium tert-butoxide as a base. All the new\ndrug discovery program for antimalarial and anticancer agents,24,25 synthesized coumarin–benzimidazole conjugates were characterized\nnot much work is donein the areaofantimicrobial agentsespecially\nusingNMR,IRand MS (SupplementaryFigure1). The characteriza-\ncoumarin benzimidazoles. These scanty reports regarding the cou-\ntiondetails were providedinthe Supplementary section.\nmarin–benzimidazole hybrids and success stories of hybrid approach\nleadustosynthesizethenovelcoumarin–benzimidazolehybridswith\nAntimicrobial studies\nspecial reference to antimicrobial activity.17,26,27 We here report the In this present study, 11 novel coumarin–benzimidazole conjugates\nsynthesis of the coumarin–benzimidazole hybrids as well as their\nwere screened for their in vitro antibacterial activity against reported\nantimicrobial activity, especiallyagainst the ESKAPE pathogens.\nGram-positive and Gram-negative pathogenic bacterial strains by\nmicrodilution method as per CLSI guidelines (formerly known as\nRESULTS AND DISCUSSION\nA simple and efficient method for the preparation of coumarin–\nNCLS).30–32\nMIC values were determined by using ampicillin,\nkanamycin, tetracycline, ciprofloxacin as a reference. The in vitro\nbenzimidazole conjugates was developed. The synthesized hybrids\nantibacterial results confirmed that some of the coumarin–\nwereevaluatedfortheantibacterialactivityagainstESKAPEpathogens\nbenzimidazole conjugates exhibited significant antibacterial activity\nas well as cytotoxicity against eukaryotic cells by using the\nagainst two Gram-positive strains such as B. subtilis (MTCC 1789),\nFDA-approved protocols. We observed that the compound 12\nS. aureus (ATCC 6538P) and three Gram-negative P. aeruginosa\n((E)-3-(2-(1H-benzo[d]imidazol-1-yl)-1-(((4-chlorobenzyl)oxy)imino)\nethyl)-2H-chromen-2-one)hasshownabroadspectrumantimicrobial (ATCC 25668), Proteus vulgaris (ATCC 29905) and Escherichia coli\nactivity.SARstudiesshowedthatincomparisontotheothers,halogen (MTCC 739)bacterial strainsTable 1.\ncontainingcoumarin–benzimidazoleconjugateshadabroadspectrum In the antimicrobial assay, out of 11 compounds, compounds 12\nactivityoverthe once, which do not have. and14effectivelyinhibitedthegrowthoftheB.subtilis(MTCC1789)\nwith MIC=0.95 and 6.25μgml −1, respectively, whereas reference\nChemistry drug ampicillin had MIC=25μgml −1. In the case of P. vulgaris\nThe route followed for the synthesis of coumarin–benzimidazole (ATCC 29905), compounds 14, 17, 21 and 22 displayed strong\nconjugates is illustrated in Figure 2. The Knoevenagel condensation inhibitionatMIC1.56,3.12,1.56and1.56μgml−1respectively,while\nTheJournalofAntibiotics",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "0.95",
+    "target_units": "µgml-1",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "ja.2017.70.pdf",
+      "page": 2,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Coumarin–benzimidazolehybridsasaantimicrobialagents\nLRSinghetal\n2\nFigure1 Somepotentcoumarin,benzimidazoleantibacterialcompoundsandgeneralstructureofoursynthesizedcoumarin–benzimidazoleconjugates.Afull\ncolorversionofthisfigureisavailableatTheJournalofAntibioticsjournalonline.\ninterestingmultiplebiologicalactivities,highselectivity.Theseadvan- between salicylaldehyde and ethyl acetoacetate in the presence of\ntages have made hybrid molecules a rationally attractive source for catalytic amount ofpiperidine gaveintermediate 8, which on further\ncurrent drug discovery. Benzimidazole is an important heterocyclic bromination in dry chloroform resulted in the formation of com-\npharmacophore structure with a very strong application in the pound9.28Further,thenucleophilicsubstitutiononcompound9with\nsynthesis of drug-like molecules.22,23 Literature review indicates that benzimidazoleinacetonitrileatroomtemperaturegavecompound10.\nmanyderivativesofbenzimidazolehavebeensuccessfullydevelopedas Subsequently, condensation of compound 10 with hydroxyl amine\nclinical drugs and have been widely used in the treatment of various hydrogenchlorideinethanolunderrefluxconditionsgavecompound\ndiseases. Recent work indicated that benzimidazoles (4 and 5, 11.29 Finally, the targeted conjugates (12–22) were achieved by\nFigure1)possess muchpotential toinhibitthe growthofbacteria.22 etherification of compound 11 with different substituted benzyl\nEven though, hybrid approach has given excellent results in the halides in DMSO and potassium tert-butoxide as a base. All the new\ndrug discovery program for antimalarial and anticancer agents,24,25 synthesized coumarin–benzimidazole conjugates were characterized\nnot much work is donein the areaofantimicrobial agentsespecially\nusingNMR,IRand MS (SupplementaryFigure1). The characteriza-\ncoumarin benzimidazoles. These scanty reports regarding the cou-\ntiondetails were providedinthe Supplementary section.\nmarin–benzimidazole hybrids and success stories of hybrid approach\nleadustosynthesizethenovelcoumarin–benzimidazolehybridswith\nAntimicrobial studies\nspecial reference to antimicrobial activity.17,26,27 We here report the In this present study, 11 novel coumarin–benzimidazole conjugates\nsynthesis of the coumarin–benzimidazole hybrids as well as their\nwere screened for their in vitro antibacterial activity against reported\nantimicrobial activity, especiallyagainst the ESKAPE pathogens.\nGram-positive and Gram-negative pathogenic bacterial strains by\nmicrodilution method as per CLSI guidelines (formerly known as\nRESULTS AND DISCUSSION\nA simple and efficient method for the preparation of coumarin–\nNCLS).30–32\nMIC values were determined by using ampicillin,\nkanamycin, tetracycline, ciprofloxacin as a reference. The in vitro\nbenzimidazole conjugates was developed. The synthesized hybrids\nantibacterial results confirmed that some of the coumarin–\nwereevaluatedfortheantibacterialactivityagainstESKAPEpathogens\nbenzimidazole conjugates exhibited significant antibacterial activity\nas well as cytotoxicity against eukaryotic cells by using the\nagainst two Gram-positive strains such as B. subtilis (MTCC 1789),\nFDA-approved protocols. We observed that the compound 12\nS. aureus (ATCC 6538P) and three Gram-negative P. aeruginosa\n((E)-3-(2-(1H-benzo[d]imidazol-1-yl)-1-(((4-chlorobenzyl)oxy)imino)\nethyl)-2H-chromen-2-one)hasshownabroadspectrumantimicrobial (ATCC 25668), Proteus vulgaris (ATCC 29905) and Escherichia coli\nactivity.SARstudiesshowedthatincomparisontotheothers,halogen (MTCC 739)bacterial strainsTable 1.\ncontainingcoumarin–benzimidazoleconjugateshadabroadspectrum In the antimicrobial assay, out of 11 compounds, compounds 12\nactivityoverthe once, which do not have. and14effectivelyinhibitedthegrowthoftheB.subtilis(MTCC1789)\nwith MIC=0.95 and 6.25μgml −1, respectively, whereas reference\nChemistry drug ampicillin had MIC=25μgml −1. In the case of P. vulgaris\nThe route followed for the synthesis of coumarin–benzimidazole (ATCC 29905), compounds 14, 17, 21 and 22 displayed strong\nconjugates is illustrated in Figure 2. The Knoevenagel condensation inhibitionatMIC1.56,3.12,1.56and1.56μgml−1respectively,while\nTheJournalofAntibiotics",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "25",
+    "target_units": "um",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "ja.2017.70.pdf",
+      "page": 2,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Coumarin–benzimidazolehybridsasaantimicrobialagents\nLRSinghetal\n2\nFigure1 Somepotentcoumarin,benzimidazoleantibacterialcompoundsandgeneralstructureofoursynthesizedcoumarin–benzimidazoleconjugates.Afull\ncolorversionofthisfigureisavailableatTheJournalofAntibioticsjournalonline.\ninterestingmultiplebiologicalactivities,highselectivity.Theseadvan- between salicylaldehyde and ethyl acetoacetate in the presence of\ntages have made hybrid molecules a rationally attractive source for catalytic amount ofpiperidine gaveintermediate 8, which on further\ncurrent drug discovery. Benzimidazole is an important heterocyclic bromination in dry chloroform resulted in the formation of com-\npharmacophore structure with a very strong application in the pound9.28Further,thenucleophilicsubstitutiononcompound9with\nsynthesis of drug-like molecules.22,23 Literature review indicates that benzimidazoleinacetonitrileatroomtemperaturegavecompound10.\nmanyderivativesofbenzimidazolehavebeensuccessfullydevelopedas Subsequently, condensation of compound 10 with hydroxyl amine\nclinical drugs and have been widely used in the treatment of various hydrogenchlorideinethanolunderrefluxconditionsgavecompound\ndiseases. Recent work indicated that benzimidazoles (4 and 5, 11.29 Finally, the targeted conjugates (12–22) were achieved by\nFigure1)possess muchpotential toinhibitthe growthofbacteria.22 etherification of compound 11 with different substituted benzyl\nEven though, hybrid approach has given excellent results in the halides in DMSO and potassium tert-butoxide as a base. All the new\ndrug discovery program for antimalarial and anticancer agents,24,25 synthesized coumarin–benzimidazole conjugates were characterized\nnot much work is donein the areaofantimicrobial agentsespecially\nusingNMR,IRand MS (SupplementaryFigure1). The characteriza-\ncoumarin benzimidazoles. These scanty reports regarding the cou-\ntiondetails were providedinthe Supplementary section.\nmarin–benzimidazole hybrids and success stories of hybrid approach\nleadustosynthesizethenovelcoumarin–benzimidazolehybridswith\nAntimicrobial studies\nspecial reference to antimicrobial activity.17,26,27 We here report the In this present study, 11 novel coumarin–benzimidazole conjugates\nsynthesis of the coumarin–benzimidazole hybrids as well as their\nwere screened for their in vitro antibacterial activity against reported\nantimicrobial activity, especiallyagainst the ESKAPE pathogens.\nGram-positive and Gram-negative pathogenic bacterial strains by\nmicrodilution method as per CLSI guidelines (formerly known as\nRESULTS AND DISCUSSION\nA simple and efficient method for the preparation of coumarin–\nNCLS).30–32\nMIC values were determined by using ampicillin,\nkanamycin, tetracycline, ciprofloxacin as a reference. The in vitro\nbenzimidazole conjugates was developed. The synthesized hybrids\nantibacterial results confirmed that some of the coumarin–\nwereevaluatedfortheantibacterialactivityagainstESKAPEpathogens\nbenzimidazole conjugates exhibited significant antibacterial activity\nas well as cytotoxicity against eukaryotic cells by using the\nagainst two Gram-positive strains such as B. subtilis (MTCC 1789),\nFDA-approved protocols. We observed that the compound 12\nS. aureus (ATCC 6538P) and three Gram-negative P. aeruginosa\n((E)-3-(2-(1H-benzo[d]imidazol-1-yl)-1-(((4-chlorobenzyl)oxy)imino)\nethyl)-2H-chromen-2-one)hasshownabroadspectrumantimicrobial (ATCC 25668), Proteus vulgaris (ATCC 29905) and Escherichia coli\nactivity.SARstudiesshowedthatincomparisontotheothers,halogen (MTCC 739)bacterial strainsTable 1.\ncontainingcoumarin–benzimidazoleconjugateshadabroadspectrum In the antimicrobial assay, out of 11 compounds, compounds 12\nactivityoverthe once, which do not have. and14effectivelyinhibitedthegrowthoftheB.subtilis(MTCC1789)\nwith MIC=0.95 and 6.25μgml −1, respectively, whereas reference\nChemistry drug ampicillin had MIC=25μgml −1. In the case of P. vulgaris\nThe route followed for the synthesis of coumarin–benzimidazole (ATCC 29905), compounds 14, 17, 21 and 22 displayed strong\nconjugates is illustrated in Figure 2. The Knoevenagel condensation inhibitionatMIC1.56,3.12,1.56and1.56μgml−1respectively,while\nTheJournalofAntibiotics",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "2",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "25",
+    "target_units": "um",
+    "bacteria": "Escherichia coli",
+    "evidence": {
+      "source_file": "ja.2017.70.pdf",
+      "page": 2,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Coumarin–benzimidazolehybridsasaantimicrobialagents\nLRSinghetal\n2\nFigure1 Somepotentcoumarin,benzimidazoleantibacterialcompoundsandgeneralstructureofoursynthesizedcoumarin–benzimidazoleconjugates.Afull\ncolorversionofthisfigureisavailableatTheJournalofAntibioticsjournalonline.\ninterestingmultiplebiologicalactivities,highselectivity.Theseadvan- between salicylaldehyde and ethyl acetoacetate in the presence of\ntages have made hybrid molecules a rationally attractive source for catalytic amount ofpiperidine gaveintermediate 8, which on further\ncurrent drug discovery. Benzimidazole is an important heterocyclic bromination in dry chloroform resulted in the formation of com-\npharmacophore structure with a very strong application in the pound9.28Further,thenucleophilicsubstitutiononcompound9with\nsynthesis of drug-like molecules.22,23 Literature review indicates that benzimidazoleinacetonitrileatroomtemperaturegavecompound10.\nmanyderivativesofbenzimidazolehavebeensuccessfullydevelopedas Subsequently, condensation of compound 10 with hydroxyl amine\nclinical drugs and have been widely used in the treatment of various hydrogenchlorideinethanolunderrefluxconditionsgavecompound\ndiseases. Recent work indicated that benzimidazoles (4 and 5, 11.29 Finally, the targeted conjugates (12–22) were achieved by\nFigure1)possess muchpotential toinhibitthe growthofbacteria.22 etherification of compound 11 with different substituted benzyl\nEven though, hybrid approach has given excellent results in the halides in DMSO and potassium tert-butoxide as a base. All the new\ndrug discovery program for antimalarial and anticancer agents,24,25 synthesized coumarin–benzimidazole conjugates were characterized\nnot much work is donein the areaofantimicrobial agentsespecially\nusingNMR,IRand MS (SupplementaryFigure1). The characteriza-\ncoumarin benzimidazoles. These scanty reports regarding the cou-\ntiondetails were providedinthe Supplementary section.\nmarin–benzimidazole hybrids and success stories of hybrid approach\nleadustosynthesizethenovelcoumarin–benzimidazolehybridswith\nAntimicrobial studies\nspecial reference to antimicrobial activity.17,26,27 We here report the In this present study, 11 novel coumarin–benzimidazole conjugates\nsynthesis of the coumarin–benzimidazole hybrids as well as their\nwere screened for their in vitro antibacterial activity against reported\nantimicrobial activity, especiallyagainst the ESKAPE pathogens.\nGram-positive and Gram-negative pathogenic bacterial strains by\nmicrodilution method as per CLSI guidelines (formerly known as\nRESULTS AND DISCUSSION\nA simple and efficient method for the preparation of coumarin–\nNCLS).30–32\nMIC values were determined by using ampicillin,\nkanamycin, tetracycline, ciprofloxacin as a reference. The in vitro\nbenzimidazole conjugates was developed. The synthesized hybrids\nantibacterial results confirmed that some of the coumarin–\nwereevaluatedfortheantibacterialactivityagainstESKAPEpathogens\nbenzimidazole conjugates exhibited significant antibacterial activity\nas well as cytotoxicity against eukaryotic cells by using the\nagainst two Gram-positive strains such as B. subtilis (MTCC 1789),\nFDA-approved protocols. We observed that the compound 12\nS. aureus (ATCC 6538P) and three Gram-negative P. aeruginosa\n((E)-3-(2-(1H-benzo[d]imidazol-1-yl)-1-(((4-chlorobenzyl)oxy)imino)\nethyl)-2H-chromen-2-one)hasshownabroadspectrumantimicrobial (ATCC 25668), Proteus vulgaris (ATCC 29905) and Escherichia coli\nactivity.SARstudiesshowedthatincomparisontotheothers,halogen (MTCC 739)bacterial strainsTable 1.\ncontainingcoumarin–benzimidazoleconjugateshadabroadspectrum In the antimicrobial assay, out of 11 compounds, compounds 12\nactivityoverthe once, which do not have. and14effectivelyinhibitedthegrowthoftheB.subtilis(MTCC1789)\nwith MIC=0.95 and 6.25μgml −1, respectively, whereas reference\nChemistry drug ampicillin had MIC=25μgml −1. In the case of P. vulgaris\nThe route followed for the synthesis of coumarin–benzimidazole (ATCC 29905), compounds 14, 17, 21 and 22 displayed strong\nconjugates is illustrated in Figure 2. The Knoevenagel condensation inhibitionatMIC1.56,3.12,1.56and1.56μgml−1respectively,while\nTheJournalofAntibiotics",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "3.12",
+    "target_units": "µgml-1",
+    "bacteria": "S.aureus",
+    "evidence": {
+      "source_file": "ja.2017.70.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Coumarin–benzimidazolehybridsasaantimicrobialagents\nLRSinghetal\n3\nFigure2 Synthesisofcoumarin–benzimidazoleconjugates.\nampicillin inhibited at MIC450μgml −1. Compound 12 showed as significant antibacterial agents against Gram-positive and\nbetter antibacterial activity against P. aeruginosa (ATCC 25668) Gram-negative bacteria.36\nwith MIC 3.12μgml −1 compared to reference drug ampicillin Molecular structural analysis of compounds showed that molecule\n(MIC=25μgml −1),tetracyclineandkanamycin(MIC450μgml −1). with a halogen atom has antibacterial activity. We observed that the\nFurthermore, compound 12 showed remarkableactivity at MIC 1.56 position and number of halogen atoms in the molecule are also\nand3.12μgml −1againstS.aureus(ATCC6538P)andE.coli(MTCC having a significant effect on the activity and host spectrum.\n739)bacterialstrains,respectively.Thestructure–antimicrobialactivity Coumarin–benzimidazole conjugate with chlorine atom at para\nrelationship of the synthesized compounds revealed that compounds position (compound 12) was found to have highest broad spectrum\n14, 17, 21 and 22 inhibited the growth of P. vulgaris ATCC 29905. antimicrobialactivity. Interestingly,compoundwithchlorineatomat\nP.vulgarisbelongstotheEnterobacteriaceaefamilyofGram-negative meta or ortho position (16 and 22) did not show any antibacterial\nbacilli and is often implicated in serious sepsis and urinary tract activity. It is widely known that the molecules biophysical properties\ninfections in humans, along with ESKAPE species. Plech et al.33 can also influence the action spectrum of various therapeutic\nhave reported 1,2,4-triazole-ciprofloxacin hybrids as potential molecules. EL Hage et al.37 has shown that the number of chlorine\nantibacterial agents against drug-susceptible and drug-resistant atoms and their position on the aromatic ring had a notable effect\nbacteria. CBR-2092, a rifamycin-quinoline hybrid exhibited on the antifungal activity in the bifonazole derivatives. Our results\npotent antibacterial activity.34 Coumarin thiosemicarbazone hybrid are in consistence with the results obtained with halogenated 1,\nderivatives were found tohaveantimicrobial activityagainst E.coli.35 2-benzothiazine derivatives compounds, where it was demonstrated\nFurthermore, a series of coumarin-thiazole hybrids were reported thatcompounds withchlorineorbromineatomintheparaposition\nTheJournalofAntibiotics",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "3.12",
+    "target_units": "µgml-1",
+    "bacteria": "E.coli",
+    "evidence": {
+      "source_file": "ja.2017.70.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Coumarin–benzimidazolehybridsasaantimicrobialagents\nLRSinghetal\n3\nFigure2 Synthesisofcoumarin–benzimidazoleconjugates.\nampicillin inhibited at MIC450μgml −1. Compound 12 showed as significant antibacterial agents against Gram-positive and\nbetter antibacterial activity against P. aeruginosa (ATCC 25668) Gram-negative bacteria.36\nwith MIC 3.12μgml −1 compared to reference drug ampicillin Molecular structural analysis of compounds showed that molecule\n(MIC=25μgml −1),tetracyclineandkanamycin(MIC450μgml −1). with a halogen atom has antibacterial activity. We observed that the\nFurthermore, compound 12 showed remarkableactivity at MIC 1.56 position and number of halogen atoms in the molecule are also\nand3.12μgml −1againstS.aureus(ATCC6538P)andE.coli(MTCC having a significant effect on the activity and host spectrum.\n739)bacterialstrains,respectively.Thestructure–antimicrobialactivity Coumarin–benzimidazole conjugate with chlorine atom at para\nrelationship of the synthesized compounds revealed that compounds position (compound 12) was found to have highest broad spectrum\n14, 17, 21 and 22 inhibited the growth of P. vulgaris ATCC 29905. antimicrobialactivity. Interestingly,compoundwithchlorineatomat\nP.vulgarisbelongstotheEnterobacteriaceaefamilyofGram-negative meta or ortho position (16 and 22) did not show any antibacterial\nbacilli and is often implicated in serious sepsis and urinary tract activity. It is widely known that the molecules biophysical properties\ninfections in humans, along with ESKAPE species. Plech et al.33 can also influence the action spectrum of various therapeutic\nhave reported 1,2,4-triazole-ciprofloxacin hybrids as potential molecules. EL Hage et al.37 has shown that the number of chlorine\nantibacterial agents against drug-susceptible and drug-resistant atoms and their position on the aromatic ring had a notable effect\nbacteria. CBR-2092, a rifamycin-quinoline hybrid exhibited on the antifungal activity in the bifonazole derivatives. Our results\npotent antibacterial activity.34 Coumarin thiosemicarbazone hybrid are in consistence with the results obtained with halogenated 1,\nderivatives were found tohaveantimicrobial activityagainst E.coli.35 2-benzothiazine derivatives compounds, where it was demonstrated\nFurthermore, a series of coumarin-thiazole hybrids were reported thatcompounds withchlorineorbromineatomintheparaposition\nTheJournalofAntibiotics",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "3.12",
+    "target_units": "µgml-1",
+    "bacteria": "E.coli",
+    "evidence": {
+      "source_file": "ja.2017.70.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Coumarin–benzimidazolehybridsasaantimicrobialagents\nLRSinghetal\n3\nFigure2 Synthesisofcoumarin–benzimidazoleconjugates.\nampicillin inhibited at MIC450μgml −1. Compound 12 showed as significant antibacterial agents against Gram-positive and\nbetter antibacterial activity against P. aeruginosa (ATCC 25668) Gram-negative bacteria.36\nwith MIC 3.12μgml −1 compared to reference drug ampicillin Molecular structural analysis of compounds showed that molecule\n(MIC=25μgml −1),tetracyclineandkanamycin(MIC450μgml −1). with a halogen atom has antibacterial activity. We observed that the\nFurthermore, compound 12 showed remarkableactivity at MIC 1.56 position and number of halogen atoms in the molecule are also\nand3.12μgml −1againstS.aureus(ATCC6538P)andE.coli(MTCC having a significant effect on the activity and host spectrum.\n739)bacterialstrains,respectively.Thestructure–antimicrobialactivity Coumarin–benzimidazole conjugate with chlorine atom at para\nrelationship of the synthesized compounds revealed that compounds position (compound 12) was found to have highest broad spectrum\n14, 17, 21 and 22 inhibited the growth of P. vulgaris ATCC 29905. antimicrobialactivity. Interestingly,compoundwithchlorineatomat\nP.vulgarisbelongstotheEnterobacteriaceaefamilyofGram-negative meta or ortho position (16 and 22) did not show any antibacterial\nbacilli and is often implicated in serious sepsis and urinary tract activity. It is widely known that the molecules biophysical properties\ninfections in humans, along with ESKAPE species. Plech et al.33 can also influence the action spectrum of various therapeutic\nhave reported 1,2,4-triazole-ciprofloxacin hybrids as potential molecules. EL Hage et al.37 has shown that the number of chlorine\nantibacterial agents against drug-susceptible and drug-resistant atoms and their position on the aromatic ring had a notable effect\nbacteria. CBR-2092, a rifamycin-quinoline hybrid exhibited on the antifungal activity in the bifonazole derivatives. Our results\npotent antibacterial activity.34 Coumarin thiosemicarbazone hybrid are in consistence with the results obtained with halogenated 1,\nderivatives were found tohaveantimicrobial activityagainst E.coli.35 2-benzothiazine derivatives compounds, where it was demonstrated\nFurthermore, a series of coumarin-thiazole hybrids were reported thatcompounds withchlorineorbromineatomintheparaposition\nTheJournalofAntibiotics",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "25",
+    "target_units": "µgml-1",
+    "bacteria": "S.aureus",
+    "evidence": {
+      "source_file": "ja.2017.70.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Coumarin–benzimidazolehybridsasaantimicrobialagents\nLRSinghetal\n3\nFigure2 Synthesisofcoumarin–benzimidazoleconjugates.\nampicillin inhibited at MIC450μgml −1. Compound 12 showed as significant antibacterial agents against Gram-positive and\nbetter antibacterial activity against P. aeruginosa (ATCC 25668) Gram-negative bacteria.36\nwith MIC 3.12μgml −1 compared to reference drug ampicillin Molecular structural analysis of compounds showed that molecule\n(MIC=25μgml −1),tetracyclineandkanamycin(MIC450μgml −1). with a halogen atom has antibacterial activity. We observed that the\nFurthermore, compound 12 showed remarkableactivity at MIC 1.56 position and number of halogen atoms in the molecule are also\nand3.12μgml −1againstS.aureus(ATCC6538P)andE.coli(MTCC having a significant effect on the activity and host spectrum.\n739)bacterialstrains,respectively.Thestructure–antimicrobialactivity Coumarin–benzimidazole conjugate with chlorine atom at para\nrelationship of the synthesized compounds revealed that compounds position (compound 12) was found to have highest broad spectrum\n14, 17, 21 and 22 inhibited the growth of P. vulgaris ATCC 29905. antimicrobialactivity. Interestingly,compoundwithchlorineatomat\nP.vulgarisbelongstotheEnterobacteriaceaefamilyofGram-negative meta or ortho position (16 and 22) did not show any antibacterial\nbacilli and is often implicated in serious sepsis and urinary tract activity. It is widely known that the molecules biophysical properties\ninfections in humans, along with ESKAPE species. Plech et al.33 can also influence the action spectrum of various therapeutic\nhave reported 1,2,4-triazole-ciprofloxacin hybrids as potential molecules. EL Hage et al.37 has shown that the number of chlorine\nantibacterial agents against drug-susceptible and drug-resistant atoms and their position on the aromatic ring had a notable effect\nbacteria. CBR-2092, a rifamycin-quinoline hybrid exhibited on the antifungal activity in the bifonazole derivatives. Our results\npotent antibacterial activity.34 Coumarin thiosemicarbazone hybrid are in consistence with the results obtained with halogenated 1,\nderivatives were found tohaveantimicrobial activityagainst E.coli.35 2-benzothiazine derivatives compounds, where it was demonstrated\nFurthermore, a series of coumarin-thiazole hybrids were reported thatcompounds withchlorineorbromineatomintheparaposition\nTheJournalofAntibiotics",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "25",
+    "target_units": "µgml-1",
+    "bacteria": "E.coli",
+    "evidence": {
+      "source_file": "ja.2017.70.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Coumarin–benzimidazolehybridsasaantimicrobialagents\nLRSinghetal\n3\nFigure2 Synthesisofcoumarin–benzimidazoleconjugates.\nampicillin inhibited at MIC450μgml −1. Compound 12 showed as significant antibacterial agents against Gram-positive and\nbetter antibacterial activity against P. aeruginosa (ATCC 25668) Gram-negative bacteria.36\nwith MIC 3.12μgml −1 compared to reference drug ampicillin Molecular structural analysis of compounds showed that molecule\n(MIC=25μgml −1),tetracyclineandkanamycin(MIC450μgml −1). with a halogen atom has antibacterial activity. We observed that the\nFurthermore, compound 12 showed remarkableactivity at MIC 1.56 position and number of halogen atoms in the molecule are also\nand3.12μgml −1againstS.aureus(ATCC6538P)andE.coli(MTCC having a significant effect on the activity and host spectrum.\n739)bacterialstrains,respectively.Thestructure–antimicrobialactivity Coumarin–benzimidazole conjugate with chlorine atom at para\nrelationship of the synthesized compounds revealed that compounds position (compound 12) was found to have highest broad spectrum\n14, 17, 21 and 22 inhibited the growth of P. vulgaris ATCC 29905. antimicrobialactivity. Interestingly,compoundwithchlorineatomat\nP.vulgarisbelongstotheEnterobacteriaceaefamilyofGram-negative meta or ortho position (16 and 22) did not show any antibacterial\nbacilli and is often implicated in serious sepsis and urinary tract activity. It is widely known that the molecules biophysical properties\ninfections in humans, along with ESKAPE species. Plech et al.33 can also influence the action spectrum of various therapeutic\nhave reported 1,2,4-triazole-ciprofloxacin hybrids as potential molecules. EL Hage et al.37 has shown that the number of chlorine\nantibacterial agents against drug-susceptible and drug-resistant atoms and their position on the aromatic ring had a notable effect\nbacteria. CBR-2092, a rifamycin-quinoline hybrid exhibited on the antifungal activity in the bifonazole derivatives. Our results\npotent antibacterial activity.34 Coumarin thiosemicarbazone hybrid are in consistence with the results obtained with halogenated 1,\nderivatives were found tohaveantimicrobial activityagainst E.coli.35 2-benzothiazine derivatives compounds, where it was demonstrated\nFurthermore, a series of coumarin-thiazole hybrids were reported thatcompounds withchlorineorbromineatomintheparaposition\nTheJournalofAntibiotics",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "25",
+    "target_units": "µgml-1",
+    "bacteria": "E.coli",
+    "evidence": {
+      "source_file": "ja.2017.70.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Coumarin–benzimidazolehybridsasaantimicrobialagents\nLRSinghetal\n3\nFigure2 Synthesisofcoumarin–benzimidazoleconjugates.\nampicillin inhibited at MIC450μgml −1. Compound 12 showed as significant antibacterial agents against Gram-positive and\nbetter antibacterial activity against P. aeruginosa (ATCC 25668) Gram-negative bacteria.36\nwith MIC 3.12μgml −1 compared to reference drug ampicillin Molecular structural analysis of compounds showed that molecule\n(MIC=25μgml −1),tetracyclineandkanamycin(MIC450μgml −1). with a halogen atom has antibacterial activity. We observed that the\nFurthermore, compound 12 showed remarkableactivity at MIC 1.56 position and number of halogen atoms in the molecule are also\nand3.12μgml −1againstS.aureus(ATCC6538P)andE.coli(MTCC having a significant effect on the activity and host spectrum.\n739)bacterialstrains,respectively.Thestructure–antimicrobialactivity Coumarin–benzimidazole conjugate with chlorine atom at para\nrelationship of the synthesized compounds revealed that compounds position (compound 12) was found to have highest broad spectrum\n14, 17, 21 and 22 inhibited the growth of P. vulgaris ATCC 29905. antimicrobialactivity. Interestingly,compoundwithchlorineatomat\nP.vulgarisbelongstotheEnterobacteriaceaefamilyofGram-negative meta or ortho position (16 and 22) did not show any antibacterial\nbacilli and is often implicated in serious sepsis and urinary tract activity. It is widely known that the molecules biophysical properties\ninfections in humans, along with ESKAPE species. Plech et al.33 can also influence the action spectrum of various therapeutic\nhave reported 1,2,4-triazole-ciprofloxacin hybrids as potential molecules. EL Hage et al.37 has shown that the number of chlorine\nantibacterial agents against drug-susceptible and drug-resistant atoms and their position on the aromatic ring had a notable effect\nbacteria. CBR-2092, a rifamycin-quinoline hybrid exhibited on the antifungal activity in the bifonazole derivatives. Our results\npotent antibacterial activity.34 Coumarin thiosemicarbazone hybrid are in consistence with the results obtained with halogenated 1,\nderivatives were found tohaveantimicrobial activityagainst E.coli.35 2-benzothiazine derivatives compounds, where it was demonstrated\nFurthermore, a series of coumarin-thiazole hybrids were reported thatcompounds withchlorineorbromineatomintheparaposition\nTheJournalofAntibiotics",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "1.56",
+    "target_units": "um",
+    "bacteria": "S.aureus",
+    "evidence": {
+      "source_file": "ja.2017.70.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Coumarin–benzimidazolehybridsasaantimicrobialagents\nLRSinghetal\n3\nFigure2 Synthesisofcoumarin–benzimidazoleconjugates.\nampicillin inhibited at MIC450μgml −1. Compound 12 showed as significant antibacterial agents against Gram-positive and\nbetter antibacterial activity against P. aeruginosa (ATCC 25668) Gram-negative bacteria.36\nwith MIC 3.12μgml −1 compared to reference drug ampicillin Molecular structural analysis of compounds showed that molecule\n(MIC=25μgml −1),tetracyclineandkanamycin(MIC450μgml −1). with a halogen atom has antibacterial activity. We observed that the\nFurthermore, compound 12 showed remarkableactivity at MIC 1.56 position and number of halogen atoms in the molecule are also\nand3.12μgml −1againstS.aureus(ATCC6538P)andE.coli(MTCC having a significant effect on the activity and host spectrum.\n739)bacterialstrains,respectively.Thestructure–antimicrobialactivity Coumarin–benzimidazole conjugate with chlorine atom at para\nrelationship of the synthesized compounds revealed that compounds position (compound 12) was found to have highest broad spectrum\n14, 17, 21 and 22 inhibited the growth of P. vulgaris ATCC 29905. antimicrobialactivity. Interestingly,compoundwithchlorineatomat\nP.vulgarisbelongstotheEnterobacteriaceaefamilyofGram-negative meta or ortho position (16 and 22) did not show any antibacterial\nbacilli and is often implicated in serious sepsis and urinary tract activity. It is widely known that the molecules biophysical properties\ninfections in humans, along with ESKAPE species. Plech et al.33 can also influence the action spectrum of various therapeutic\nhave reported 1,2,4-triazole-ciprofloxacin hybrids as potential molecules. EL Hage et al.37 has shown that the number of chlorine\nantibacterial agents against drug-susceptible and drug-resistant atoms and their position on the aromatic ring had a notable effect\nbacteria. CBR-2092, a rifamycin-quinoline hybrid exhibited on the antifungal activity in the bifonazole derivatives. Our results\npotent antibacterial activity.34 Coumarin thiosemicarbazone hybrid are in consistence with the results obtained with halogenated 1,\nderivatives were found tohaveantimicrobial activityagainst E.coli.35 2-benzothiazine derivatives compounds, where it was demonstrated\nFurthermore, a series of coumarin-thiazole hybrids were reported thatcompounds withchlorineorbromineatomintheparaposition\nTheJournalofAntibiotics",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "1.56",
+    "target_units": "um",
+    "bacteria": "E.coli",
+    "evidence": {
+      "source_file": "ja.2017.70.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Coumarin–benzimidazolehybridsasaantimicrobialagents\nLRSinghetal\n3\nFigure2 Synthesisofcoumarin–benzimidazoleconjugates.\nampicillin inhibited at MIC450μgml −1. Compound 12 showed as significant antibacterial agents against Gram-positive and\nbetter antibacterial activity against P. aeruginosa (ATCC 25668) Gram-negative bacteria.36\nwith MIC 3.12μgml −1 compared to reference drug ampicillin Molecular structural analysis of compounds showed that molecule\n(MIC=25μgml −1),tetracyclineandkanamycin(MIC450μgml −1). with a halogen atom has antibacterial activity. We observed that the\nFurthermore, compound 12 showed remarkableactivity at MIC 1.56 position and number of halogen atoms in the molecule are also\nand3.12μgml −1againstS.aureus(ATCC6538P)andE.coli(MTCC having a significant effect on the activity and host spectrum.\n739)bacterialstrains,respectively.Thestructure–antimicrobialactivity Coumarin–benzimidazole conjugate with chlorine atom at para\nrelationship of the synthesized compounds revealed that compounds position (compound 12) was found to have highest broad spectrum\n14, 17, 21 and 22 inhibited the growth of P. vulgaris ATCC 29905. antimicrobialactivity. Interestingly,compoundwithchlorineatomat\nP.vulgarisbelongstotheEnterobacteriaceaefamilyofGram-negative meta or ortho position (16 and 22) did not show any antibacterial\nbacilli and is often implicated in serious sepsis and urinary tract activity. It is widely known that the molecules biophysical properties\ninfections in humans, along with ESKAPE species. Plech et al.33 can also influence the action spectrum of various therapeutic\nhave reported 1,2,4-triazole-ciprofloxacin hybrids as potential molecules. EL Hage et al.37 has shown that the number of chlorine\nantibacterial agents against drug-susceptible and drug-resistant atoms and their position on the aromatic ring had a notable effect\nbacteria. CBR-2092, a rifamycin-quinoline hybrid exhibited on the antifungal activity in the bifonazole derivatives. Our results\npotent antibacterial activity.34 Coumarin thiosemicarbazone hybrid are in consistence with the results obtained with halogenated 1,\nderivatives were found tohaveantimicrobial activityagainst E.coli.35 2-benzothiazine derivatives compounds, where it was demonstrated\nFurthermore, a series of coumarin-thiazole hybrids were reported thatcompounds withchlorineorbromineatomintheparaposition\nTheJournalofAntibiotics",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "3",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "1.56",
+    "target_units": "um",
+    "bacteria": "E.coli",
+    "evidence": {
+      "source_file": "ja.2017.70.pdf",
+      "page": 3,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Coumarin–benzimidazolehybridsasaantimicrobialagents\nLRSinghetal\n3\nFigure2 Synthesisofcoumarin–benzimidazoleconjugates.\nampicillin inhibited at MIC450μgml −1. Compound 12 showed as significant antibacterial agents against Gram-positive and\nbetter antibacterial activity against P. aeruginosa (ATCC 25668) Gram-negative bacteria.36\nwith MIC 3.12μgml −1 compared to reference drug ampicillin Molecular structural analysis of compounds showed that molecule\n(MIC=25μgml −1),tetracyclineandkanamycin(MIC450μgml −1). with a halogen atom has antibacterial activity. We observed that the\nFurthermore, compound 12 showed remarkableactivity at MIC 1.56 position and number of halogen atoms in the molecule are also\nand3.12μgml −1againstS.aureus(ATCC6538P)andE.coli(MTCC having a significant effect on the activity and host spectrum.\n739)bacterialstrains,respectively.Thestructure–antimicrobialactivity Coumarin–benzimidazole conjugate with chlorine atom at para\nrelationship of the synthesized compounds revealed that compounds position (compound 12) was found to have highest broad spectrum\n14, 17, 21 and 22 inhibited the growth of P. vulgaris ATCC 29905. antimicrobialactivity. Interestingly,compoundwithchlorineatomat\nP.vulgarisbelongstotheEnterobacteriaceaefamilyofGram-negative meta or ortho position (16 and 22) did not show any antibacterial\nbacilli and is often implicated in serious sepsis and urinary tract activity. It is widely known that the molecules biophysical properties\ninfections in humans, along with ESKAPE species. Plech et al.33 can also influence the action spectrum of various therapeutic\nhave reported 1,2,4-triazole-ciprofloxacin hybrids as potential molecules. EL Hage et al.37 has shown that the number of chlorine\nantibacterial agents against drug-susceptible and drug-resistant atoms and their position on the aromatic ring had a notable effect\nbacteria. CBR-2092, a rifamycin-quinoline hybrid exhibited on the antifungal activity in the bifonazole derivatives. Our results\npotent antibacterial activity.34 Coumarin thiosemicarbazone hybrid are in consistence with the results obtained with halogenated 1,\nderivatives were found tohaveantimicrobial activityagainst E.coli.35 2-benzothiazine derivatives compounds, where it was demonstrated\nFurthermore, a series of coumarin-thiazole hybrids were reported thatcompounds withchlorineorbromineatomintheparaposition\nTheJournalofAntibiotics",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "1",
+    "target_units": "um",
+    "bacteria": "Staphylococcus aureus",
+    "evidence": {
+      "source_file": "ja.2017.70.pdf",
+      "page": 4,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Coumarin–benzimidazolehybridsasaantimicrobialagents\nLRSinghetal\n4\nhave higher antimicrobial activity over the others.38 Recently it has human erythrocytes. The hemolysis assay results clearly indicate that\nbeen demonstrated that the presence of halogen atoms in molecules theselectedcompoundsarenottoxicagainsthumanerythrocyteseven\nincreasesthetargetbindingabilityandalsostabilizestheligand–target at10timestheMICconcentration(Figure3a).Giventhis,webelieve\ncomplex.31Ourobservationincludingothersclearlyindicatesthatthe that this molecule is safe and have the potential to become a lead\npositionofthechlorineatomisverymuchimportantforantibacterial molecule.\nactivity.\nViability assay\nHemolysis study Benzimidazoles are structural homolog topurines and their mode of\nHemolysis assay is a simple, robust and high throughput assay to actionisbyinhibitingthenucleicacidsynthesis.Asourcompound12\ndetect the toxicity of the compounds. To investigate the toxicity is obtained by the fusion of coumarin and benzimidazole, we tested\nprofile, we selected compound 12 as it has shown a broad spectrum thesemoleculesinbothlactatedehydrogenase(LDH)andMTTassay.\nantibacterial activity. As these molecules were primarily intended to We used actively dividing L929 cells (mouse fibroblast cell line) as\ndevelop as human therapeutic agents, we tested the toxicity against targetcells,LDHassayascytotoxicityindicator,MTTasanindicator\nfor the cell viability and proliferation. Initially, we exposed the L929\ncell lines to the compound 12 at 1× and 10× times the MIC\nTable1 MICinμgml−1againstmicrobes concentrationfor24handthenmeasuredtheLDHreleasefromdying\ncells (Figure 3b) and MTT conversion to formazan by metabolically\nMICinμgml−1againstmicrobes viablecells(Figure3c).Ourresultsclearlyshowthatthecompound12\nis not toxic to L929 cells and does not induce any morphological\nGram-positive Gram-negative changesinthestructureofthecell(Figure4).Someofthecompounds\n(14,16,17,18,21and22)synthesizedshoweddetectableantibacterial\nCompound I II III IV V VI VII VIII IX activity against Gram-positive bacteria B. subtilis and S. aureus.\nHowever, their activity was found to be weaker as compared to the\n12 0.95 450 450 1.56 450 3.12 450 450 3.12\n13 450 450 450 450 450 450 450 450 450 reference standard. On the basis of these results, in vitro cytotoxicity\n14 6.25 450 450 450 450 450 1.56 450 450 testwasnotconductedforthesecompounds.Mantuetal.39reported\n15 450 450 450 450 450 450 450 450 450 that benzimidazole and pyridine hybrids have the anticancer activity.\n16 450 450 450 450 450 450 12.25 450 450 Novel series of 1, 2, 3-triazolo-phenanthrene hybrids synthesized\n17 450 450 450 450 450 450 3.12 450 450 by employing Cu(I)-catalyzed azide-alkyne cycloaddition (CuAAC)\n18 450 450 450 450 450 450 12.25 450 450 showedin vitro cytotoxic against various human cancercelllines.40\n19 450 450 450 450 450 25 450 450 450\n20 450 450 450 450 450 450 450 450 450\nCONCLUSION\n21 450 450 450 450 450 450 1.56 450 450\nIn conclusion, we have designed and synthesized a novel series of\n22 450 450 450 450 450 425 1.56 450 450\ncoumarin–benzimidazole hybrids and evaluated them for their anti-\nAmpicillin 25 450 450 0.5 450 25 450 450 1.56\nKanamycin 6.25 450 0.6 1.5 25 450 3.15 25 3.15 bacterial activities. The hybrid compound 12 (E)-3-(2-(1H-benzo[d]\nTetracycline 6.25 3.15 25 12.5 3.15 450 450 3.15 6.25 imidazol-1-yl)-1-(((4-chlorobenzyl)oxy)imino)ethyl)-2H-chromen-2-\nCiprofloxacin 0.6 1.5 6.25 25 6.25 1.5 1.5 450 12.5 one displayed significant activity against different Gram-positive and\nGram-negativebacterialstrains.Althoughtheprecisetargetandmode\n(I)BacillussubtilisMTCC1789;(II)BacilluscereusMTCC1305;(III)Staphylococcusaureus\nATCC9144;(IV)S.aureusATCC6538P;(V)StaphylococcusepidermisATCC155;(VI) of action remains unknown, given the robust increase in the list of\nPseudomonasaeruginosaATCC25668;(VII)ProteusvulgarisATCC29905;(VIII)Klebsiella\npneumoniaeATCC29665;(IX)EscherichiacoliMTCC739. pathogen acquiring the resistance against antibiotics, we believe that\nFigure 3 Effect of coumarin–benzimidazole conjugates on mammalian cells: (a) Hemolytic effects of compound 12 were investigated. Erythrocytes were\nincubated with Compound 12 (100μgml−1), 2% Triton X-100 (Sigma-Aldrich) served as positive control. The absorbance of hemoglobin release was\nmeasured at 540nm and is expressed as % of Triton X-100-induced hemolysis. (b and c) L929 cells were exposed to Compound 12, coumarin and\nbenzimidazole at indicated concentration for 24h, and the cell viability was measured by LDH-based kit and MTT assay. Compound 12, coumarin and\nbenzimidazoledidnotinduceanyLDHreleasenordidtheyaffectviabilityofthecells.1%TritonX-100wasusedasapositivecontrol(yielding100%LDH\nrelease)andbufferasnegativepresentedascontrolswerepresent.\nTheJournalofAntibiotics",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  },
+  {
+    "compound_id": "4",
+    "smiles": "NOT_DETECTED",
+    "target_type": "MIC",
+    "target_relation": "=",
+    "target_value": "1",
+    "target_units": "um",
+    "bacteria": "S.aureus",
+    "evidence": {
+      "source_file": "ja.2017.70.pdf",
+      "page": 4,
+      "section": null,
+      "table_id": null,
+      "row_id": "table_like_text",
+      "evidence_text": "Coumarin–benzimidazolehybridsasaantimicrobialagents\nLRSinghetal\n4\nhave higher antimicrobial activity over the others.38 Recently it has human erythrocytes. The hemolysis assay results clearly indicate that\nbeen demonstrated that the presence of halogen atoms in molecules theselectedcompoundsarenottoxicagainsthumanerythrocyteseven\nincreasesthetargetbindingabilityandalsostabilizestheligand–target at10timestheMICconcentration(Figure3a).Giventhis,webelieve\ncomplex.31Ourobservationincludingothersclearlyindicatesthatthe that this molecule is safe and have the potential to become a lead\npositionofthechlorineatomisverymuchimportantforantibacterial molecule.\nactivity.\nViability assay\nHemolysis study Benzimidazoles are structural homolog topurines and their mode of\nHemolysis assay is a simple, robust and high throughput assay to actionisbyinhibitingthenucleicacidsynthesis.Asourcompound12\ndetect the toxicity of the compounds. To investigate the toxicity is obtained by the fusion of coumarin and benzimidazole, we tested\nprofile, we selected compound 12 as it has shown a broad spectrum thesemoleculesinbothlactatedehydrogenase(LDH)andMTTassay.\nantibacterial activity. As these molecules were primarily intended to We used actively dividing L929 cells (mouse fibroblast cell line) as\ndevelop as human therapeutic agents, we tested the toxicity against targetcells,LDHassayascytotoxicityindicator,MTTasanindicator\nfor the cell viability and proliferation. Initially, we exposed the L929\ncell lines to the compound 12 at 1× and 10× times the MIC\nTable1 MICinμgml−1againstmicrobes concentrationfor24handthenmeasuredtheLDHreleasefromdying\ncells (Figure 3b) and MTT conversion to formazan by metabolically\nMICinμgml−1againstmicrobes viablecells(Figure3c).Ourresultsclearlyshowthatthecompound12\nis not toxic to L929 cells and does not induce any morphological\nGram-positive Gram-negative changesinthestructureofthecell(Figure4).Someofthecompounds\n(14,16,17,18,21and22)synthesizedshoweddetectableantibacterial\nCompound I II III IV V VI VII VIII IX activity against Gram-positive bacteria B. subtilis and S. aureus.\nHowever, their activity was found to be weaker as compared to the\n12 0.95 450 450 1.56 450 3.12 450 450 3.12\n13 450 450 450 450 450 450 450 450 450 reference standard. On the basis of these results, in vitro cytotoxicity\n14 6.25 450 450 450 450 450 1.56 450 450 testwasnotconductedforthesecompounds.Mantuetal.39reported\n15 450 450 450 450 450 450 450 450 450 that benzimidazole and pyridine hybrids have the anticancer activity.\n16 450 450 450 450 450 450 12.25 450 450 Novel series of 1, 2, 3-triazolo-phenanthrene hybrids synthesized\n17 450 450 450 450 450 450 3.12 450 450 by employing Cu(I)-catalyzed azide-alkyne cycloaddition (CuAAC)\n18 450 450 450 450 450 450 12.25 450 450 showedin vitro cytotoxic against various human cancercelllines.40\n19 450 450 450 450 450 25 450 450 450\n20 450 450 450 450 450 450 450 450 450\nCONCLUSION\n21 450 450 450 450 450 450 1.56 450 450\nIn conclusion, we have designed and synthesized a novel series of\n22 450 450 450 450 450 425 1.56 450 450\ncoumarin–benzimidazole hybrids and evaluated them for their anti-\nAmpicillin 25 450 450 0.5 450 25 450 450 1.56\nKanamycin 6.25 450 0.6 1.5 25 450 3.15 25 3.15 bacterial activities. The hybrid compound 12 (E)-3-(2-(1H-benzo[d]\nTetracycline 6.25 3.15 25 12.5 3.15 450 450 3.15 6.25 imidazol-1-yl)-1-(((4-chlorobenzyl)oxy)imino)ethyl)-2H-chromen-2-\nCiprofloxacin 0.6 1.5 6.25 25 6.25 1.5 1.5 450 12.5 one displayed significant activity against different Gram-positive and\nGram-negativebacterialstrains.Althoughtheprecisetargetandmode\n(I)BacillussubtilisMTCC1789;(II)BacilluscereusMTCC1305;(III)Staphylococcusaureus\nATCC9144;(IV)S.aureusATCC6538P;(V)StaphylococcusepidermisATCC155;(VI) of action remains unknown, given the robust increase in the list of\nPseudomonasaeruginosaATCC25668;(VII)ProteusvulgarisATCC29905;(VIII)Klebsiella\npneumoniaeATCC29665;(IX)EscherichiacoliMTCC739. pathogen acquiring the resistance against antibiotics, we believe that\nFigure 3 Effect of coumarin–benzimidazole conjugates on mammalian cells: (a) Hemolytic effects of compound 12 were investigated. Erythrocytes were\nincubated with Compound 12 (100μgml−1), 2% Triton X-100 (Sigma-Aldrich) served as positive control. The absorbance of hemoglobin release was\nmeasured at 540nm and is expressed as % of Triton X-100-induced hemolysis. (b and c) L929 cells were exposed to Compound 12, coumarin and\nbenzimidazole at indicated concentration for 24h, and the cell viability was measured by LDH-based kit and MTT assay. Compound 12, coumarin and\nbenzimidazoledidnotinduceanyLDHreleasenordidtheyaffectviabilityofthecells.1%TritonX-100wasusedasapositivecontrol(yielding100%LDH\nrelease)andbufferasnegativepresentedascontrolswerepresent.\nTheJournalofAntibiotics",
+      "extraction_method": "benzimidazole.rule_extractor",
+      "confidence": 0.75
+    },
+    "validation_status": "valid"
+  }
+]

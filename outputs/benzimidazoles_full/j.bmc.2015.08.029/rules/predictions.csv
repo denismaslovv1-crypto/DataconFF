@@ -1,0 +1,7 @@
+compound_id,smiles,target_type,target_relation,target_value,target_units,bacteria
+3,NOT_DETECTED,MIC,=,0.125,um,Staphylococcus aureus
+3,NOT_DETECTED,MIC,=,0.125,um,Escherichia coli
+3,NOT_DETECTED,MIC,=,0.125,um,Staphylococcus aureus
+3,NOT_DETECTED,MIC,=,0.125,um,Escherichia coli
+40,NOT_DETECTED,MIC,=,0.016-0.50,um,Staphylococcus aureus
+40,NOT_DETECTED,MIC,=,0.016-0.50,um,Escherichia coli

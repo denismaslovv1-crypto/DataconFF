@@ -1,0 +1,16 @@
+compound_id,smiles,target_type,target_relation,target_value,target_units,bacteria
+3D,NOT_DETECTED,pMIC,=,2,um,Escherichia Coli
+3D,NOT_DETECTED,pMIC,=,2,um,Escherichia coli
+4,NOT_DETECTED,pMIC,=,1,UM,Escherichia Coli
+4,NOT_DETECTED,pMIC,=,1.00,UM,Escherichia Coli
+4,NOT_DETECTED,pMIC,=,1,UM,Escherichia Coli
+4,NOT_DETECTED,pMIC,=,1.00,UM,Escherichia Coli
+4,NOT_DETECTED,pMIC,=,1,UM,Escherichia Coli
+4,NOT_DETECTED,pMIC,=,1.00,UM,Escherichia Coli
+5,NOT_DETECTED,pMIC,=,1,UM,Staphylococcus aureus
+0,NOT_DETECTED,pMIC,=,1,UM,Staphylococcus aureus
+0,NOT_DETECTED,pMIC,=,1.00,UM,Staphylococcus aureus
+0,NOT_DETECTED,pMIC,=,1,UM,Staphylococcus aureus
+0,NOT_DETECTED,pMIC,=,1.00,UM,Staphylococcus aureus
+376,NOT_DETECTED,pMIC,=,1,UM,Staphylococcus aureus
+376,NOT_DETECTED,pMIC,=,1.00,UM,Staphylococcus aureus

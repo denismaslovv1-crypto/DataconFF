@@ -1,0 +1,32 @@
+{
+  "should_run_llm": true,
+  "confidence": "low",
+  "issues": [
+    {
+      "code": "no_table_records",
+      "severity": "medium",
+      "message": "Table evidence was selected, but rule extraction produced no table-backed records."
+    },
+    {
+      "code": "conflicting_rule_records",
+      "severity": "medium",
+      "message": "Validated rule records disagree for the same compound/type/bacteria key."
+    }
+  ],
+  "signals": {
+    "parsed_tables": 7,
+    "evidence_chunks": 28,
+    "table_evidence_chunks": 5,
+    "table_like_records": 0,
+    "raw_records": 92,
+    "validated_records": 92,
+    "validation_errors": 0,
+    "validation_rejection_ratio": 0.0,
+    "average_record_confidence": 0.75,
+    "evidence_page_count": 6,
+    "record_page_count": 2,
+    "evidence_page_coverage_ratio": 0.3333,
+    "missing_required_field_ratio": 0.0,
+    "conflict_count": 3
+  }
+}

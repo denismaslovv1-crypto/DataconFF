@@ -1,26 +1,148 @@
+# ============================================================
 # Local secrets and environment overrides
+# ============================================================
+.codex_tmp/
 .env
 .env.*
 !.env.example
 
-# Local Python environments
+# ============================================================
+# Python virtual environments
+# ============================================================
+
 .venv/
-.venv-decimer/
-.venv-molscribe/
+.venv-*/
+env/
+venv/
+ENV/
 **/.venv/
 
-# Python/cache artifacts
-*.pyc
+# ============================================================
+# Python caches / build artifacts
+# ============================================================
+
 __pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
 .pytest_cache/
+.pytest_tmp*/
+.pytest_codex_run*/
+
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
 *.egg-info/
 src/*.egg-info/
+src/**/*.egg-info/
+build/
+dist/
 
-# IDE/local workspace metadata
+# ============================================================
+# IDE / local workspace metadata
+# ============================================================
+
 .idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
 
-# Generated RAG indexes. Source notes stay in methodology_notes/.
+# Local agent/workspace metadata
+
+.agents/
+.agents
+
+# Internal working documentation / agent context
+project_docs/
+AGENTS.md
+AGENTS.MD
+agents.md
+task.md
+TASK.md
+DOC_CLEANUP_PLAN.md
+
+# ============================================================
+# OS junk
+# ============================================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================================================
+# Logs and temporary files
+# ============================================================
+
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+outputs/streamlit_*.log
+outputs/*stdout*.txt
+outputs/*stderr*.txt
+
+# ============================================================
+# Generated outputs / run artifacts
+# ============================================================
+
+outputs/*
+!outputs/README.md
+!outputs/.gitkeep
+!outputs/benzimidazoles_full/
+!outputs/benzimidazoles_full/**
+outputs/_cleanup_verify/
+
+# ============================================================
+# Archived local cleanup area
+# ============================================================
+
+_archive_unused/
+
+# ============================================================
+# Generated RAG / vector indexes
+# ============================================================
+
 rag_index/
+chroma/
+chroma_db/
+vector_chroma/
 
-# Out-of-scope local artifacts. The project must not implement audio transcription.
-data/ai_transcriber/
+# ============================================================
+# Generated PDF / image / structure artifacts
+# ============================================================
+
+data/pdf_parsed/
+data/pdf_pages/
+data/molecule_crops/
+data/molecule_crops_auto/
+data/test_images/
+
+# Empty/local generated data folders
+data/chemx/benzimidazoles/predictions/
+data/chemx/benzimidazoles/pdfs_janupally_check/
+
+# ============================================================
+# Optional local model/tool artifacts
+# ============================================================
+
+models/
+weights/
+*.pt
+*.pth
+*.onnx
+*.ckpt
+*.safetensors
+
+# ============================================================
+# Local notebooks
+# ============================================================
+
+.ipynb_checkpoints/
