@@ -5,12 +5,17 @@ import csv
 import json
 import re
 import subprocess
-from pathlib import Path
+from pathlib import Path, PureWindowsPath
 from typing import Any
 
 from datacon_workflow.domains.benzimidazoles import CHEMX_COLUMNS
 from datacon_workflow.orchestration import AgenticOrchestrationConfig
 from datacon_workflow.orchestrator import run_benzimidazole_workflow
+from datacon_workflow.review_records import (
+    build_review_records,
+    duplicate_diagnostics,
+    merge_review_records,
+)
 
 
 REPO_ROOT = Path(__file__).resolve().parent
@@ -114,18 +119,25 @@ def save_uploaded_pdf(uploaded_file: Any, upload_dir: Path = UPLOAD_DIR) -> Path
 
 
 def load_full_run(output_dir: Path) -> dict[str, Any]:
+    review_rows = _load_review_rows(output_dir)
     json_artifacts = {
+        "review_records.json": output_dir / "review_records.json",
         "predictions.json": output_dir / "predictions.json",
         "predictions_with_evidence.json": output_dir / "predictions_with_evidence.json",
         "run_manifest.json": output_dir / "run_manifest.json",
+        "metrics.json": output_dir / "metrics.json",
     }
+    article_summary = normalize_article_output_dirs(read_csv_rows(output_dir / "article_summary.csv"), output_dir)
     return {
         "output_dir": output_dir,
         "metrics": read_json(output_dir / "metrics.json") or {},
         "field_metrics": read_csv_rows(output_dir / "field_metrics.csv"),
-        "article_summary": read_csv_rows(output_dir / "article_summary.csv"),
+        "article_summary": article_summary,
         "predictions": read_csv_rows(output_dir / "predictions.csv"),
+        "review_records": review_rows,
         "artifacts": {
+            "review_records.json": output_dir / "review_records.json",
+            "review_records.csv": output_dir / "review_records.csv",
             "metrics.json": output_dir / "metrics.json",
             "field_metrics.csv": output_dir / "field_metrics.csv",
             "article_summary.csv": output_dir / "article_summary.csv",
@@ -135,6 +147,39 @@ def load_full_run(output_dir: Path) -> dict[str, Any]:
         },
         "json_artifacts": json_artifacts,
     }
+
+
+def _load_review_rows(output_dir: Path) -> list[dict[str, str]]:
+    rows = read_csv_rows(output_dir / "review_records.csv")
+    if rows:
+        return rows
+    json_rows = read_json(output_dir / "review_records.json")
+    if isinstance(json_rows, list):
+        return [{key: str(value) for key, value in row.items()} for row in json_rows if isinstance(row, dict)]
+    if any(path.is_dir() for path in output_dir.glob("*")):
+        return merge_review_records(output_dir)
+    return []
+
+
+def normalize_article_output_dirs(article_rows: list[dict[str, str]], output_dir: Path) -> list[dict[str, str]]:
+    rows: list[dict[str, str]] = []
+    for row in article_rows:
+        fixed = dict(row)
+        pdf = fixed.get("pdf", "")
+        article_dir = output_dir / safe_label(_path_stem(pdf))
+        if article_dir.exists():
+            fixed["output_dir"] = str(article_dir)
+        rows.append(fixed)
+    return rows
+
+
+def _path_stem(value: str) -> str:
+    text = str(value or "")
+    return PureWindowsPath(text).stem
+
+
+def safe_label(value: str) -> str:
+    return re.sub(r"[^A-Za-z0-9_.-]+", "_", str(value).strip() or "article")
 
 
 def article_display_rows(article_rows: list[dict[str, str]]) -> list[dict[str, Any]]:
@@ -230,6 +275,40 @@ def provenance_rows(state: Any) -> list[dict[str, Any]]:
             }
         )
     return rows
+
+
+def review_display_rows(rows: list[dict[str, str]], limit: int = 500) -> list[dict[str, str]]:
+    display: list[dict[str, str]] = []
+    columns = [
+        "article_id",
+        "pdf",
+        "page",
+        "compound_id",
+        "compound_mention",
+        "target_type",
+        "target_relation",
+        "target_value",
+        "target_units",
+        "bacteria",
+        "evidence_id",
+        "source_kind",
+        "source_text",
+        "extractor",
+        "confidence",
+        "duplicate_status",
+    ]
+    for row in rows[:limit]:
+        item = {column: row.get(column, "") for column in columns}
+        item["source_text"] = _short_text(item["source_text"])
+        display.append(item)
+    return display
+
+
+def _short_text(value: str, limit: int = 300) -> str:
+    text = re.sub(r"\s+", " ", str(value or "")).strip()
+    if len(text) <= limit:
+        return text
+    return f"{text[: limit - 3]}..."
 
 
 def run_single_article(pdf_path: Path, output_dir: Path) -> Any:
@@ -356,6 +435,7 @@ def render_saved_results(st: Any) -> None:
     metrics = data["metrics"]
     article_rows = data["article_summary"]
     predictions = data["predictions"]
+    review_rows = data["review_records"]
     zero_rows = zero_row_articles(article_rows)
 
     st.subheader("Dataset Summary")
@@ -407,7 +487,7 @@ def render_saved_results(st: Any) -> None:
         if len(predictions) > 500:
             st.caption(f"Showing first 500 of {len(predictions)} rows.")
 
-    render_json_preview(st, data["json_artifacts"])
+    render_review_records(st, review_rows)
     render_downloads(st, data["artifacts"])
     st.caption(f"Loaded artifacts from {display_path(output_dir)}")
 
@@ -483,7 +563,10 @@ def render_single_article(st: Any) -> None:
         st.json(record.evidence.model_dump(mode="json"))
         st.text_area("Evidence text", record.evidence.evidence_text, height=160)
 
+    render_review_records(st, build_review_records(output_dir))
     artifacts = {
+        "review_records.json": output_dir / "review_records.json",
+        "review_records.csv": output_dir / "review_records.csv",
         "predictions.csv": state.prediction_csv,
         "predictions.json": state.prediction_json,
         "metrics.json": output_dir / "metrics.json",
@@ -556,21 +639,28 @@ def render_downloads(st: Any, artifacts: dict[str, Path | None]) -> None:
         )
 
 
-def render_json_preview(st: Any, artifacts: dict[str, Path | None]) -> None:
-    st.subheader("JSON Preview")
-    existing = [(name, path) for name, path in artifacts.items() if path is not None and path.exists()]
-    if not existing:
-        st.info("No JSON artifact is available for this run.")
+def render_review_records(st: Any, rows: list[dict[str, str]]) -> None:
+    st.subheader("Evidence / Review")
+    st.caption(
+        "The ChemX CSV is intentionally limited to benchmark columns. "
+        "This view links extracted rows to article/source context where available."
+    )
+    if not rows:
+        st.info("No review/evidence records are available for this run.")
         return
-    name, path = existing[0]
-    st.caption(f"Previewing {name}")
-    content = read_json(path)
-    if isinstance(content, list):
-        st.json(content[:20])
-        if len(content) > 20:
-            st.caption(f"Showing first 20 of {len(content)} JSON items.")
-    else:
-        st.json(content)
+    st.dataframe(review_display_rows(rows), width="stretch", hide_index=True)
+    if len(rows) > 500:
+        st.caption(f"Showing first 500 of {len(rows)} review rows.")
+    with st.expander("Developer details"):
+        diagnostics = duplicate_diagnostics(rows)
+        cols = st.columns(3)
+        cols[0].metric("Exact duplicate ChemX rows", diagnostics["exact_duplicate_chemx_rows"])
+        cols[1].metric("Same evidence duplicates", diagnostics["duplicates_with_same_evidence_id"])
+        cols[2].metric("Repeated distinct evidence", diagnostics["repeated_mentions_with_different_evidence_id"])
+        mismatches = diagnostics["mismatch_examples"]
+        if mismatches:
+            st.warning("Prediction/evidence value mismatches detected")
+            st.dataframe(review_display_rows(mismatches, limit=20), width="stretch", hide_index=True)
 
 
 if __name__ == "__main__":

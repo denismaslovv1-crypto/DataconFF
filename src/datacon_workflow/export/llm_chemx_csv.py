@@ -7,6 +7,7 @@ from pathlib import Path
 from datacon_workflow.domains.benzimidazoles import BenzimidazoleLLMRecord, CHEMX_COLUMNS
 from datacon_workflow.export.llm_compression import compress_llm_records
 from datacon_workflow.extraction.evidence_selector import BenzimidazoleEvidence
+from datacon_workflow.review_records import write_review_records
 
 
 def write_llm_predictions(
@@ -42,4 +43,5 @@ def write_llm_predictions(
     ]
     sidecar_path.write_text(json.dumps(sidecar, ensure_ascii=False, indent=2), encoding="utf-8")
     report_path.write_text(json.dumps(compressed.report, ensure_ascii=False, indent=2), encoding="utf-8")
+    write_review_records(output_dir)
     return csv_path, sidecar_path

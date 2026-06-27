@@ -11,6 +11,7 @@ from app import (
     full_run_command,
     is_public_result_dir,
     load_full_run,
+    normalize_article_output_dirs,
     output_dir_for,
     public_article_display_rows,
     safe_stem,
@@ -64,6 +65,7 @@ def test_load_full_run_reads_required_artifacts(tmp_path: Path) -> None:
     assert loaded["field_metrics"][0]["field"] == "bacteria"
     assert loaded["article_summary"][0]["gt_rows"] == "2"
     assert loaded["predictions"][0]["compound_id"] == "5a"
+    assert loaded["review_records"] == []
 
 
 def test_article_display_flags_zero_and_low_rows() -> None:
@@ -93,6 +95,24 @@ def test_available_result_dirs_require_metrics_json(tmp_path: Path) -> None:
 
     assert available_result_dirs(tmp_path) == [tmp_path / "good"]
     assert not is_public_result_dir(tmp_path / "old_rules_complete")
+
+
+def test_article_output_dirs_are_corrected_to_loaded_run(tmp_path: Path) -> None:
+    output_dir = tmp_path / "benzimidazoles_full"
+    article_dir = output_dir / "jhet.3467"
+    article_dir.mkdir(parents=True)
+
+    rows = normalize_article_output_dirs(
+        [
+            {
+                "pdf": "data\\chemx\\benzimidazoles\\pdfs\\jhet.3467.pdf",
+                "output_dir": "outputs\\benzimidazoles_full_dedup_fix\\jhet.3467",
+            }
+        ],
+        output_dir,
+    )
+
+    assert rows[0]["output_dir"] == str(article_dir)
 
 
 def test_full_run_command_is_rules_only_repo_python(tmp_path: Path) -> None:

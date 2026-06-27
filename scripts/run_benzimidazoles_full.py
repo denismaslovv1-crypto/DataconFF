@@ -11,6 +11,7 @@ from typing import Any
 
 from datacon_workflow.domains.benzimidazoles import CHEMX_COLUMNS
 from datacon_workflow.evaluation.chemx_eval import evaluate_predictions
+from datacon_workflow.review_records import merge_review_records
 from pdf_extraction.models import stable_pdf_stem
 
 
@@ -78,6 +79,7 @@ def main() -> int:
     prediction_rows = _collect_prediction_rows(args.output_dir)
     merged_predictions = args.output_dir / "predictions.csv"
     _write_predictions_csv(merged_predictions, prediction_rows)
+    review_rows = merge_review_records(args.output_dir)
 
     full_metrics = None
     evaluation_error = None
@@ -105,6 +107,7 @@ def main() -> int:
         "completed": completed,
         "failed": failed,
         "merged_prediction_rows": len(prediction_rows),
+        "merged_review_rows": len(review_rows),
         "metrics": full_metrics,
         "evaluation_error": evaluation_error,
         "articles": manifest_articles,
