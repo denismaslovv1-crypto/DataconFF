@@ -149,3 +149,7 @@ compound_id,smiles,target_type,target_relation,target_value,target_units,bacteri
 - [ARCHITECTURE.md](ARCHITECTURE.md)
 - [RESULTS.md](RESULTS.md)
 
+## Ссылки
+DataCon26 — постановка задачи
+ChemX — бенчмарк и baseline
+Датасеты ChemX (Hugging Face)
