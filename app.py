@@ -28,7 +28,10 @@ DEFAULT_FULL_OUTPUT = OUTPUTS_DIR / "benzimidazoles_full"
 # Keep Streamlit defaults and public copy in sync whenever the final metrics
 # artifact path changes.
 DEFAULT_FULL_OUTPUT_LABEL = "outputs/benzimidazoles_full"
+EXPERIMENTAL_SYNERGY_OUTPUT = OUTPUTS_DIR / "synergy_mvp_precision"
+EXPERIMENTAL_SYNERGY_OPTION_LABEL = "Experimental: Synergy MVP"
 BASELINE_MACRO_F1 = 0.217
+SYNERGY_BASELINE_MACRO_F1 = 0.080
 LOW_ROW_THRESHOLD = 5
 KEY_CHEMX_FIELDS = {
     "target_units",
@@ -60,10 +63,57 @@ def available_result_dirs(outputs_dir: Path = OUTPUTS_DIR) -> list[Path]:
             path for path in outputs_dir.iterdir()
             if path.is_dir()
             and (path / "metrics.json").exists()
+            and not is_experimental_synergy_dir(path)
             and is_public_result_dir(path)
         ],
         key=lambda path: path.name.lower(),
     )
+
+
+def is_experimental_synergy_dir(path: Path) -> bool:
+    try:
+        return path.resolve() == EXPERIMENTAL_SYNERGY_OUTPUT.resolve()
+    except OSError:
+        return False
+
+
+def available_saved_result_options(
+    outputs_dir: Path = OUTPUTS_DIR,
+    synergy_output: Path = EXPERIMENTAL_SYNERGY_OUTPUT,
+) -> list[str]:
+    options = [
+        display_path(path)
+        for path in available_result_dirs(outputs_dir)
+        if path.resolve() != synergy_output.resolve()
+    ]
+    if (synergy_output / "metrics.json").exists():
+        options.append(EXPERIMENTAL_SYNERGY_OPTION_LABEL)
+    return sorted(set(options))
+
+
+def saved_result_option_path(
+    option: str,
+    synergy_output: Path = EXPERIMENTAL_SYNERGY_OUTPUT,
+) -> Path:
+    if option == EXPERIMENTAL_SYNERGY_OPTION_LABEL:
+        return synergy_output
+    return resolve_repo_path(option)
+
+
+def result_context(output_dir: Path) -> dict[str, Any]:
+    if is_experimental_synergy_dir(output_dir):
+        return {
+            "domain": "Synergy",
+            "baseline": SYNERGY_BASELINE_MACRO_F1,
+            "experimental": True,
+            "caveat": "Experimental second-domain result. The stable final submission remains Benzimidazoles.",
+        }
+    return {
+        "domain": "Benzimidazoles",
+        "baseline": BASELINE_MACRO_F1,
+        "experimental": False,
+        "caveat": "",
+    }
 
 
 def is_public_result_dir(path: Path) -> bool:
@@ -279,24 +329,42 @@ def provenance_rows(state: Any) -> list[dict[str, Any]]:
 
 def review_display_rows(rows: list[dict[str, str]], limit: int = 500) -> list[dict[str, str]]:
     display: list[dict[str, str]] = []
-    columns = [
-        "article_id",
-        "pdf",
-        "page",
-        "compound_id",
-        "compound_mention",
-        "target_type",
-        "target_relation",
-        "target_value",
-        "target_units",
-        "bacteria",
-        "evidence_id",
-        "source_kind",
-        "source_text",
-        "extractor",
-        "confidence",
-        "duplicate_status",
-    ]
+    if rows and any("NP" in row for row in rows):
+        columns = [
+            "pdf",
+            "page",
+            "NP",
+            "bacteria",
+            "drug",
+            "method",
+            "value_drug",
+            "value_np",
+            "value_combined",
+            "FIC",
+            "evidence_id",
+            "source_text",
+            "extractor",
+            "confidence",
+        ]
+    else:
+        columns = [
+            "article_id",
+            "pdf",
+            "page",
+            "compound_id",
+            "compound_mention",
+            "target_type",
+            "target_relation",
+            "target_value",
+            "target_units",
+            "bacteria",
+            "evidence_id",
+            "source_kind",
+            "source_text",
+            "extractor",
+            "confidence",
+            "duplicate_status",
+        ]
     for row in rows[:limit]:
         item = {column: row.get(column, "") for column in columns}
         item["source_text"] = _short_text(item["source_text"])
@@ -406,18 +474,17 @@ def main() -> None:
 
 
 def render_saved_results(st: Any) -> None:
-    result_dirs = available_result_dirs()
-    result_options = [display_path(path) for path in result_dirs]
     current = str(st.session_state.get("saved_output_dir", DEFAULT_FULL_OUTPUT))
     default_label = display_path(resolve_repo_path(current))
-    options = sorted(set(result_options + [default_label]))
+    options = sorted(set(available_saved_result_options() + [default_label]))
     selected = st.selectbox(
         "Output directory",
         options,
         index=options.index(default_label) if default_label in options else 0,
         key="saved_output_select",
     )
-    custom = st.text_input("Custom output directory", value=selected, key="saved_output_custom")
+    selected_path = saved_result_option_path(selected)
+    custom = st.text_input("Custom output directory", value=display_path(selected_path), key="saved_output_custom")
     output_dir = resolve_repo_path(custom)
     st.session_state.saved_output_dir = str(output_dir)
 
@@ -428,6 +495,7 @@ def render_saved_results(st: Any) -> None:
         return
 
     data = load_full_run(output_dir)
+    context = result_context(output_dir)
     metrics = data["metrics"]
     article_rows = data["article_summary"]
     predictions = data["predictions"]
@@ -435,23 +503,26 @@ def render_saved_results(st: Any) -> None:
     zero_rows = zero_row_articles(article_rows)
 
     st.subheader("Dataset Summary")
+    if context["experimental"]:
+        st.warning(context["caveat"])
     cols = st.columns(6)
     macro_f1 = float(metrics.get("macro_f1", 0.0) or 0.0)
+    baseline = float(context["baseline"])
     cols[0].metric("Macro-F1", f"{macro_f1:.4f}")
-    cols[1].metric("Baseline", f"{BASELINE_MACRO_F1:.3f}")
+    cols[1].metric("Baseline", f"{baseline:.3f}")
     cols[2].metric("Predictions", int(metrics.get("prediction_count", len(predictions)) or 0))
     cols[3].metric("Ground truth", int(metrics.get("ground_truth_count", 0) or 0))
     cols[4].metric("PDFs", len(article_rows))
     cols[5].metric("Zero-row PDFs", len(zero_rows))
-    improvement = macro_f1 - BASELINE_MACRO_F1
-    multiplier = macro_f1 / BASELINE_MACRO_F1 if BASELINE_MACRO_F1 else 0.0
-    if macro_f1 >= BASELINE_MACRO_F1:
+    improvement = macro_f1 - baseline
+    multiplier = macro_f1 / baseline if baseline else 0.0
+    if macro_f1 >= baseline:
         st.success(
             f"Macro-F1 = {macro_f1:.4f}, which is +{improvement:.4f} above the published "
-            f"single-agent baseline ({BASELINE_MACRO_F1:.3f}), or about {multiplier:.2f}x higher."
+            f"single-agent baseline ({baseline:.3f}), or about {multiplier:.2f}x higher."
         )
     else:
-        st.error(f"Macro-F1 is below the published single-agent baseline ({BASELINE_MACRO_F1:.3f}).")
+        st.error(f"Macro-F1 is below the published single-agent baseline ({baseline:.3f}).")
 
     st.subheader("Article Summary")
     display_rows = article_display_rows(article_rows)

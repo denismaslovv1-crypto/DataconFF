@@ -1,138 +1,139 @@
-# DataCon ChemX Benzimidazoles Extraction
+# DataCon ChemX: извлечение данных по Benzimidazoles
 
-This repository contains a reproducible ChemX information extraction workflow
-for the DataCon final task. It focuses on the `Benzimidazoles` domain and turns
-scientific PDFs into ChemX-compatible prediction CSV files, then evaluates them
-with the repository's local evaluator.
+Репозиторий содержит воспроизводимый пайплайн для финальной задачи DataCon'26
+ChemX: извлечение структурированных записей из научных PDF и экспорт в
+ChemX-совместимый CSV.
 
-The final submitted path is deterministic and rules-only:
+Публичное решение намеренно ограничено одним доменом:
+`Benzimidazoles`. Финальный путь детерминированный и rules-only: он не делает
+LLM-вызовы и не использует RAG, агентные sidecar-процессы, MolScribe, DECIMER,
+YOLO, OCR-стек или распознавание структур по изображениям как часть метрик.
 
 ```text
-PDF -> parser -> evidence -> rule extraction -> normalization -> validation -> ChemX CSV -> evaluation -> Streamlit UI
+PDF -> парсер -> evidence -> правила -> нормализация -> валидация -> ChemX CSV -> оценка -> Streamlit UI
 ```
 
-RAG, LLM fallback, multi-agent workflows, MolScribe, DECIMER, YOLO, OCR stacks,
-and full image-based structure recognition are not required for the final
-rules-only result.
+## Итоговый результат
 
-## Final Result
-
-The final saved full Benzimidazoles rules-only run is:
+Финальный сохраненный полный запуск:
 
 ```text
 outputs/benzimidazoles_full/
 ```
 
-It completed 31/31 locally available PDFs and produced:
-
-| Metric | Value |
+| Метрика | Значение |
 |---|---:|
-| Predictions | 2247 |
-| Ground-truth rows | 1721 |
-| Local evaluator Macro-F1 | 0.4622 |
-| Published single-agent baseline | 0.217 |
+| Домен | Benzimidazoles |
+| Режим | rules-only |
+| PDF обработано | 31/31 локально доступных |
+| Строк предсказаний | 2247 |
+| Строк ground truth | 1721 |
+| Macro-F1 локального evaluator | 0.4622 |
+| Опубликованный single-agent baseline | 0.217 |
 
-This exceeds the published single-agent baseline under the repository's local
-evaluator. The evaluator is an approximation of benchmark behavior, not a claim
-of official scorer parity.
+Результат выше опубликованного single-agent baseline в локальном evaluator
+репозитория. Этот evaluator является приближением benchmark-поведения; parity с
+официальным scorer не заявляется.
 
-Key extraction improvements in the final path:
+## Экспериментальный второй домен: Synergy
 
-- source-backed `target_units` extraction from table titles, headers, and
-  compact OCR forms such as `µmolmL−1`, `µg mL−1`, and `mg L−1`;
-- table-like antibacterial MIC extraction for compound IDs such as `BK-1` to
-  `BK-11`, keeping only supported `S. aureus` and `E. coli` columns;
-- compact antimicrobial MIC table extraction for headers such as
-  `Bc Sa Pa Ec Ab Ca`, keeping the supported `Sa` and `Ec` columns;
-- evidence-aware export deduplication: records with the same ChemX values are
-  merged only when they come from the same `evidence_id`, while repeated
-  mentions from distinct evidence contexts are preserved;
-- metric/reporting safeguards for PDF-stem ground-truth matching and
-  metric-only canonicalization of numeric values and bacteria aliases.
+Помимо стабильного результата `Benzimidazoles`, в репозитории есть
+экспериментальный rules-first MVP для `Synergy`:
 
-See [RESULTS.md](RESULTS.md) for field metrics and caveats.
+```text
+outputs/synergy_mvp_precision/
+```
 
-## Installation
+На локально доступных PDF для `Synergy` он показал Macro-F1 `0.3626` против
+опубликованного single-agent baseline `0.080` в локальном evaluator
+репозитория. Финальный экспериментальный запуск выбрал 81 PDF, дал 6647
+prediction rows против 3089 local ground-truth rows и не имел failed article
+rows. Этот результат отделен от основного claim: `Synergy` имеет более широкую
+42-колоночную схему, остается экспериментальным вторым доменом, и parity с
+официальным scorer не заявляется.
 
-Create the repository-local environment:
+Воспроизводимая команда:
+
+```powershell
+.\.venv\Scripts\python.exe scripts\run_synergy_experimental.py `
+  --pdf-dir data\chemx\synergy\pdfs `
+  --ground-truth data\chemx\synergy\ground_truth.csv `
+  --output-dir outputs\synergy_mvp_precision
+```
+
+## Установка
+
+Создайте локальное окружение репозитория:
 
 ```powershell
 .\setup_project_env.cmd
 ```
 
-Install the final public requirements in the repository environment if needed:
+Если зависимости еще не установлены:
 
 ```powershell
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
 ```
 
-Use only the repository-local interpreter for project commands:
+Для проектных команд используйте только интерпретатор репозитория:
 
 ```powershell
 .\.venv\Scripts\python.exe
 ```
 
-## Full Rules-Only Run
-
-Run the reproducible full Benzimidazoles rules-only workflow:
+## Полный rules-only запуск
 
 ```powershell
 .\.venv\Scripts\python.exe scripts\run_benzimidazoles_full.py `
   --pdf-dir data\chemx\benzimidazoles\pdfs `
   --ground-truth data\chemx\benzimidazoles\ground_truth.csv `
-  --output-dir outputs\benzimidazoles_full
+  --output-dir outputs\benzimidazoles_full `
+  --llm-mode never
 ```
 
-The command writes per-article artifacts and merged outputs under the selected
-output directory. The default mode is rules-only; internal LLM fallback hooks
-remain available for experiments but are not used by this public command or by
-the reported metrics.
-
-Important output files:
+Основные файлы результата:
 
 ```text
-predictions.csv              ChemX-compatible merged prediction rows
-review_records.csv/.json     review-only source/evidence context sidecars
-metrics.json                 aggregate local evaluation metrics
-field_metrics.csv            field-level precision, recall, and F1
-article_summary.csv          per-PDF status, prediction counts, and metrics
-run_manifest.json            reproducibility metadata
+predictions.csv              итоговый ChemX CSV с 7 публичными колонками
+review_records.csv/.json     review-only provenance/evidence sidecars
+metrics.json                 агрегированные локальные метрики
+field_metrics.csv            precision/recall/F1 по полям
+article_summary.csv          статус и метрики по PDF
+run_manifest.json            параметры запуска и воспроизводимость
 ```
 
-## Streamlit Review UI
+Публичный `predictions.csv` содержит строго эти колонки:
 
-Run the local review UI:
+```text
+compound_id,smiles,target_type,target_relation,target_value,target_units,bacteria
+```
+
+## Streamlit-интерфейс
 
 ```powershell
 .\.venv\Scripts\python.exe -m streamlit run app.py
 ```
 
-The final UI has three review modes:
+Интерфейс поддерживает три режима:
 
-- `Saved Full-Run Results`: load an existing output directory and inspect
-  aggregate metrics, article summaries, field metrics, zero-row/low-row PDFs,
-  predictions, evidence/review context, duplicate diagnostics, and downloads.
-- `Run Single Article`: select or upload one PDF, run the rules-only
-  Benzimidazoles workflow with corrected PDF-stem evaluation, and inspect
-  predictions, validation errors, field metrics, evidence, and review
-  provenance.
-- `Run Full Dataset`: run the documented full rules-only command after explicit
-  confirmation, then load the resulting output directory in the saved-results
-  view.
+- просмотр сохраненного полного запуска с метриками, article summary,
+  predictions, evidence/review-контекстом и файлами для скачивания;
+- запуск одной статьи в rules-only режиме;
+- полный запуск датасета после явного подтверждения.
 
-## Limitations
+## Ограничения
 
-- Scope is one ChemX domain: `Benzimidazoles`.
-- The final public run is rules-only; no LLM calls are used.
-- SMILES remain unresolved and are exported as `NOT_DETECTED`.
-- Full image/structure recognition is not used.
-- LLM-based SMILES or structure extraction may be future work, but it was not
-  included in the final evaluated run.
-- The local evaluator is approximate and should be interpreted as a local
-  reproducibility metric.
-- Recall remains limited, and performance is uneven across PDFs.
+- Заявленный результат относится только к домену `Benzimidazoles`.
+- Финальный запуск rules-only и не делает LLM-вызовов.
+- SMILES не решены и экспортируются как `NOT_DETECTED`; поле `smiles` имеет
+  F1 `0.0000`.
+- Распознавание структур по изображениям не входит в финальные метрики и
+  остается будущей работой.
+- Recall ограничен, качество заметно различается между PDF.
+- Локальный evaluator используется для воспроизводимой проверки, но не
+  гарантирует полное совпадение с официальным scorer.
 
-## Public Documentation
+## Документация
 
 - [ARCHITECTURE.md](ARCHITECTURE.md)
 - [RESULTS.md](RESULTS.md)

@@ -1,0 +1,40 @@
+[
+  {
+    "pdf": "10.1016@j.sajb.2019.05.024.pdf",
+    "sn": "775",
+    "NP": "nanoparticle",
+    "bacteria": "Escherichia coli",
+    "drug": "NOT_DETECTED",
+    "method": "disc_diffusion",
+    "value_drug": "",
+    "value_np": "1.45",
+    "value_combined": "",
+    "FIC": "",
+    "page": "4",
+    "table_id": "",
+    "row_id": "text-6",
+    "evidence_id": "10.1016@j.sajb.2019.05.024:rule-1",
+    "source_text": "3.Resultsanddiscussion 3.2.AntibacterialactivityofTiO nanoparticles 2 3.1.SynthesisandcharacterizationofTiO nanoparticles TitaniumdioxidenanoparticlessynthesizedusingAzadirachtaindica 2 leaf extract were found effective against microbial pathogens viz. Whitecoloredtitaniumdioxidenanoparticleswerepreparedusing Escherichiacoli,Staphylococcusaureus,Bacillussubtilis,Salmonellatyphi theextractofAzadirachtaindicaandcharacterizedusingXRD,SEM, andKlebsiellapneumoniae.Allthepathogenswerefoundsusceptible TEMandFT-IRspectroscopy.XRDpatternsofgreensynthesizedTiO againstbothtitaniumdioxidecompoundandsynthesizedtitaniumdi- 2 nanoparticles were observed at 25.36, 26.54, 37.05, 37.78, 38.54, oxidenanoparticles.Synthesizedtitaniumdioxidenanoparticleswere 48.12,54.02and55.04°canbeattributedtothe101,110,103,004, moreeffectiveascomparedwithtitaniumdioxidecompound.Titanium 112,200,105and211crystallineanataseandrutilestructuresofsyn- dioxidenanoparticlesshowedmaximumactivityagainstE.coliwithin- thesizedtitaniumdioxidenanoparticles(Fig.1).Theseresultswerecon- hibitionzonediameter27.67±0.76mmat200μg/mL.Titaniumdiox- firmedusingJointCommitteeonPowerDiffractionStandards(JCPDS) idecompoundshowedhighestzon...",
+    "extractor": "synergy.text_rules",
+    "confidence": "0.58"
+  },
+  {
+    "pdf": "10.1016@j.sajb.2019.05.024.pdf",
+    "sn": "776",
+    "NP": "nanoparticle",
+    "bacteria": "Escherichia coli",
+    "drug": "NOT_DETECTED",
+    "method": "disc_diffusion",
+    "value_drug": "",
+    "value_np": "1.45",
+    "value_combined": "",
+    "FIC": "",
+    "page": "4",
+    "table_id": "",
+    "row_id": "text-7",
+    "evidence_id": "10.1016@j.sajb.2019.05.024:rule-2",
+    "source_text": "eonPowerDiffractionStandards(JCPDS) idecompoundshowedhighestzoneofinhibitioni.e.20.67±1.45mm No.21-1272and21-1276.Theaveragecrystallinesizeofsynthesized at200μg/mLagainstKlebsiellapneumoniae(Table1).Theresultsofan- nanoparticleswas41.9nmcalculatedusingScherrer'sequation(D= tibacterialassaywereanalyzedinthelightofexistingliterature.Thean- Kλ/βcosθ). λ is the wavelength of x-ray radiation (CuKα = tibacterial activity of TiO nanoparticles synthesized using Psidium 2 0.15406nm),Kisaconstanttakenas0.89,βisthelinewidthathalf guajavaextractwasevaluatedbySanthoshkumaretal.(2014).Theyre- maximumheight(FWHM)ofpeakandθisthediffractingangle.Theav- portedthatnanoparticleswerefoundthemosteffectiveagainstStaphy- eragecrystallinesizeofsynthesizednanoparticlesis15–45nmcalcu- lococcusaureusandEscherichiacoli.Theresultsof MICandMBCof latedbyScherrer'sformulabasedontheXRDpattern(Patterson,1939).",
+    "extractor": "synergy.text_rules",
+    "confidence": "0.58"
+  }
+]

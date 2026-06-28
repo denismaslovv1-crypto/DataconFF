@@ -6,15 +6,19 @@ from pathlib import Path
 
 from app import (
     article_display_rows,
+    available_saved_result_options,
     available_result_dirs,
     display_full_run_command,
+    EXPERIMENTAL_SYNERGY_OPTION_LABEL,
     full_run_command,
     is_public_result_dir,
     load_full_run,
     normalize_article_output_dirs,
     output_dir_for,
     public_article_display_rows,
+    result_context,
     safe_stem,
+    saved_result_option_path,
     zero_row_articles,
 )
 from datacon_workflow.domains.benzimidazoles import CHEMX_COLUMNS
@@ -95,6 +99,35 @@ def test_available_result_dirs_require_metrics_json(tmp_path: Path) -> None:
 
     assert available_result_dirs(tmp_path) == [tmp_path / "good"]
     assert not is_public_result_dir(tmp_path / "old_rules_complete")
+
+
+def test_synergy_saved_result_is_experimental_option_only(tmp_path: Path) -> None:
+    good = tmp_path / "benzimidazoles_full"
+    good.mkdir()
+    (good / "metrics.json").write_text("{}", encoding="utf-8")
+    synergy = tmp_path / "synergy_mvp"
+    synergy.mkdir()
+    (synergy / "metrics.json").write_text("{}", encoding="utf-8")
+
+    options = available_saved_result_options(tmp_path, synergy)
+
+    assert EXPERIMENTAL_SYNERGY_OPTION_LABEL in options
+    assert str(synergy) not in options
+    assert saved_result_option_path(EXPERIMENTAL_SYNERGY_OPTION_LABEL, synergy) == synergy
+
+
+def test_missing_synergy_saved_result_is_ignored(tmp_path: Path) -> None:
+    good = tmp_path / "benzimidazoles_full"
+    good.mkdir()
+    (good / "metrics.json").write_text("{}", encoding="utf-8")
+
+    options = available_saved_result_options(tmp_path, tmp_path / "synergy_mvp")
+
+    assert EXPERIMENTAL_SYNERGY_OPTION_LABEL not in options
+
+
+def test_result_context_keeps_benzimidazoles_default() -> None:
+    assert result_context(Path("outputs/benzimidazoles_full"))["experimental"] is False
 
 
 def test_article_output_dirs_are_corrected_to_loaded_run(tmp_path: Path) -> None:

@@ -1,0 +1,727 @@
+{
+  "run_started_at_utc": "2026-06-28T09:20:05.032096+00:00",
+  "domain": "Synergy",
+  "experimental": true,
+  "baseline_macro_f1": 0.08,
+  "beats_baseline": true,
+  "pdf_dir": "data\\chemx\\synergy\\pdfs",
+  "ground_truth": "data\\chemx\\synergy\\ground_truth.csv",
+  "output_dir": "outputs\\synergy_mvp_precision",
+  "pdfs_selected": 81,
+  "selected_pdfs": [
+    "1-s2.0-S0944501315300136-main.pdf",
+    "1-s2.0-S1876034121003282-main.pdf",
+    "1-s2.0-S2590123022001207-main.pdf",
+    "10.1007@s10876-020-01759-x.pdf",
+    "10.1007@s12257-019-0506-7.pdf",
+    "10.1016@j.colsurfb.2016.03.007.pdf",
+    "10.1016@j.dib.2019.104929.pdf",
+    "10.1016@j.sajb.2019.05.024.pdf",
+    "10.1021@acs.nanolett.0c01196.pdf",
+    "10.1186@s12951-020-0588-6.pdf",
+    "10.1371@journal.pone.0224904.pdf",
+    "10.2147@IJN.S246484.pdf",
+    "10.3390@molecules24173055.pdf",
+    "10.3390@polym13040659.pdf",
+    "10.4236@jbnb.2010.11005.pdf",
+    "2023.08.01.34.pdf",
+    "2634_pdf.pdf",
+    "8f8eba2a8c57f32465306f7e987d8050.pdf",
+    "abo-shama2020.pdf",
+    "antibiotics-11-01205-v2.pdf",
+    "antibiotics-11-01219-v2.pdf",
+    "arora2014.pdf",
+    "assadi2018.pdf",
+    "awad2019.pdf",
+    "azam2012.pdf",
+    "bhattacharya2017.pdf",
+    "bindhu2014.pdf",
+    "burygin2009.pdf",
+    "catalysts-12-00181-v3.pdf",
+    "chopade2012.pdf",
+    "chopade2013.pdf",
+    "crystals-12-01513-v3.pdf",
+    "d1ra04390k.pdf",
+    "el-sheekh2021.pdf",
+    "fbioe-09-652362.pdf",
+    "fmicb-12-750556.pdf",
+    "fmicb-13-929491.pdf",
+    "ghafoori2017.pdf",
+    "grumezescu2014.pdf",
+    "habash2014.pdf",
+    "IJN-49284-combined-efficacy-of-biologically-synthesized-silver-nanopar_081913.pdf",
+    "jayaseelan2013.pdf",
+    "jfb-13-00138.pdf",
+    "kalita2016.pdf",
+    "kim2007.pdf",
+    "lambio0680.pdf",
+    "li2014.pdf",
+    "li2016.pdf",
+    "markowska2014.pdf",
+    "NMRJ_Volume 5_Issue 1_Pages 44-54.pdf",
+    "padalia2017.pdf",
+    "pageni2018.pdf",
+    "pallela2019.pdf",
+    "patra2016.pdf",
+    "patra2017.pdf",
+    "PM-13-828.pdf",
+    "polymers-14-00771-v2.pdf",
+    "pompilio2018.pdf",
+    "prema2016.pdf",
+    "priyanka2016.pdf",
+    "processes-11-00272.pdf",
+    "rajakumar2012.pdf",
+    "reyes-torres2019.pdf",
+    "roshmi2015.pdf",
+    "ruparelia2008.pdf",
+    "s11274-017-2406-3.pdf",
+    "s13204-021-02065-2.pdf",
+    "s41598-022-19698-0.pdf",
+    "selvaraj2020.pdf",
+    "shahverdi2007.pdf",
+    "shaker2017.pdf",
+    "shamaila2016.pdf",
+    "sharma2016.pdf",
+    "singh2018.pdf",
+    "smekalova2016.pdf",
+    "swolana2020.pdf",
+    "thirumurugan2012.pdf",
+    "thirumurugan2016.pdf",
+    "thomas2014.pdf",
+    "yoonus2021.pdf",
+    "zhao2013.pdf"
+  ],
+  "prediction_rows": 6647,
+  "review_rows": 6647,
+  "metrics": {
+    "macro_f1": 0.36261102633329423,
+    "field_metrics": [
+      {
+        "field": "sn",
+        "precision": 0.4647209267338649,
+        "recall": 1.0,
+        "f1": 0.6345521774856203,
+        "true_positive": 3089
+      },
+      {
+        "field": "NP",
+        "precision": 0.4287648563261622,
+        "recall": 0.9226286824214956,
+        "f1": 0.585456039441249,
+        "true_positive": 2850
+      },
+      {
+        "field": "bacteria",
+        "precision": 0.2984805175267038,
+        "recall": 0.6422790547102623,
+        "f1": 0.4075595727198028,
+        "true_positive": 1984
+      },
+      {
+        "field": "strain",
+        "precision": 0.25891379569730705,
+        "recall": 0.5571382324376821,
+        "f1": 0.35353327855382083,
+        "true_positive": 1721
+      },
+      {
+        "field": "NP_synthesis",
+        "precision": 0.01444260568677599,
+        "recall": 0.03107801877630301,
+        "f1": 0.01972062448644207,
+        "true_positive": 96
+      },
+      {
+        "field": "drug",
+        "precision": 0.23905521287799006,
+        "recall": 0.5144059566202654,
+        "f1": 0.32641741988496303,
+        "true_positive": 1589
+      },
+      {
+        "field": "drug_dose_µg_disk",
+        "precision": 0.346772980291861,
+        "recall": 0.7461961799935254,
+        "f1": 0.4735004108463435,
+        "true_positive": 2305
+      },
+      {
+        "field": "NP_concentration_µg_ml",
+        "precision": 0.3368436888822025,
+        "recall": 0.724830042084817,
+        "f1": 0.4599424815119145,
+        "true_positive": 2239
+      },
+      {
+        "field": "NP_size_min_nm",
+        "precision": 0.1707537234842786,
+        "recall": 0.36743282615733247,
+        "f1": 0.23315529991783074,
+        "true_positive": 1135
+      },
+      {
+        "field": "NP_size_max_nm",
+        "precision": 0.1612757635023319,
+        "recall": 0.34703787633538363,
+        "f1": 0.22021364009860314,
+        "true_positive": 1072
+      },
+      {
+        "field": "NP_size_avg_nm",
+        "precision": 0.17842635775537838,
+        "recall": 0.3839430236322434,
+        "f1": 0.24363188167625308,
+        "true_positive": 1186
+      },
+      {
+        "field": "shape",
+        "precision": 0.2798254851812848,
+        "recall": 0.6021366137908708,
+        "f1": 0.38208709942481517,
+        "true_positive": 1860
+      },
+      {
+        "field": "method",
+        "precision": 0.3375959079283887,
+        "recall": 0.7264486888960828,
+        "f1": 0.46096959737058335,
+        "true_positive": 2244
+      },
+      {
+        "field": "ZOI_drug_mm_or_MIC _µg_ml",
+        "precision": 0.18835564916503686,
+        "recall": 0.40530916154095176,
+        "f1": 0.257189811010682,
+        "true_positive": 1252
+      },
+      {
+        "field": "error_ZOI_drug_mm_or_MIC_µg_ml",
+        "precision": 0.4505792086655634,
+        "recall": 0.9695694399482033,
+        "f1": 0.6152423993426459,
+        "true_positive": 2995
+      },
+      {
+        "field": "ZOI_NP_mm_or_MIC_np_µg_ml",
+        "precision": 0.32074620129381676,
+        "recall": 0.6901910003237294,
+        "f1": 0.43796220213640097,
+        "true_positive": 2132
+      },
+      {
+        "field": "error_ZOI_NP_mm_or_MIC_np_µg_ml",
+        "precision": 0.4304197382277719,
+        "recall": 0.9261897054062803,
+        "f1": 0.5877156943303204,
+        "true_positive": 2861
+      },
+      {
+        "field": "ZOI_drug_NP_mm_or_MIC_drug_NP_µg_ml",
+        "precision": 0.3108169098841583,
+        "recall": 0.668824862415021,
+        "f1": 0.42440427280197207,
+        "true_positive": 2066
+      },
+      {
+        "field": "error_ZOI_drug_NP_mm_or_MIC_drug_NP_µg_ml",
+        "precision": 0.4415525801113284,
+        "recall": 0.9501456782130139,
+        "f1": 0.6029170090386196,
+        "true_positive": 2935
+      },
+      {
+        "field": "fold_increase_in_antibacterial_activity",
+        "precision": 0.3709944335790582,
+        "recall": 0.7983166073162836,
+        "f1": 0.5065735414954807,
+        "true_positive": 2466
+      },
+      {
+        "field": "zeta_potential_mV",
+        "precision": 0.35835715360312925,
+        "recall": 0.7711233408870185,
+        "f1": 0.4893179950698439,
+        "true_positive": 2382
+      },
+      {
+        "field": "MDR",
+        "precision": 0.43538438393260115,
+        "recall": 0.9368727743606345,
+        "f1": 0.594494658997535,
+        "true_positive": 2894
+      },
+      {
+        "field": "FIC",
+        "precision": 0.4514818715209869,
+        "recall": 0.9715118161217222,
+        "f1": 0.6164749383730485,
+        "true_positive": 3001
+      },
+      {
+        "field": "effect",
+        "precision": 0.4556942981796299,
+        "recall": 0.9805762382648107,
+        "f1": 0.6222267871815941,
+        "true_positive": 3029
+      },
+      {
+        "field": "reference",
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "true_positive": 0
+      },
+      {
+        "field": "doi",
+        "precision": 0.23529411764705882,
+        "recall": 0.5063127225639366,
+        "f1": 0.3212818405916187,
+        "true_positive": 1564
+      },
+      {
+        "field": "article_list",
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "true_positive": 0
+      },
+      {
+        "field": "time_hr",
+        "precision": 0.3029938318038213,
+        "recall": 0.6519909355778569,
+        "f1": 0.41372226787181593,
+        "true_positive": 2014
+      },
+      {
+        "field": "coating_with_antimicrobial_peptide_polymers",
+        "precision": 0.41913645253497817,
+        "recall": 0.9019100032372936,
+        "f1": 0.5723089564502876,
+        "true_positive": 2786
+      },
+      {
+        "field": "combined_MIC",
+        "precision": 0.42771174966150144,
+        "recall": 0.9203625768857235,
+        "f1": 0.5840180772391126,
+        "true_positive": 2843
+      },
+      {
+        "field": "peptide_MIC",
+        "precision": 0.45945539341056113,
+        "recall": 0.9886694723211396,
+        "f1": 0.6273623664749383,
+        "true_positive": 3054
+      },
+      {
+        "field": "viability_%",
+        "precision": 0.45900406198284943,
+        "recall": 0.9876982842343801,
+        "f1": 0.6267460969597372,
+        "true_positive": 3051
+      },
+      {
+        "field": "viability_error",
+        "precision": 0.4611102753121709,
+        "recall": 0.9922304953059242,
+        "f1": 0.6296220213640098,
+        "true_positive": 3065
+      },
+      {
+        "field": "journal_name",
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "true_positive": 0
+      },
+      {
+        "field": "publisher",
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "true_positive": 0
+      },
+      {
+        "field": "year",
+        "precision": 0.39702121257710243,
+        "recall": 0.8543217869860796,
+        "f1": 0.5421117502054231,
+        "true_positive": 2639
+      },
+      {
+        "field": "title",
+        "precision": 0.003911539040168497,
+        "recall": 0.008416963418582066,
+        "f1": 0.005341002465078061,
+        "true_positive": 26
+      },
+      {
+        "field": "journal_is_oa",
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "true_positive": 0
+      },
+      {
+        "field": "is_oa",
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "true_positive": 0
+      },
+      {
+        "field": "oa_status",
+        "precision": 0.00015044380923724988,
+        "recall": 0.0003237293622531564,
+        "f1": 0.0002054231717337716,
+        "true_positive": 1
+      },
+      {
+        "field": "pdf",
+        "precision": 0.2575598014141718,
+        "recall": 0.5542246681774037,
+        "f1": 0.3516844700082169,
+        "true_positive": 1712
+      },
+      {
+        "field": "access",
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "true_positive": 0
+      }
+    ],
+    "prediction_count": 6647,
+    "ground_truth_count": 3089,
+    "ground_truth_pdf_count": 80,
+    "selected_pdf_count": 81,
+    "article_ground_truth": [
+      {
+        "pdf": "1-s2.0-S0944501315300136-main.pdf",
+        "rows": 16
+      },
+      {
+        "pdf": "1-s2.0-S1876034121003282-main.pdf",
+        "rows": 12
+      },
+      {
+        "pdf": "1-s2.0-S2590123022001207-main.pdf",
+        "rows": 32
+      },
+      {
+        "pdf": "10.1007@s10876-020-01759-x.pdf",
+        "rows": 36
+      },
+      {
+        "pdf": "10.1007@s12257-019-0506-7.pdf",
+        "rows": 42
+      },
+      {
+        "pdf": "10.1016@j.colsurfb.2016.03.007.pdf",
+        "rows": 20
+      },
+      {
+        "pdf": "10.1016@j.dib.2019.104929.pdf",
+        "rows": 16
+      },
+      {
+        "pdf": "10.1016@j.sajb.2019.05.024.pdf",
+        "rows": 25
+      },
+      {
+        "pdf": "10.1021@acs.nanolett.0c01196.pdf",
+        "rows": 36
+      },
+      {
+        "pdf": "10.1186@s12951-020-0588-6.pdf",
+        "rows": 6
+      },
+      {
+        "pdf": "10.1371@journal.pone.0224904.pdf",
+        "rows": 20
+      },
+      {
+        "pdf": "10.2147@IJN.S246484.pdf",
+        "rows": 9
+      },
+      {
+        "pdf": "10.3390@molecules24173055.pdf",
+        "rows": 32
+      },
+      {
+        "pdf": "10.3390@polym13040659.pdf",
+        "rows": 22
+      },
+      {
+        "pdf": "10.4236@jbnb.2010.11005.pdf",
+        "rows": 23
+      },
+      {
+        "pdf": "2023.08.01.34.pdf",
+        "rows": 90
+      },
+      {
+        "pdf": "2634_pdf.pdf",
+        "rows": 0
+      },
+      {
+        "pdf": "8f8eba2a8c57f32465306f7e987d8050.pdf",
+        "rows": 40
+      },
+      {
+        "pdf": "IJN-49284-combined-efficacy-of-biologically-synthesized-silver-nanopar_081913.pdf",
+        "rows": 40
+      },
+      {
+        "pdf": "NMRJ_Volume 5_Issue 1_Pages 44-54.pdf",
+        "rows": 12
+      },
+      {
+        "pdf": "PM-13-828.pdf",
+        "rows": 5
+      },
+      {
+        "pdf": "abo-shama2020.pdf",
+        "rows": 108
+      },
+      {
+        "pdf": "antibiotics-11-01205-v2.pdf",
+        "rows": 112
+      },
+      {
+        "pdf": "antibiotics-11-01219-v2.pdf",
+        "rows": 48
+      },
+      {
+        "pdf": "arora2014.pdf",
+        "rows": 4
+      },
+      {
+        "pdf": "assadi2018.pdf",
+        "rows": 5
+      },
+      {
+        "pdf": "awad2019.pdf",
+        "rows": 12
+      },
+      {
+        "pdf": "azam2012.pdf",
+        "rows": 81
+      },
+      {
+        "pdf": "bhattacharya2017.pdf",
+        "rows": 40
+      },
+      {
+        "pdf": "bindhu2014.pdf",
+        "rows": 4
+      },
+      {
+        "pdf": "burygin2009.pdf",
+        "rows": 5
+      },
+      {
+        "pdf": "catalysts-12-00181-v3.pdf",
+        "rows": 16
+      },
+      {
+        "pdf": "chopade2012.pdf",
+        "rows": 420
+      },
+      {
+        "pdf": "chopade2013.pdf",
+        "rows": 262
+      },
+      {
+        "pdf": "crystals-12-01513-v3.pdf",
+        "rows": 18
+      },
+      {
+        "pdf": "d1ra04390k.pdf",
+        "rows": 9
+      },
+      {
+        "pdf": "el-sheekh2021.pdf",
+        "rows": 17
+      },
+      {
+        "pdf": "fbioe-09-652362.pdf",
+        "rows": 22
+      },
+      {
+        "pdf": "fmicb-12-750556.pdf",
+        "rows": 54
+      },
+      {
+        "pdf": "fmicb-13-929491.pdf",
+        "rows": 12
+      },
+      {
+        "pdf": "ghafoori2017.pdf",
+        "rows": 3
+      },
+      {
+        "pdf": "grumezescu2014.pdf",
+        "rows": 2
+      },
+      {
+        "pdf": "habash2014.pdf",
+        "rows": 10
+      },
+      {
+        "pdf": "jayaseelan2013.pdf",
+        "rows": 12
+      },
+      {
+        "pdf": "jfb-13-00138.pdf",
+        "rows": 9
+      },
+      {
+        "pdf": "kalita2016.pdf",
+        "rows": 36
+      },
+      {
+        "pdf": "kim2007.pdf",
+        "rows": 3
+      },
+      {
+        "pdf": "lambio0680.pdf",
+        "rows": 68
+      },
+      {
+        "pdf": "li2014.pdf",
+        "rows": 12
+      },
+      {
+        "pdf": "li2016.pdf",
+        "rows": 2
+      },
+      {
+        "pdf": "markowska2014.pdf",
+        "rows": 16
+      },
+      {
+        "pdf": "padalia2017.pdf",
+        "rows": 145
+      },
+      {
+        "pdf": "pageni2018.pdf",
+        "rows": 28
+      },
+      {
+        "pdf": "pallela2019.pdf",
+        "rows": 4
+      },
+      {
+        "pdf": "patra2016.pdf",
+        "rows": 15
+      },
+      {
+        "pdf": "patra2017.pdf",
+        "rows": 30
+      },
+      {
+        "pdf": "polymers-14-00771-v2.pdf",
+        "rows": 4
+      },
+      {
+        "pdf": "pompilio2018.pdf",
+        "rows": 24
+      },
+      {
+        "pdf": "prema2016.pdf",
+        "rows": 64
+      },
+      {
+        "pdf": "priyanka2016.pdf",
+        "rows": 56
+      },
+      {
+        "pdf": "processes-11-00272.pdf",
+        "rows": 21
+      },
+      {
+        "pdf": "rajakumar2012.pdf",
+        "rows": 10
+      },
+      {
+        "pdf": "reyes-torres2019.pdf",
+        "rows": 16
+      },
+      {
+        "pdf": "roshmi2015.pdf",
+        "rows": 40
+      },
+      {
+        "pdf": "ruparelia2008.pdf",
+        "rows": 48
+      },
+      {
+        "pdf": "s11274-017-2406-3.pdf",
+        "rows": 46
+      },
+      {
+        "pdf": "s13204-021-02065-2.pdf",
+        "rows": 15
+      },
+      {
+        "pdf": "s41598-022-19698-0.pdf",
+        "rows": 57
+      },
+      {
+        "pdf": "selvaraj2020.pdf",
+        "rows": 12
+      },
+      {
+        "pdf": "shahverdi2007.pdf",
+        "rows": 28
+      },
+      {
+        "pdf": "shaker2017.pdf",
+        "rows": 22
+      },
+      {
+        "pdf": "shamaila2016.pdf",
+        "rows": 36
+      },
+      {
+        "pdf": "sharma2016.pdf",
+        "rows": 28
+      },
+      {
+        "pdf": "singh2018.pdf",
+        "rows": 24
+      },
+      {
+        "pdf": "smekalova2016.pdf",
+        "rows": 40
+      },
+      {
+        "pdf": "swolana2020.pdf",
+        "rows": 12
+      },
+      {
+        "pdf": "thirumurugan2012.pdf",
+        "rows": 19
+      },
+      {
+        "pdf": "thirumurugan2016.pdf",
+        "rows": 36
+      },
+      {
+        "pdf": "thomas2014.pdf",
+        "rows": 14
+      },
+      {
+        "pdf": "yoonus2021.pdf",
+        "rows": 5
+      },
+      {
+        "pdf": "zhao2013.pdf",
+        "rows": 234
+      }
+    ],
+    "baseline_macro_f1": 0.08,
+    "beats_baseline": true
+  }
+}

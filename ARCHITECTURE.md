@@ -1,11 +1,11 @@
-# Architecture
+# Архитектура
 
-The public submission uses a deterministic, rules-only ChemX extraction
-pipeline for the `Benzimidazoles` domain.
+Публичная отправка использует детерминированный rules-only пайплайн для домена
+`Benzimidazoles`.
 
 ```text
 scientific PDF
-  -> local PDF parser
+  -> локальный PDF parser
   -> text/table evidence chunks
   -> Benzimidazoles rule extraction
   -> normalization
@@ -15,73 +15,71 @@ scientific PDF
   -> Streamlit review UI
 ```
 
-## Runtime Components
+## Компоненты runtime
 
-`pdf_extraction` parses each PDF into text blocks, tables, and provenance. The
-final run uses text/table evidence only; image-based structure recognition is
-not part of the public result.
+`pdf_extraction` разбирает PDF в текстовые блоки, таблицы и provenance. В
+финальном результате используются текст и таблицы; image-based structure
+recognition не является частью публичного пути.
 
-`datacon_workflow.extraction` builds evidence chunks and applies
-Benzimidazoles-specific rule extractors. The final extractor covers:
+`datacon_workflow.extraction` строит evidence chunks и применяет правила для
+`Benzimidazoles`. Финальный extractor покрывает:
 
-- MIC/pMIC prose snippets;
-- table-like MIC evidence where units are carried by the table title/header;
-- compact/OCR unit forms such as `µmolmL−1`, `µg mL−1`, and `mg L−1`;
-- antibacterial tables with compound IDs such as `BK-1` to `BK-11`, extracting
-  supported `S. aureus` and `E. coli` columns only.
-- compact antimicrobial tables with abbreviation headers such as
-  `Bc Sa Pa Ec Ab Ca`, extracting supported `Sa` and `Ec` columns only.
+- MIC/pMIC фрагменты в тексте;
+- table-like MIC evidence, где единицы находятся в заголовке или названии
+  таблицы;
+- компактные/OCR формы единиц, например `µmolmL−1`, `µg mL−1`, `mg L−1`;
+- antibacterial tables с compound ID вида `BK-1` ... `BK-11`, только для
+  поддержанных колонок `S. aureus` и `E. coli`;
+- компактные antimicrobial tables с заголовками вроде `Bc Sa Pa Ec Ab Ca`,
+  где в финальный CSV попадают только поддержанные `Sa` и `Ec`.
 
-`datacon_workflow.normalization` normalizes values for export while preserving
-raw evidence separately. It does not invent missing values.
+`datacon_workflow.normalization` приводит значения к экспортному виду, не
+перезаписывая raw evidence и не придумывая отсутствующие поля.
 
-`datacon_workflow.validation` keeps validation strict. Required evidence-backed
-values must be present before records are exported. Missing values remain
-`NOT_DETECTED` and unsupported records are rejected instead of patched.
+`datacon_workflow.validation` сохраняет строгую проверку: запись экспортируется
+только если обязательные значения подтверждены evidence. Отсутствующие значения
+остаются `NOT_DETECTED`, неподдержанные записи отклоняются.
 
-`datacon_workflow.export` writes ChemX-compatible outputs with the exact column
-order:
+`datacon_workflow.export` пишет ChemX-compatible CSV с точным порядком колонок:
 
 ```text
 compound_id,smiles,target_type,target_relation,target_value,target_units,bacteria
 ```
 
-Final export deduplication is evidence-aware: records with the same ChemX
-values are merged only when they come from the same `evidence_id`. Repeated
-mentions from distinct evidence contexts are preserved.
+Финальная дедупликация evidence-aware: одинаковые ChemX-строки объединяются
+только если они пришли из одного `evidence_id`; повторные упоминания из разных
+контекстов сохраняются.
 
-`datacon_workflow.review_records` writes review-only sidecars
-(`review_records.csv` and `review_records.json`) that link ChemX rows to
-article/source context, page, evidence text, extractor, confidence, detected
-compound mentions, and duplicate status. These fields are not added to the
-benchmark-compatible `predictions.csv`.
+`datacon_workflow.review_records` пишет sidecar-файлы
+`review_records.csv` и `review_records.json`. Они связывают публичные строки с
+source context, страницей, evidence text, extractor, confidence, compound
+mentions и duplicate status. Эти review-поля не добавляются в публичный
+`predictions.csv`.
 
-`datacon_workflow.evaluation` computes local field-level precision, recall, F1,
-and Macro-F1. Per-article reporting should scope ground truth by PDF stem and
-uses metric-only canonicalization for harmless serialization differences such
-as `5` versus `5.0` and common bacteria aliases.
+`datacon_workflow.evaluation` считает локальные precision, recall, F1 и
+Macro-F1. Per-article evaluation использует PDF stem для выбора ground truth.
+Canonicalization чисел и алиасов бактерий применяется только в метриках и не
+меняет extraction/export.
 
-`app.py` provides the final Streamlit review UI. It is organized around:
+`app.py` предоставляет Streamlit review UI:
 
-- saved full-run results, including aggregate metrics, article summary,
-  field metrics, zero-row/low-row highlights, predictions, evidence/review
-  context, duplicate diagnostics, and downloads;
-- rules-only single-article runs with corrected PDF-stem evaluation and
-  evidence/provenance review;
-- explicit-confirmation full-dataset runs of the documented rules-only command.
+- просмотр сохраненного полного запуска;
+- просмотр экспериментального сохраненного `Synergy` MVP, если его artifacts
+  есть в `outputs/synergy_mvp_precision/`;
+- rules-only запуск одной статьи;
+- полный запуск датасета после подтверждения.
 
-## Final Submission Path
-
-The full public result is produced by:
+## Финальная команда
 
 ```powershell
 .\.venv\Scripts\python.exe scripts\run_benzimidazoles_full.py `
   --pdf-dir data\chemx\benzimidazoles\pdfs `
   --ground-truth data\chemx\benzimidazoles\ground_truth.csv `
-  --output-dir outputs\benzimidazoles_full
+  --output-dir outputs\benzimidazoles_full `
+  --llm-mode never
 ```
 
-Final saved aggregate result:
+Финальный сохраненный результат:
 
 ```text
 outputs/benzimidazoles_full/
@@ -91,22 +89,51 @@ Ground-truth rows: 1721
 PDFs completed: 31/31 locally available
 ```
 
-## Invariants
+## Экспериментальный второй домен: Synergy
 
-- Keep stages separate: extraction, normalization, validation, export, and
+`Synergy` добавлен как отдельный экспериментальный rules-first MVP. Он не
+изменяет финальный `Benzimidazoles` runtime path и не становится default в UI.
+
+Сохраненный результат:
+
+```text
+outputs/synergy_mvp_precision/
+Macro-F1: 0.3626
+Published single-agent baseline: 0.080
+Predictions: 6647
+Ground-truth rows: 3089
+Selected PDFs: 81
+Failed article rows: 0
+```
+
+Команда:
+
+```powershell
+.\.venv\Scripts\python.exe scripts\run_synergy_experimental.py `
+  --pdf-dir data\chemx\synergy\pdfs `
+  --ground-truth data\chemx\synergy\ground_truth.csv `
+  --output-dir outputs\synergy_mvp_precision
+```
+
+`Synergy` имеет 42-колоночную схему и требует связывать nanoparticle, drug,
+organism, method, dose/concentration и measured effect. Результат превышает
+baseline в локальном evaluator, но остается экспериментальным из-за широкой
+схемы и не заменяет основной `Benzimidazoles` claim.
+
+## Инварианты
+
+- Этапы остаются разделенными: extraction, normalization, validation, export,
   evaluation.
-- Preserve source provenance: file, page, table/text context, method, and
-  confidence where available.
-- Do not use ground truth, previous predictions, metrics, or benchmark-derived
-  fixes as extraction input.
-- Do not relax validation to improve score.
-- Do not make LLM calls in the final rules-only run.
+- Provenance сохраняется: файл, страница, table/text context, метод и
+  confidence, когда они доступны.
+- Ground truth, прошлые predictions, metrics, replay batches и
+  benchmark-derived fixes не используются как вход extraction.
+- Validation не ослабляется ради метрик.
+- Финальный rules-only запуск не делает LLM-вызовов.
 
-## Non-Required Experimental Features
+## Экспериментальные части вне финального claim
 
-The repository contains internal development code and notes for RAG support,
-LLM fallback, optional agentic sidecars, MolScribe, DECIMER, YOLO, and related
-structure-recognition experiments. These are not required for the final
-rules-only Benzimidazoles result and are not part of the public claim.
-LLM-based SMILES or structure extraction remains possible future work, but it
-was not included in the final evaluated run.
+В репозитории могут оставаться внутренние материалы и код для RAG, LLM fallback,
+hybrid workflow, agentic sidecars, MolScribe, DECIMER, YOLO, OCR/image
+pipeline и других structure-recognition экспериментов. Они не требуются для
+публичного результата `Benzimidazoles` и не входят в финальные метрики.

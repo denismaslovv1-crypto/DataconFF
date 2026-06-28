@@ -1,31 +1,59 @@
-# Results
+# Результаты
 
-The final saved Benzimidazoles rules-only run is:
+Финальный проверенный rules-only запуск для `Benzimidazoles`:
 
 ```text
 outputs/benzimidazoles_full/
 ```
 
-It completed the locally available Benzimidazoles PDF set and exceeds the
-published single-agent baseline under the repository's local evaluator.
+Он обработал локально доступный набор PDF и превысил опубликованный
+single-agent baseline в локальном evaluator репозитория.
 
-## Summary
+## Сводка
 
-| Metric | Value |
+| Метрика | Значение |
 |---|---:|
-| Domain | Benzimidazoles |
-| Mode | rules-only |
-| PDFs completed | 31/31 locally available |
-| Predictions | 2247 |
-| Ground-truth rows | 1721 |
-| Local evaluator Macro-F1 | 0.4622 |
-| Published single-agent baseline | 0.217 |
+| Домен | Benzimidazoles |
+| Режим | rules-only |
+| PDF обработано | 31/31 локально доступных |
+| Строк предсказаний | 2247 |
+| Строк ground truth | 1721 |
+| Macro-F1 локального evaluator | 0.4622 |
+| Опубликованный single-agent baseline | 0.217 |
 
-## Field Metrics
+## Experimental Second Domain: Synergy
 
-From `outputs/benzimidazoles_full/field_metrics.csv`:
+Отдельно от финального `Benzimidazoles` результата сохранен экспериментальный
+rules-first MVP для `Synergy`:
 
-| Field | Precision | Recall | F1 | True positive |
+```text
+outputs/synergy_mvp_precision/
+```
+
+| Метрика | Значение |
+|---|---:|
+| Домен | Synergy |
+| Статус | experimental second domain |
+| PDF выбрано | 81 |
+| Ground-truth PDF identities | 80 |
+| Строк предсказаний | 6647 |
+| Строк local ground truth | 3089 |
+| Macro-F1 локального evaluator | 0.3626 |
+| Опубликованный single-agent baseline | 0.080 |
+| Улучшение над baseline | около 4.53x |
+| Failed article rows | 0 |
+
+`Synergy` не является основным стабильным доменом. Результат превышает
+опубликованный baseline в локальном evaluator, но схема шире
+(`42` колонки), а результат остается экспериментальным вторым доменом.
+Поэтому его можно показывать без claim о полном решении `Synergy` или parity с
+официальным scorer.
+
+## Метрики по полям
+
+Из `outputs/benzimidazoles_full/field_metrics.csv`:
+
+| Поле | Precision | Recall | F1 | True positive |
 |---|---:|---:|---:|---:|
 | compound_id | 0.1713 | 0.2237 | 0.1941 | 385 |
 | smiles | 0.0000 | 0.0000 | 0.0000 | 0 |
@@ -35,77 +63,57 @@ From `outputs/benzimidazoles_full/field_metrics.csv`:
 | target_units | 0.5376 | 0.7019 | 0.6089 | 1208 |
 | bacteria | 0.3409 | 0.4451 | 0.3861 | 766 |
 
-## What Improved
+## Что улучшено
 
-The final rules-only path includes several source-backed extraction
-improvements:
+Финальный rules-only путь включает несколько source-backed улучшений:
 
-- `target_units` extraction now uses source-backed units from the same evidence
-  chunk, including table titles/headers such as `(MIC, µM)`, `(MIC, mg/L)`,
-  and compact/OCR forms such as `MIC=12.5µmolmL−1`.
-- Table-like antibacterial MIC extraction supports compound IDs such as
-  `BK-1` through `BK-11` and keeps only supported `S. aureus` and `E. coli`
-  columns, ignoring fungal, antioxidant, DPPH, NO, and unsupported bacterial
-  columns.
-- Compact antimicrobial MIC tables with organism abbreviation headers such as
-  `Bc Sa Pa Ec Ab Ca` are parsed by column position. The final extractor keeps
-  the supported `Sa` and `Ec` columns and ignores unsupported organisms and
-  standards.
-- Final export deduplication is evidence-aware: records with the same ChemX
-  values are merged only when they come from the same `evidence_id`. Repeated
-  mentions from distinct evidence contexts are preserved.
-- Review sidecars (`review_records.csv` and `review_records.json`) now link
-  prediction rows to source context, page, evidence id, extractor, confidence,
-  detected compound mentions, and duplicate status without changing the ChemX
-  CSV schema.
+- `target_units` извлекаются из того же evidence context, включая заголовки
+  таблиц и компактные формы вроде `MIC=12.5µmolmL−1`;
+- поддержаны antibacterial MIC таблицы с compound ID вида `BK-1` ... `BK-11`,
+  при этом экспортируются только поддержанные `S. aureus` и `E. coli`;
+- поддержаны компактные antimicrobial tables с organism abbreviations вроде
+  `Bc Sa Pa Ec Ab Ca`; финальный extractor берет только `Sa` и `Ec`;
+- export-дедупликация учитывает `evidence_id`, поэтому повторные source-backed
+  упоминания из разных контекстов не теряются;
+- `review_records.csv/.json` связывают prediction rows с source context,
+  evidence id, extractor, confidence и duplicate diagnostics без изменения
+  публичной ChemX-схемы.
 
-These changes reduced zero-row failures, recovered `jhet.3467.pdf` to 22
-source-backed prediction rows in final artifacts, and recovered
-`s13065-018-0479-1.pdf` to 24 validated rows in single-article verification.
-The complete local run also includes the newly available
-`1570180811666140725185713.pdf`; for that article, one header-only MIC
-candidate was correctly rejected because it lacked source-backed bacteria and a
-decodable unit.
+## Consistency evaluation
 
-## Evaluation Consistency
+Per-article evaluation выбирает ground truth по PDF stem. DOI из текста может
+использоваться как вспомогательная metadata, но не как единственный фильтр:
+reference sections и ошибки парсинга DOI могут приводить к неверному
+`gt_rows`.
 
-Evaluation/reporting now treats ground-truth matching as a PDF identity problem:
-GT scoping should use the PDF stem, with DOI matches as supporting metadata
-rather than the only filter. This avoids malformed DOI extraction causing
-incorrect per-article `gt_rows`.
+В evaluator есть metric-only canonicalization:
 
-Metric comparison also uses metric-only canonicalization for serialization
-differences:
+- числовые сериализации `5`, `5.0`, `5.00` сравниваются как одно значение;
+- алиасы бактерий вроде `S. aureus` / `Staphylococcus aureus` и
+  `E. coli` / `Escherichia coli` сравниваются как одно значение.
 
-- numeric values such as `5`, `5.0`, and `5.00` compare equal;
-- bacteria aliases such as `S. aureus` and `Staphylococcus aureus` compare
-  equal, likewise `E. coli` and `Escherichia coli`.
-
-These canonicalizations are for evaluation only; they do not relax validation
-or rewrite raw extracted evidence.
+Эта canonicalization применяется только при сравнении метрик. Она не меняет
+raw extraction, validation или экспортируемые evidence.
 
 ## Caveats
 
-- The local evaluator is an approximation and is not claimed to match the
-  official scorer exactly.
-- The final claim is scoped to the Benzimidazoles domain.
-- The final public run is rules-only and uses no LLM calls.
-- SMILES are unresolved, so the `smiles` field remains at F1 `0.0000`.
-- Full image/structure recognition was not used.
-- LLM-based SMILES or structure extraction may be future work, but it was not
-  included in the final evaluated run.
-- Recall remains limited and results are uneven across PDFs.
+- Локальный evaluator является приближением; совпадение с официальным scorer
+  не заявляется.
+- Финальный claim относится только к `Benzimidazoles`.
+- `Synergy` является экспериментальным вторым доменом и не заменяет финальный
+  `Benzimidazoles` claim.
+- Финальный public run rules-only и не делает LLM-вызовов.
+- SMILES не решены: поле `smiles` остается `NOT_DETECTED`, F1 `0.0000`.
+- Image/structure recognition не использовался в финальной оценке.
+- Recall ограничен, качество неравномерно между статьями.
 
-## Streamlit Review UI
+## Streamlit review UI
 
-The final Streamlit UI is a commission-facing review surface, not a chatbot.
-It has three modes:
+Streamlit-приложение является review-интерфейсом, а не чатботом. Оно позволяет:
 
-- saved full-run results: aggregate metrics, article summary, field metrics,
-  zero-row/low-row highlights, prediction preview, Evidence / Review source
-  context, duplicate diagnostics, and downloads;
-- single article run: rules-only extraction, corrected PDF-stem evaluation,
-  predictions, validation errors, field metrics, evidence, and review
-  provenance;
-- full dataset run: explicit-confirmation wrapper around
-  the default rules-only `scripts/run_benzimidazoles_full.py` command.
+- открыть сохраненный full-run и посмотреть aggregate metrics,
+  article summary, field metrics, predictions, evidence/review context,
+  duplicate diagnostics и downloads;
+- запустить одну статью в rules-only режиме и проверить provenance;
+- запустить полный датасет через documented command после явного
+  подтверждения.

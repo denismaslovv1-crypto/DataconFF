@@ -186,27 +186,7 @@ def _filter_included_pdfs(pdfs: list[Path], includes: list[str] | None) -> list[
 
 
 def _run_article(pdf: Path, article_dir: Path, args: argparse.Namespace, repo_root: Path) -> dict[str, Any]:
-    command = [
-        sys.executable,
-        str(Path("scripts") / "run_hybrid_benzimidazoles.py"),
-        "--pdf",
-        str(pdf),
-        "--ground-truth",
-        str(args.ground_truth),
-        "--output-dir",
-        str(article_dir),
-        "--llm-mode",
-        args.llm_mode,
-        "--evidence-batch-size",
-        str(args.evidence_batch_size),
-        "--max-evidence-chunks",
-        str(args.max_evidence_chunks),
-        "--max-concurrent-batches",
-        str(args.max_concurrent_batches),
-    ]
-    if args.resume_existing_batches:
-        command.append("--resume-existing-batches")
-
+    command = _build_article_command(pdf, article_dir, args)
     status = "ok"
     error = ""
     try:
@@ -242,6 +222,30 @@ def _run_article(pdf: Path, article_dir: Path, args: argparse.Namespace, repo_ro
         "command": _display_command(command),
     }
     return {"summary_row": summary, "manifest": manifest}
+
+
+def _build_article_command(pdf: Path, article_dir: Path, args: argparse.Namespace) -> list[str]:
+    command = [
+        sys.executable,
+        str(Path("scripts") / "run_hybrid_benzimidazoles.py"),
+        "--pdf",
+        str(pdf),
+        "--ground-truth",
+        str(args.ground_truth),
+        "--output-dir",
+        str(article_dir),
+        "--llm-mode",
+        args.llm_mode,
+        "--evidence-batch-size",
+        str(args.evidence_batch_size),
+        "--max-evidence-chunks",
+        str(args.max_evidence_chunks),
+        "--max-concurrent-batches",
+        str(args.max_concurrent_batches),
+    ]
+    if args.resume_existing_batches:
+        command.append("--resume-existing-batches")
+    return command
 
 
 def _load_article_outputs(

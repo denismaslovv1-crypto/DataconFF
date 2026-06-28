@@ -3,6 +3,8 @@ from __future__ import annotations
 import csv
 import importlib.util
 import json
+import sys
+from argparse import Namespace
 from pathlib import Path
 
 import pytest
@@ -69,6 +71,74 @@ def test_collect_prediction_rows_preserves_required_columns(tmp_path) -> None:
 
     assert tuple(reader.fieldnames or ()) == CHEMX_COLUMNS
     assert [row["compound_id"] for row in merged] == ["5a", "7b"]
+
+
+def test_review_sidecars_are_not_merged_into_public_predictions(tmp_path) -> None:
+    runner = _load_runner_module()
+    _write_prediction_csv(
+        tmp_path / "article" / "predictions.csv",
+        [
+            {
+                "compound_id": "5a",
+                "smiles": "NOT_DETECTED",
+                "target_type": "MIC",
+                "target_relation": "=",
+                "target_value": "4",
+                "target_units": "ug/mL",
+                "bacteria": "S. aureus",
+            }
+        ],
+    )
+    with (tmp_path / "article" / "review_records.csv").open("w", encoding="utf-8", newline="") as handle:
+        writer = csv.DictWriter(handle, fieldnames=[*CHEMX_COLUMNS, "evidence_id", "source_text"])
+        writer.writeheader()
+        writer.writerow(
+            {
+                "compound_id": "5a",
+                "smiles": "NOT_DETECTED",
+                "target_type": "MIC",
+                "target_relation": "=",
+                "target_value": "4",
+                "target_units": "ug/mL",
+                "bacteria": "S. aureus",
+                "evidence_id": "ev:1",
+                "source_text": "review-only context",
+            }
+        )
+
+    rows = runner._collect_prediction_rows(tmp_path)
+    output_csv = tmp_path / "predictions.csv"
+    runner._write_predictions_csv(output_csv, rows)
+
+    with output_csv.open(encoding="utf-8", newline="") as handle:
+        reader = csv.DictReader(handle)
+        merged = list(reader)
+
+    assert tuple(reader.fieldnames or ()) == CHEMX_COLUMNS
+    assert merged == rows
+    assert "evidence_id" not in merged[0]
+
+
+def test_final_article_command_keeps_llm_mode_never(tmp_path) -> None:
+    runner = _load_runner_module()
+    args = Namespace(
+        ground_truth=Path("data/chemx/benzimidazoles/ground_truth.csv"),
+        llm_mode="never",
+        evidence_batch_size=5,
+        max_evidence_chunks=80,
+        max_concurrent_batches=1,
+        resume_existing_batches=False,
+    )
+
+    command = runner._build_article_command(
+        Path("data/chemx/benzimidazoles/pdfs/j.bmc.2014.09.008.pdf"),
+        tmp_path / "article",
+        args,
+    )
+
+    assert command[0] == sys.executable
+    assert command[command.index("--llm-mode") + 1] == "never"
+    assert "--resume-existing-batches" not in command
 
 
 def test_include_filter_selects_pdf_filenames_case_insensitively(tmp_path) -> None:

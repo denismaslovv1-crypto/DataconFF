@@ -64,6 +64,7 @@ AGENTS.MD
 agents.md
 task.md
 TASK.md
+TASK_clean.md
 DOC_CLEANUP_PLAN.md
 
 # ============================================================
@@ -98,6 +99,8 @@ outputs/*
 !outputs/.gitkeep
 !outputs/benzimidazoles_full/
 !outputs/benzimidazoles_full/**
+!outputs/synergy_mvp_precision/
+!outputs/synergy_mvp_precision/**
 outputs/_cleanup_verify/
 
 # ============================================================
@@ -146,8 +149,4 @@ weights/
 # ============================================================
 
 .ipynb_checkpoints/
-src/datacon_workflow/domains/synergy.py
-scripts/run_synergy_experimental.py
 /data/chemx/synergy
-/data/chemx/synergy
-data/chemx/synergy/missing_pdfs.csv
