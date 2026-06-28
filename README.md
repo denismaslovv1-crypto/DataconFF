@@ -5,29 +5,29 @@ ChemX: извлечение структурированных записей и
 ChemX-совместимый CSV.
 
 Публичное решение поддерживает два ChemX-домена: Primary domain
-`Benzimidazoles` и Additional domain `Synergy`. Финальный путь
-детерминированный и rules-only: он не делает LLM-вызовы и не использует RAG,
-агентные sidecar-процессы, MolScribe, DECIMER, YOLO, OCR-стек или
-распознавание структур по изображениям как часть метрик.
+`Benzimidazoles` и Additional domain `Synergy`. 
+
+Финальный пайплайн — воспроизводимый **rules-first / rules-only** подход: локальное разбиение PDF, данные извлекаются детерминированными правилами, затем нормализуются, валидируются и оцениваются по схеме ChemX.
+
+LLM, RAG, и другие агентные процессы для распознавания структур по изображениям не используются в финальных метриках.
 
 ```text
 PDF -> парсер -> evidence -> правила -> нормализация -> валидация -> ChemX CSV -> оценка -> Streamlit UI
 ```
 
-## Final Results
+## Финальные результаты
 
-| Domain | Role | Output | Macro-F1 | Baseline | Improvement |
-|---|---|---|---:|---:|---:|
-| Benzimidazoles | Primary | `outputs/benzimidazoles_full` | `0.4622` | `0.217` | `~2.13x` |
-| Synergy | Additional | `outputs/synergy_full` | `0.3626` | `0.080` | `~4.53x` |
+| Домен          | Роль           | Результаты                    | Macro-F1 | Бейзлайн | Улучшение |
+| -------------- | -------------- | ----------------------------- | -------: | -------: | --------: |
+| Benzimidazoles | Основной       | `outputs/benzimidazoles_full` | `0.4622` |  `0.217` |  `~2.13x` |
+| Synergy        | Дополнительный | `outputs/synergy_full`        | `0.3626` |  `0.080` |  `~4.53x` |
 
-Metrics are reported per domain. The repository local evaluator is used for
-reproducible comparison and official scorer parity is not claimed.
+Метрики приведены отдельно для каждого домена. Для воспроизводимого сравнения используется локальный evaluator репозитория.
+В колонке «Результаты» указаны папки `outputs/...`, где сохранены результаты запуска: итоговый predictions.csv, агрегированные метрики, метрики по полям и сводка по статьям.
 
 ## Primary Domain: Benzimidazoles
 
 Финальный сохраненный полный запуск:
-
 ```text
 outputs/benzimidazoles_full/
 ```
@@ -42,9 +42,7 @@ outputs/benzimidazoles_full/
 | Macro-F1 локального evaluator | 0.4622 |
 | Опубликованный single-agent baseline | 0.217 |
 
-Результат выше опубликованного single-agent baseline в локальном evaluator
-репозитория. Этот evaluator является приближением benchmark-поведения; parity с
-официальным scorer не заявляется.
+Результат превышает опубликованный single-agent baseline для Benzimidazoles в локальном evaluator репозитория.
 
 ## Additional Domain: Synergy
 
@@ -55,13 +53,8 @@ outputs/benzimidazoles_full/
 outputs/synergy_full/
 ```
 
-На локально доступных PDF для `Synergy` он показал Macro-F1 `0.3626` против
-опубликованного single-agent baseline `0.080` в локальном evaluator
-репозитория. Сохраненный полный запуск выбрал 81 PDF, дал 6647
-prediction rows против 3089 local ground-truth rows и не имел failed article
-rows. Этот результат отделен от основного claim: `Synergy` имеет более широкую
-42-колоночную схему и показывается как additional domain; parity с официальным
-scorer не заявляется.
+На локально доступных PDF этот запуск показал Macro-F1 0.3626 против опубликованного single-agent baseline 0.080.
+Было выбрано 81 PDF, получено 6647 prediction rows против 3089 local ground-truth rows; failed article rows отсутствуют.
 
 Воспроизводимая команда:
 
@@ -74,7 +67,7 @@ scorer не заявляется.
 
 ## Установка
 
-Создайте локальное окружение репозитория:
+Создание локальное окружение репозитория:
 
 ```powershell
 .\setup_project_env.cmd
@@ -84,12 +77,6 @@ scorer не заявляется.
 
 ```powershell
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
-```
-
-Для проектных команд используйте только интерпретатор репозитория:
-
-```powershell
-.\.venv\Scripts\python.exe
 ```
 
 ## Полный rules-only запуск
@@ -133,9 +120,7 @@ compound_id,smiles,target_type,target_relation,target_value,target_units,bacteri
 - полный запуск датасета после явного подтверждения.
 
 ## Ограничения
-
-- Заявленный результат относится только к домену `Benzimidazoles`.
-- Финальный запуск rules-only и не делает LLM-вызовов.
+- Финальный запуск rules-only и по-умолчанию не делает LLM-вызовов.
 - SMILES не решены и экспортируются как `NOT_DETECTED`; поле `smiles` имеет
   F1 `0.0000`.
 - Распознавание структур по изображениям не входит в финальные метрики и
@@ -150,6 +135,6 @@ compound_id,smiles,target_type,target_relation,target_value,target_units,bacteri
 - [RESULTS.md](RESULTS.md)
 
 ## Ссылки
-DataCon26 — постановка задачи
-ChemX — бенчмарк и baseline
-Датасеты ChemX (Hugging Face)
+[DataCon26](https://github.com/ai-chem/DataCon26/) — постановка задачи
+[ChemX](https://github.com/ai-chem/ChemX) — бенчмарк и baseline
+[Датасеты ChemX](https://huggingface.co/collections/ai-chem/chemx) (Hugging Face)
