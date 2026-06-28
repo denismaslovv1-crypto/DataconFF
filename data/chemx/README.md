@@ -1,41 +1,25 @@
-# ChemX local benchmark data
+# Локальные benchmark-данные ChemX
 
-This directory stores local benchmark data for the DataCon/ChemX extraction task.
+Эта папка используется для хранения локальных данных benchmark-задачи DataCon/ChemX extraction.
 
-Current MVP domain:
+## Назначение файлов
 
-```text
-benzimidazoles/
-```
+`ground_truth.csv` — эталонная benchmark-таблица.
 
-Expected structure:
+`README.md` внутри папки домена описывает схему датасета.
 
-data/chemx/
-  README.md
-  benzimidazoles/
-    README.md              # dataset README/schema from Hugging Face
-    ground_truth.csv       # benchmark table from Hugging Face
-    pdfs/                  # source PDF articles used as extractor input
-    predictions/           # model/system outputs
-    metrics/               # baseline metrics and our evaluation results
+`metrics/` содержит официальные baseline-метрики и наши рассчитанные метрики.
 
-File roles:
+`pdfs/` содержит исходные PDF-статьи, которые используются как входные данные для extractor.
 
-ground_truth.csv is the benchmark reference table.
-README.md inside the domain folder describes the dataset schema.
-metrics/ contains official baseline metrics and our computed metrics.
-pdfs/ contains source PDFs used for extraction.
-predictions/ contains our generated CSV/JSON outputs.
+`predictions/` содержит сгенерированные системой CSV/JSON-выгрузки.
 
-PDF policy:
+## Политика по PDF
 
-PDF files are not guaranteed to be shipped directly with the dataset.
-They should be downloaded from direct PDF URLs when available.
-If only DOI/title is available, unresolved sources should be logged to:
+PDF-файлы не поставляются вместе с датасетом. Их следует скачивать по прямым PDF-ссылкам, если они доступны.
 
-data/chemx/benzimidazoles/missing_pdfs.csv
+Если доступен только DOI или название статьи, а PDF не удалось получить автоматически или вручную, такой источник фиксируется в файле:
 
-Manual PDF download is allowed for a small test subset, but the preferred workflow is automated download with logging of failures.
+missing_pdfs.csv содержит список отсутствующих PDF-файлов для домена Benzimidazoles и Synergy в рамках решения данного репозитория.
 
-Do not commit large PDFs unless the team explicitly decides to version them.
-EOF
+Для небольшого тестового поднабора допускается ручная загрузка PDF, но предпочтительный workflow — автоматическая загрузка с логированием неудачных попыток.
