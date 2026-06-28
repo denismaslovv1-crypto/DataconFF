@@ -4,16 +4,27 @@
 ChemX: извлечение структурированных записей из научных PDF и экспорт в
 ChemX-совместимый CSV.
 
-Публичное решение намеренно ограничено одним доменом:
-`Benzimidazoles`. Финальный путь детерминированный и rules-only: он не делает
-LLM-вызовы и не использует RAG, агентные sidecar-процессы, MolScribe, DECIMER,
-YOLO, OCR-стек или распознавание структур по изображениям как часть метрик.
+Публичное решение поддерживает два ChemX-домена: Primary domain
+`Benzimidazoles` и Additional domain `Synergy`. Финальный путь
+детерминированный и rules-only: он не делает LLM-вызовы и не использует RAG,
+агентные sidecar-процессы, MolScribe, DECIMER, YOLO, OCR-стек или
+распознавание структур по изображениям как часть метрик.
 
 ```text
 PDF -> парсер -> evidence -> правила -> нормализация -> валидация -> ChemX CSV -> оценка -> Streamlit UI
 ```
 
-## Итоговый результат
+## Final Results
+
+| Domain | Role | Output | Macro-F1 | Baseline | Improvement |
+|---|---|---|---:|---:|---:|
+| Benzimidazoles | Primary | `outputs/benzimidazoles_full` | `0.4622` | `0.217` | `~2.13x` |
+| Synergy | Additional | `outputs/synergy_full` | `0.3626` | `0.080` | `~4.53x` |
+
+Metrics are reported per domain. The repository local evaluator is used for
+reproducible comparison and official scorer parity is not claimed.
+
+## Primary Domain: Benzimidazoles
 
 Финальный сохраненный полный запуск:
 
@@ -35,10 +46,10 @@ outputs/benzimidazoles_full/
 репозитория. Этот evaluator является приближением benchmark-поведения; parity с
 официальным scorer не заявляется.
 
-## Экспериментальный второй домен: Synergy
+## Additional Domain: Synergy
 
 Помимо стабильного результата `Benzimidazoles`, в репозитории есть
-экспериментальный rules-first MVP для `Synergy`:
+дополнительный rules-first результат для `Synergy`:
 
 ```text
 outputs/synergy_full/
@@ -46,11 +57,11 @@ outputs/synergy_full/
 
 На локально доступных PDF для `Synergy` он показал Macro-F1 `0.3626` против
 опубликованного single-agent baseline `0.080` в локальном evaluator
-репозитория. Финальный экспериментальный запуск выбрал 81 PDF, дал 6647
+репозитория. Сохраненный полный запуск выбрал 81 PDF, дал 6647
 prediction rows против 3089 local ground-truth rows и не имел failed article
 rows. Этот результат отделен от основного claim: `Synergy` имеет более широкую
-42-колоночную схему, остается экспериментальным вторым доменом, и parity с
-официальным scorer не заявляется.
+42-колоночную схему и показывается как additional domain; parity с официальным
+scorer не заявляется.
 
 Воспроизводимая команда:
 

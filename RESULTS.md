@@ -1,6 +1,7 @@
 ﻿# Результаты
 
-Финальный проверенный rules-only запуск для `Benzimidazoles`:
+Финальный проверенный rules-only запуск для Primary Domain:
+`Benzimidazoles`.
 
 ```text
 outputs/benzimidazoles_full/
@@ -21,10 +22,20 @@ single-agent baseline в локальном evaluator репозитория.
 | Macro-F1 локального evaluator | 0.4622 |
 | Опубликованный single-agent baseline | 0.217 |
 
-## Experimental Second Domain: Synergy
+## Summary
 
-Отдельно от финального `Benzimidazoles` результата сохранен экспериментальный
-rules-first MVP для `Synergy`:
+| Domain | Role | Output | Macro-F1 | Baseline | Improvement |
+|---|---|---|---:|---:|---:|
+| Benzimidazoles | Primary | `outputs/benzimidazoles_full` | `0.4622` | `0.217` | `~2.13x` |
+| Synergy | Additional | `outputs/synergy_full` | `0.3626` | `0.080` | `~4.53x` |
+
+Metrics are reported per domain. The repository local evaluator is used for
+reproducible comparison and official scorer parity is not claimed.
+
+## Additional Domain: Synergy
+
+Отдельно от финального `Benzimidazoles` результата сохранен additional domain
+rules-first запуск для `Synergy`:
 
 ```text
 outputs/synergy_full/
@@ -33,7 +44,7 @@ outputs/synergy_full/
 | Метрика | Значение |
 |---|---:|
 | Домен | Synergy |
-| Статус | experimental second domain |
+| Статус | additional domain |
 | PDF выбрано | 81 |
 | Ground-truth PDF identities | 80 |
 | Строк предсказаний | 6647 |
@@ -43,11 +54,8 @@ outputs/synergy_full/
 | Улучшение над baseline | около 4.53x |
 | Failed article rows | 0 |
 
-`Synergy` не является основным стабильным доменом. Результат превышает
-опубликованный baseline в локальном evaluator, но схема шире
-(`42` колонки), а результат остается экспериментальным вторым доменом.
-Поэтому его можно показывать без claim о полном решении `Synergy` или parity с
-официальным scorer.
+`Synergy` превышает опубликованный baseline в локальном evaluator. Этот домен
+шире и шумнее из-за 42-колоночной схемы и высокого prediction-to-GT ratio.
 
 ## Метрики по полям
 
@@ -99,9 +107,8 @@ raw extraction, validation или экспортируемые evidence.
 
 - Локальный evaluator является приближением; совпадение с официальным scorer
   не заявляется.
-- Финальный claim относится только к `Benzimidazoles`.
-- `Synergy` является экспериментальным вторым доменом и не заменяет финальный
-  `Benzimidazoles` claim.
+- Метрики считаются и заявляются отдельно по доменам.
+- `Synergy` является additional domain с более широкой 42-колоночной схемой.
 - Финальный public run rules-only и не делает LLM-вызовов.
 - SMILES не решены: поле `smiles` остается `NOT_DETECTED`, F1 `0.0000`.
 - Image/structure recognition не использовался в финальной оценке.

@@ -16,11 +16,24 @@ from pdf_extraction.pipeline import parse_pdf
 
 
 BASELINE_MACRO_F1 = 0.080
+ARTICLE_SUMMARY_COLUMNS = (
+    "pdf",
+    "status",
+    "pred_rows",
+    "gt_rows",
+    "precision",
+    "recall",
+    "f1",
+    "macro_f1",
+    "error",
+)
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Run experimental rules-first Synergy extraction.")
-    parser.add_argument("--pdf-dir", type=Path, default=Path("data/chemx/synergy/pdfs"))
+    source = parser.add_mutually_exclusive_group()
+    source.add_argument("--pdf-dir", type=Path, default=Path("data/chemx/synergy/pdfs"))
+    source.add_argument("--pdf", type=Path, help="Optional single-PDF run.")
     parser.add_argument("--ground-truth", type=Path, default=Path("data/chemx/synergy/ground_truth.csv"))
     parser.add_argument("--output-dir", type=Path, default=Path("outputs/synergy_full"))
     parser.add_argument("--limit", type=int, help="Optional smoke-test cap.")
@@ -28,11 +41,15 @@ def main() -> int:
 
     repo_root = Path(__file__).resolve().parents[1]
     _ensure_repo_python(repo_root)
-    pdfs = _find_pdfs(args.pdf_dir)
+    single_pdf_mode = args.pdf is not None
+    pdfs = [args.pdf] if single_pdf_mode else _find_pdfs(args.pdf_dir)
     if args.limit is not None:
         pdfs = pdfs[: args.limit]
     if not pdfs:
-        raise SystemExit(f"No PDF files found in {args.pdf_dir}")
+        source_path = args.pdf if single_pdf_mode else args.pdf_dir
+        raise SystemExit(f"No PDF files found in {source_path}")
+    if single_pdf_mode and not args.pdf.is_file():
+        raise SystemExit(f"PDF file not found: {args.pdf}")
 
     args.output_dir.mkdir(parents=True, exist_ok=True)
     all_rows: list[dict[str, str]] = []
@@ -41,7 +58,7 @@ def main() -> int:
 
     for index, pdf in enumerate(pdfs, start=1):
         print(f"[{index}/{len(pdfs)}] {pdf.name}")
-        article_dir = args.output_dir / pdf.stem.replace(" ", "_")
+        article_dir = args.output_dir if single_pdf_mode else args.output_dir / pdf.stem.replace(" ", "_")
         article_dir.mkdir(parents=True, exist_ok=True)
         try:
             document = parse_pdf(pdf, article_dir / "parsed")
@@ -81,6 +98,10 @@ def main() -> int:
                     "status": "ok",
                     "pred_rows": str(len(rows)),
                     "gt_rows": "",
+                    "precision": "",
+                    "recall": "",
+                    "f1": "",
+                    "macro_f1": "",
                     "error": "",
                 }
             )
@@ -91,6 +112,10 @@ def main() -> int:
                     "status": "failed",
                     "pred_rows": "0",
                     "gt_rows": "",
+                    "precision": "",
+                    "recall": "",
+                    "f1": "",
+                    "macro_f1": "",
                     "error": str(exc),
                 }
             )
@@ -99,10 +124,16 @@ def main() -> int:
     _write_csv(predictions_csv, SYNERGY_COLUMNS, all_rows)
     _write_review_records(args.output_dir, all_review_rows)
     metrics = evaluate_synergy_predictions(predictions_csv, args.ground_truth, args.output_dir, {pdf.name for pdf in pdfs})
-    gt_by_pdf = {row["pdf"]: row["rows"] for row in metrics["article_ground_truth"]}
+    article_metrics_by_pdf = {row["pdf"]: row for row in metrics["article_metrics"]}
     for row in article_summary:
-        row["gt_rows"] = str(gt_by_pdf.get(row["pdf"], 0))
-    _write_csv(args.output_dir / "article_summary.csv", ("pdf", "status", "pred_rows", "gt_rows", "error"), article_summary)
+        article_metrics = article_metrics_by_pdf.get(row["pdf"], {})
+        row["gt_rows"] = str(article_metrics.get("ground_truth_count", 0))
+        if row["status"] == "ok":
+            row["precision"] = _format_metric(article_metrics.get("precision"))
+            row["recall"] = _format_metric(article_metrics.get("recall"))
+            row["f1"] = _format_metric(article_metrics.get("f1"))
+            row["macro_f1"] = _format_metric(article_metrics.get("macro_f1"))
+    _write_csv(args.output_dir / "article_summary.csv", ARTICLE_SUMMARY_COLUMNS, article_summary)
 
     manifest = {
         "run_started_at_utc": datetime.now(timezone.utc).isoformat(),
@@ -110,7 +141,8 @@ def main() -> int:
         "experimental": True,
         "baseline_macro_f1": BASELINE_MACRO_F1,
         "beats_baseline": bool(metrics["macro_f1"] > BASELINE_MACRO_F1),
-        "pdf_dir": str(args.pdf_dir),
+        "pdf_dir": "" if single_pdf_mode else str(args.pdf_dir),
+        "pdf": str(args.pdf) if single_pdf_mode else "",
         "ground_truth": str(args.ground_truth),
         "output_dir": str(args.output_dir),
         "pdfs_selected": len(pdfs),
@@ -138,6 +170,7 @@ def evaluate_synergy_predictions(
     output_dir: Path,
     local_pdf_names: set[str],
 ) -> dict[str, Any]:
+    output_dir.mkdir(parents=True, exist_ok=True)
     predictions = _read_csv(predictions_csv)
     truth_all = _read_csv(ground_truth_csv)
     local_pdf_keys = {_canonical_pdf_name(name) for name in local_pdf_names}
@@ -147,6 +180,70 @@ def evaluate_synergy_predictions(
         if columns != SYNERGY_COLUMNS:
             raise ValueError("Prediction CSV must use exactly the Synergy ChemX column order")
 
+    field_metrics = _field_metrics(predictions, truth)
+    aggregate_metrics = _aggregate_metrics(field_metrics)
+
+    article_metrics = _article_metrics(predictions, truth, local_pdf_names)
+    article_ground_truth = [
+        {"pdf": row["pdf"], "rows": row["ground_truth_count"]}
+        for row in article_metrics
+    ]
+    result = {
+        "macro_f1": aggregate_metrics["macro_f1"],
+        "field_metrics": field_metrics,
+        "prediction_count": len(predictions),
+        "ground_truth_count": len(truth),
+        "ground_truth_pdf_count": len({row.get("pdf", "") for row in truth}),
+        "selected_pdf_count": len(local_pdf_names),
+        "article_ground_truth": article_ground_truth,
+        "article_metrics": article_metrics,
+        "baseline_macro_f1": BASELINE_MACRO_F1,
+        "beats_baseline": bool(aggregate_metrics["macro_f1"] > BASELINE_MACRO_F1),
+    }
+    (output_dir / "metrics.json").write_text(json.dumps(result, indent=2), encoding="utf-8")
+    _write_csv(
+        output_dir / "field_metrics.csv",
+        ("field", "precision", "recall", "f1", "true_positive"),
+        field_metrics,
+    )
+    return result
+
+
+def _article_metrics(
+    predictions: list[dict[str, str]],
+    truth: list[dict[str, str]],
+    local_pdf_names: set[str],
+) -> list[dict[str, Any]]:
+    predictions_by_pdf = _rows_by_pdf(predictions)
+    truth_by_pdf = _rows_by_pdf(truth)
+    rows: list[dict[str, Any]] = []
+    for local_name in sorted(local_pdf_names):
+        key = _canonical_pdf_name(local_name)
+        article_predictions = predictions_by_pdf.get(key, [])
+        article_truth = truth_by_pdf.get(key, [])
+        aggregate_metrics = _aggregate_metrics(_field_metrics(article_predictions, article_truth))
+        rows.append(
+            {
+                "pdf": local_name,
+                "prediction_count": len(article_predictions),
+                "ground_truth_count": len(article_truth),
+                **aggregate_metrics,
+            }
+        )
+    return rows
+
+
+def _rows_by_pdf(rows: list[dict[str, str]]) -> dict[str, list[dict[str, str]]]:
+    grouped: dict[str, list[dict[str, str]]] = {}
+    for row in rows:
+        grouped.setdefault(_canonical_pdf_name(row.get("pdf", "")), []).append(row)
+    return grouped
+
+
+def _field_metrics(
+    predictions: list[dict[str, str]],
+    truth: list[dict[str, str]],
+) -> list[dict[str, float | int | str]]:
     field_metrics: list[dict[str, float | int | str]] = []
     for field in SYNERGY_COLUMNS:
         predicted = Counter(_canonical_value(field, row.get(field, "")) for row in predictions)
@@ -164,30 +261,24 @@ def evaluate_synergy_predictions(
                 "true_positive": true_positive,
             }
         )
+    return field_metrics
 
-    article_truth_counts = Counter(_canonical_pdf_name(row.get("pdf", "")) for row in truth)
-    article_ground_truth = [
-        {"pdf": local_name, "rows": article_truth_counts[_canonical_pdf_name(local_name)]}
-        for local_name in sorted(local_pdf_names)
-    ]
-    result = {
-        "macro_f1": sum(float(row["f1"]) for row in field_metrics) / len(field_metrics),
-        "field_metrics": field_metrics,
-        "prediction_count": len(predictions),
-        "ground_truth_count": len(truth),
-        "ground_truth_pdf_count": len({row.get("pdf", "") for row in truth}),
-        "selected_pdf_count": len(local_pdf_names),
-        "article_ground_truth": article_ground_truth,
-        "baseline_macro_f1": BASELINE_MACRO_F1,
-        "beats_baseline": bool((sum(float(row["f1"]) for row in field_metrics) / len(field_metrics)) > BASELINE_MACRO_F1),
+
+def _aggregate_metrics(field_metrics: list[dict[str, float | int | str]]) -> dict[str, float]:
+    precision = sum(float(row["precision"]) for row in field_metrics) / len(field_metrics)
+    recall = sum(float(row["recall"]) for row in field_metrics) / len(field_metrics)
+    f1 = 2 * precision * recall / (precision + recall) if precision + recall else 0.0
+    macro_f1 = sum(float(row["f1"]) for row in field_metrics) / len(field_metrics)
+    return {
+        "precision": precision,
+        "recall": recall,
+        "f1": f1,
+        "macro_f1": macro_f1,
     }
-    (output_dir / "metrics.json").write_text(json.dumps(result, indent=2), encoding="utf-8")
-    _write_csv(
-        output_dir / "field_metrics.csv",
-        ("field", "precision", "recall", "f1", "true_positive"),
-        field_metrics,
-    )
-    return result
+
+
+def _format_metric(value: object) -> str:
+    return "" if value is None else f"{float(value):.6f}"
 
 
 def _ensure_repo_python(repo_root: Path) -> None:

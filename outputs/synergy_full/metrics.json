@@ -626,6 +626,737 @@
       "rows": 234
     }
   ],
+  "article_metrics": [
+    {
+      "pdf": "1-s2.0-S0944501315300136-main.pdf",
+      "prediction_count": 77,
+      "ground_truth_count": 16,
+      "precision": 0.11719233147804577,
+      "recall": 0.5639880952380952,
+      "f1": 0.1940604198668715,
+      "macro_f1": 0.19406041986687148
+    },
+    {
+      "pdf": "1-s2.0-S1876034121003282-main.pdf",
+      "prediction_count": 55,
+      "ground_truth_count": 12,
+      "precision": 0.10519480519480519,
+      "recall": 0.48214285714285715,
+      "f1": 0.17270788912579957,
+      "macro_f1": 0.17270788912579954
+    },
+    {
+      "pdf": "1-s2.0-S2590123022001207-main.pdf",
+      "prediction_count": 10,
+      "ground_truth_count": 32,
+      "precision": 0.5023809523809524,
+      "recall": 0.15699404761904762,
+      "f1": 0.2392290249433106,
+      "macro_f1": 0.23922902494331066
+    },
+    {
+      "pdf": "10.1007@s10876-020-01759-x.pdf",
+      "prediction_count": 164,
+      "ground_truth_count": 36,
+      "precision": 0.13109756097560976,
+      "recall": 0.5972222222222222,
+      "f1": 0.21500000000000002,
+      "macro_f1": 0.215
+    },
+    {
+      "pdf": "10.1007@s12257-019-0506-7.pdf",
+      "prediction_count": 360,
+      "ground_truth_count": 42,
+      "precision": 0.07116402116402117,
+      "recall": 0.6099773242630386,
+      "f1": 0.12745794835347074,
+      "macro_f1": 0.12745794835347074
+    },
+    {
+      "pdf": "10.1016@j.colsurfb.2016.03.007.pdf",
+      "prediction_count": 91,
+      "ground_truth_count": 20,
+      "precision": 0.0892203035060178,
+      "recall": 0.40595238095238095,
+      "f1": 0.1462891462891463,
+      "macro_f1": 0.14628914628914627
+    },
+    {
+      "pdf": "10.1016@j.dib.2019.104929.pdf",
+      "prediction_count": 17,
+      "ground_truth_count": 16,
+      "precision": 0.5084033613445378,
+      "recall": 0.5401785714285714,
+      "f1": 0.5238095238095238,
+      "macro_f1": 0.5238095238095238
+    },
+    {
+      "pdf": "10.1016@j.sajb.2019.05.024.pdf",
+      "prediction_count": 2,
+      "ground_truth_count": 25,
+      "precision": 0.5476190476190477,
+      "recall": 0.04380952380952381,
+      "f1": 0.08112874779541446,
+      "macro_f1": 0.08112874779541446
+    },
+    {
+      "pdf": "10.1021@acs.nanolett.0c01196.pdf",
+      "prediction_count": 0,
+      "ground_truth_count": 36,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "macro_f1": 0.0
+    },
+    {
+      "pdf": "10.1186@s12951-020-0588-6.pdf",
+      "prediction_count": 88,
+      "ground_truth_count": 6,
+      "precision": 0.038419913419913417,
+      "recall": 0.5634920634920635,
+      "f1": 0.07193515704154001,
+      "macro_f1": 0.07193515704154001
+    },
+    {
+      "pdf": "10.1371@journal.pone.0224904.pdf",
+      "prediction_count": 10,
+      "ground_truth_count": 20,
+      "precision": 0.4714285714285714,
+      "recall": 0.2357142857142857,
+      "f1": 0.31428571428571433,
+      "macro_f1": 0.3142857142857143
+    },
+    {
+      "pdf": "10.2147@IJN.S246484.pdf",
+      "prediction_count": 14,
+      "ground_truth_count": 9,
+      "precision": 0.2755102040816327,
+      "recall": 0.42857142857142855,
+      "f1": 0.33540372670807456,
+      "macro_f1": 0.33540372670807456
+    },
+    {
+      "pdf": "10.3390@molecules24173055.pdf",
+      "prediction_count": 249,
+      "ground_truth_count": 32,
+      "precision": 0.07095046854082998,
+      "recall": 0.5520833333333334,
+      "f1": 0.12574139976275206,
+      "macro_f1": 0.12574139976275206
+    },
+    {
+      "pdf": "10.3390@polym13040659.pdf",
+      "prediction_count": 50,
+      "ground_truth_count": 22,
+      "precision": 0.19857142857142857,
+      "recall": 0.45129870129870125,
+      "f1": 0.2757936507936508,
+      "macro_f1": 0.2757936507936508
+    },
+    {
+      "pdf": "10.4236@jbnb.2010.11005.pdf",
+      "prediction_count": 90,
+      "ground_truth_count": 23,
+      "precision": 0.12989417989417987,
+      "recall": 0.5082815734989649,
+      "f1": 0.2069110830172777,
+      "macro_f1": 0.20691108301727767
+    },
+    {
+      "pdf": "2023.08.01.34.pdf",
+      "prediction_count": 0,
+      "ground_truth_count": 90,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "macro_f1": 0.0
+    },
+    {
+      "pdf": "2634_pdf.pdf",
+      "prediction_count": 121,
+      "ground_truth_count": 0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "macro_f1": 0.0
+    },
+    {
+      "pdf": "8f8eba2a8c57f32465306f7e987d8050.pdf",
+      "prediction_count": 20,
+      "ground_truth_count": 40,
+      "precision": 0.5416666666666666,
+      "recall": 0.2708333333333333,
+      "f1": 0.36111111111111105,
+      "macro_f1": 0.3611111111111111
+    },
+    {
+      "pdf": "IJN-49284-combined-efficacy-of-biologically-synthesized-silver-nanopar_081913.pdf",
+      "prediction_count": 122,
+      "ground_truth_count": 40,
+      "precision": 0.16295862607338016,
+      "recall": 0.49702380952380953,
+      "f1": 0.24544385655496764,
+      "macro_f1": 0.24544385655496764
+    },
+    {
+      "pdf": "NMRJ_Volume 5_Issue 1_Pages 44-54.pdf",
+      "prediction_count": 93,
+      "ground_truth_count": 12,
+      "precision": 0.07680491551459293,
+      "recall": 0.5952380952380952,
+      "f1": 0.1360544217687075,
+      "macro_f1": 0.1360544217687075
+    },
+    {
+      "pdf": "PM-13-828.pdf",
+      "prediction_count": 122,
+      "ground_truth_count": 5,
+      "precision": 0.019711163153786102,
+      "recall": 0.4809523809523809,
+      "f1": 0.03787026621672291,
+      "macro_f1": 0.0378702662167229
+    },
+    {
+      "pdf": "abo-shama2020.pdf",
+      "prediction_count": 16,
+      "ground_truth_count": 108,
+      "precision": 0.5505952380952381,
+      "recall": 0.08156966490299823,
+      "f1": 0.14208909370199693,
+      "macro_f1": 0.14208909370199693
+    },
+    {
+      "pdf": "antibiotics-11-01205-v2.pdf",
+      "prediction_count": 100,
+      "ground_truth_count": 112,
+      "precision": 0.5026190476190476,
+      "recall": 0.4487670068027211,
+      "f1": 0.47416891284815815,
+      "macro_f1": 0.4741689128481582
+    },
+    {
+      "pdf": "antibiotics-11-01219-v2.pdf",
+      "prediction_count": 278,
+      "ground_truth_count": 48,
+      "precision": 0.09378211716341214,
+      "recall": 0.5431547619047619,
+      "f1": 0.15994741454864156,
+      "macro_f1": 0.15994741454864156
+    },
+    {
+      "pdf": "arora2014.pdf",
+      "prediction_count": 87,
+      "ground_truth_count": 4,
+      "precision": 0.02955665024630542,
+      "recall": 0.6428571428571429,
+      "f1": 0.0565149136577708,
+      "macro_f1": 0.0565149136577708
+    },
+    {
+      "pdf": "assadi2018.pdf",
+      "prediction_count": 39,
+      "ground_truth_count": 5,
+      "precision": 0.06837606837606837,
+      "recall": 0.5333333333333333,
+      "f1": 0.12121212121212122,
+      "macro_f1": 0.12121212121212122
+    },
+    {
+      "pdf": "awad2019.pdf",
+      "prediction_count": 0,
+      "ground_truth_count": 12,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "macro_f1": 0.0
+    },
+    {
+      "pdf": "azam2012.pdf",
+      "prediction_count": 34,
+      "ground_truth_count": 81,
+      "precision": 0.4698879551820728,
+      "recall": 0.19723691945914168,
+      "f1": 0.27784679089026915,
+      "macro_f1": 0.27784679089026915
+    },
+    {
+      "pdf": "bhattacharya2017.pdf",
+      "prediction_count": 14,
+      "ground_truth_count": 40,
+      "precision": 0.44217687074829937,
+      "recall": 0.15476190476190477,
+      "f1": 0.22927689594356265,
+      "macro_f1": 0.22927689594356263
+    },
+    {
+      "pdf": "bindhu2014.pdf",
+      "prediction_count": 0,
+      "ground_truth_count": 4,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "macro_f1": 0.0
+    },
+    {
+      "pdf": "burygin2009.pdf",
+      "prediction_count": 58,
+      "ground_truth_count": 5,
+      "precision": 0.04146141215106732,
+      "recall": 0.4809523809523809,
+      "f1": 0.07634164777021919,
+      "macro_f1": 0.07634164777021919
+    },
+    {
+      "pdf": "catalysts-12-00181-v3.pdf",
+      "prediction_count": 13,
+      "ground_truth_count": 16,
+      "precision": 0.5018315018315018,
+      "recall": 0.40773809523809523,
+      "f1": 0.44991789819376027,
+      "macro_f1": 0.44991789819376027
+    },
+    {
+      "pdf": "chopade2012.pdf",
+      "prediction_count": 14,
+      "ground_truth_count": 420,
+      "precision": 0.4965986394557823,
+      "recall": 0.01655328798185941,
+      "f1": 0.03203862190037305,
+      "macro_f1": 0.03203862190037305
+    },
+    {
+      "pdf": "chopade2013.pdf",
+      "prediction_count": 149,
+      "ground_truth_count": 262,
+      "precision": 0.534515819750719,
+      "recall": 0.30398037077426393,
+      "f1": 0.38755648244699337,
+      "macro_f1": 0.3875564824469934
+    },
+    {
+      "pdf": "crystals-12-01513-v3.pdf",
+      "prediction_count": 44,
+      "ground_truth_count": 18,
+      "precision": 0.15963203463203465,
+      "recall": 0.39021164021164023,
+      "f1": 0.22657450076804916,
+      "macro_f1": 0.2265745007680492
+    },
+    {
+      "pdf": "d1ra04390k.pdf",
+      "prediction_count": 84,
+      "ground_truth_count": 9,
+      "precision": 0.04591836734693877,
+      "recall": 0.42857142857142855,
+      "f1": 0.08294930875576037,
+      "macro_f1": 0.08294930875576036
+    },
+    {
+      "pdf": "el-sheekh2021.pdf",
+      "prediction_count": 167,
+      "ground_truth_count": 17,
+      "precision": 0.05061305959509552,
+      "recall": 0.49719887955182074,
+      "f1": 0.09187370600414078,
+      "macro_f1": 0.09187370600414077
+    },
+    {
+      "pdf": "fbioe-09-652362.pdf",
+      "prediction_count": 128,
+      "ground_truth_count": 22,
+      "precision": 0.10621279761904762,
+      "recall": 0.6179653679653679,
+      "f1": 0.18126984126984128,
+      "macro_f1": 0.18126984126984128
+    },
+    {
+      "pdf": "fmicb-12-750556.pdf",
+      "prediction_count": 60,
+      "ground_truth_count": 54,
+      "precision": 0.4825396825396825,
+      "recall": 0.5361552028218695,
+      "f1": 0.5079365079365079,
+      "macro_f1": 0.507936507936508
+    },
+    {
+      "pdf": "fmicb-13-929491.pdf",
+      "prediction_count": 100,
+      "ground_truth_count": 12,
+      "precision": 0.06690476190476191,
+      "recall": 0.5575396825396826,
+      "f1": 0.11947278911564628,
+      "macro_f1": 0.11947278911564625
+    },
+    {
+      "pdf": "ghafoori2017.pdf",
+      "prediction_count": 22,
+      "ground_truth_count": 3,
+      "precision": 0.07683982683982683,
+      "recall": 0.5634920634920635,
+      "f1": 0.13523809523809524,
+      "macro_f1": 0.13523809523809524
+    },
+    {
+      "pdf": "grumezescu2014.pdf",
+      "prediction_count": 41,
+      "ground_truth_count": 2,
+      "precision": 0.020905923344947737,
+      "recall": 0.42857142857142855,
+      "f1": 0.03986710963455149,
+      "macro_f1": 0.03986710963455149
+    },
+    {
+      "pdf": "habash2014.pdf",
+      "prediction_count": 20,
+      "ground_truth_count": 10,
+      "precision": 0.27976190476190477,
+      "recall": 0.5595238095238095,
+      "f1": 0.3730158730158731,
+      "macro_f1": 0.373015873015873
+    },
+    {
+      "pdf": "jayaseelan2013.pdf",
+      "prediction_count": 28,
+      "ground_truth_count": 12,
+      "precision": 0.22193877551020408,
+      "recall": 0.5178571428571429,
+      "f1": 0.31071428571428567,
+      "macro_f1": 0.31071428571428567
+    },
+    {
+      "pdf": "jfb-13-00138.pdf",
+      "prediction_count": 64,
+      "ground_truth_count": 9,
+      "precision": 0.06547619047619048,
+      "recall": 0.46560846560846564,
+      "f1": 0.11480756686236138,
+      "macro_f1": 0.11480756686236138
+    },
+    {
+      "pdf": "kalita2016.pdf",
+      "prediction_count": 0,
+      "ground_truth_count": 36,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "macro_f1": 0.0
+    },
+    {
+      "pdf": "kim2007.pdf",
+      "prediction_count": 0,
+      "ground_truth_count": 3,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "macro_f1": 0.0
+    },
+    {
+      "pdf": "lambio0680.pdf",
+      "prediction_count": 0,
+      "ground_truth_count": 68,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "macro_f1": 0.0
+    },
+    {
+      "pdf": "li2014.pdf",
+      "prediction_count": 4,
+      "ground_truth_count": 12,
+      "precision": 0.5,
+      "recall": 0.16666666666666666,
+      "f1": 0.25,
+      "macro_f1": 0.25
+    },
+    {
+      "pdf": "li2016.pdf",
+      "prediction_count": 37,
+      "ground_truth_count": 2,
+      "precision": 0.028314028314028315,
+      "recall": 0.5238095238095238,
+      "f1": 0.05372405372405373,
+      "macro_f1": 0.053724053724053734
+    },
+    {
+      "pdf": "markowska2014.pdf",
+      "prediction_count": 187,
+      "ground_truth_count": 16,
+      "precision": 0.04952890247007894,
+      "recall": 0.5788690476190477,
+      "f1": 0.09125029322073658,
+      "macro_f1": 0.09125029322073656
+    },
+    {
+      "pdf": "padalia2017.pdf",
+      "prediction_count": 99,
+      "ground_truth_count": 145,
+      "precision": 0.45262145262145265,
+      "recall": 0.30903119868637113,
+      "f1": 0.3672911787665886,
+      "macro_f1": 0.3672911787665886
+    },
+    {
+      "pdf": "pageni2018.pdf",
+      "prediction_count": 74,
+      "ground_truth_count": 28,
+      "precision": 0.1727799227799228,
+      "recall": 0.45663265306122447,
+      "f1": 0.2507002801120448,
+      "macro_f1": 0.2507002801120448
+    },
+    {
+      "pdf": "pallela2019.pdf",
+      "prediction_count": 18,
+      "ground_truth_count": 4,
+      "precision": 0.1177248677248677,
+      "recall": 0.5297619047619048,
+      "f1": 0.1926406926406926,
+      "macro_f1": 0.1926406926406926
+    },
+    {
+      "pdf": "patra2016.pdf",
+      "prediction_count": 123,
+      "ground_truth_count": 15,
+      "precision": 0.055361982191250485,
+      "recall": 0.45396825396825397,
+      "f1": 0.0986887508626639,
+      "macro_f1": 0.0986887508626639
+    },
+    {
+      "pdf": "patra2017.pdf",
+      "prediction_count": 43,
+      "ground_truth_count": 30,
+      "precision": 0.3388704318936877,
+      "recall": 0.48571428571428565,
+      "f1": 0.39921722113502933,
+      "macro_f1": 0.39921722113502933
+    },
+    {
+      "pdf": "polymers-14-00771-v2.pdf",
+      "prediction_count": 49,
+      "ground_truth_count": 4,
+      "precision": 0.034985422740524776,
+      "recall": 0.42857142857142855,
+      "f1": 0.06469002695417789,
+      "macro_f1": 0.06469002695417789
+    },
+    {
+      "pdf": "pompilio2018.pdf",
+      "prediction_count": 17,
+      "ground_truth_count": 24,
+      "precision": 0.48879551820728295,
+      "recall": 0.3462301587301588,
+      "f1": 0.40534262485482003,
+      "macro_f1": 0.40534262485482
+    },
+    {
+      "pdf": "prema2016.pdf",
+      "prediction_count": 57,
+      "ground_truth_count": 64,
+      "precision": 0.44319131161236425,
+      "recall": 0.3947172619047619,
+      "f1": 0.4175521448248722,
+      "macro_f1": 0.4175521448248721
+    },
+    {
+      "pdf": "priyanka2016.pdf",
+      "prediction_count": 83,
+      "ground_truth_count": 56,
+      "precision": 0.34394721744119333,
+      "recall": 0.5097789115646258,
+      "f1": 0.41075710859883524,
+      "macro_f1": 0.41075710859883524
+    },
+    {
+      "pdf": "processes-11-00272.pdf",
+      "prediction_count": 70,
+      "ground_truth_count": 21,
+      "precision": 0.1693877551020408,
+      "recall": 0.5646258503401361,
+      "f1": 0.260596546310832,
+      "macro_f1": 0.260596546310832
+    },
+    {
+      "pdf": "rajakumar2012.pdf",
+      "prediction_count": 96,
+      "ground_truth_count": 10,
+      "precision": 0.057787698412698416,
+      "recall": 0.5547619047619048,
+      "f1": 0.1046720575022462,
+      "macro_f1": 0.10467205750224616
+    },
+    {
+      "pdf": "reyes-torres2019.pdf",
+      "prediction_count": 41,
+      "ground_truth_count": 16,
+      "precision": 0.20267131242741,
+      "recall": 0.5193452380952381,
+      "f1": 0.29156223893065997,
+      "macro_f1": 0.29156223893066
+    },
+    {
+      "pdf": "roshmi2015.pdf",
+      "prediction_count": 19,
+      "ground_truth_count": 40,
+      "precision": 0.4949874686716792,
+      "recall": 0.23511904761904762,
+      "f1": 0.3188054882970138,
+      "macro_f1": 0.3188054882970137
+    },
+    {
+      "pdf": "ruparelia2008.pdf",
+      "prediction_count": 18,
+      "ground_truth_count": 48,
+      "precision": 0.5687830687830688,
+      "recall": 0.2132936507936508,
+      "f1": 0.31024531024531027,
+      "macro_f1": 0.3102453102453102
+    },
+    {
+      "pdf": "s11274-017-2406-3.pdf",
+      "prediction_count": 289,
+      "ground_truth_count": 46,
+      "precision": 0.08650519031141868,
+      "recall": 0.5434782608695652,
+      "f1": 0.14925373134328357,
+      "macro_f1": 0.1492537313432836
+    },
+    {
+      "pdf": "s13204-021-02065-2.pdf",
+      "prediction_count": 44,
+      "ground_truth_count": 15,
+      "precision": 0.21374458874458874,
+      "recall": 0.626984126984127,
+      "f1": 0.31880548829701366,
+      "macro_f1": 0.3188054882970137
+    },
+    {
+      "pdf": "s41598-022-19698-0.pdf",
+      "prediction_count": 529,
+      "ground_truth_count": 57,
+      "precision": 0.05864614276712576,
+      "recall": 0.5442773600668337,
+      "f1": 0.10588330895498133,
+      "macro_f1": 0.10588330895498131
+    },
+    {
+      "pdf": "selvaraj2020.pdf",
+      "prediction_count": 529,
+      "ground_truth_count": 12,
+      "precision": 0.010802052389954091,
+      "recall": 0.47619047619047616,
+      "f1": 0.02112490097702667,
+      "macro_f1": 0.021124900977026673
+    },
+    {
+      "pdf": "shahverdi2007.pdf",
+      "prediction_count": 33,
+      "ground_truth_count": 28,
+      "precision": 0.40476190476190477,
+      "recall": 0.4770408163265306,
+      "f1": 0.4379391100702576,
+      "macro_f1": 0.4379391100702576
+    },
+    {
+      "pdf": "shaker2017.pdf",
+      "prediction_count": 166,
+      "ground_truth_count": 22,
+      "precision": 0.06913367756741251,
+      "recall": 0.5216450216450217,
+      "f1": 0.12208713272543059,
+      "macro_f1": 0.12208713272543059
+    },
+    {
+      "pdf": "shamaila2016.pdf",
+      "prediction_count": 69,
+      "ground_truth_count": 36,
+      "precision": 0.2577639751552795,
+      "recall": 0.49404761904761907,
+      "f1": 0.33877551020408164,
+      "macro_f1": 0.3387755102040816
+    },
+    {
+      "pdf": "sharma2016.pdf",
+      "prediction_count": 110,
+      "ground_truth_count": 28,
+      "precision": 0.1463203463203463,
+      "recall": 0.5748299319727891,
+      "f1": 0.2332643202208419,
+      "macro_f1": 0.23326432022084198
+    },
+    {
+      "pdf": "singh2018.pdf",
+      "prediction_count": 237,
+      "ground_truth_count": 24,
+      "precision": 0.0662045408880852,
+      "recall": 0.6537698412698413,
+      "f1": 0.12023353402663746,
+      "macro_f1": 0.12023353402663746
+    },
+    {
+      "pdf": "smekalova2016.pdf",
+      "prediction_count": 17,
+      "ground_truth_count": 40,
+      "precision": 0.45518207282913165,
+      "recall": 0.19345238095238096,
+      "f1": 0.27151211361737676,
+      "macro_f1": 0.27151211361737676
+    },
+    {
+      "pdf": "swolana2020.pdf",
+      "prediction_count": 77,
+      "ground_truth_count": 12,
+      "precision": 0.08070500927643784,
+      "recall": 0.5178571428571429,
+      "f1": 0.1396468699839486,
+      "macro_f1": 0.13964686998394862
+    },
+    {
+      "pdf": "thirumurugan2012.pdf",
+      "prediction_count": 25,
+      "ground_truth_count": 19,
+      "precision": 0.39142857142857146,
+      "recall": 0.5150375939849624,
+      "f1": 0.4448051948051948,
+      "macro_f1": 0.44480519480519487
+    },
+    {
+      "pdf": "thirumurugan2016.pdf",
+      "prediction_count": 4,
+      "ground_truth_count": 36,
+      "precision": 0.5476190476190477,
+      "recall": 0.06084656084656084,
+      "f1": 0.10952380952380954,
+      "macro_f1": 0.10952380952380951
+    },
+    {
+      "pdf": "thomas2014.pdf",
+      "prediction_count": 87,
+      "ground_truth_count": 14,
+      "precision": 0.06869184455391351,
+      "recall": 0.4268707482993197,
+      "f1": 0.11834040546911834,
+      "macro_f1": 0.11834040546911832
+    },
+    {
+      "pdf": "yoonus2021.pdf",
+      "prediction_count": 27,
+      "ground_truth_count": 5,
+      "precision": 0.09082892416225749,
+      "recall": 0.4904761904761905,
+      "f1": 0.1532738095238095,
+      "macro_f1": 0.15327380952380953
+    },
+    {
+      "pdf": "zhao2013.pdf",
+      "prediction_count": 54,
+      "ground_truth_count": 234,
+      "precision": 0.63668430335097,
+      "recall": 0.14692714692714692,
+      "f1": 0.23875661375661375,
+      "macro_f1": 0.23875661375661378
+    }
+  ],
   "baseline_macro_f1": 0.08,
   "beats_baseline": true
 }

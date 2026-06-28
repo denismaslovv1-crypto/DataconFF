@@ -1,19 +1,20 @@
-"""Streamlit demo for the final ChemX Benzimidazoles workflow."""
+"""Streamlit demo for the DataCon ChemX domain workflows."""
 from __future__ import annotations
 
 import csv
 import json
 import re
 import subprocess
+from dataclasses import dataclass
 from pathlib import Path, PureWindowsPath
 from typing import Any
 
 from datacon_workflow.domains.benzimidazoles import CHEMX_COLUMNS
+from datacon_workflow.domains.synergy import SYNERGY_COLUMNS
 from datacon_workflow.orchestration import AgenticOrchestrationConfig
 from datacon_workflow.orchestrator import run_benzimidazole_workflow
 from datacon_workflow.review_records import (
     build_review_records,
-    duplicate_diagnostics,
     merge_review_records,
 )
 
@@ -28,10 +29,12 @@ DEFAULT_FULL_OUTPUT = OUTPUTS_DIR / "benzimidazoles_full"
 # Keep Streamlit defaults and public copy in sync whenever the final metrics
 # artifact path changes.
 DEFAULT_FULL_OUTPUT_LABEL = "outputs/benzimidazoles_full"
-EXPERIMENTAL_SYNERGY_OUTPUT = OUTPUTS_DIR / "synergy_full"
-EXPERIMENTAL_SYNERGY_OPTION_LABEL = "Experimental: Synergy MVP"
 BASELINE_MACRO_F1 = 0.217
 SYNERGY_BASELINE_MACRO_F1 = 0.080
+SYNERGY_SINGLE_ARTICLE_DISABLED_MESSAGE = (
+    "Single-article run is currently available for Benzimidazoles only. "
+    "Use saved Synergy full-run results or run the Synergy full dataset command."
+)
 LOW_ROW_THRESHOLD = 5
 KEY_CHEMX_FIELDS = {
     "target_units",
@@ -49,6 +52,55 @@ STALE_OUTPUT_MARKERS = (
 )
 
 
+@dataclass(frozen=True)
+class DomainConfig:
+    key: str
+    label: str
+    short_name: str
+    pdf_dir: Path
+    ground_truth_csv: Path
+    output_dir: Path
+    output_label: str
+    runner_script: Path
+    baseline_macro_f1: float
+    single_article_enabled: bool
+
+
+DOMAIN_CONFIGS: dict[str, DomainConfig] = {
+    "benzimidazoles": DomainConfig(
+        key="benzimidazoles",
+        label="Primary: Benzimidazoles",
+        short_name="Benzimidazoles",
+        pdf_dir=PDF_DIR,
+        ground_truth_csv=GROUND_TRUTH_CSV,
+        output_dir=DEFAULT_FULL_OUTPUT,
+        output_label=DEFAULT_FULL_OUTPUT_LABEL,
+        runner_script=REPO_ROOT / "scripts" / "run_benzimidazoles_full.py",
+        baseline_macro_f1=BASELINE_MACRO_F1,
+        single_article_enabled=True,
+    ),
+    "synergy": DomainConfig(
+        key="synergy",
+        label="Additional: Synergy",
+        short_name="Synergy",
+        pdf_dir=REPO_ROOT / "data" / "chemx" / "synergy" / "pdfs",
+        ground_truth_csv=REPO_ROOT / "data" / "chemx" / "synergy" / "ground_truth.csv",
+        output_dir=OUTPUTS_DIR / "synergy_full",
+        output_label="outputs/synergy_full",
+        runner_script=REPO_ROOT / "scripts" / "run_synergy_experimental.py",
+        baseline_macro_f1=SYNERGY_BASELINE_MACRO_F1,
+        single_article_enabled=True,
+    ),
+}
+DEFAULT_DOMAIN_KEY = "benzimidazoles"
+DOMAIN_LABELS = [config.label for config in DOMAIN_CONFIGS.values()]
+DOMAIN_LABEL_TO_KEY = {config.label: config.key for config in DOMAIN_CONFIGS.values()}
+
+
+def domain_config(domain_key: str) -> DomainConfig:
+    return DOMAIN_CONFIGS.get(domain_key, DOMAIN_CONFIGS[DEFAULT_DOMAIN_KEY])
+
+
 def available_pdfs(pdf_dir: Path = PDF_DIR) -> list[Path]:
     if not pdf_dir.exists():
         return []
@@ -63,64 +115,52 @@ def available_result_dirs(outputs_dir: Path = OUTPUTS_DIR) -> list[Path]:
             path for path in outputs_dir.iterdir()
             if path.is_dir()
             and (path / "metrics.json").exists()
-            and not is_experimental_synergy_dir(path)
             and is_public_result_dir(path)
         ],
         key=lambda path: path.name.lower(),
     )
 
 
-def is_experimental_synergy_dir(path: Path) -> bool:
-    try:
-        return path.resolve() == EXPERIMENTAL_SYNERGY_OUTPUT.resolve()
-    except OSError:
-        return False
-
-
 def available_saved_result_options(
     outputs_dir: Path = OUTPUTS_DIR,
-    synergy_output: Path = EXPERIMENTAL_SYNERGY_OUTPUT,
+    domain_key: str = DEFAULT_DOMAIN_KEY,
 ) -> list[str]:
+    config = domain_config(domain_key)
     options = [
         display_path(path)
         for path in available_result_dirs(outputs_dir)
-        if path.resolve() != synergy_output.resolve()
+        if result_dir_matches_domain(path, config)
     ]
-    if (synergy_output / "metrics.json").exists():
-        options.append(EXPERIMENTAL_SYNERGY_OPTION_LABEL)
+    if (config.output_dir / "metrics.json").exists():
+        options.append(config.output_label)
     return sorted(set(options))
 
 
-def saved_result_option_path(
-    option: str,
-    synergy_output: Path = EXPERIMENTAL_SYNERGY_OUTPUT,
-) -> Path:
-    if option == EXPERIMENTAL_SYNERGY_OPTION_LABEL:
-        return synergy_output
+def saved_result_option_path(option: str) -> Path:
     return resolve_repo_path(option)
 
 
-def result_context(output_dir: Path) -> dict[str, Any]:
-    if is_experimental_synergy_dir(output_dir):
-        return {
-            "domain": "Synergy",
-            "baseline": SYNERGY_BASELINE_MACRO_F1,
-            "experimental": True,
-            "caveat": "Experimental second-domain result. The stable final submission remains Benzimidazoles.",
-        }
+def result_context(output_dir: Path, domain_key: str = DEFAULT_DOMAIN_KEY) -> dict[str, Any]:
+    config = domain_config(domain_key)
     return {
-        "domain": "Benzimidazoles",
-        "baseline": BASELINE_MACRO_F1,
-        "experimental": False,
-        "caveat": "",
+        "domain": config.short_name,
+        "baseline": config.baseline_macro_f1,
+        "label": config.label,
+        "output_dir": output_dir,
     }
 
 
 def is_public_result_dir(path: Path) -> bool:
     if path.resolve() == DEFAULT_FULL_OUTPUT.resolve():
         return True
+    if path.name.lower().startswith("synergy_") and path.name.lower() != "synergy_full":
+        return False
     name = path.name.lower()
     return not any(marker in name for marker in STALE_OUTPUT_MARKERS)
+
+
+def result_dir_matches_domain(path: Path, config: DomainConfig) -> bool:
+    return path.name.lower().startswith(config.key)
 
 
 def safe_stem(filename: str) -> str:
@@ -130,6 +170,12 @@ def safe_stem(filename: str) -> str:
 
 def output_dir_for(pdf_path: Path, output_root: Path = UI_OUTPUT_ROOT) -> Path:
     return output_root / safe_stem(pdf_path.name)
+
+
+def single_output_dir_for(pdf_path: Path, config: DomainConfig) -> Path:
+    if config.key == "synergy":
+        return OUTPUTS_DIR / "synergy_single" / safe_stem(pdf_path.name)
+    return output_dir_for(pdf_path)
 
 
 def resolve_repo_path(value: str | Path) -> Path:
@@ -265,6 +311,19 @@ def public_article_display_rows(display_rows: list[dict[str, Any]]) -> list[dict
     return [{key: value for key, value in row.items() if key != "flags"} for row in display_rows]
 
 
+def field_metric_display_rows(field_rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    rows: list[dict[str, Any]] = []
+    rounded_fields = {"precision", "recall", "f1"}
+    for row in field_rows:
+        item = dict(row)
+        for field in rounded_fields:
+            value = _float_value(item.get(field))
+            if value is not None:
+                item[field] = f"{value:.2f}"
+        rows.append(item)
+    return rows
+
+
 def zero_row_articles(article_rows: list[dict[str, str]]) -> list[dict[str, Any]]:
     return [
         {
@@ -390,11 +449,61 @@ def run_single_article(pdf_path: Path, output_dir: Path) -> Any:
     )
 
 
-def full_run_command(pdf_dir: Path, ground_truth_csv: Path, output_dir: Path) -> list[str]:
+def synergy_single_article_command(pdf_path: Path, ground_truth_csv: Path, output_dir: Path) -> list[str]:
     repo_python = REPO_ROOT / ".venv" / "Scripts" / "python.exe"
     return [
         str(repo_python),
-        str(REPO_ROOT / "scripts" / "run_benzimidazoles_full.py"),
+        str(domain_config("synergy").runner_script),
+        "--pdf",
+        str(pdf_path),
+        "--ground-truth",
+        str(ground_truth_csv),
+        "--output-dir",
+        str(output_dir),
+    ]
+
+
+def display_synergy_single_article_command(pdf_path: Path, ground_truth_csv: Path, output_dir: Path) -> str:
+    parts = [
+        ".\\.venv\\Scripts\\python.exe",
+        display_path(domain_config("synergy").runner_script),
+        "--pdf",
+        display_path(pdf_path),
+        "--ground-truth",
+        display_path(ground_truth_csv),
+        "--output-dir",
+        display_path(output_dir),
+    ]
+    return " ".join(f'"{part}"' if " " in part else part for part in parts)
+
+
+def run_synergy_single_article(
+    pdf_path: Path,
+    ground_truth_csv: Path,
+    output_dir: Path,
+) -> subprocess.CompletedProcess[str]:
+    return subprocess.run(
+        synergy_single_article_command(pdf_path, ground_truth_csv, output_dir),
+        cwd=REPO_ROOT,
+        check=False,
+        capture_output=True,
+        text=True,
+        encoding="utf-8",
+        errors="replace",
+    )
+
+
+def full_run_command(
+    pdf_dir: Path,
+    ground_truth_csv: Path,
+    output_dir: Path,
+    domain_key: str = DEFAULT_DOMAIN_KEY,
+) -> list[str]:
+    config = domain_config(domain_key)
+    repo_python = REPO_ROOT / ".venv" / "Scripts" / "python.exe"
+    return [
+        str(repo_python),
+        str(config.runner_script),
         "--pdf-dir",
         str(pdf_dir),
         "--ground-truth",
@@ -404,10 +513,16 @@ def full_run_command(pdf_dir: Path, ground_truth_csv: Path, output_dir: Path) ->
     ]
 
 
-def display_full_run_command(pdf_dir: Path, ground_truth_csv: Path, output_dir: Path) -> str:
+def display_full_run_command(
+    pdf_dir: Path,
+    ground_truth_csv: Path,
+    output_dir: Path,
+    domain_key: str = DEFAULT_DOMAIN_KEY,
+) -> str:
+    config = domain_config(domain_key)
     parts = [
         ".\\.venv\\Scripts\\python.exe",
-        "scripts/run_benzimidazoles_full.py",
+        display_path(config.runner_script),
         "--pdf-dir",
         display_path(pdf_dir),
         "--ground-truth",
@@ -418,8 +533,13 @@ def display_full_run_command(pdf_dir: Path, ground_truth_csv: Path, output_dir: 
     return " ".join(f'"{part}"' if " " in part else part for part in parts)
 
 
-def run_full_dataset(pdf_dir: Path, ground_truth_csv: Path, output_dir: Path) -> subprocess.CompletedProcess[str]:
-    command = full_run_command(pdf_dir, ground_truth_csv, output_dir)
+def run_full_dataset(
+    pdf_dir: Path,
+    ground_truth_csv: Path,
+    output_dir: Path,
+    domain_key: str = DEFAULT_DOMAIN_KEY,
+) -> subprocess.CompletedProcess[str]:
+    command = full_run_command(pdf_dir, ground_truth_csv, output_dir, domain_key)
     return subprocess.run(
         command,
         cwd=REPO_ROOT,
@@ -445,6 +565,16 @@ def _float_value(value: object) -> float | None:
         return None
 
 
+def ui_table_rows(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    display_rows: list[dict[str, Any]] = []
+    for row in rows:
+        item: dict[str, Any] = {}
+        for key, value in row.items():
+            item["id" if key == "sn" else key] = value
+        display_rows.append(item)
+    return display_rows
+
+
 def main() -> None:
     try:
         import streamlit as st
@@ -454,12 +584,14 @@ def main() -> None:
             ".\\.venv\\Scripts\\python.exe -m pip install streamlit"
         ) from exc
 
-    st.set_page_config(page_title="DataCon ChemX Benzimidazoles", layout="wide")
-    st.title("DataCon ChemX Benzimidazoles")
+    st.set_page_config(page_title="DataCon ChemX Extraction", layout="wide")
+    st.title("DataCon ChemX Extraction")
     st.caption("Final rules-only workflow: PDF -> evidence -> rules -> validation -> ChemX CSV -> evaluation")
 
     if "saved_output_dir" not in st.session_state:
         st.session_state.saved_output_dir = DEFAULT_FULL_OUTPUT_LABEL
+    if "saved_domain_key" not in st.session_state:
+        st.session_state.saved_domain_key = DEFAULT_DOMAIN_KEY
 
     saved_tab, single_tab, full_tab = st.tabs(["Saved Full-Run Results", "Run Single Article", "Run Full Dataset"])
 
@@ -474,17 +606,34 @@ def main() -> None:
 
 
 def render_saved_results(st: Any) -> None:
-    current = str(st.session_state.get("saved_output_dir", DEFAULT_FULL_OUTPUT))
+    saved_domain_key = str(st.session_state.get("saved_domain_key", DEFAULT_DOMAIN_KEY))
+    domain_label = st.selectbox(
+        "Domain",
+        DOMAIN_LABELS,
+        index=DOMAIN_LABELS.index(domain_config(saved_domain_key).label),
+        key="saved_domain_select",
+    )
+    selected_domain_key = DOMAIN_LABEL_TO_KEY[domain_label]
+    config = domain_config(selected_domain_key)
+    st.session_state.saved_domain_key = selected_domain_key
+    current = str(st.session_state.get("saved_output_dir", config.output_label))
+    current_path = resolve_repo_path(current)
+    if selected_domain_key != saved_domain_key or not result_dir_matches_domain(current_path, config):
+        current = config.output_label
     default_label = display_path(resolve_repo_path(current))
-    options = sorted(set(available_saved_result_options() + [default_label]))
+    options = sorted(set(available_saved_result_options(domain_key=selected_domain_key) + [default_label]))
     selected = st.selectbox(
         "Output directory",
         options,
         index=options.index(default_label) if default_label in options else 0,
-        key="saved_output_select",
+        key=f"saved_output_select_{selected_domain_key}",
     )
     selected_path = saved_result_option_path(selected)
-    custom = st.text_input("Custom output directory", value=display_path(selected_path), key="saved_output_custom")
+    custom = st.text_input(
+        "Custom output directory",
+        value=display_path(selected_path),
+        key=f"saved_output_custom_{selected_domain_key}",
+    )
     output_dir = resolve_repo_path(custom)
     st.session_state.saved_output_dir = str(output_dir)
 
@@ -495,7 +644,7 @@ def render_saved_results(st: Any) -> None:
         return
 
     data = load_full_run(output_dir)
-    context = result_context(output_dir)
+    context = result_context(output_dir, selected_domain_key)
     metrics = data["metrics"]
     article_rows = data["article_summary"]
     predictions = data["predictions"]
@@ -503,8 +652,7 @@ def render_saved_results(st: Any) -> None:
     zero_rows = zero_row_articles(article_rows)
 
     st.subheader("Dataset Summary")
-    if context["experimental"]:
-        st.warning(context["caveat"])
+    st.caption(f"Selected domain: {context['label']}")
     cols = st.columns(6)
     macro_f1 = float(metrics.get("macro_f1", 0.0) or 0.0)
     baseline = float(context["baseline"])
@@ -518,8 +666,8 @@ def render_saved_results(st: Any) -> None:
     multiplier = macro_f1 / baseline if baseline else 0.0
     if macro_f1 >= baseline:
         st.success(
-            f"Macro-F1 = {macro_f1:.4f}, which is +{improvement:.4f} above the published "
-            f"single-agent baseline ({baseline:.3f}), or about {multiplier:.2f}x higher."
+            f"Macro-F1 = {macro_f1:.4f} (+{improvement:.4f} above the published "
+            f"single-agent baseline, about {multiplier:.2f}x higher)"
         )
     else:
         st.error(f"Macro-F1 is below the published single-agent baseline ({baseline:.3f}).")
@@ -527,27 +675,12 @@ def render_saved_results(st: Any) -> None:
     st.subheader("Article Summary")
     display_rows = article_display_rows(article_rows)
     st.dataframe(public_article_display_rows(display_rows), width="stretch", hide_index=True)
-    if zero_rows:
-        st.warning("Zero-row PDFs with corrected gt_rows")
+    if zero_rows and selected_domain_key != "synergy":
+        st.warning("PDFs with ground truth but zero predictions")
         st.dataframe(zero_rows, width="stretch", hide_index=True)
 
-    low_rows = [row for row in display_rows if row["flags"] == "low rows"]
-    if low_rows:
-        with st.expander("Developer details: article flags"):
-            st.dataframe(low_rows, width="stretch", hide_index=True)
-
-    regressions = metric_regression_rows(article_rows)
-    if regressions:
-        st.warning("Metric regression columns detected in article_summary.csv")
-        st.dataframe(regressions, width="stretch", hide_index=True)
-
     st.subheader("Field Metrics")
-    st.dataframe(data["field_metrics"], width="stretch", hide_index=True)
-
-    weak_rows = weak_key_field_rows(article_rows)
-    if weak_rows:
-        with st.expander("Weak key ChemX fields"):
-            st.dataframe(weak_rows, width="stretch", hide_index=True)
+    st.dataframe(field_metric_display_rows(data["field_metrics"]), width="stretch", hide_index=True)
 
     with st.expander("Predictions Preview"):
         st.dataframe(predictions[:500], width="stretch", hide_index=True)
@@ -560,10 +693,14 @@ def render_saved_results(st: Any) -> None:
 
 
 def render_single_article(st: Any) -> None:
-    pdfs = available_pdfs()
+    domain_label = st.selectbox("Domain", DOMAIN_LABELS, index=0, key="single_domain_select")
+    selected_domain_key = DOMAIN_LABEL_TO_KEY[domain_label]
+    config = domain_config(selected_domain_key)
+
+    pdfs = available_pdfs(config.pdf_dir)
     labels = [path.name for path in pdfs]
     if not labels:
-        st.warning(f"No PDFs found under {display_path(PDF_DIR)}.")
+        st.warning(f"No PDFs found under {display_path(config.pdf_dir)}.")
         selected_pdf = ""
     else:
         default_index = labels.index("jhet.3467.pdf") if "jhet.3467.pdf" in labels else 0
@@ -577,16 +714,25 @@ def render_single_article(st: Any) -> None:
         st.info("No PDF selected.")
         return
 
-    default_output = output_dir_for(pdf_path)
-    output_text = st.text_input("Output directory", value=display_path(default_output), key="single_output_dir")
+    default_output = single_output_dir_for(pdf_path, config)
+    output_text = st.text_input(
+        "Output directory",
+        value=display_path(default_output),
+        key=f"single_output_dir_{selected_domain_key}",
+    )
     output_dir = resolve_repo_path(output_text)
     st.caption(f"Selected PDF: {display_path(pdf_path)}")
+    st.caption(f"Ground truth CSV: {display_path(config.ground_truth_csv)}")
     st.caption("Single article runs are rules-only with agentic sidecars disabled.")
 
     if not st.button("Run Rules-Only Extraction", type="primary", key="run_single"):
         return
 
-    with st.spinner("Running rules-only extraction and corrected PDF-stem evaluation..."):
+    if selected_domain_key == "synergy":
+        render_synergy_single_article_result(st, pdf_path, config.ground_truth_csv, output_dir)
+        return
+
+    with st.spinner("Running rules-only extraction..."):
         state = run_single_article(pdf_path, output_dir)
 
     predictions = single_prediction_rows(state)
@@ -602,7 +748,7 @@ def render_single_article(st: Any) -> None:
 
     st.subheader("Predictions")
     if predictions:
-        st.dataframe(predictions, width="stretch", hide_index=True)
+        st.dataframe(ui_table_rows(predictions), width="stretch", hide_index=True)
     else:
         st.warning("No validated prediction rows were produced.")
 
@@ -621,14 +767,6 @@ def render_single_article(st: Any) -> None:
     if state.normalized_records:
         st.subheader("Evidence / Provenance")
         st.dataframe(provenance_rows(state), width="stretch", hide_index=True)
-        labels = [
-            f"{index}. {record.compound_id} | {record.bacteria} | {record.target_value} {record.target_units}"
-            for index, record in enumerate(state.normalized_records, start=1)
-        ]
-        selected = st.selectbox("Record evidence", range(len(labels)), format_func=lambda index: labels[index])
-        record = state.normalized_records[selected]
-        st.json(record.evidence.model_dump(mode="json"))
-        st.text_area("Evidence text", record.evidence.evidence_text, height=160)
 
     render_review_records(st, build_review_records(output_dir))
     artifacts = {
@@ -645,21 +783,79 @@ def render_single_article(st: Any) -> None:
     st.caption(f"CSV columns: {', '.join(CHEMX_COLUMNS)}")
 
 
+def render_synergy_single_article_result(
+    st: Any,
+    pdf_path: Path,
+    ground_truth_csv: Path,
+    output_dir: Path,
+) -> None:
+    with st.spinner("Running Synergy single-article extraction..."):
+        completed = run_synergy_single_article(pdf_path, ground_truth_csv, output_dir)
+
+    if completed.returncode != 0:
+        st.error(f"Synergy single-article run failed with exit code {completed.returncode}.")
+        st.code(completed.stdout, language="text")
+        if completed.stderr:
+            st.code(completed.stderr, language="text")
+        return
+
+    data = load_full_run(output_dir)
+    metrics = data["metrics"]
+    predictions = data["predictions"]
+    article_rows = data["article_summary"]
+    cols = st.columns(4)
+    cols[0].metric("Prediction rows", int(metrics.get("prediction_count", len(predictions)) or 0))
+    cols[1].metric("Ground truth rows", int(metrics.get("ground_truth_count", 0) or 0))
+    cols[2].metric("Macro-F1", f"{float(metrics.get('macro_f1', 0.0) or 0.0):.4f}")
+    cols[3].metric("Baseline", f"{SYNERGY_BASELINE_MACRO_F1:.3f}")
+
+    st.subheader("Article Summary")
+    st.dataframe(public_article_display_rows(article_display_rows(article_rows)), width="stretch", hide_index=True)
+
+    st.subheader("Predictions")
+    if predictions:
+        st.dataframe(ui_table_rows(predictions), width="stretch", hide_index=True)
+    else:
+        st.warning("No validated prediction rows were produced.")
+
+    st.subheader("Field Metrics")
+    st.dataframe(field_metric_display_rows(data["field_metrics"]), width="stretch", hide_index=True)
+    render_review_records(st, data["review_records"])
+    render_downloads(st, data["artifacts"])
+    st.caption(f"Artifacts written to {display_path(output_dir)}")
+    st.caption(f"CSV columns: {', '.join(SYNERGY_COLUMNS)}")
+
+
 def render_full_dataset(st: Any) -> None:
-    pdf_dir_text = st.text_input("PDF directory", value=display_path(PDF_DIR), key="full_pdf_dir")
-    ground_truth_text = st.text_input("Ground truth CSV", value=display_path(GROUND_TRUTH_CSV), key="full_gt")
+    domain_label = st.selectbox("Domain", DOMAIN_LABELS, index=0, key="full_domain_select")
+    selected_domain_key = DOMAIN_LABEL_TO_KEY[domain_label]
+    config = domain_config(selected_domain_key)
+    pdf_dir_text = st.text_input(
+        "PDF directory",
+        value=display_path(config.pdf_dir),
+        key=f"full_pdf_dir_{selected_domain_key}",
+    )
+    ground_truth_text = st.text_input(
+        "Ground truth CSV",
+        value=display_path(config.ground_truth_csv),
+        key=f"full_gt_{selected_domain_key}",
+    )
     output_text = st.text_input(
         "Output directory",
-        value=DEFAULT_FULL_OUTPUT_LABEL,
-        key="full_output_dir",
+        value=config.output_label,
+        key=f"full_output_dir_{selected_domain_key}",
     )
     pdf_dir = resolve_repo_path(pdf_dir_text)
     ground_truth = resolve_repo_path(ground_truth_text)
     output_dir = resolve_repo_path(output_text)
-    command = full_run_command(pdf_dir, ground_truth, output_dir)
-    with st.expander("Developer details"):
-        st.code(display_full_run_command(pdf_dir, ground_truth, output_dir), language="powershell")
-    confirm = st.checkbox("I understand this will run the full 31-PDF rules-only workflow.", key="confirm_full_run")
+    command = full_run_command(pdf_dir, ground_truth, output_dir, selected_domain_key)
+    st.info(f"Ready to run full dataset extraction for {config.short_name}.")
+    with st.expander("Full dataset command"):
+        st.code(display_full_run_command(pdf_dir, ground_truth, output_dir, selected_domain_key), language="powershell")
+    confirm = st.checkbox(
+        f"I understand this will run the full {config.short_name} dataset workflow.",
+        key=f"confirm_full_run_{selected_domain_key}",
+    )
     if not st.button("Run Full Dataset", type="primary", disabled=not confirm, key="run_full"):
         last = st.session_state.get("last_full_run")
         if isinstance(last, dict):
@@ -669,8 +865,8 @@ def render_full_dataset(st: Any) -> None:
                 st.code(last["stderr"], language="text")
         return
 
-    with st.spinner("Running full rules-only dataset workflow..."):
-        completed = run_full_dataset(pdf_dir, ground_truth, output_dir)
+    with st.spinner(f"Running full dataset extraction for {config.short_name}..."):
+        completed = run_full_dataset(pdf_dir, ground_truth, output_dir, selected_domain_key)
 
     st.session_state.last_full_run = {
         "returncode": completed.returncode,
@@ -718,16 +914,6 @@ def render_review_records(st: Any, rows: list[dict[str, str]]) -> None:
     st.dataframe(review_display_rows(rows), width="stretch", hide_index=True)
     if len(rows) > 500:
         st.caption(f"Showing first 500 of {len(rows)} review rows.")
-    with st.expander("Developer details"):
-        diagnostics = duplicate_diagnostics(rows)
-        cols = st.columns(3)
-        cols[0].metric("Exact duplicate ChemX rows", diagnostics["exact_duplicate_chemx_rows"])
-        cols[1].metric("Same evidence duplicates", diagnostics["duplicates_with_same_evidence_id"])
-        cols[2].metric("Repeated distinct evidence", diagnostics["repeated_mentions_with_different_evidence_id"])
-        mismatches = diagnostics["mismatch_examples"]
-        if mismatches:
-            st.warning("Prediction/evidence value mismatches detected")
-            st.dataframe(review_display_rows(mismatches, limit=20), width="stretch", hide_index=True)
 
 
 if __name__ == "__main__":
