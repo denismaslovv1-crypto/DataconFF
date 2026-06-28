@@ -149,4 +149,5 @@ weights/
 # ============================================================
 
 .ipynb_checkpoints/
-/data/chemx/synergy
+data/chemx/benzimidazoles/pdfs/
+data/chemx/synergy/pdfs/
