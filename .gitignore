@@ -146,3 +146,7 @@ weights/
 # ============================================================
 
 .ipynb_checkpoints/
+src/datacon_workflow/domains/synergy.py
+scripts/run_synergy_experimental.py
+/data/chemx/synergy
+/data/chemx/synergy
