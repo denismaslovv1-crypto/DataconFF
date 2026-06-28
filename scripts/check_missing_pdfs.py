@@ -1,5 +1,6 @@
 from pathlib import Path
 import argparse
+import re
 
 import pandas as pd
 
@@ -7,7 +8,8 @@ import pandas as pd
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 
 
-def normalize_pdf_stem(value: str) -> str:
+def clean_pdf_name(value: str) -> str:
+    """Return PDF filename without folder path and numeric prefix like 83_."""
     if pd.isna(value):
         return ""
 
@@ -16,6 +18,14 @@ def normalize_pdf_stem(value: str) -> str:
         return ""
 
     text = text.replace("\\", "/").split("/")[-1]
+    text = re.sub(r"^\d+_", "", text)
+
+    return text
+
+
+def normalize_pdf_stem(value: str) -> str:
+    """Return comparable PDF stem without path, numeric prefix, and .pdf."""
+    text = clean_pdf_name(value)
 
     if text.lower().endswith(".pdf"):
         text = text[:-4]
@@ -49,26 +59,40 @@ def main() -> None:
     pdf_dir = Path(args.pdf_dir) if args.pdf_dir else base_dir / "pdfs"
     missing_path = base_dir / "missing_pdfs.csv"
 
-    pdf_dir.mkdir(parents=True, exist_ok=True)
     base_dir.mkdir(parents=True, exist_ok=True)
+    pdf_dir.mkdir(parents=True, exist_ok=True)
 
     if not csv_path.exists():
         raise RuntimeError(f"Ground truth file not found: {csv_path}")
 
     df = pd.read_csv(csv_path)
 
-    if "pdf" not in df.columns:
+    required_columns = {"pdf", "title"}
+    missing_columns = required_columns - set(df.columns)
+
+    if missing_columns:
         raise RuntimeError(
-            f"Missing required column: pdf\n"
+            f"Missing required columns: {sorted(missing_columns)}\n"
             f"File: {csv_path}\n"
             f"Available columns: {df.columns.tolist()}"
         )
 
-    expected_pdf_stems = {
-        normalize_pdf_stem(value)
-        for value in df["pdf"].dropna().unique()
-        if normalize_pdf_stem(value)
-    }
+    # stem -> {"title": ..., "pdf": clean_pdf_name}
+    expected_pdf_map = {}
+
+    for _, row in df[["title", "pdf"]].dropna(subset=["pdf"]).iterrows():
+        title = "" if pd.isna(row["title"]) else str(row["title"]).strip()
+        pdf_name = clean_pdf_name(row["pdf"])
+        stem = normalize_pdf_stem(pdf_name)
+
+        if stem and stem not in expected_pdf_map:
+            expected_pdf_map[stem] = {
+                "title": title,
+                "pdf": pdf_name,
+                "filename": pdf_name,
+            }
+
+    expected_pdf_stems = set(expected_pdf_map)
 
     local_pdf_stems = {
         normalize_pdf_stem(path.name)
@@ -79,13 +103,9 @@ def main() -> None:
     existing_expected_stems = sorted(expected_pdf_stems & local_pdf_stems)
     extra_local_stems = sorted(local_pdf_stems - expected_pdf_stems)
 
-    missing_df = pd.DataFrame(
-        {
-            "pdf": missing_stems,
-            "filename": [stem for stem in missing_stems],
-        }
-    )
+    missing_rows = [expected_pdf_map[stem] for stem in missing_stems]
 
+    missing_df = pd.DataFrame(missing_rows, columns=["title", "pdf", "filename"])
     missing_df.to_csv(missing_path, index=False, encoding="utf-8")
 
     print(f"Domain: {args.domain}")
@@ -97,10 +117,10 @@ def main() -> None:
     print(f"Extra local PDFs not in ground_truth: {len(extra_local_stems)}")
     print(f"Saved missing list: {missing_path}")
 
-    if missing_stems:
+    if missing_rows:
         print("\nMissing files:")
-        for stem in missing_stems:
-            print(f"{stem}.pdf")
+        for row in missing_rows:
+            print(f"{row['filename']} | {row['title']}")
 
     if extra_local_stems:
         print("\nExtra local PDFs not found in ground_truth:")
@@ -110,7 +130,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
-
 # run as
 # .\.venv\Scripts\python.exe scripts\check_missing_pdfs.py --domain ...
