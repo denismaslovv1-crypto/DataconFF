@@ -99,8 +99,8 @@ outputs/*
 !outputs/.gitkeep
 !outputs/benzimidazoles_full/
 !outputs/benzimidazoles_full/**
-!outputs/synergy_mvp_precision/
-!outputs/synergy_mvp_precision/**
+!outputs/synergy_full/
+!outputs/synergy_full/**
 outputs/_cleanup_verify/
 
 # ============================================================

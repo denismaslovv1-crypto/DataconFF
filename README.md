@@ -1,4 +1,4 @@
-# DataCon ChemX: извлечение данных по Benzimidazoles
+﻿# DataCon ChemX: извлечение данных по Benzimidazoles
 
 Репозиторий содержит воспроизводимый пайплайн для финальной задачи DataCon'26
 ChemX: извлечение структурированных записей из научных PDF и экспорт в
@@ -41,7 +41,7 @@ outputs/benzimidazoles_full/
 экспериментальный rules-first MVP для `Synergy`:
 
 ```text
-outputs/synergy_mvp_precision/
+outputs/synergy_full/
 ```
 
 На локально доступных PDF для `Synergy` он показал Macro-F1 `0.3626` против
@@ -58,7 +58,7 @@ rows. Этот результат отделен от основного claim: 
 .\.venv\Scripts\python.exe scripts\run_synergy_experimental.py `
   --pdf-dir data\chemx\synergy\pdfs `
   --ground-truth data\chemx\synergy\ground_truth.csv `
-  --output-dir outputs\synergy_mvp_precision
+  --output-dir outputs\synergy_full
 ```
 
 ## Установка
@@ -137,3 +137,4 @@ compound_id,smiles,target_type,target_relation,target_value,target_units,bacteri
 
 - [ARCHITECTURE.md](ARCHITECTURE.md)
 - [RESULTS.md](RESULTS.md)
+

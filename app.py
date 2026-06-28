@@ -28,7 +28,7 @@ DEFAULT_FULL_OUTPUT = OUTPUTS_DIR / "benzimidazoles_full"
 # Keep Streamlit defaults and public copy in sync whenever the final metrics
 # artifact path changes.
 DEFAULT_FULL_OUTPUT_LABEL = "outputs/benzimidazoles_full"
-EXPERIMENTAL_SYNERGY_OUTPUT = OUTPUTS_DIR / "synergy_mvp_precision"
+EXPERIMENTAL_SYNERGY_OUTPUT = OUTPUTS_DIR / "synergy_full"
 EXPERIMENTAL_SYNERGY_OPTION_LABEL = "Experimental: Synergy MVP"
 BASELINE_MACRO_F1 = 0.217
 SYNERGY_BASELINE_MACRO_F1 = 0.080

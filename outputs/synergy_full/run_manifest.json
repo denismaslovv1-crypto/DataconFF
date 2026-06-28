@@ -1,4 +1,4 @@
-{
+﻿{
   "run_started_at_utc": "2026-06-28T09:20:05.032096+00:00",
   "domain": "Synergy",
   "experimental": true,
@@ -6,7 +6,7 @@
   "beats_baseline": true,
   "pdf_dir": "data\\chemx\\synergy\\pdfs",
   "ground_truth": "data\\chemx\\synergy\\ground_truth.csv",
-  "output_dir": "outputs\\synergy_mvp_precision",
+  "output_dir": "outputs\\synergy_full",
   "pdfs_selected": 81,
   "selected_pdfs": [
     "1-s2.0-S0944501315300136-main.pdf",

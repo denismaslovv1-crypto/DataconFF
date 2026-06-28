@@ -22,7 +22,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Run experimental rules-first Synergy extraction.")
     parser.add_argument("--pdf-dir", type=Path, default=Path("data/chemx/synergy/pdfs"))
     parser.add_argument("--ground-truth", type=Path, default=Path("data/chemx/synergy/ground_truth.csv"))
-    parser.add_argument("--output-dir", type=Path, default=Path("outputs/synergy_experimental"))
+    parser.add_argument("--output-dir", type=Path, default=Path("outputs/synergy_full"))
     parser.add_argument("--limit", type=int, help="Optional smoke-test cap.")
     args = parser.parse_args()
 
